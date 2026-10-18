@@ -501,3 +501,21 @@ git diff --check
 - Helpers, PNG y extracciones permanecen en /tmp/fisica-ii-conversion;
   manifiesto de143originales y copias recuperables en
   /tmp/fisica-ii-20261017-fuentes.
+
+## Checkpoint 30: cierre de render de las35notas
+
+-35notas,118páginas únicas cotejadas y575/575expresiones verificadas en GitHub,
+sin merror. Cobertura registra todos los conteos; tres hojas sin matemática
+verificadas también por sus tablas.
+
+- Todas las cargas de figuras que estaban pendientes cerradas: circuitos14,
+  fuerzas6,Biot10,inducción4,medios1,alterna7,Maxwell1,Kirchhoff1,FaradayPDF/DOCX1cadauno,polarización2;
+  revisiones previas restantes constan en checkpoints anteriores.
+- Fuente51 completa24p y52completa13p. PR1 borrador,sinmerge. Queda mucho
+  material pendiente; no declarar materia completa.
+- Fuente77guía2011:31p,renders guia-2011-01.png…31.png generados. Texto
+  evidencia problemas de Coulomb distintos; no deduplicar por título. Siguiente
+  revisar1–4 y transcribir sección Coulomb desde3–4; año2011soloen nombre,
+  carpeta canónica2015.
+- Estado deCI consultar después de último push. Inventarios completos y helpers
+  de recuperación siguen en rutas descritas.

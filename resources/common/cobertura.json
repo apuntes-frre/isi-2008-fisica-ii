@@ -286,9 +286,9 @@
       ],
       "paginacion": "PDF normalizado desde DOCX; depende del renderizador",
       "math_esperada": 0,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 0,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/potencial-electrico-hoja-de-datos.md",
-      "estado": "pendiente render GitHub"
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
     },
     {
       "original": "2015/HOJA DE DATOS  TP Nº 2.docx",
@@ -299,9 +299,9 @@
       ],
       "paginacion": "PDF normalizado desde DOCX; depende del renderizador",
       "math_esperada": 0,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 0,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/ecuacion-laplace-hoja-de-datos.md",
-      "estado": "pendiente render GitHub"
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
     },
     {
       "original": "2015/HOJA DE DATOS  TP Nº 4.docx",
@@ -325,9 +325,9 @@
       ],
       "paginacion": "PDF normalizado desde DOCX; depende del renderizador",
       "math_esperada": 0,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 0,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/circuito-rc-hoja-de-datos.md",
-      "estado": "pendiente render GitHub"
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
     },
     {
       "original": "2015/GUIA DE PROBLEMAS PROPUESTOS  3ra parte.pdf",
@@ -461,9 +461,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 13,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 13,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/circuitos-electricos-guia.md",
-      "estado": "pendiente render GitHub"
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
     },
     {
       "original": "2015/GUIA DE PROBLEMAS PROPUESTOS 2da parte.pdf",
@@ -476,9 +476,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 32,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 32,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/fuerzas-magneticas-cargas-guia.md",
-      "estado": "pendiente render GitHub"
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
     },
     {
       "original": "2015/GUIA DE PROBLEMAS PROPUESTOS 2da parte.pdf",
@@ -491,9 +491,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 20,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 20,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/campo-induccion-biot-savart-guia.md",
-      "estado": "pendiente render GitHub"
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
     },
     {
       "original": "2015/GUIA DE PROBLEMAS PROPUESTOS 2da parte.pdf",
@@ -506,9 +506,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 8,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 8,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/induccion-electromagnetica-guia.md",
-      "estado": "pendiente render GitHub"
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
     },
     {
       "original": "2015/GUIA DE PROBLEMAS PROPUESTOS 2da parte.pdf",
@@ -521,9 +521,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 14,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 14,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/magnetismo-medios-materiales-guia.md",
-      "estado": "pendiente render GitHub"
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
     },
     {
       "original": "2015/GUIA DE PROBLEMAS PROPUESTOS 2da parte.pdf",
@@ -535,9 +535,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 28,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 28,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/corriente-alterna-guia.md",
-      "estado": "pendiente render GitHub"
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
     },
     {
       "original": "2015/GUIA DE PROBLEMAS PROPUESTOS 2da parte.pdf",
@@ -549,9 +549,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 18,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 18,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/maxwell-ondas-electromagneticas-guia.md",
-      "estado": "pendiente render GitHub"
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
     }
   ]
 }
