@@ -78,3 +78,19 @@ git diff --check
   reparadas y cinco figuras extraídas; fuente y SHA-256 registrados.
 - Nota y medios guardados; cerrando lint y commit. Render GitHub pendiente.
 - Preflight 143/143 finalizado con hashes y páginas. Textos Poppler extraídos.
+
+## Checkpoint 3: inventario materializado
+
+- Preflight: 143 archivos legibles, 124 hashes únicos, 2217 páginas PDF brutas
+  (incluyen otras materias y duplicados).
+- Inventario durable: `resources/common/inventario.json`; 2015/2019/2020 fuentes
+  con hashes de todos los originales.
+- Contenedores: `resources/common/contenedores.json`, 11319 miembros extraídos y
+  hasheados; no se ejecutó software. Copias: `cd`, `emboe`, `fisica-zip` bajo el
+  directorio temporal de conversión.
+- TP1 GitHub: 26/26 expresiones, sin errores; inspección detectó numeración
+  alterada por Pandoc, corregida con marcadores explícitos en este checkpoint.
+  Imágenes lazy-load requieren desplazamiento para confirmar carga.
+- Último checkpoint previo: `ad38928`. PR #1 sigue en borrador.
+- Próxima acción: revisar render TP1 corregido y comenzar laboratorio 2 Laplace
+  (DOCX ya extraído, falta PDF normalizado y comparación).

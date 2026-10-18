@@ -177,28 +177,26 @@ La experiencia de laboratorio se basará en este hecho.
 
 ## Técnica operatoria
 
-1\. Lave varias veces el recipiente de vidrio con agua potable y luego llénelo
-con agua hasta una altura de unos 5 mm.
+**1.** Lave varias veces el recipiente de vidrio con agua potable y luego
+llénelo con agua hasta una altura de unos 5 mm.
 
-1.
-
+**2.**
 ![Figura 2: electrodos sobre papel milimetrado](../../../resources/2015/potencial-electrodos.png)
 
 Coloque debajo del recipiente un papel milimetrado tamaño oficio que servirá de
 referencia.
 
-3\. Antes de colocar los electrodos verifique que están limpios, póngalos en
+**3.** Antes de colocar los electrodos verifique que están limpios, póngalos en
 forma firme y ajústelos en el borde del recipiente, establezca la posición de
 los mismo tomando usando como referencia el papel milimetrado. Figura 2
 
-1\. Arme el circuito presentado en la Figura 3. Compruebe que la escala del
+**4.** Arme el circuito presentado en la Figura 3. Compruebe que la escala del
 voltímetro es la adecuada.
 
 **Solicite la autorización al auxiliar docente para hacer la conexión a la
 fuente de alimentación.**
 
-5.
-
+**5.**
 ![Figura 3: circuito y punta exploradora](../../../resources/2015/potencial-circuito.png)
 
 Cuando se conecta el circuito, entre los electrodos se establece una diferencia
@@ -207,15 +205,15 @@ voltímetro, si se elije el electrodo conectado al borne ( - ) del voltímetro
 como punto de referencia (V=0) y se conecta el otro borde a una punta
 exploradora.
 
-6\. Divida la diferencia de potencial Vo en ocho partes.
+**6.** Divida la diferencia de potencial Vo en ocho partes.
 
-1\. Con esta punta exploradora determine las coordenadas (x,y) de al menos 8 de
-los puntos que están al potencial $`V_1=\frac{V_o}{8}`$ mediante la lectura del
-voltímetro y complete con estos datos la tabla 1 . Luego busque co la punta
+**7.** Con esta punta exploradora determine las coordenadas (x,y) de al menos 8
+de los puntos que están al potencial $`V_1=\frac{V_o}{8}`$ mediante la lectura
+del voltímetro y complete con estos datos la tabla 1 . Luego busque co la punta
 exploradora los puntos que están al potencial $`V_2=2\frac{V_o}{8}`$ mediante la
 lectura del voltímetro y complete con estos la tabla 1.
 
-1\. Haga lo mismo para $`V_3=3\frac{V_o}{8}`$ ...... y finalmente para
+**8.** Haga lo mismo para $`V_3=3\frac{V_o}{8}`$ ...... y finalmente para
 $`V_9=7\frac{V_o}{8}`$
 
 <table style="width:78%;">
