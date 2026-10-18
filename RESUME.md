@@ -519,3 +519,20 @@ verificadas también por sus tablas.
   carpeta canónica2015.
 - Estado deCI consultar después de último push. Inventarios completos y helpers
   de recuperación siguen en rutas descritas.
+
+## Checkpoint 31: Coulomb de la guía 2011
+
+- 36 notas o secciones, 609 expresiones esperadas y 122 páginas únicas
+  cotejadas, incluidas la carátula y página vacía de fuente 77.
+- Fuente 77 parcial: Coulomb en páginas 3–4, nueve preguntas y nueve problemas;
+  tres figuras con siete paneles, conservadas en cinco archivos. Difiere de las
+  otras guías en los ejercicios de átomo de hidrógeno, configuraciones
+  tridimensionales y plano bisector.
+- El año 2011 solo consta en el nombre; se conserva la carpeta canónica 2015.
+  Las 575 expresiones anteriores están verificadas; Coulomb nueva tiene 34
+  expresiones y cinco imágenes pendientes de publicación/render.
+- Campo de la misma guía, páginas 5–6: revisión visual y borrador local hechos.
+  Contiene exponentes positivos 9 y 8, y «2 un». Falta añadir la cobertura y
+  validar antes del commit.
+- Siguiente sección: Gauss, páginas 7–9. Sus imágenes están listas pero todavía
+  no revisadas; no declararlas cubiertas.
