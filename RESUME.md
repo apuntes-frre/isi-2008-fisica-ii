@@ -648,3 +648,21 @@ verificadas también por sus tablas.
   archivos nuevos/cambiados; el conjunto anterior ya pasó y CI seguirá
   comprobando toda la rama. No repetir sin necesidad el mismo conjunto completo
   en cada checkpoint.
+
+## Checkpoint 38: fuerzas magnéticas de la guía 2011
+
+- 43 notas o secciones, 773 expresiones esperadas y 139 páginas únicas
+  cotejadas.
+- Fuerzas en páginas 20–21: quince preguntas, catorce problemas consecutivos y
+  tres figuras. Fórmula mp·vo=Bo·Qp·ρ recuperada y dato 35μV conservado. El
+  problema 14 no da dimensiones; no añadirlas.
+- Fuente77 parcial hasta página 21. Nueva nota: 21 expresiones y tres figuras
+  pendientes de publicación/render. Circuitos 2011 pendiente render de veinte
+  expresiones y catorce imágenes.
+- Las 732 expresiones de las primeras 41 notas ya verificadas, con figuras
+  cargadas. Contadores actualizados en helper/cobertura.
+- Biot–Savart/propiedades en páginas 22–23 ya cotejadas: trece preguntas, diez
+  problemas y siete archivos gráficos. Falta crear nota y cobertura. Recuperar
+  ecuación de hilo finito del problema 5 y mantener diez problemas, sin usar la
+  selección distinta de otra guía.
+- Próximo después: inducción de páginas 24–25, aún sin cotejar.
