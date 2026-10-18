@@ -627,3 +627,24 @@ verificadas también por sus tablas.
   de texto de esta versión.
 - Próximo después de circuitos: fuerzas magnéticas en páginas 20–21; todavía no
   cotejadas.
+
+## Checkpoint 37: circuitos de la guía 2011
+
+- 42 notas o secciones, 752 expresiones esperadas y 137 páginas únicas
+  cotejadas.
+- Circuitos en páginas 16–19: veinte preguntas y dieciséis problemas, gráfica
+  del cuestionario y trece figuras de problemas. Símbolos de fem, resistividad,
+  conductividad, unidades y corriente recuperados; llave sin cerrar e i9 se
+  conservan.
+- Gauss, potencial, capacidad y dieléctricos de 2011 ya verificadas en GitHub:
+  32, 23, 4 y 29 expresiones, respectivamente, con todas sus figuras cargadas.
+  Son 732 expresiones verificadas en las primeras 41 notas.
+- Circuitos nueva: veinte expresiones y catorce imágenes pendientes de
+  publicación/render.
+- Fuerzas magnéticas de la guía 2011, páginas 20–21, ya cotejadas. Quince
+  preguntas y catorce problemas diferentes de la otra guía, tres figuras. Falta
+  crear nota; recuperar fórmula del problema 5 y μV del 9.
+- A partir del siguiente checkpoint, validar localmente con base HEAD los
+  archivos nuevos/cambiados; el conjunto anterior ya pasó y CI seguirá
+  comprobando toda la rama. No repetir sin necesidad el mismo conjunto completo
+  en cada checkpoint.
