@@ -683,11 +683,16 @@
       "duplicado_sha256_de": null,
       "clasificacion": "pendiente de revisión documental",
       "evidencia": "",
-      "estado": "parcial: hojas de datos35 y39, anexoGLX98 transcritos; aviso Faraday57 cotejado y registrado; resto pendiente",
+      "estado": "parcial: hojas de datos35 y39, Faraday52–56 y anexoGLX98 transcritos; aviso Faraday57 cotejado y registrado; resto pendiente",
       "paginas_revisadas": [
         1,
         35,
         39,
+        52,
+        53,
+        54,
+        55,
+        56,
         57,
         98
       ],
@@ -696,11 +701,17 @@
       "notas": [
         "notes/2015/practica/medicion-fem-hoja-de-datos.md",
         "notes/2015/practica/kirchoff-hoja-de-datos.md",
-        "notes/2015/practica/xplorer-glx-anexo.md"
+        "notes/2015/practica/xplorer-glx-anexo.md",
+        "notes/2015/practica/faraday-induccion-toroide-laboratorio-9.md"
       ],
       "paginas_transcritas": [
         35,
         39,
+        52,
+        53,
+        54,
+        55,
+        56,
         57,
         98
       ],

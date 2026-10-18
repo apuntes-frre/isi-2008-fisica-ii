@@ -771,3 +771,18 @@ verificadas también por sus tablas.
 - Checker local pasó para las cinco notas/inventario modificados. Pendiente
   render de nuevas hojas y anexo, y resto del compilado47. Próximo: laboratorio9
   páginas52–56, distinto de la presentación9bis y guía adicional ya cubiertas.
+
+## Checkpoint 45: Faraday y coeficiente de inducción del toroide
+
+- 49 notas, 844 expresiones esperadas y159 páginas únicas cotejadas visualmente.
+- Fuente47 páginas52–56 completas: laboratorio9, aviso9bis, cuatro figuras en
+  tres archivos, ecuaciones1–10 con10 repetida, dos tablas de lecturas y hoja de
+  datos. Se preservan signos menos de8/9, referencia de figura1/2 y reostato2/4A.
+- Dos hojas del checkpoint44 confirmadas en GitHub: FEM8/8 y Kirchoff4/4,
+  tablas8+4filas y8+4+4filas respectivamente. GLX:0math,29etiquetas y JPEG cargado.
+- CI content del checkpoint44 pasó. Laboratorio9 suma34 expresiones y tres
+  imágenes, todavía pendiente render GitHub. Próximo: laboratorio10 páginas58–64
+  del compilado, seguido de11–17 y variantes de1–8. Mantener inventario parcial.
+- Extracción PyMuPDF4LLM del compilado98p terminada sin OCR en8segundos en
+  /tmp/fisica-ii-conversion/compilado47-pymupdf; texto de referencia adicional en
+  /tmp/fisica-ii-conversion/textos. No tomar salida automática como cotejo total.

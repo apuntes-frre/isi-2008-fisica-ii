@@ -206,8 +206,8 @@ originales de las normalizadas y registra conteos matemáticos.
   páginas; pendiente. SHA-256:
   `cbac3a9dab0d0636f768bb54d5cdc44e68f87a622e7c43c55d074e81dd04ecf7`.
 - `2015/FISICA II - EXPERIENCIAS DE LABORATORIOS.pdf`: 98 páginas; parcial:
-  hojas de datos35 y39, anexoGLX98 transcritos; aviso Faraday57 cotejado y
-  registrado; resto pendiente. SHA-256:
+  hojas de datos35 y39, Faraday52–56 y anexoGLX98 transcritos; aviso Faraday57
+  cotejado y registrado; resto pendiente. SHA-256:
   `70e9fa9786e0061c255e9800e559dff99013cc033105f4d23e064053d5d506f9`.
 - `2015/GUIA DE PROBLEMAS POLARIZACION-1.pdf`: 1 páginas; transcrito y validado
   localmente. SHA-256:

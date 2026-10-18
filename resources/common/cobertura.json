@@ -749,9 +749,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 8,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 8,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/medicion-fem-hoja-de-datos.md",
-      "estado": "pendiente render GitHub"
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
     },
     {
       "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS.pdf",
@@ -762,9 +762,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 4,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 4,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/kirchoff-hoja-de-datos.md",
-      "estado": "pendiente render GitHub"
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
     },
     {
       "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS.pdf",
@@ -775,8 +775,25 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 0,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 0,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/xplorer-glx-anexo.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS.pdf",
+      "sha256": "70e9fa9786e0061c255e9800e559dff99013cc033105f4d23e064053d5d506f9",
+      "nota": "notes/2015/practica/faraday-induccion-toroide-laboratorio-9.md",
+      "paginas_revisadas": [
+        52,
+        53,
+        54,
+        55,
+        56
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 34,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/faraday-induccion-toroide-laboratorio-9.md",
       "estado": "pendiente render GitHub"
     }
   ]
