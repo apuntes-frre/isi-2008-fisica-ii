@@ -800,3 +800,14 @@ verificadas también por sus tablas.
   tres imágenes cargadas y tablas7/5/2/11filas.
 - Próximo: laboratorio11 fotometría páginas65–69; después12–17, y cotejo de
   variantes1–8. No declarar completo el compilado ni la materia.
+
+## Checkpoint 47: fotometría
+
+- 51 notas,934 expresiones esperadas y171 páginas únicas cotejadas visualmente.
+- Fuente47 páginas65–69 completas: fotometría, cuatro imágenes, dos pasos de
+  preparación, dos procedimientos y tablas10/11lecturas; quince expresiones.
+  Conservadas Irradiancia(I), Figura4b, metros/cm y erratas textuales.
+- Corriente alterna confirmada en GitHub75/75, ocho imágenes cargadas y listas
+ 10/11/8. Fotometría pendiente render15math, cuatro imágenes y tres tablas.
+- Próximo: interferencia70–73 y difracción74–77; luego espectrómetro78–80,
+  polarización81–89, termometría90–93, calorimetría94–97 y variantes1–8.

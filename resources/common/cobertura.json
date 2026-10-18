@@ -811,8 +811,25 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 75,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 75,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/corriente-alterna-serie-laboratorio-10.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS.pdf",
+      "sha256": "70e9fa9786e0061c255e9800e559dff99013cc033105f4d23e064053d5d506f9",
+      "nota": "notes/2015/practica/fotometria-laboratorio-11.md",
+      "paginas_revisadas": [
+        65,
+        66,
+        67,
+        68,
+        69
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 15,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/fotometria-laboratorio-11.md",
       "estado": "pendiente render GitHub"
     }
   ]

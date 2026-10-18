@@ -683,7 +683,7 @@
       "duplicado_sha256_de": null,
       "clasificacion": "pendiente de revisión documental",
       "evidencia": "",
-      "estado": "parcial: hojas de datos35 y39, Faraday52–56, alterna58–64 y anexoGLX98 transcritos; aviso Faraday57 cotejado y registrado; resto pendiente",
+      "estado": "parcial: hojas de datos35 y39, Faraday52–56, alterna58–64, fotometría65–69 y anexoGLX98 transcritos; aviso Faraday57 cotejado y registrado; resto pendiente",
       "paginas_revisadas": [
         1,
         35,
@@ -701,6 +701,11 @@
         62,
         63,
         64,
+        65,
+        66,
+        67,
+        68,
+        69,
         98
       ],
       "copia_local": "/tmp/fisica-ii-20261017-fuentes/47-FISICA II - EXPERIENCIAS DE LABORATORIOS.pdf",
@@ -710,7 +715,8 @@
         "notes/2015/practica/kirchoff-hoja-de-datos.md",
         "notes/2015/practica/xplorer-glx-anexo.md",
         "notes/2015/practica/faraday-induccion-toroide-laboratorio-9.md",
-        "notes/2015/practica/corriente-alterna-serie-laboratorio-10.md"
+        "notes/2015/practica/corriente-alterna-serie-laboratorio-10.md",
+        "notes/2015/practica/fotometria-laboratorio-11.md"
       ],
       "paginas_transcritas": [
         35,
@@ -728,6 +734,11 @@
         62,
         63,
         64,
+        65,
+        66,
+        67,
+        68,
+        69,
         98
       ],
       "observaciones_cobertura": "Carátula1 cotejada: EXPERIENCIAS DE LABORATORIOS. Página98 es diagrama GLX con etiquetas no extraídas: diagrama original conservado y29etiquetas transcritas y cotejadas. Mapa de secciones generado desde texto de98p; ese mapa no acredita revisión visual del resto. Ninguna igualdad de render con fuentes40,41,42,45,73 a72dpi gris; no se presume duplicación.",
