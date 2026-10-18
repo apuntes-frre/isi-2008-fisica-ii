@@ -606,3 +606,24 @@ verificadas también por sus tablas.
   motores. Sin OCR ni descargas de modelos.
 - Siguiente: circuitos de la guía 2011, páginas 16–19; todavía no revisadas
   visualmente.
+
+## Checkpoint 36: dieléctricos de la guía 2011
+
+- 41 notas o secciones, 732 expresiones esperadas y 133 páginas únicas
+  cotejadas.
+- Dieléctricos en páginas 14–15: doce preguntas, once problemas y dos figuras.
+  Ecuación vectorial, permitividades, σP, μC y δ recuperados desde páginas, con
+  ampliación del símbolo ε del problema 11.
+- Fuente77: extracción adicional PyMuPDF4LLM terminada sin OCR en
+  /tmp/fisica-ii-conversion/guia-2011-pymupdf, con medios referenciados. Se
+  revisó el comienzo para contrastar notación y figuras; no sustituye el cotejo
+  visual ni declara revisadas las páginas restantes.
+- Dieléctricos nueva: 29 expresiones y dos figuras pendientes de
+  publicación/render. Capacidad df1e4de pendiente render de cuatro expresiones y
+  tres imágenes.
+- Circuitos páginas 16–19 ya revisadas visualmente: veinte preguntas, dieciséis
+  problemas, gráfica del cuestionario y trece figuras de problemas. Falta crear
+  nota, cobertura y validar. Recuperar símbolos bitmap y conservar los errores
+  de texto de esta versión.
+- Próximo después de circuitos: fuerzas magnéticas en páginas 20–21; todavía no
+  cotejadas.

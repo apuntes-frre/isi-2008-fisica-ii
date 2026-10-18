@@ -623,6 +623,20 @@
       "math_renderizada_github": null,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/capacidad-guia-2011.md",
       "estado": "pendiente render GitHub"
+    },
+    {
+      "original": "2015/guia de problemas 2011.pdf",
+      "sha256": "5a5ae8ac33a7a3d14d854623015ef14bc0af3dae1651c013aed06567e28a8bca",
+      "nota": "notes/2015/practica/dielectricos-guia-2011.md",
+      "paginas_revisadas": [
+        14,
+        15
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 29,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/dielectricos-guia-2011.md",
+      "estado": "pendiente render GitHub"
     }
   ]
 }
