@@ -217,9 +217,9 @@ originales de las normalizadas y registra conteos matemáticos.
 - `2015/GUIA DE PROBLEMAS PROPUESTOS  3ra parte.pdf`: 5 páginas; transcrito y
   validado localmente. SHA-256:
   `9e435dc4dcfe136f2d31bf379dec734d46dec3dc10e330ada029d54b92a038b1`.
-- `2015/GUIA DE PROBLEMAS PROPUESTOS 1ra parte.pdf`: 24 páginas; parcial:
-  secciones vectorial a capacidad, páginas 3-15; página15 solo capacidad;
-  circuitos y resto pendientes. SHA-256:
+- `2015/GUIA DE PROBLEMAS PROPUESTOS 1ra parte.pdf`: 24 páginas; completo:
+  secciones vectorial a circuitos y cola compartida con tercera parte cotejadas;
+  carátula y páginas sin ejercicios registradas. SHA-256:
   `efac01b619f48d06286a725a5a7ccc8de7b6baffb2a931515c9dba28ae7e5e5b`.
 - `2015/GUIA DE PROBLEMAS PROPUESTOS 2da parte.pdf`: 13 páginas; pendiente.
   SHA-256: `e2452f4b287c4401d9902c425f82a9caaab0bb7dd7c877c724934eb2bed5a9fa`.
@@ -572,3 +572,19 @@ originales de las normalizadas y registra conteos matemáticos.
   conservados sin completar.
 - [Transcripción](../../notes/2015/practica/circuito-rc-hoja-de-datos.md).
 - Render GitHub pendiente.
+
+## Primera parte: carátulas y solapamientos
+
+`GUIA DE PROBLEMAS PROPUESTOS 1ra parte.pdf` tiene 24 páginas cotejadas. La
+primera identifica Universidad Tecnologica Nacional, Facultad Regional
+Resistencia, Física II y «GUIA DE PROBLEMAS PROPUESTOS»; páginas 2 y 24 no
+contienen ejercicios. El metadato Author dice `sampallo` y la creación PDF es
+del 6 de agosto de 2013; esto no prueba autoría ni año lectivo. Se conserva la
+ubicación canónica 2015.
+
+Las páginas 3–19 se dividen en siete notas, con páginas compartidas entre
+secciones. La cola 19–23 coincide, tras cotejar texto, ecuaciones, tabla y
+figuras, con la
+[tercera parte](../../notes/2015/practica/interferencia-calor-termodinamica-problemas.md).
+El aviso impreso de construcción queda registrado en esa nota. No se cuentan dos
+veces sus 33 expresiones matemáticas.

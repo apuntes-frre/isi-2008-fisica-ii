@@ -344,7 +344,21 @@
       "math_esperada": 33,
       "math_renderizada_github": 33,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/interferencia-calor-termodinamica-problemas.md",
-      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
+      "fuentes_adicionales": [
+        {
+          "original": "2015/GUIA DE PROBLEMAS PROPUESTOS 1ra parte.pdf",
+          "sha256": "efac01b619f48d06286a725a5a7ccc8de7b6baffb2a931515c9dba28ae7e5e5b",
+          "paginas_revisadas": [
+            19,
+            20,
+            21,
+            22,
+            23
+          ],
+          "estado": "contenido cotejado; comparte nota con fuente50; no suma matemática duplicada"
+        }
+      ]
     },
     {
       "original": "2015/GUIA DE PROBLEMAS PROPUESTOS 1ra parte.pdf",
@@ -400,9 +414,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 8,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 8,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/ley-de-gauss-guia.md",
-      "estado": "pendiente render GitHub"
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
     },
     {
       "original": "2015/GUIA DE PROBLEMAS PROPUESTOS 1ra parte.pdf",
@@ -415,9 +429,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 16,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 16,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/potencial-electrico-guia.md",
-      "estado": "pendiente render GitHub"
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
     },
     {
       "original": "2015/GUIA DE PROBLEMAS PROPUESTOS 1ra parte.pdf",
@@ -430,8 +444,25 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 26,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 26,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/capacidad-dielectrico-guia.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/GUIA DE PROBLEMAS PROPUESTOS 1ra parte.pdf",
+      "sha256": "efac01b619f48d06286a725a5a7ccc8de7b6baffb2a931515c9dba28ae7e5e5b",
+      "nota": "notes/2015/practica/circuitos-electricos-guia.md",
+      "paginas_revisadas": [
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 13,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/circuitos-electricos-guia.md",
       "estado": "pendiente render GitHub"
     }
   ]

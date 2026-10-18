@@ -260,3 +260,16 @@ en fase liquida en el punto de ebullición normal
   orden mostrado. El problema 6 conserva «u simultáneamente» y Kgr/m².
 - Se omiten únicamente los logotipos y encabezados institucionales repetidos.
   Las seis figuras didácticas se conservan como imágenes originales.
+
+## Versión incluida en la primera parte
+
+Los mismos 31 ejercicios, ecuaciones, tabla y seis figuras aparecen en
+`2015/GUIA DE PROBLEMAS PROPUESTOS 1ra parte.pdf`, páginas 19–23, con distinta
+paginación. Se cotejaron visualmente esas cinco páginas; el texto de ambas
+versiones coincide salvo el orden de extracción de la ecuación de calorimetría
+4\. SHA-256 de esa fuente:
+`efac01b619f48d06286a725a5a7ccc8de7b6baffb2a931515c9dba28ae7e5e5b`.
+
+Esa versión antepone el aviso «GUIAS 7 12 Segundo parcial en construccion»,
+impreso en rojo sobre verde. Se conserva aquí como aviso de la fuente, sin
+interpretarlo como una guía adicional. La página 24 no contiene ejercicios.

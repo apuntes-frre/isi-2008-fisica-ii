@@ -390,3 +390,22 @@ git diff --check
 - Próximo: circuitos desde página15 hasta final antes de «GUIAS7 12 Segundo
   parcial en construccion» en19. Renderizar16–19, delimitar solapamientos con
   fuente50 por cotejo y no asumir duplicado.
+
+## Checkpoint 23: primera parte completa
+
+- 29 notas/secciones,455 expresiones esperadas. 102 páginas-sección de notas más
+  carátulas y cola compartida; total105 páginas de fuentes únicas cotejadas
+  (normalizadas para DOCX).
+- Fuente51 completa en24p: siete notas nuevas de vectorial, Coulomb, campo,
+  Gauss, potencial, capacidad y circuitos; cola19–23 compartida con fuente50 y
+  carátula/páginas sin ejercicios registradas.
+- Circuitos:19 preguntas con salto18→20,16problemas,gráfica de cuestionario
+  y13figuras. Página19 incluye figuras12/13 y aviso de construcción,
+  conservados.
+- Capacidad b544ebb:26/26math,oncefiguras cargadas verificadas. Circuitos
+  pendiente publicar/render:13math y14imágenes.
+- Próximo: fuente52 segunda parte13p; inventariar títulos y delimitar secciones.
+  Antes, confirmar CI y render de circuitos y cerrar cargas pendientes de
+  imágenes anteriores.
+- Helper actualizado con fuentes_adicionales en cobertura y estado completo de
+  fuente51; no duplicar matemática ni apuntes por cola compartida.
