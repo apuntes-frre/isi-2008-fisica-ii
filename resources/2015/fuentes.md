@@ -339,7 +339,9 @@ pendientes.
   Se conserva Wlm² y comilla 23.0" del original. Autor y año impreso no constan;
   pertenencia temática a Física II por polarización.
 - [Transcripción](../../notes/2015/practica/polarizacion-problemas.md).
-- Render GitHub pendiente.
+- Render GitHub: commit `28ff451`; polarización 6/6, hoja TP7 6/6 y hoja TP8 1/1
+  expresiones; cero errores y cero código residual en las tres notas. Los dos
+  diagramas de polarización presentan ancho nativo no nulo.
 
 ## Hoja de datos de campo magnético terrestre
 
@@ -352,7 +354,9 @@ pendientes.
   filas incluyendo celda extra y encabezado). Cátedra Física II UTN FRRe; autor
   y año impreso no constan.
 - [Transcripción](../../notes/2015/practica/campo-magnetico-terrestre-hoja-de-datos.md).
-- Render GitHub pendiente.
+- Render GitHub: commit `28ff451`; polarización 6/6, hoja TP7 6/6 y hoja TP8 1/1
+  expresiones; cero errores y cero código residual en las tres notas. Los dos
+  diagramas de polarización presentan ancho nativo no nulo.
 
 ## Hoja de datos de fuerza magnética
 
@@ -365,4 +369,6 @@ pendientes.
   después de μ en el propio PDF, registrado sin adivinar. Se conserva Corrinete.
   Cátedra Física II UTN FRRe; autor y año impreso no constan.
 - [Transcripción](../../notes/2015/practica/fuerza-magnetica-hoja-de-datos.md).
-- Render GitHub pendiente.
+- Render GitHub: commit `28ff451`; polarización 6/6, hoja TP7 6/6 y hoja TP8 1/1
+  expresiones; cero errores y cero código residual en las tres notas. Los dos
+  diagramas de polarización presentan ancho nativo no nulo.

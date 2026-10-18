@@ -120,3 +120,15 @@ git diff --check
 - Local checker/formato/lint aprobados; pendientes push y render GitHub de estas
   tres notas.
 - Siguiente lote: guía de Coulomb 2018 (3 p.) o completar DOCX Faraday variante.
+
+## Checkpoint 6: guía de Coulomb
+
+- Guía 1.1 de 2019 (nombre 2018): páginas 1–3 revisadas, 9 preguntas, 10
+  problemas, cinco diagramas y ecuación recuperada.
+- Lint/checker aprobados antes de commit. Duplicado 92 cubierto por hash exacto.
+- Checkpoint previo `28ff451`: polarización y hojas TP7/8 renderizadas, 6/6, 6/6
+  y 1/1 math.
+- Próximo: render de Coulomb; guías 1.2 Campo eléctrico y 1.3 Gauss ya
+  convertidas/renderizadas localmente en
+  `/tmp/fisica-ii-conversion/campo-electrico*` y `gauss*`, aún NO
+  revisadas/transcritas.

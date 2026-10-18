@@ -1,7 +1,7 @@
 # Fuentes de Física II: archivo 2019
 
-El año de carpeta no acredita el año impreso. No hay transcripciones verificadas
-de este año todavía.
+El año de carpeta no acredita el año impreso. La cobertura verificada se detalla
+por documento abajo.
 
 ## Inventario completo y pendientes
 
@@ -150,3 +150,18 @@ pendientes.
 - `2019/lab arduino/LaboratorioCalorimetria-Primer-Entrega(1).pptx`: no PDF
   páginas; pendiente. SHA-256:
   `67a8eae4524e36cfdf074eeeed67f689dfdbb0b67857a3c88d2560a7380c1aac`.
+
+## Ley de Coulomb, guía 1.1
+
+- Original: `1er Parcial/2018 1C Guia 01.1.pdf`, duplicado exacto con sufijo
+  dad55f1fc90884cfd5dc8e3cf477b874.
+- SHA-256: `8f24ca9e1443b2e6dd153ca862c916da877dcf633b6ddc5e87b4bd27ba9f7197`.
+- Tres páginas completas comparadas con pdftotext -layout y vistas pdftoppm 1–3.
+  Autor y año impreso no constan; 2018 es del nombre y 2019 de carpeta.
+- Cobertura: nueve preguntas, diez problemas, una ecuación gráfica recuperada a
+  LaTeX y cinco diagramas (el primero contiene figuras a y b). Potencias, signos
+  y subíndices reparados con evidencia visual.
+- Motor: PyMuPDF4LLM 1.28.2; imágenes originales extraídas.
+- No se resuelven ni corrigen los enunciados.
+- [Transcripción](../../notes/2019/practica/ley-de-coulomb-guia-1-1.md).
+- Render GitHub pendiente.
