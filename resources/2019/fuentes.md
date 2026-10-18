@@ -7,8 +7,8 @@ por documento abajo.
 
 El [inventario por archivo](../common/inventario.json) conserva rutas
 originales, SHA-256, páginas PDF, duplicados exactos, copias recuperables y
-estado. Los documentos no identificados o no comparados íntegramente siguen
-pendientes.
+estado. La [cobertura verificada](../common/cobertura.json) distingue páginas
+originales de las normalizadas y registra conteos matemáticos.
 
 - `2019/1er Parcial/2017 UT II - Energía Electrostatica. Potencial electrico.pdf`:
   16 páginas; pendiente. SHA-256:
@@ -16,15 +16,18 @@ pendientes.
 - `2019/1er Parcial/2017 UT IV - Electrocinética.ppt.pdf`: 55 páginas;
   pendiente. SHA-256:
   `5593bcdeb59339b25f4dfee074beac1812300dcec491fb423777a4e776ba1399`.
-- `2019/1er Parcial/2018 1C Guia 01.1.pdf`: 3 páginas; pendiente. SHA-256:
+- `2019/1er Parcial/2018 1C Guia 01.1.pdf`: 3 páginas; transcrito y validado
+  localmente. SHA-256:
   `8f24ca9e1443b2e6dd153ca862c916da877dcf633b6ddc5e87b4bd27ba9f7197`.
 - `2019/1er Parcial/2018 1C Guia 01.1_dad55f1fc90884cfd5dc8e3cf477b874.pdf`: 3
-  páginas; pendiente. SHA-256:
+  páginas; transcrito y validado localmente. SHA-256:
   `8f24ca9e1443b2e6dd153ca862c916da877dcf633b6ddc5e87b4bd27ba9f7197`. Duplicado
   exacto de `2019/1er Parcial/2018 1C Guia 01.1.pdf`.
-- `2019/1er Parcial/2018 1C Guia 01.2.pdf`: 3 páginas; pendiente. SHA-256:
+- `2019/1er Parcial/2018 1C Guia 01.2.pdf`: 3 páginas; transcrito y validado
+  localmente. SHA-256:
   `3ba373f8d702aa1016ae4b000504b893904110182791193eb919ae336949f20a`.
-- `2019/1er Parcial/2018 1C Guia 01.3.pdf`: 3 páginas; pendiente. SHA-256:
+- `2019/1er Parcial/2018 1C Guia 01.3.pdf`: 3 páginas; transcrito y validado
+  localmente. SHA-256:
   `3aa48c34e63a8ea1155b39ba28f273552e92987848b4ea071c054ebb0beb6775`.
 - `2019/1er Parcial/2018 PF UT III - Capacidad. Prop electr de la Materia.pptx.pdf`:
   26 páginas; pendiente. SHA-256:

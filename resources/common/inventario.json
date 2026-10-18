@@ -501,7 +501,8 @@
         7
       ],
       "copia_local": "/tmp/fisica-ii-20261017-fuentes/38-FISICA II - EXPERIENCIAS DE LABORATORIOS 2015 - TP N° 1.docx",
-      "texto_poppler_local": null
+      "texto_poppler_local": null,
+      "nota": "notes/2015/practica/potencial-electrico-mapeo-laboratorio-1.md"
     },
     {
       "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS 2015 - TP N° 2.docx",
@@ -520,7 +521,8 @@
         5
       ],
       "copia_local": "/tmp/fisica-ii-20261017-fuentes/39-FISICA II - EXPERIENCIAS DE LABORATORIOS 2015 - TP N° 2.docx",
-      "texto_poppler_local": null
+      "texto_poppler_local": null,
+      "nota": "notes/2015/practica/ecuacion-de-laplace-laboratorio-2.md"
     },
     {
       "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS 2015 - TP N° 4.pdf",
@@ -530,10 +532,19 @@
       "duplicado_sha256_de": null,
       "clasificacion": "pendiente de revisión documental",
       "evidencia": "",
-      "estado": "pendiente",
-      "paginas_revisadas": [],
+      "estado": "transcrito y validado localmente",
+      "paginas_revisadas": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
       "copia_local": "/tmp/fisica-ii-20261017-fuentes/40-FISICA II - EXPERIENCIAS DE LABORATORIOS 2015 - TP N° 4.pdf",
-      "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/40-FISICA II - EXPERIENCIAS DE LABORATORIOS 2015 - TP N° 4.txt"
+      "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/40-FISICA II - EXPERIENCIAS DE LABORATORIOS 2015 - TP N° 4.txt",
+      "nota": "notes/2015/practica/ley-de-ohm-asociaciones-laboratorio-4.md"
     },
     {
       "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS 2015 - tp N° 3.pdf",
@@ -639,7 +650,8 @@
         1
       ],
       "copia_local": "/tmp/fisica-ii-20261017-fuentes/48-GUIA DE PROBLEMAS POLARIZACION-1.pdf",
-      "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/48-GUIA DE PROBLEMAS POLARIZACION-1.txt"
+      "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/48-GUIA DE PROBLEMAS POLARIZACION-1.txt",
+      "nota": "notes/2015/practica/polarizacion-problemas.md"
     },
     {
       "original": "2015/GUIA DE PROBLEMAS POLARIZACION.pdf",
@@ -654,7 +666,8 @@
         1
       ],
       "copia_local": "/tmp/fisica-ii-20261017-fuentes/49-GUIA DE PROBLEMAS POLARIZACION.pdf",
-      "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/49-GUIA DE PROBLEMAS POLARIZACION.txt"
+      "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/49-GUIA DE PROBLEMAS POLARIZACION.txt",
+      "nota": "notes/2015/practica/polarizacion-problemas.md"
     },
     {
       "original": "2015/GUIA DE PROBLEMAS PROPUESTOS  3ra parte.pdf",
@@ -773,7 +786,8 @@
         1
       ],
       "copia_local": "/tmp/fisica-ii-20261017-fuentes/58-HOJA DE DATOS - TP N° 7.pdf",
-      "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/58-HOJA DE DATOS - TP N° 7.txt"
+      "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/58-HOJA DE DATOS - TP N° 7.txt",
+      "nota": "notes/2015/practica/campo-magnetico-terrestre-hoja-de-datos.md"
     },
     {
       "original": "2015/HOJA DE DATOS - TP N° 8.pdf",
@@ -788,7 +802,8 @@
         1
       ],
       "copia_local": "/tmp/fisica-ii-20261017-fuentes/59-HOJA DE DATOS - TP N° 8.pdf",
-      "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/59-HOJA DE DATOS - TP N° 8.txt"
+      "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/59-HOJA DE DATOS - TP N° 8.txt",
+      "nota": "notes/2015/practica/fuerza-magnetica-hoja-de-datos.md"
     },
     {
       "original": "2015/KIRCHOFF - GUIA.docx",
@@ -805,7 +820,8 @@
         3
       ],
       "copia_local": "/tmp/fisica-ii-20261017-fuentes/60-KIRCHOFF - GUIA.docx",
-      "texto_poppler_local": null
+      "texto_poppler_local": null,
+      "nota": "notes/2015/practica/leyes-de-kirchhoff-laboratorio-6.md"
     },
     {
       "original": "2015/L3 Capacidad G6 A corregir 2.docx",
@@ -927,7 +943,8 @@
         4
       ],
       "copia_local": "/tmp/fisica-ii-20261017-fuentes/69-Puente de hilo- GUIA.docx",
-      "texto_poppler_local": null
+      "texto_poppler_local": null,
+      "nota": "notes/2015/practica/medicion-fem-potenciometro-laboratorio-5.md"
     },
     {
       "original": "2015/Resueltos Fisica II Anibal Kaseros Ley de Biot-Sabat.pdf",
@@ -969,7 +986,8 @@
         2
       ],
       "copia_local": "/tmp/fisica-ii-20261017-fuentes/72-TRABAJO DE LABORATORIO Nº 9 BIS.docx",
-      "texto_poppler_local": null
+      "texto_poppler_local": null,
+      "nota": "notes/2015/practica/ley-de-faraday-laboratorio-9-bis-version-docx.md"
     },
     {
       "original": "2015/TRABAJO DE LABORATORIO Nº 9 BIS_ Ley de faraday.pdf",
@@ -985,7 +1003,8 @@
         2
       ],
       "copia_local": "/tmp/fisica-ii-20261017-fuentes/73-TRABAJO DE LABORATORIO Nº 9 BIS_ Ley de faraday.pdf",
-      "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/73-TRABAJO DE LABORATORIO Nº 9 BIS_ Ley de faraday.txt"
+      "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/73-TRABAJO DE LABORATORIO Nº 9 BIS_ Ley de faraday.txt",
+      "nota": "notes/2015/practica/ley-de-faraday-laboratorio-9-bis.md"
     },
     {
       "original": "2015/UNIDAD 1 Fuerza electrica y campo electrico-1.pdf",
@@ -1223,7 +1242,8 @@
         3
       ],
       "copia_local": "/tmp/fisica-ii-20261017-fuentes/91-2018 1C Guia 01.1.pdf",
-      "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/91-2018 1C Guia 01.1.txt"
+      "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/91-2018 1C Guia 01.1.txt",
+      "nota": "notes/2019/practica/ley-de-coulomb-guia-1-1.md"
     },
     {
       "original": "2019/1er Parcial/2018 1C Guia 01.1_dad55f1fc90884cfd5dc8e3cf477b874.pdf",
@@ -1240,7 +1260,8 @@
         3
       ],
       "copia_local": "/tmp/fisica-ii-20261017-fuentes/92-2018 1C Guia 01.1_dad55f1fc90884cfd5dc8e3cf477b874.pdf",
-      "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/92-2018 1C Guia 01.1_dad55f1fc90884cfd5dc8e3cf477b874.txt"
+      "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/92-2018 1C Guia 01.1_dad55f1fc90884cfd5dc8e3cf477b874.txt",
+      "nota": "notes/2019/practica/ley-de-coulomb-guia-1-1.md"
     },
     {
       "original": "2019/1er Parcial/2018 1C Guia 01.2.pdf",
@@ -1257,7 +1278,8 @@
         3
       ],
       "copia_local": "/tmp/fisica-ii-20261017-fuentes/93-2018 1C Guia 01.2.pdf",
-      "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/93-2018 1C Guia 01.2.txt"
+      "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/93-2018 1C Guia 01.2.txt",
+      "nota": "notes/2019/practica/campo-electrico-guia-1-2.md"
     },
     {
       "original": "2019/1er Parcial/2018 1C Guia 01.3.pdf",
@@ -1274,7 +1296,8 @@
         3
       ],
       "copia_local": "/tmp/fisica-ii-20261017-fuentes/94-2018 1C Guia 01.3.pdf",
-      "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/94-2018 1C Guia 01.3.txt"
+      "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/94-2018 1C Guia 01.3.txt",
+      "nota": "notes/2019/practica/ley-de-gauss-guia-1-3.md"
     },
     {
       "original": "2019/1er Parcial/2018 PF UT III - Capacidad. Prop electr de la Materia.pptx.pdf",

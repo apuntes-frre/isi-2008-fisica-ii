@@ -174,3 +174,23 @@ git diff --check
   montaje e imágenes pendientes de confirmación tras carga asíncrona.
 - Próximo documento: laboratorio 3 Capacidad (11 p.) o laboratorio 4 Ley de Ohm
   (7 p.), aún sin conversión.
+
+## Checkpoint 10: ley de Ohm y cobertura consolidada
+
+- 13 documentos completos, 42 páginas cotejadas (PDF originales o normalizados
+  identificados en cobertura), 188 expresiones matemáticas esperadas. No es la
+  materia completa.
+- Laboratorio 4: siete páginas originales, ocho figuras, tres tablas de 4/10/13
+  columnas y cinco filas; ecuaciones reparadas con evidencia.
+- Registro compacto de avance: `resources/common/cobertura.json`. Inventarios
+  por año sincronizados con estados actuales.
+- Script temporal para renovar manifiestos:
+  `/tmp/fisica-ii-conversion/actualizar-cobertura.py`, ejecutar con el Python de
+  mise mdformat, que importa el checker distribuido.
+- Office restante extraído a `/tmp/fisica-ii-conversion/office`;
+  inventario-office.json registra hojas/diapositivas y fallos. PPSX falla en
+  MarkItDown incluso copia pptx, requiere normalizar con LibreOffice. No se
+  publicó salida cruda.
+- Capacidad: PDF de 11 páginas ya convertido y renderizado localmente en
+  `capacidad*`, todavía sin revisar todas las páginas ni transcribir.
+- Próximo: commit/render de Ohm y revisar Capacidad.

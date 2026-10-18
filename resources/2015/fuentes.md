@@ -53,8 +53,8 @@ año de carpeta no demuestra el año impreso.
 
 El [inventario por archivo](../common/inventario.json) conserva rutas
 originales, SHA-256, páginas PDF, duplicados exactos, copias recuperables y
-estado. Los documentos no identificados o no comparados íntegramente siguen
-pendientes.
+estado. La [cobertura verificada](../common/cobertura.json) distingue páginas
+originales de las normalizadas y registra conteos matemáticos.
 
 - `2015/480938-Modelos de parcial FISICA II actualizado 060813(0).pdf`: 27
   páginas; pendiente. SHA-256:
@@ -179,10 +179,10 @@ pendientes.
   páginas; transcrito y validado localmente. SHA-256:
   `0dcfa5e1bb140927a5baed3ccd1428d37f72a2885d53f701c2c9fff1d6822fd0`.
 - `2015/FISICA II - EXPERIENCIAS DE LABORATORIOS 2015 - TP N° 2.docx`: no PDF
-  páginas; pendiente. SHA-256:
+  páginas; transcrito y validado localmente. SHA-256:
   `35b51f553950e81434b4cb0db5645a32954ef68d785ae7d163c80187fd3c8c1d`.
 - `2015/FISICA II - EXPERIENCIAS DE LABORATORIOS 2015 - TP N° 4.pdf`: 7 páginas;
-  pendiente. SHA-256:
+  transcrito y validado localmente. SHA-256:
   `fb19b1707932e8874ad5ae05977a83f9eebca246d80f4202518fb80722361ae5`.
 - `2015/FISICA II - EXPERIENCIAS DE LABORATORIOS 2015 - tp N° 3.pdf`: 11
   páginas; pendiente. SHA-256:
@@ -205,9 +205,11 @@ pendientes.
   `cbac3a9dab0d0636f768bb54d5cdc44e68f87a622e7c43c55d074e81dd04ecf7`.
 - `2015/FISICA II - EXPERIENCIAS DE LABORATORIOS.pdf`: 98 páginas; pendiente.
   SHA-256: `70e9fa9786e0061c255e9800e559dff99013cc033105f4d23e064053d5d506f9`.
-- `2015/GUIA DE PROBLEMAS POLARIZACION-1.pdf`: 1 páginas; pendiente. SHA-256:
+- `2015/GUIA DE PROBLEMAS POLARIZACION-1.pdf`: 1 páginas; transcrito y validado
+  localmente. SHA-256:
   `6c3101fdb606626b5d46125b8bbcd59bbd75cfa8ffafc69f990cf6b26f3286f6`.
-- `2015/GUIA DE PROBLEMAS POLARIZACION.pdf`: 1 páginas; pendiente. SHA-256:
+- `2015/GUIA DE PROBLEMAS POLARIZACION.pdf`: 1 páginas; transcrito y validado
+  localmente. SHA-256:
   `6c3101fdb606626b5d46125b8bbcd59bbd75cfa8ffafc69f990cf6b26f3286f6`. Duplicado
   exacto de `2015/GUIA DE PROBLEMAS POLARIZACION-1.pdf`.
 - `2015/GUIA DE PROBLEMAS PROPUESTOS  3ra parte.pdf`: 5 páginas; pendiente.
@@ -228,12 +230,14 @@ pendientes.
   `6127bfd8b2de324f0069e215c8628d195ffc0414bfde9d3a7ecfa31975c31a6d`.
 - `2015/HOJA DE DATOS  TP Nº3.docx`: no PDF páginas; pendiente. SHA-256:
   `1f425e49b1d9a1f0d49d842636e4fca8ad1dbda4d6c8cb889334e7ab9f043129`.
-- `2015/HOJA DE DATOS - TP N° 7.pdf`: 1 páginas; pendiente. SHA-256:
+- `2015/HOJA DE DATOS - TP N° 7.pdf`: 1 páginas; transcrito y validado
+  localmente. SHA-256:
   `cb0aedf6129d5ba3237da419ad337fc8dbf3a72c886f95821ff7ac7a1654e1f3`.
-- `2015/HOJA DE DATOS - TP N° 8.pdf`: 1 páginas; pendiente. SHA-256:
+- `2015/HOJA DE DATOS - TP N° 8.pdf`: 1 páginas; transcrito y validado
+  localmente. SHA-256:
   `24233365951bd907d32436ec4512ac6016f8b21dc42754c2054d57a8acd9a101`.
-- `2015/KIRCHOFF - GUIA.docx`: no PDF páginas; pendiente. SHA-256:
-  `79897fe2bab6e028f2649cf08906e5bf720e890c85ba3b91b2f20435d84b0f11`.
+- `2015/KIRCHOFF - GUIA.docx`: no PDF páginas; transcrito y validado localmente.
+  SHA-256: `79897fe2bab6e028f2649cf08906e5bf720e890c85ba3b91b2f20435d84b0f11`.
 - `2015/L3 Capacidad G6 A corregir 2.docx`: no PDF páginas; pendiente. SHA-256:
   `a8e1063ebff8c151f9a7a2d6d5dcf798a13ef08c9282a61fdc5bd0985ab184ec`.
 - `2015/L3 Capacidad G6 Aprobado.pdf`: 14 páginas; pendiente. SHA-256:
@@ -253,15 +257,17 @@ pendientes.
   `4375b5ba3260f92e29876aa7d402634bbe935cc55e776dba1f40c7bcad431c3d`.
 - `2015/Planificacion 2016 de Física II.pdf`: 25 páginas; pendiente. SHA-256:
   `f67ab1339ec84db1060e8a58e558425ad1fbcfe7e38415996e8a3f624cc7fc52`.
-- `2015/Puente de hilo- GUIA.docx`: no PDF páginas; pendiente. SHA-256:
+- `2015/Puente de hilo- GUIA.docx`: no PDF páginas; transcrito y validado
+  localmente. SHA-256:
   `2f47e1a9ae0574962ee6f76766127f6d1afb19511eebdec7a93cffd199f03d0c`.
 - `2015/Resueltos Fisica II Anibal Kaseros Ley de Biot-Sabat.pdf`: 62 páginas;
   pendiente. SHA-256:
   `b4aeb8cc9f1fa04835d4817a067976cc3d3c07d57e18ca5dabd898b67e09d41e`.
 - `2015/Resumen-Fisca-2.pdf`: 80 páginas; pendiente. SHA-256:
   `b9903f972224365c1a74b5d2732c9a34675c9b719da4c9c2d28e4a0f34e0b0cc`.
-- `2015/TRABAJO DE LABORATORIO Nº 9 BIS.docx`: no PDF páginas; pendiente.
-  SHA-256: `6dcbaa1c194d0fdb1386d7616b497a0bdd9b4513047f6a1e44c8ffaad3298f2b`.
+- `2015/TRABAJO DE LABORATORIO Nº 9 BIS.docx`: no PDF páginas; transcrito y
+  validado localmente. SHA-256:
+  `6dcbaa1c194d0fdb1386d7616b497a0bdd9b4513047f6a1e44c8ffaad3298f2b`.
 - `2015/TRABAJO DE LABORATORIO Nº 9 BIS_ Ley de faraday.pdf`: 2 páginas;
   transcrito y validado localmente. SHA-256:
   `59381e5d6ed9b15751e0a12bbe7a8bf55d2772300390ce3a85cb5b78911b96b7`.
@@ -417,4 +423,20 @@ pendientes.
   imágenes (algunas en un mismo bloque), mediciones, sensibilidad y
   bibliografía. Se conservan δ, Rac/Rca y las erratas de la fuente.
 - [Transcripción](../../notes/2015/practica/medicion-fem-potenciometro-laboratorio-5.md).
+- Render GitHub pendiente.
+
+## Ley de Ohm y asociaciones, laboratorio 4
+
+- Original: `FISICA II - EXPERIENCIAS DE LABORATORIOS 2015 - TP N° 4.pdf`.
+- SHA-256: `fb19b1707932e8874ad5ae05977a83f9eebca246d80f4202518fb80722361ae5`.
+- Siete páginas originales comparadas visualmente (1–7), con pdftotext -layout y
+  PyMuPDF4LLM. Cátedra Física II, UTN FRRe; autor/año impreso no constan.
+- Cobertura: fundamentos completos, ley de Ohm, asociaciones serie/paralelo,
+  ocho figuras de circuitos y símbolo, tres tablas de cuatro/diez/trece columnas
+  con cinco filas cada una, cuatro apartados de técnica operativa y consignas
+  completas.
+- Fórmulas incrustadas y símbolos privados recuperados a LaTeX; tablas
+  reconstruidas contra páginas 4–6. Conservadas polaridades, amperee, Vad/Vbd y
+  referencias originales.
+- [Transcripción](../../notes/2015/practica/ley-de-ohm-asociaciones-laboratorio-4.md).
 - Render GitHub pendiente.

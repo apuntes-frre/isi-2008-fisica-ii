@@ -7,8 +7,8 @@ de este año todavía.
 
 El [inventario por archivo](../common/inventario.json) conserva rutas
 originales, SHA-256, páginas PDF, duplicados exactos, copias recuperables y
-estado. Los documentos no identificados o no comparados íntegramente siguen
-pendientes.
+estado. La [cobertura verificada](../common/cobertura.json) distingue páginas
+originales de las normalizadas y registra conteos matemáticos.
 
 - `2020/Modelo Finales/Examen final 10_12_2020.pdf`: 10 páginas; pendiente.
   SHA-256: `467d1310b934d25292edbcc0b239e7acac771579a31bb81a3787ac9cfc4d7464`.

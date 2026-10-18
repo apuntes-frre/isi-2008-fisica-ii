@@ -1,0 +1,203 @@
+{
+  "alcance": "Parcial; no declara completa Física II",
+  "documentos": [
+    {
+      "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS 2015 - TP N° 1.docx",
+      "sha256": "0dcfa5e1bb140927a5baed3ccd1428d37f72a2885d53f701c2c9fff1d6822fd0",
+      "nota": "notes/2015/practica/potencial-electrico-mapeo-laboratorio-1.md",
+      "paginas_revisadas": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "paginacion": "PDF normalizado desde DOCX; depende del renderizador",
+      "math_esperada": 26,
+      "math_renderizada_github": 26,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/potencial-electrico-mapeo-laboratorio-1.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS 2015 - TP N° 2.docx",
+      "sha256": "35b51f553950e81434b4cb0db5645a32954ef68d785ae7d163c80187fd3c8c1d",
+      "nota": "notes/2015/practica/ecuacion-de-laplace-laboratorio-2.md",
+      "paginas_revisadas": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "paginacion": "PDF normalizado desde DOCX; depende del renderizador",
+      "math_esperada": 9,
+      "math_renderizada_github": 9,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/ecuacion-de-laplace-laboratorio-2.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/TRABAJO DE LABORATORIO Nº 9 BIS_ Ley de faraday.pdf",
+      "sha256": "59381e5d6ed9b15751e0a12bbe7a8bf55d2772300390ce3a85cb5b78911b96b7",
+      "nota": "notes/2015/practica/ley-de-faraday-laboratorio-9-bis.md",
+      "paginas_revisadas": [
+        1,
+        2
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 17,
+      "math_renderizada_github": 17,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/ley-de-faraday-laboratorio-9-bis.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/TRABAJO DE LABORATORIO Nº 9 BIS.docx",
+      "sha256": "6dcbaa1c194d0fdb1386d7616b497a0bdd9b4513047f6a1e44c8ffaad3298f2b",
+      "nota": "notes/2015/practica/ley-de-faraday-laboratorio-9-bis-version-docx.md",
+      "paginas_revisadas": [
+        1,
+        2
+      ],
+      "paginacion": "PDF normalizado desde DOCX; depende del renderizador",
+      "math_esperada": 16,
+      "math_renderizada_github": 16,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/ley-de-faraday-laboratorio-9-bis-version-docx.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/GUIA DE PROBLEMAS POLARIZACION-1.pdf",
+      "sha256": "6c3101fdb606626b5d46125b8bbcd59bbd75cfa8ffafc69f990cf6b26f3286f6",
+      "nota": "notes/2015/practica/polarizacion-problemas.md",
+      "paginas_revisadas": [
+        1
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 6,
+      "math_renderizada_github": 6,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/polarizacion-problemas.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/HOJA DE DATOS - TP N° 7.pdf",
+      "sha256": "cb0aedf6129d5ba3237da419ad337fc8dbf3a72c886f95821ff7ac7a1654e1f3",
+      "nota": "notes/2015/practica/campo-magnetico-terrestre-hoja-de-datos.md",
+      "paginas_revisadas": [
+        1
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 6,
+      "math_renderizada_github": 6,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/campo-magnetico-terrestre-hoja-de-datos.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/HOJA DE DATOS - TP N° 8.pdf",
+      "sha256": "24233365951bd907d32436ec4512ac6016f8b21dc42754c2054d57a8acd9a101",
+      "nota": "notes/2015/practica/fuerza-magnetica-hoja-de-datos.md",
+      "paginas_revisadas": [
+        1
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 1,
+      "math_renderizada_github": 1,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/fuerza-magnetica-hoja-de-datos.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/KIRCHOFF - GUIA.docx",
+      "sha256": "79897fe2bab6e028f2649cf08906e5bf720e890c85ba3b91b2f20435d84b0f11",
+      "nota": "notes/2015/practica/leyes-de-kirchhoff-laboratorio-6.md",
+      "paginas_revisadas": [
+        1,
+        2,
+        3
+      ],
+      "paginacion": "PDF normalizado desde DOCX; depende del renderizador",
+      "math_esperada": 2,
+      "math_renderizada_github": 2,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/leyes-de-kirchhoff-laboratorio-6.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/Puente de hilo- GUIA.docx",
+      "sha256": "2f47e1a9ae0574962ee6f76766127f6d1afb19511eebdec7a93cffd199f03d0c",
+      "nota": "notes/2015/practica/medicion-fem-potenciometro-laboratorio-5.md",
+      "paginas_revisadas": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "paginacion": "PDF normalizado desde DOCX; depende del renderizador",
+      "math_esperada": 14,
+      "math_renderizada_github": 14,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/medicion-fem-potenciometro-laboratorio-5.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/1er Parcial/2018 1C Guia 01.1.pdf",
+      "sha256": "8f24ca9e1443b2e6dd153ca862c916da877dcf633b6ddc5e87b4bd27ba9f7197",
+      "nota": "notes/2019/practica/ley-de-coulomb-guia-1-1.md",
+      "paginas_revisadas": [
+        1,
+        2,
+        3
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 28,
+      "math_renderizada_github": 28,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/practica/ley-de-coulomb-guia-1-1.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/1er Parcial/2018 1C Guia 01.2.pdf",
+      "sha256": "3ba373f8d702aa1016ae4b000504b893904110182791193eb919ae336949f20a",
+      "nota": "notes/2019/practica/campo-electrico-guia-1-2.md",
+      "paginas_revisadas": [
+        1,
+        2,
+        3
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 18,
+      "math_renderizada_github": 18,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/practica/campo-electrico-guia-1-2.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/1er Parcial/2018 1C Guia 01.3.pdf",
+      "sha256": "3aa48c34e63a8ea1155b39ba28f273552e92987848b4ea071c054ebb0beb6775",
+      "nota": "notes/2019/practica/ley-de-gauss-guia-1-3.md",
+      "paginas_revisadas": [
+        1,
+        2,
+        3
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 12,
+      "math_renderizada_github": 12,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/practica/ley-de-gauss-guia-1-3.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS 2015 - TP N° 4.pdf",
+      "sha256": "fb19b1707932e8874ad5ae05977a83f9eebca246d80f4202518fb80722361ae5",
+      "nota": "notes/2015/practica/ley-de-ohm-asociaciones-laboratorio-4.md",
+      "paginas_revisadas": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 33,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/ley-de-ohm-asociaciones-laboratorio-4.md",
+      "estado": "pendiente render GitHub"
+    }
+  ]
+}
