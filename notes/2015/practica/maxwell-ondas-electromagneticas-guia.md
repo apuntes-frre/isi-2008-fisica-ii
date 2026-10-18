@@ -135,3 +135,22 @@ resultado con el calor de Joule producido en este segmento del conductor.
 Se conservan K mayúscula, los operadores sen/cos y las unidades N/c impresas en
 los problemas 2 y 4, diferenciadas de N/C en el 6. Las amplitudes, ecuaciones y
 ejercicios se transcriben sin resolverlos.
+
+## Versión incluida en la guía identificada como 2011
+
+La sección de `2015/guia de problemas 2011.pdf`, páginas 30–31, contiene las
+mismas nueve preguntas y ocho problemas. Se cotejaron enunciados, valores y
+ecuaciones con ambas páginas. La figura de la onda tiene los mismos píxeles
+decodificados en los dos PDF. Se comparte esta nota sin duplicar matemática.
+
+En la ecuación del problema 6, el PDF 2011 superpone delimitadores sobre x. La
+variable x figura en la capa textual de ambos componentes; los coeficientes,
+fracciones, signo menos y ct también se contrastaron con la página. Se conserva
+este recorte original para mostrar el defecto gráfico, además de las ecuaciones
+transcritas arriba:
+
+![Ecuación del problema 6 en el original 2011, con delimitadores superpuestos](../../../resources/2015/maxwell-ondas-guia/ecuacion-onda-guia-2011.png)
+
+SHA-256 de esa fuente:
+`5a5ae8ac33a7a3d14d854623015ef14bc0af3dae1651c013aed06567e28a8bca`. El año 2011
+consta en el nombre; se conserva su carpeta canónica 2015.

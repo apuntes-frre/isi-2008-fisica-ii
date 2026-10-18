@@ -741,3 +741,16 @@ verificadas también por sus tablas.
 - Inducción2011 todavía pendiente render de quince expresiones y diez imágenes.
   Fuente77 no declarar completa hasta incorporar Maxwell y evidencia de la
   superposición gráfica.
+
+## Checkpoint 43: cierre documental de la guía identificada como 2011
+
+- 45 notas, 798 expresiones esperadas y 149 páginas únicas de fuentes
+  cotejadas visualmente. La materia completa sigue pendiente.
+- Fuente77: 31 páginas revisadas; carátula y página vacía registradas, diez
+  secciones propias y tres compartidas con fuente52. Maxwell30–31 queda
+  registrado con su SHA-256 y recorte de la superposición gráfica en ecuación6.
+- Validación local del cambio: checker de transcripción y lint sin incidencias.
+- Pendiente: verificar en GitHub las quince expresiones y diez imágenes de
+  inducción2011 y las adiciones de procedencia compartida, incluida la imagen
+  de Maxwell. Después inventariar por páginas el compilado fuente47 de98p,
+  comparándolo con laboratorios ya cotejados antes de transcribir variantes.
