@@ -979,3 +979,17 @@ verificadas también por sus tablas.
 - Checker local y diff --check pasaron; cotejo Poppler adicional. Fuente47
   cubierta1,24–98. PróximoRC15–23, Laplace9–14, potencial2–8. Continuar luego
   con originales pendientes: el PR no está listo para aprobar ni fusionar.
+
+## Checkpoint 61: circuito RC del compilado
+
+- 63 notas,1236 expresiones esperadas y234 páginas únicas cotejadas visualmente.
+- Fuente47 páginas15–23 completas: nueve figuras y recorte de ecuaciones
+  defectuosas,43expresiones, siete pasos de carga, cinco de descarga y
+  procesamiento3.1–3.7 con3.3repetido. Datos R39000Ω,C11000µF,C2470µF,ΔR5%.
+  Hoja con21instantes0–200s y seis pares de lecturas,13columnas.
+- Se preservan salto9→11,19repetida,+0en17 y referencias del original. No se
+  importan hojas del PDF individual distintas de esta matriz. Checker local
+  y diff --check pasaron; pendiente render43math y diez imágenes.
+- Ohm confirmado43/43, ocho imágenes y tablas6filas×4/10/13columnas en cuerpo
+  y hoja, identificación8filas. Fuente47 cubierta1,15–98. Próximo9–14Laplace,
+  luego2–8potencial. El PR sigue en borrador y la materia incompleta.

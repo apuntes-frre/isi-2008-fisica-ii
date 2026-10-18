@@ -1014,8 +1014,29 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 43,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 43,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/ley-ohm-laboratorio-4-compilado.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS.pdf",
+      "sha256": "70e9fa9786e0061c255e9800e559dff99013cc033105f4d23e064053d5d506f9",
+      "nota": "notes/2015/practica/circuito-rc-laboratorio-3-compilado.md",
+      "paginas_revisadas": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 43,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/circuito-rc-laboratorio-3-compilado.md",
       "estado": "pendiente render GitHub"
     }
   ]
