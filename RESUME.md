@@ -466,3 +466,18 @@ git diff --check
   publicar/render14math/unafigura/dostablas.
 - Próximo: corriente alterna empieza en página10; renderizar11–13 para delimitar
   final y Maxwell, recuperar fórmulas de valor eficaz que pdftotext pierde.
+
+## Checkpoint 28: corriente alterna
+
+- 34notas/secciones,557expresiones esperadas;116páginas únicas cotejadas.
+  Fuente52 hasta página11; Maxwell12–13pendiente.
+- Alterna:10preguntas,8problemas,7figuras(primeracon3circuitos),datos completos
+  de R/L/C/f/ω de problema8. Cocientes de valor eficaz recuperados visualmente;
+  pregunta3 conserva su omisión de verbo/signoigual.
+- Medios a1315bb:14/14math,2tablas,figura cargada.
+  Inducción9a089b5:8/8math,4figuras cargadas. Biot02f4bd2:20/20math,10figuras
+  cargadas.
+- Alterna pendiente publicar/render:28math,7figuras.
+- Próximo: Maxwell/ondas en12–13; ambas páginas ya renderizadas y revisadas.
+  Recuperar fórmulas de problema3/6 y conservar símboloK,operadorsen y unidades
+  impresas.
