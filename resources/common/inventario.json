@@ -1238,8 +1238,12 @@
       "duplicado_sha256_de": null,
       "clasificacion": "pendiente de revisión documental",
       "evidencia": "",
-      "estado": "pendiente",
-      "paginas_revisadas": [],
+      "estado": "transcrito y validado localmente",
+      "paginas_revisadas": [
+        1,
+        2,
+        3
+      ],
       "copia_local": "/tmp/fisica-ii-20261017-fuentes/93-2018 1C Guia 01.2.pdf",
       "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/93-2018 1C Guia 01.2.txt"
     },
@@ -1251,8 +1255,12 @@
       "duplicado_sha256_de": null,
       "clasificacion": "pendiente de revisión documental",
       "evidencia": "",
-      "estado": "pendiente",
-      "paginas_revisadas": [],
+      "estado": "transcrito y validado localmente",
+      "paginas_revisadas": [
+        1,
+        2,
+        3
+      ],
       "copia_local": "/tmp/fisica-ii-20261017-fuentes/94-2018 1C Guia 01.3.pdf",
       "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/94-2018 1C Guia 01.3.txt"
     },

@@ -132,3 +132,16 @@ git diff --check
   convertidas/renderizadas localmente en
   `/tmp/fisica-ii-conversion/campo-electrico*` y `gauss*`, aún NO
   revisadas/transcritas.
+
+## Checkpoint 7: campo eléctrico y Gauss
+
+- Campo eléctrico 1.2: 3 páginas, 9 preguntas, 13 problemas, 11 diagramas y tres
+  ecuaciones gráficas recuperadas.
+- Gauss 1.3: 3 páginas, 5 preguntas con apartados y 12 problemas, seis
+  diagramas. Todas las páginas comparadas.
+- math_expressions: campo 18 expresiones; Gauss 12. Pendiente verificación
+  GitHub después del push.
+- Coulomb GitHub verificado en `fd3def9`: 28/28 expresiones y cinco figuras
+  cargadas.
+- Próximo: DOCX Faraday versión independiente; luego guías Kirchhoff/Puente de
+  hilo.

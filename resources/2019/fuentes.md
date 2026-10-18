@@ -164,4 +164,34 @@ pendientes.
 - Motor: PyMuPDF4LLM 1.28.2; imágenes originales extraídas.
 - No se resuelven ni corrigen los enunciados.
 - [Transcripción](../../notes/2019/practica/ley-de-coulomb-guia-1-1.md).
+- Render GitHub: commit `fd3def9`, 28/28 expresiones, cinco diagramas cargados,
+  sin errores ni código matemático residual.
+- URL:
+  <https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/fd3def9/notes/2019/practica/ley-de-coulomb-guia-1-1.md>.
+
+## Campo eléctrico, guía 1.2
+
+- Original: `1er Parcial/2018 1C Guia 01.2.pdf`.
+- SHA-256: `3ba373f8d702aa1016ae4b000504b893904110182791193eb919ae336949f20a`.
+- Tres páginas completas comparadas visualmente con pdftoppm (1–3) y texto
+  pdftotext -layout. Motor PyMuPDF4LLM 1.28.2 y reparación manual con evidencia.
+- Autor y año impreso no constan; 2018 en el nombre y 2019 de archivo.
+- Cobertura: Nueve preguntas y trece problemas, once imágenes de diagramas
+  (incluidos los tres casos del problema 13) y tres ecuaciones gráficas
+  reparadas a LaTeX. Se omiten solamente imágenes vacías generadas por la
+  extracción. El problema 12 tiene encabezado cortado en la fuente.
+- [Transcripción](../../notes/2019/practica/campo-electrico-guia-1-2.md).
+- Render GitHub pendiente.
+
+## Ley de Gauss, guía 1.3
+
+- Original: `1er Parcial/2018 1C Guia 01.3.pdf`.
+- SHA-256: `3aa48c34e63a8ea1155b39ba28f273552e92987848b4ea071c054ebb0beb6775`.
+- Tres páginas completas comparadas visualmente con pdftoppm (1–3) y texto
+  pdftotext -layout. Motor PyMuPDF4LLM 1.28.2 y reparación manual con evidencia.
+- Autor y año impreso no constan; 2018 en el nombre y 2019 de archivo.
+- Cobertura: Cinco preguntas (primera con cinco apartados), doce problemas y
+  seis diagramas. Subíndices y desigualdades preservados. Se conserva la frase
+  variable constante del problema 11.
+- [Transcripción](../../notes/2019/practica/ley-de-gauss-guia-1-3.md).
 - Render GitHub pendiente.
