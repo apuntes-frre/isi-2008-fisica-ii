@@ -553,3 +553,18 @@ verificadas también por sus tablas.
   fórmulas y figuras adicionales. Falta crear nota y cobertura. Recuperar
   vectores, frecuencia del oscilador y rangos originales sin asumirlos desde
   otras versiones.
+
+## Checkpoint 33: Gauss de la guía 2011
+
+- 38 notas o secciones, 676 expresiones esperadas y 127 páginas únicas
+  cotejadas.
+- Gauss en páginas 7–9: once preguntas, once problemas y siete archivos de
+  figuras, con diagramas compuestos. Se recuperaron símbolos bitmap, campo
+  vectorial, frecuencia del oscilador e intervalos de los problemas 6, 10 y 11.
+- Coulomb 2011: 34/34 expresiones verificadas. Campo 2011: 35/35 verificadas.
+  Sus imágenes dieron ancho cero durante la carga inicial; volver a consultar y
+  no afirmar carga completada todavía.
+- Gauss nueva: pendiente publicación/render de 32 expresiones y siete imágenes.
+  Fuente 77 sigue parcial hasta página 9.
+- Siguiente: potencial de la misma guía, páginas 10–11. Los renders están listos
+  pero todavía no se revisaron; no deduplicar por título.
