@@ -439,3 +439,19 @@ git diff --check
 - Próximo: inducción electromagnética desde mitad de página6; renderizar7–8 para
   localizar final y revisar todas las figuras y preguntas con respuestas en
   blanco.
+
+## Checkpoint 26: inducción electromagnética
+
+- 32 notas/secciones,515expresiones esperadas;113páginas únicas de fuentes
+  cotejadas.
+- Fuente52 parcial páginas1–8, página8 solo hasta fin inducción. Once preguntas,
+  once problemas y cuatro figuras. Pregunta8 conserva cuatro espacios;
+  problema27 refiere figuras31.29a–d ausentes de páginas6–8, señalado sin
+  inventar.
+- Fuerzas:32/32math,seisfiguras cargadas verificadas.
+  Biot02f4bd2:20/20math,nuevefiguras cargadas y figura30.37 aún cargándose al
+  primer chequeo.
+- Inducción pendiente publicar/render:8math,cuatrofiguras.
+- Próximo: magnetismo en medios materiales desde fin de página8; renderizar9–10
+  y delimitar hasta título corrientealterna. Conservar tablas de
+  magnetización/datos y fórmulas.

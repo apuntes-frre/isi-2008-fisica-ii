@@ -494,6 +494,21 @@
       "math_renderizada_github": null,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/campo-induccion-biot-savart-guia.md",
       "estado": "pendiente render GitHub"
+    },
+    {
+      "original": "2015/GUIA DE PROBLEMAS PROPUESTOS 2da parte.pdf",
+      "sha256": "e2452f4b287c4401d9902c425f82a9caaab0bb7dd7c877c724934eb2bed5a9fa",
+      "nota": "notes/2015/practica/induccion-electromagnetica-guia.md",
+      "paginas_revisadas": [
+        6,
+        7,
+        8
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 8,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/induccion-electromagnetica-guia.md",
+      "estado": "pendiente render GitHub"
     }
   ]
 }
