@@ -792,8 +792,27 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 34,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 34,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/faraday-induccion-toroide-laboratorio-9.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS.pdf",
+      "sha256": "70e9fa9786e0061c255e9800e559dff99013cc033105f4d23e064053d5d506f9",
+      "nota": "notes/2015/practica/corriente-alterna-serie-laboratorio-10.md",
+      "paginas_revisadas": [
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 75,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/corriente-alterna-serie-laboratorio-10.md",
       "estado": "pendiente render GitHub"
     }
   ]

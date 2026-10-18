@@ -786,3 +786,17 @@ verificadas también por sus tablas.
 - Extracción PyMuPDF4LLM del compilado98p terminada sin OCR en8segundos en
   /tmp/fisica-ii-conversion/compilado47-pymupdf; texto de referencia adicional en
   /tmp/fisica-ii-conversion/textos. No tomar salida automática como cotejo total.
+
+## Checkpoint 46: circuitos serie de corriente alterna
+
+- 50 notas,919 expresiones esperadas y166 páginas únicas cotejadas visualmente.
+- Fuente47 páginas58–64 completas: siete figuras más recorte de ecuaciones,
+  pasos RL10/RC11/RLC8, hoja vacía de dos páginas y75 expresiones. Preservados
+  RCL, salto5→7, VL en16.3, R=VC/I, ánguloRC positivo y rótulos repetidos4/5.
+- Ecuaciones15/17/18 tienen delimitadores defectuosos sobre símbolos en PDF;
+  recorte conservado y componentes contrastados con capa textual y diagrama.
+- Checker local y git diff --check pasaron. Pendiente render GitHub de75
+  expresiones y ocho imágenes de esta nota. Faraday9 ya confirmado34/34,
+  tres imágenes cargadas y tablas7/5/2/11filas.
+- Próximo: laboratorio11 fotometría páginas65–69; después12–17, y cotejo de
+  variantes1–8. No declarar completo el compilado ni la materia.
