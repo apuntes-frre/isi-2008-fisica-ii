@@ -113,7 +113,7 @@
       "duplicado_sha256_de": null,
       "clasificacion": "planilla administrativa candidata",
       "evidencia": "",
-      "estado": "pendiente de inspección de hojas",
+      "estado": "planilla legible extraída; pertenencia pendiente, sin título identificable",
       "paginas_revisadas": [],
       "copia_local": "/tmp/fisica-ii-20261017-fuentes/09-DOC-20161031-WA0003.xlsx",
       "texto_poppler_local": null
@@ -139,7 +139,7 @@
       "duplicado_sha256_de": "2015/Extras/DOC-20161031-WA0003.xlsx",
       "clasificacion": "planilla administrativa candidata",
       "evidencia": "",
-      "estado": "pendiente de inspección de hojas",
+      "estado": "planilla legible extraída; pertenencia pendiente, sin título identificable",
       "paginas_revisadas": [],
       "copia_local": "/tmp/fisica-ii-20261017-fuentes/11-DOC-20161109-WA0005.xlsx",
       "texto_poppler_local": null
@@ -228,9 +228,9 @@
       "bytes": 18728,
       "paginas_pdf": null,
       "duplicado_sha256_de": null,
-      "clasificacion": "otra materia o documento institucional",
-      "evidencia": "Revisar documento antes de excluir",
-      "estado": "pendiente",
+      "clasificacion": "otra materia: Análisis de Sistemas",
+      "evidencia": "DOCX: Trabajo de Análisis de Sistemas; Escenario del Vivero",
+      "estado": "excluido de transcripción de Física II",
       "paginas_revisadas": [],
       "copia_local": "/tmp/fisica-ii-20261017-fuentes/18-DOC-20170419-WA0001.docx",
       "texto_poppler_local": null
@@ -619,10 +619,18 @@
       "duplicado_sha256_de": null,
       "clasificacion": "pendiente de revisión documental",
       "evidencia": "",
-      "estado": "pendiente",
-      "paginas_revisadas": [],
+      "estado": "transcrito y validado localmente",
+      "paginas_revisadas": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
       "copia_local": "/tmp/fisica-ii-20261017-fuentes/45-FISICA II - EXPERIENCIAS DE LABORATORIOS 2015- TP N° 8.pdf",
-      "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/45-FISICA II - EXPERIENCIAS DE LABORATORIOS 2015- TP N° 8.txt"
+      "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/45-FISICA II - EXPERIENCIAS DE LABORATORIOS 2015- TP N° 8.txt",
+      "nota": "notes/2015/practica/fuerza-magnetica-laboratorio-8.md"
     },
     {
       "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS 2015- TP N° 8.pdf.pdf",
@@ -727,9 +735,9 @@
       "bytes": 11353,
       "paginas_pdf": null,
       "duplicado_sha256_de": null,
-      "clasificacion": "planilla administrativa candidata",
-      "evidencia": "",
-      "estado": "pendiente de inspección de hojas",
+      "clasificacion": "grupos de laboratorio",
+      "evidencia": "Tres hojas XLSX; encabezado Grupos de Laboratorio FISICA II - ISI - 2º A",
+      "estado": "administrativo; no convertir a apunte",
       "paginas_revisadas": [],
       "copia_local": "/tmp/fisica-ii-20261017-fuentes/53-Grupos de Lab ISI.xlsx",
       "texto_poppler_local": null
@@ -1489,7 +1497,7 @@
       "duplicado_sha256_de": null,
       "clasificacion": "software o simulador",
       "evidencia": "",
-      "estado": "inventariado; no ejecutado",
+      "estado": "binario de calculadora; file informa data; sin visor compatible; no ejecutado",
       "paginas_revisadas": [],
       "copia_local": "/tmp/fisica-ii-20261017-fuentes/108-LAB7.g2e",
       "texto_poppler_local": null
@@ -1502,7 +1510,7 @@
       "duplicado_sha256_de": null,
       "clasificacion": "software o simulador",
       "evidencia": "",
-      "estado": "inventariado; no ejecutado",
+      "estado": "binario de calculadora; file informa data; sin visor compatible; no ejecutado",
       "paginas_revisadas": [],
       "copia_local": "/tmp/fisica-ii-20261017-fuentes/109-LAB7.g2e.eam",
       "texto_poppler_local": null
@@ -1515,7 +1523,7 @@
       "duplicado_sha256_de": null,
       "clasificacion": "software o simulador",
       "evidencia": "",
-      "estado": "inventariado; no ejecutado",
+      "estado": "binario de calculadora; file informa data; sin visor compatible; no ejecutado",
       "paginas_revisadas": [],
       "copia_local": "/tmp/fisica-ii-20261017-fuentes/110-LAB8.g2e",
       "texto_poppler_local": null
@@ -1528,7 +1536,7 @@
       "duplicado_sha256_de": null,
       "clasificacion": "software o simulador",
       "evidencia": "",
-      "estado": "inventariado; no ejecutado",
+      "estado": "binario de calculadora; file informa data; sin visor compatible; no ejecutado",
       "paginas_revisadas": [],
       "copia_local": "/tmp/fisica-ii-20261017-fuentes/111-LAB8.g2e.eam",
       "texto_poppler_local": null

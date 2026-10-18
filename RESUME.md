@@ -212,3 +212,21 @@ git diff --check
   confirmación de imágenes de los últimos laboratorios; actualizar informe y CI.
 - Próximo: laboratorios 7 y 8 completos (solo hojas de datos ya transcritas),
   PDF 42/45.
+
+## Checkpoint 12: fuerza magnética
+
+- 15 documentos, 59 páginas cotejadas, 250 math esperadas. Laboratorio 8
+  completo: seis páginas y 19 math, tablas vacías de cinco/ocho filas.
+- Recuadros de símbolos ausentes en el original señalados, sin inferirlos.
+  Bibliografía y frase de procedimiento recuperadas visualmente.
+- Capacidad en GitHub: 43/43 math y ocho formularios. Ohm: 33/33 y ocho imágenes
+  cargadas.
+- Se eliminan del inventario público tres extractos con datos de alumnos de otra
+  materia; se conserva solo encabezado genérico. Se reescribirá exclusivamente
+  el historial propio de esta rama para retirar también esas citas de versiones
+  previas, conservando todos los checkpoints.
+- Laboratorio 7: conversiones e imágenes listas en brujula-tangentes\*,
+  pendientes de revisión de las 13 páginas.
+- Legacy Office: normalización con LibreOffice en
+  /tmp/fisica-ii-conversion/legacy; extraer con MarkItDown/Pandoc antes de
+  revisar. No software ejecutado.

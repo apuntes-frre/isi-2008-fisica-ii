@@ -64,18 +64,18 @@ originales de las normalizadas y registra conteos matemáticos.
 - `2019/2do Parcial/2019 UT VIII - Magnetismo en Medios materiales.pdf`: 21
   páginas; pendiente. SHA-256:
   `5d97f163bf24ba9b9d9317dbe7faec1a00e5fab87621e3849d37756083e8f919`.
-- `2019/2do Parcial/Laboratorios/Calculadora/LAB7.g2e`: no PDF páginas;
-  inventariado; no ejecutado. SHA-256:
-  `0a5cda3910b16fcc20eee13d65b6acb1b5638cfdbe4b6175bea72c218926115a`.
+- `2019/2do Parcial/Laboratorios/Calculadora/LAB7.g2e`: no PDF páginas; binario
+  de calculadora; file informa data; sin visor compatible; no ejecutado.
+  SHA-256: `0a5cda3910b16fcc20eee13d65b6acb1b5638cfdbe4b6175bea72c218926115a`.
 - `2019/2do Parcial/Laboratorios/Calculadora/LAB7.g2e.eam`: no PDF páginas;
-  inventariado; no ejecutado. SHA-256:
-  `3e8d6d1dd43513f44dc29efd005efed3b39281b1eba9fc897efb1eb8997ae807`.
-- `2019/2do Parcial/Laboratorios/Calculadora/LAB8.g2e`: no PDF páginas;
-  inventariado; no ejecutado. SHA-256:
-  `bedd376849417b9e503e3f269d21a869844820522b5c09eefc1432c089486a0f`.
+  binario de calculadora; file informa data; sin visor compatible; no ejecutado.
+  SHA-256: `3e8d6d1dd43513f44dc29efd005efed3b39281b1eba9fc897efb1eb8997ae807`.
+- `2019/2do Parcial/Laboratorios/Calculadora/LAB8.g2e`: no PDF páginas; binario
+  de calculadora; file informa data; sin visor compatible; no ejecutado.
+  SHA-256: `bedd376849417b9e503e3f269d21a869844820522b5c09eefc1432c089486a0f`.
 - `2019/2do Parcial/Laboratorios/Calculadora/LAB8.g2e.eam`: no PDF páginas;
-  inventariado; no ejecutado. SHA-256:
-  `86199e6e9354df2fb99784845b759cfb7115a315bfbe03e02891e4b3333abb3f`.
+  binario de calculadora; file informa data; sin visor compatible; no ejecutado.
+  SHA-256: `86199e6e9354df2fb99784845b759cfb7115a315bfbe03e02891e4b3333abb3f`.
 - `2019/2do Parcial/Laboratorios/Campo de Induccion Magnetica (1).pdf`: 13
   páginas; pendiente. SHA-256:
   `fe381f45db3f41d4505d241c796b942090c3f8d12582b62bd52d56c26c34aa68`.

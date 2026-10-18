@@ -80,14 +80,14 @@ originales de las normalizadas y registra conteos matemáticos.
   de Física II. SHA-256:
   `e7ba5af02532174b80059706348828e59aaa2689b694322fe449602932b40b57`. Duplicado
   exacto de `2015/Extras/DOC-20161029-WA0006.pdf`.
-- `2015/Extras/DOC-20161031-WA0003.xlsx`: no PDF páginas; pendiente de
-  inspección de hojas. SHA-256:
+- `2015/Extras/DOC-20161031-WA0003.xlsx`: no PDF páginas; planilla legible
+  extraída; pertenencia pendiente, sin título identificable. SHA-256:
   `33458cb3f2e1ab86f92df0cb13f05129c52871068c5882ee22497b9f7ab037f7`.
 - `2015/Extras/DOC-20161104-WA0002.pdf`: 84 páginas; excluido de transcripción
   de Física II. SHA-256:
   `25523f6efb5ee1ec01ba7f73877ff5308a9cb5b0098dab1bca7d46c660366f93`.
-- `2015/Extras/DOC-20161109-WA0005.xlsx`: no PDF páginas; pendiente de
-  inspección de hojas. SHA-256:
+- `2015/Extras/DOC-20161109-WA0005.xlsx`: no PDF páginas; planilla legible
+  extraída; pertenencia pendiente, sin título identificable. SHA-256:
   `33458cb3f2e1ab86f92df0cb13f05129c52871068c5882ee22497b9f7ab037f7`. Duplicado
   exacto de `2015/Extras/DOC-20161031-WA0003.xlsx`.
 - `2015/Extras/DOC-20161116-WA0028.pdf`: 31 páginas; excluido de transcripción
@@ -111,7 +111,8 @@ originales de las normalizadas y registra conteos matemáticos.
 - `2015/Extras/DOC-20170412-WA0000.pdf`: 3 páginas; excluido de transcripción de
   Física II. SHA-256:
   `6e8cd6e1eea219a7891266300bef4f197234580801ccdd8ddd65edf3df71ab0a`.
-- `2015/Extras/DOC-20170419-WA0001.docx`: no PDF páginas; pendiente. SHA-256:
+- `2015/Extras/DOC-20170419-WA0001.docx`: no PDF páginas; excluido de
+  transcripción de Física II. SHA-256:
   `f52c698c1589f32ad07bbbaaf73c83d033d50499d8ce5f2944ecbbb3b00e7eee`.
 - `2015/Extras/DOC-20170426-WA0016.pdf`: 18 páginas; excluido de transcripción
   de Física II. SHA-256:
@@ -198,7 +199,7 @@ originales de las normalizadas y registra conteos matemáticos.
   páginas; pendiente. SHA-256:
   `0e5f0f3572b24911f39be3d34cd5eebba656b6e0420b4dc51dc954711f50c433`.
 - `2015/FISICA II - EXPERIENCIAS DE LABORATORIOS 2015- TP N° 8.pdf`: 6 páginas;
-  pendiente. SHA-256:
+  transcrito y validado localmente. SHA-256:
   `074092b8c212861c17089b76c061d3b2245fb57f503fc77b02a3077fdbd09e62`.
 - `2015/FISICA II - EXPERIENCIAS DE LABORATORIOS 2015- TP N° 8.pdf.pdf`: 6
   páginas; pendiente. SHA-256:
@@ -219,8 +220,8 @@ originales de las normalizadas y registra conteos matemáticos.
 - `2015/GUIA DE PROBLEMAS PROPUESTOS 2da parte.pdf`: 13 páginas; pendiente.
   SHA-256: `e2452f4b287c4401d9902c425f82a9caaab0bb7dd7c877c724934eb2bed5a9fa`.
   Duplicado exacto de `2015/Extras/DOC-20160609-WA0004.pdf`.
-- `2015/Grupos de Lab ISI.xlsx`: no PDF páginas; pendiente de inspección de
-  hojas. SHA-256:
+- `2015/Grupos de Lab ISI.xlsx`: no PDF páginas; administrativo; no convertir a
+  apunte. SHA-256:
   `28d5b232e9587a10874c8daf0f00de27e500424901b9af6f3573fecd5f0f5845`.
 - `2015/HOJA DE DATOS  TP Nº 1.docx`: no PDF páginas; pendiente. SHA-256:
   `5c2b24178f07925e46ac3050f3f2e4962a1d1446472595ab56969b0e0497ba2b`.
@@ -460,3 +461,20 @@ originales de las normalizadas y registra conteos matemáticos.
   el ejercicio sobre (20).
 - [Transcripción](../../notes/2015/practica/circuito-rc-capacidad-laboratorio-3.md).
 - Render GitHub pendiente; 43 expresiones esperadas según math_expressions.
+
+## Fuerza magnética, laboratorio 8
+
+- Original: `FISICA II - EXPERIENCIAS DE LABORATORIOS 2015- TP N° 8.pdf`.
+- SHA-256: `074092b8c212861c17089b76c061d3b2245fb57f503fc77b02a3077fdbd09e62`.
+- Seis páginas originales comparadas visualmente, con pdftotext y PyMuPDF4LLM;
+  cátedra Física II UTN FRRe, autor/año impreso no constan.
+- Cobertura: nueve ecuaciones numeradas, ajuste lineal con ambas fórmulas, cinco
+  figuras numeradas y forma de espira (repetida en tres posiciones), tres
+  preguntas de comprobación, seis pasos de determinación y
+  conclusión/bibliografía; formulario de integrantes y dos tablas con cinco y
+  ocho filas vacías.
+- Recuperados texto y bibliografía omitidos por el extractor. Los recuadros de
+  símbolos que la propia fuente no representa se señalan sin adivinar; no se
+  confunden con pérdidas de extracción.
+- [Transcripción](../../notes/2015/practica/fuerza-magnetica-laboratorio-8.md).
+- Render GitHub pendiente, 19 expresiones esperadas.

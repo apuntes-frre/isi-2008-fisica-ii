@@ -195,9 +195,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 33,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 33,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/ley-de-ohm-asociaciones-laboratorio-4.md",
-      "estado": "pendiente render GitHub"
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
     },
     {
       "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS 2015 - tp N° 3.pdf",
@@ -218,8 +218,26 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 43,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 43,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/circuito-rc-capacidad-laboratorio-3.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS 2015- TP N° 8.pdf",
+      "sha256": "074092b8c212861c17089b76c061d3b2245fb57f503fc77b02a3077fdbd09e62",
+      "nota": "notes/2015/practica/fuerza-magnetica-laboratorio-8.md",
+      "paginas_revisadas": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 19,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/fuerza-magnetica-laboratorio-8.md",
       "estado": "pendiente render GitHub"
     }
   ]
