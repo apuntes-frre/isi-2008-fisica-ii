@@ -937,3 +937,16 @@ verificadas también por sus tablas.
 - Siguiente punto exacto: fuente47 páginas40–45 (laboratorio7 y hoja) y46–51
   (laboratorio8 y hoja), después2–30 (laboratorios1–4). No repetir lo ya cubierto
   en31–39,52–98 o confundir versiones individuales.
+
+## Checkpoint 58: brújula de tangentes del compilado
+
+- Instrucción vigente del usuario: continuar hasta estar listo para merge; no
+  aprobar ni unir todavía. Solo se consultó PR1; sigue en borrador. La búsqueda
+  de PR abiertos de apuntes-frre devolvió únicamente este PR, sin otras materias.
+- 60 notas,1129 expresiones esperadas y212 páginas únicas cotejadas visualmente.
+- Fuente47 páginas40–45 completas como variante: cinco imágenes,35expresiones,
+  ecuaciones1–8, seis materiales, once pasos, tres preguntas, una lectura vacía
+  en técnica y catorce en hoja. La identidad conserva seis integrantes y grupo.
+- Se preservan(6)sin2, Ksin1/2, μo con s² y tg/Tang; paso4 ya no se repite
+  en este original. Checker local y diff --check pasaron. Pendiente render35math
+  y cinco imágenes. Próximo: fuerza magnética páginas46–51, después2–30.
