@@ -860,8 +860,23 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 22,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 22,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/difraccion-laboratorio-13.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS.pdf",
+      "sha256": "70e9fa9786e0061c255e9800e559dff99013cc033105f4d23e064053d5d506f9",
+      "nota": "notes/2015/practica/espectrometro-laboratorio-14.md",
+      "paginas_revisadas": [
+        78,
+        79,
+        80
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 11,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/espectrometro-laboratorio-14.md",
       "estado": "pendiente render GitHub"
     }
   ]

@@ -841,3 +841,17 @@ verificadas también por sus tablas.
 - MD029 rechazó la lista que empieza en6. Se agregó una excepción local solo
   para esa lista original6/7; se conserva su inicio y el resto de reglas.
 - Checker de transcripción y lint volvieron a pasar tras el ajuste.
+
+## Checkpoint 50: espectrómetro de red de difracción
+
+- 54 notas,988 expresiones esperadas y182 páginas únicas cotejadas visualmente.
+- Fuente47 páginas78–80 completas: dos figuras,11 expresiones, cinco pasos y
+  hoja8–14 sin resolver. Conservados N en ambos lugares del segundo factor de
+  intensidad, falta de fórmula tras definición de dispersión y5276líneas/cm
+  frente a1/600mm con aviso de verificar.
+- Difracción confirmada en GitHub22/22, seis imágenes cargadas, tablas5/13filas
+  y lista original con inicio6. Checker de la nueva nota y git diff --check pasaron.
+- Espectrómetro pendiente render11math y dos imágenes. Fuente47 revisada solo
+  en1,35,39,52–80,98; restantes páginas no cubiertas por semejanza de títulos.
+- Próximo documento: polarización81–89, seguido de termometría90–93,
+  calorimetría94–97 y cotejo de variantes1–8. Materia completa sigue pendiente.
