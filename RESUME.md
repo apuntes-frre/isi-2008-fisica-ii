@@ -900,3 +900,17 @@ verificadas también por sus tablas.
 - Fuente47: revisadas1,35,39,52–98. Pendiente cotejo visual y documental2–51
   excepto hojas35/39. Próximo: comparar laboratorios1–8 con versiones ya
   transcritas; no duplicar notas si contenido coincide tras cotejo completo.
+
+## Checkpoint 55: variante de Kirchoff del compilado
+
+- 58 notas,1079 expresiones esperadas y202 páginas únicas cotejadas visualmente.
+- Fuente47 páginas36–38 transcritas como variante separada: R2=1,5kΩ y
+  R3=3,3kΩ, frente a cifras intercambiadas en DOCX60. Encabezados Vcf/Vgb
+  también distintos. Se conserva todo el texto, circuito, dos leyes y dos tablas.
+- Seis expresiones y una imagen pendientes de render. Checker local pasó.
+- Calorimetría confirmada29/29, imagen cargada, tabla9filas y listas7/7. CI
+  content del checkpoint54 pasó. Compilado sigue parcial: revisadas1,35–39,52–98.
+- Comparación textual preliminar de laboratorios1–8 contra versiones individuales
+  detecta variantes; evidencia temporal en comparacion-labs47.json. No acredita
+  cotejo de páginas restantes. Próximo: FEM/potenciómetro31–34 y después
+  laboratorios1–4,7–8 con sus hojas.

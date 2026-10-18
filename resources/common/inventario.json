@@ -683,10 +683,13 @@
       "duplicado_sha256_de": null,
       "clasificacion": "pendiente de revisión documental",
       "evidencia": "",
-      "estado": "parcial: hojas de datos35 y39, Faraday52–56, alterna58–64, fotometría65–69, interferencia70–73, difracción74–77, espectrómetro78–80, polarización81–89, termometría90–93, calorimetría94–97 y anexoGLX98 transcritos; aviso Faraday57 cotejado y registrado; resto pendiente",
+      "estado": "parcial: hojas de datos35 y39, Kirchoff36–38, Faraday52–56, alterna58–64, fotometría65–69, interferencia70–73, difracción74–77, espectrómetro78–80, polarización81–89, termometría90–93, calorimetría94–97 y anexoGLX98 transcritos; aviso Faraday57 cotejado y registrado; resto pendiente",
       "paginas_revisadas": [
         1,
         35,
+        36,
+        37,
+        38,
         39,
         52,
         53,
@@ -750,10 +753,14 @@
         "notes/2015/practica/espectrometro-laboratorio-14.md",
         "notes/2015/practica/polarizacion-laboratorio-15.md",
         "notes/2015/practica/termometria-laboratorio-16.md",
-        "notes/2015/practica/calorimetria-laboratorio-17.md"
+        "notes/2015/practica/calorimetria-laboratorio-17.md",
+        "notes/2015/practica/kirchoff-laboratorio-6-compilado.md"
       ],
       "paginas_transcritas": [
         35,
+        36,
+        37,
+        38,
         39,
         52,
         53,
