@@ -355,9 +355,8 @@ Datos para el cálculo del campo eléctrico
 
 ![Figura 5: normal y tangente a las equipotenciales](../../../resources/2015/potencial-lineas.png)
 
-|  |  |  |  |  |
-| :- | -- | -- | -- | -- |
 | Long | Vx | Ex=Vx/ Long | Vy | Ey=Vy/ Long |
+| :- | -- | -- | -- | -- |
 | 1 cm |  |  |  |  |
 | 0.5 cm |  |  |  |  |
 
@@ -659,9 +658,8 @@ del campo eléctrico
 
 Indique las coordenadas del punto considerado:
 
-|  |  |  |  |  |
-| :- | -- | -- | -- | -- |
 | Long | Vx | Ex=Vx/ Long | Vy | Ey=Vy/ Long |
+| :- | -- | -- | -- | -- |
 | 1 cm |  |  |  |  |
 | 0.5 cm |  |  |  |  |
 

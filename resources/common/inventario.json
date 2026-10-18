@@ -798,8 +798,12 @@
       "duplicado_sha256_de": null,
       "clasificacion": "pendiente de revisión documental",
       "evidencia": "",
-      "estado": "pendiente",
-      "paginas_revisadas": [],
+      "estado": "transcrito y validado localmente",
+      "paginas_revisadas": [
+        1,
+        2,
+        3
+      ],
       "copia_local": "/tmp/fisica-ii-20261017-fuentes/60-KIRCHOFF - GUIA.docx",
       "texto_poppler_local": null
     },
@@ -954,8 +958,11 @@
       "duplicado_sha256_de": null,
       "clasificacion": "pendiente de revisión documental",
       "evidencia": "",
-      "estado": "pendiente",
-      "paginas_revisadas": [],
+      "estado": "transcrito y validado localmente",
+      "paginas_revisadas": [
+        1,
+        2
+      ],
       "copia_local": "/tmp/fisica-ii-20261017-fuentes/72-TRABAJO DE LABORATORIO Nº 9 BIS.docx",
       "texto_poppler_local": null
     },

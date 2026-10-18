@@ -145,3 +145,19 @@ git diff --check
   cargadas.
 - Próximo: DOCX Faraday versión independiente; luego guías Kirchhoff/Puente de
   hilo.
+
+## Checkpoint 8: Faraday DOCX y Kirchhoff
+
+- Faraday DOCX completo, dos páginas normalizadas; versión distinta del PDF con
+  tabla de dos filas y erratas propias preservadas.
+- Kirchhoff DOCX completo, tres páginas normalizadas; circuito extraído y
+  comparado, dos ecuaciones y dos tablas de tres registros vacíos.
+- Se corrigieron encabezados vacíos artificiales de Pandoc en tablas GFM de
+  notas ya publicadas; no son filas de datos del original.
+- Gauss GitHub: 12/12 expresiones y seis diagramas cargados; Campo: 18/18,
+  pendiente terminar confirmación de carga de sus imágenes.
+- Salidas: `/tmp/fisica-ii-conversion/faraday-docx*`, `kirchhoff*`; herramientas
+  y fuentes en manifiestos.
+- Próxima acción: publicar checkpoint y verificar render. Luego Puente de hilo
+  (Pandoc ya extraído; NO validado), conservando ecuaciones/imágenes con
+  faltantes propios de la fuente.

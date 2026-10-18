@@ -33,8 +33,6 @@ Tabla 1
 |  |  |  |
 |  |  |  |
 |  |  |  |
-|  |  |  |
-|  |  |  |
 
 ## Nota de transcripción
 

@@ -34,10 +34,6 @@ TABLA 1. Radio medio =  N =  $`I_{max}`$ =
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
 
 ## Nota de transcripción
 

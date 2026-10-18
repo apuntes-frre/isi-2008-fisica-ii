@@ -17,8 +17,8 @@ año de carpeta no demuestra el año impreso.
 - Reparaciones verificadas: cinco fórmulas omitidas por Docling y Poppler; phi
   en el encabezado de la tabla y en procesamiento.
 - Errata conservada: ecuación (5) sin sumatoria; no se corrigió.
-- Variante DOCX: integrales definidas, procedimiento y tabla diferentes;
-  pendiente de transcripción independiente.
+- Variante DOCX: transcrita como documento independiente; integrales definidas,
+  procedimiento y tabla diferentes.
 - [Transcripción](../../notes/2015/practica/ley-de-faraday-laboratorio-9-bis.md).
 - Renderizado GitHub: commit `5d6a5b9`; 17 expresiones esperadas y 17 elementos
   math renderizados, cero merror y cero expresiones como código.
@@ -372,3 +372,31 @@ pendientes.
 - Render GitHub: commit `28ff451`; polarización 6/6, hoja TP7 6/6 y hoja TP8 1/1
   expresiones; cero errores y cero código residual en las tres notas. Los dos
   diagramas de polarización presentan ancho nativo no nulo.
+
+## Ley de Faraday, versión DOCX
+
+- Original: `TRABAJO DE LABORATORIO Nº 9 BIS.docx`.
+- SHA-256: `6dcbaa1c194d0fdb1386d7616b497a0bdd9b4513047f6a1e44c8ffaad3298f2b`.
+- Autor/año impreso: no constan. Carpeta 2015.
+- Herramientas: Pandoc, LibreOffice con perfil temporal aislado, pdftotext
+  -layout, pdftoppm y PyMuPDF4LLM para circuito referenciado.
+- Cobertura: Dos páginas normalizadas revisadas visualmente, cinco ecuaciones
+  numeradas, montaje cotejado con el PDF, tabla de dos filas vacías y seis
+  consignas. Se conservan integrales definidas, fórmula de tabla sin menos ni
+  cierre de paréntesis y ausencia de phi en procesamiento.
+- [Transcripción](../../notes/2015/practica/ley-de-faraday-laboratorio-9-bis-version-docx.md).
+- Render GitHub pendiente.
+
+## Leyes de Kirchhoff, laboratorio 6
+
+- Original: `KIRCHOFF - GUIA.docx`.
+- SHA-256: `79897fe2bab6e028f2649cf08906e5bf720e890c85ba3b91b2f20435d84b0f11`.
+- Autor/año impreso: no constan. Carpeta 2015.
+- Herramientas: Pandoc, LibreOffice con perfil temporal aislado, pdftotext
+  -layout, pdftoppm y PyMuPDF4LLM para circuito referenciado.
+- Cobertura: Tres páginas normalizadas revisadas visualmente, dos leyes con sus
+  ecuaciones, circuito de dos mallas, tres pasos de nudos y cuatro de mallas,
+  dos tablas con tres filas cada una y datos de resistencias. Conservadas las
+  inconsistencias de etiquetas y referencias del original.
+- [Transcripción](../../notes/2015/practica/leyes-de-kirchhoff-laboratorio-6.md).
+- Render GitHub pendiente.
