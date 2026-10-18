@@ -823,3 +823,15 @@ verificadas también por sus tablas.
 - Checker local pasó; comparación adicional con pdftotext-layout del compilado
   confirma texto, erratas y limitaciones de extracción de fórmulas. Próximo:
   difracción74–77, luego espectrómetro78–80 y laboratorios15–17.
+
+## Checkpoint 49: difracción
+
+- 53 notas,977 expresiones esperadas y179 páginas únicas cotejadas visualmente.
+- Fuente47 páginas74–77 completas: seis figuras,22 expresiones, seis pasos de
+  técnica y hoja con12filas vacías; conteo de tabla confirmado13filas con cabecera.
+  Conservadas variantes a/p/l frente aα/π/λ, r/ρ, HeNe/NeHe/NeNe y numeración
+ 6,7,3,4,5,6,7. No se completan datos.
+- Interferencia confirmada en GitHub21/21, cuatro imágenes cargadas y ambas
+  tablas5filas. Difracción pendiente render22math y seis imágenes.
+- Próximo: espectrómetro78–80, polarización81–89, termometría90–93,
+  calorimetría94–97 y variantes1–8. Compilado y materia siguen parciales.
