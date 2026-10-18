@@ -161,3 +161,16 @@ git diff --check
 - Próxima acción: publicar checkpoint y verificar render. Luego Puente de hilo
   (Pandoc ya extraído; NO validado), conservando ecuaciones/imágenes con
   faltantes propios de la fuente.
+
+## Checkpoint 9: potenciómetro de hilo
+
+- DOCX laboratorio 5: cuatro páginas normalizadas comparadas, cuatro circuitos
+  extraídos, fórmulas y leyendas incrustadas recuperadas como texto/LaTeX.
+- Fuente usa capturas de Adobe con crop de Word; se respetó el recorte visible y
+  se excluyó interfaz de Windows. Scripts reutilizables: `cortar-puente.py`,
+  `reparar-puente.py` en el temporal.
+- Nota guardada y checker aprobado; cerrar commit y render GitHub.
+- Checkpoint previo remoto `3e686d9`: Faraday DOCX 16/16 math; Kirchhoff 2/2;
+  montaje e imágenes pendientes de confirmación tras carga asíncrona.
+- Próximo documento: laboratorio 3 Capacidad (11 p.) o laboratorio 4 Ley de Ohm
+  (7 p.), aún sin conversión.

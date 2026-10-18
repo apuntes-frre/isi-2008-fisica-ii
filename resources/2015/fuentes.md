@@ -400,3 +400,21 @@ pendientes.
   inconsistencias de etiquetas y referencias del original.
 - [Transcripción](../../notes/2015/practica/leyes-de-kirchhoff-laboratorio-6.md).
 - Render GitHub pendiente.
+
+## Potenciómetro de hilo, laboratorio 5
+
+- Original: `Puente de hilo- GUIA.docx`.
+- SHA-256: `2f47e1a9ae0574962ee6f76766127f6d1afb19511eebdec7a93cffd199f03d0c`.
+- Autor/año impreso: no constan. La fecha de Windows en capturas incrustadas no
+  se usa como fecha documental. Cátedra Física II, UTN FRRe.
+- Pandoc con medios; LibreOffice con perfil aislado, PDF normalizado de cuatro
+  páginas comparadas íntegramente con pdftoppm y pdftotext.
+- Cuatro circuitos extraídos mediante recortes de las capturas originales; todos
+  cotejados y conservados sin barras de aplicación. Las fórmulas y leyendas
+  visibles dentro de las capturas se transcribieron a texto y LaTeX, respetando
+  los recortes de Word.
+- Cobertura: texto completo, cuatro figuras, expresiones matemáticas de las
+  imágenes (algunas en un mismo bloque), mediciones, sensibilidad y
+  bibliografía. Se conservan δ, Rac/Rca y las erratas de la fuente.
+- [Transcripción](../../notes/2015/practica/medicion-fem-potenciometro-laboratorio-5.md).
+- Render GitHub pendiente.

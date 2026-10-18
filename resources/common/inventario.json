@@ -919,8 +919,13 @@
       "duplicado_sha256_de": null,
       "clasificacion": "pendiente de revisión documental",
       "evidencia": "",
-      "estado": "pendiente",
-      "paginas_revisadas": [],
+      "estado": "transcrito y validado localmente",
+      "paginas_revisadas": [
+        1,
+        2,
+        3,
+        4
+      ],
       "copia_local": "/tmp/fisica-ii-20261017-fuentes/69-Puente de hilo- GUIA.docx",
       "texto_poppler_local": null
     },
