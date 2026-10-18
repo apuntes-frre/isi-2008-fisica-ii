@@ -876,3 +876,13 @@ verificadas también por sus tablas.
   pasaron. Pendiente render47math,13imágenes y tabla13filas×6columnas.
 - Próximo: termometría90–93 y calorimetría94–97; después cotejar variantes1–8
   del compilado. No declarar completa materia ni compilado.
+
+## Checkpoint 53: termometría
+
+- 56 notas,1044 expresiones esperadas y195 páginas únicas cotejadas visualmente.
+- Fuente47 páginas90–93 completas: modelo exponencial y parámetros A/B,
+  un montaje,12pasos, tablas3y12filas de datos vacías. Nueve expresiones.
+- Polarización confirmada47/47,13imágenes cargadas y tablas5/13filas.
+- Checker local de termometría pasó; pendiente render9math, imagen y tablas.
+- Próximo: calorimetría94–97. Luego cotejar páginas2–51 del compilado,
+  sin asumir que las variantes individuales ya transcritas cubren este PDF.
