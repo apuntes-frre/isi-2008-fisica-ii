@@ -563,9 +563,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 34,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 34,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/ley-coulomb-guia-2011.md",
-      "estado": "pendiente render GitHub"
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
     },
     {
       "original": "2015/guia de problemas 2011.pdf",
@@ -577,9 +577,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 35,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 35,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/campo-electrico-guia-2011.md",
-      "estado": "pendiente render GitHub"
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
     },
     {
       "original": "2015/guia de problemas 2011.pdf",
@@ -594,6 +594,20 @@
       "math_esperada": 32,
       "math_renderizada_github": null,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/ley-gauss-guia-2011.md",
+      "estado": "pendiente render GitHub"
+    },
+    {
+      "original": "2015/guia de problemas 2011.pdf",
+      "sha256": "5a5ae8ac33a7a3d14d854623015ef14bc0af3dae1651c013aed06567e28a8bca",
+      "nota": "notes/2015/practica/potencial-electrico-guia-2011.md",
+      "paginas_revisadas": [
+        10,
+        11
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 23,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/potencial-electrico-guia-2011.md",
       "estado": "pendiente render GitHub"
     }
   ]

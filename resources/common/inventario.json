@@ -1181,7 +1181,7 @@
       "duplicado_sha256_de": null,
       "clasificacion": "pendiente de revisión documental",
       "evidencia": "",
-      "estado": "parcial: Coulomb, campo y Gauss páginas3-9; carátula1 y página2 sin ejercicios revisadas; resto pendiente",
+      "estado": "parcial: Coulomb a potencial páginas3-11; carátula1 y página2 sin ejercicios revisadas; resto pendiente",
       "paginas_revisadas": [
         3,
         4,
@@ -1189,7 +1189,9 @@
         6,
         7,
         8,
-        9
+        9,
+        10,
+        11
       ],
       "copia_local": "/tmp/fisica-ii-20261017-fuentes/77-guia de problemas 2011.pdf",
       "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/77-guia de problemas 2011.txt",
@@ -1200,7 +1202,8 @@
       "notas": [
         "notes/2015/practica/ley-coulomb-guia-2011.md",
         "notes/2015/practica/campo-electrico-guia-2011.md",
-        "notes/2015/practica/ley-gauss-guia-2011.md"
+        "notes/2015/practica/ley-gauss-guia-2011.md",
+        "notes/2015/practica/potencial-electrico-guia-2011.md"
       ]
     },
     {

@@ -289,8 +289,8 @@ originales de las normalizadas y registra conteos matemáticos.
   Duplicado exacto de `2015/UNIDAD 1 Fuerza electrica y campo electrico-1.pdf`.
 - `2015/direcciones utiles de internet.doc`: no PDF páginas; pendiente. SHA-256:
   `2b53ce70d6b0d2d5d572c8ebe652a93f55d2397315993fe0694c2f95fad3f48c`.
-- `2015/guia de problemas 2011.pdf`: 31 páginas; parcial: Coulomb, campo y Gauss
-  páginas3-9; carátula1 y página2 sin ejercicios revisadas; resto pendiente.
+- `2015/guia de problemas 2011.pdf`: 31 páginas; parcial: Coulomb a potencial
+  páginas3-11; carátula1 y página2 sin ejercicios revisadas; resto pendiente.
   SHA-256: `5a5ae8ac33a7a3d14d854623015ef14bc0af3dae1651c013aed06567e28a8bca`.
 - `2015/utilitarios/EMBOE.rar`: no PDF páginas; inventariado; no ejecutado.
   SHA-256: `2dc2a1e1528ad5c7c32cbf365c7dce5fe05afe5b142900a607f8b98eafc1c631`.

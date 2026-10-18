@@ -568,3 +568,22 @@ verificadas también por sus tablas.
   Fuente 77 sigue parcial hasta página 9.
 - Siguiente: potencial de la misma guía, páginas 10–11. Los renders están listos
   pero todavía no se revisaron; no deduplicar por título.
+
+## Checkpoint 34: potencial de la guía 2011
+
+- 39 notas o secciones, 699 expresiones esperadas y 129 páginas únicas
+  cotejadas.
+- Potencial en páginas 10–11: diez preguntas, once problemas y siete figuras. La
+  fórmula del dipolo tiene r, sin cuadrado; se conservan anillo/disco, E(r) y
+  condiciones repetidas de interruptores.
+- Coulomb y campo de 2011: 34 y 35 expresiones verificadas, cinco imágenes
+  cargadas en cada nota. Gauss: 32/32 expresiones verificadas; algunas figuras
+  aún cargándose al último chequeo.
+- Potencial nueva: 23 expresiones y siete figuras pendientes de
+  publicación/render.
+- Capacidad en páginas 12–13 ya revisada y borrador local creado: siete
+  preguntas, nueve problemas y tres archivos gráficos. Falta cobertura y
+  validación. Preservar 5800Km y «diferencia de potencia»; μF del problema 9 se
+  recuperó visualmente.
+- Siguiente sección: dieléctricos en páginas 14–15; renders listos, aún sin
+  revisar.
