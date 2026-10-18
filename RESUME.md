@@ -587,3 +587,22 @@ verificadas también por sus tablas.
   recuperó visualmente.
 - Siguiente sección: dieléctricos en páginas 14–15; renders listos, aún sin
   revisar.
+
+## Checkpoint 35: capacidad de la guía 2011
+
+- 40 notas o secciones, 703 expresiones esperadas y 131 páginas únicas
+  cotejadas.
+- Capacidad en páginas 12–13: siete preguntas, nueve problemas y tres archivos
+  gráficos. Se conserva el radio de 5800Km y «diferencia de potencia»; μF
+  recuperado visualmente.
+- Potencial 2011 publicado en 4eba6ec: pendiente render de 23 expresiones y
+  siete imágenes. Capacidad nueva: cuatro expresiones y tres imágenes pendientes
+  de publicación/render.
+- Dieléctricos páginas 14–15 ya revisadas y borrador local creado: doce
+  preguntas, once problemas, dos figuras. Se recuperaron la ecuación vectorial,
+  permitividades, σP, μC y δ. Falta agregar cobertura y validar.
+- Antes del siguiente lote: conservar extracción adicional de PyMuPDF4LLM para
+  fuente77, además de pdftotext y renders ya usados, para contraste entre
+  motores. Sin OCR ni descargas de modelos.
+- Siguiente: circuitos de la guía 2011, páginas 16–19; todavía no revisadas
+  visualmente.
