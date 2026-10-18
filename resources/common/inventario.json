@@ -748,18 +748,22 @@
       "duplicado_sha256_de": null,
       "clasificacion": "pendiente de revisión documental",
       "evidencia": "",
-      "estado": "parcial: repaso vectorial y Coulomb, páginas 3-6; otras secciones pendientes",
+      "estado": "parcial: vectorial, Coulomb y campo, páginas 3-9; página9 solo sección campo; otras secciones pendientes",
       "paginas_revisadas": [
         3,
         4,
         5,
-        6
+        6,
+        7,
+        8,
+        9
       ],
       "copia_local": "/tmp/fisica-ii-20261017-fuentes/51-GUIA DE PROBLEMAS PROPUESTOS 1ra parte.pdf",
       "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/51-GUIA DE PROBLEMAS PROPUESTOS 1ra parte.txt",
       "notas": [
         "notes/2015/practica/repaso-analisis-vectorial.md",
-        "notes/2015/practica/ley-de-coulomb-guia-1.md"
+        "notes/2015/practica/ley-de-coulomb-guia-1.md",
+        "notes/2015/practica/campo-electrico-guia.md"
       ]
     },
     {

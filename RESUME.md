@@ -334,3 +334,17 @@ git diff --check
 - Próximo paso: fuente51 páginas7–9 campo eléctrico, comprobar límites exactos
   de sección antes de transcribir. Los extractores pierden ecuaciones e
   imágenes, no tomar texto plano como contenido completo.
+
+## Checkpoint 19: campo eléctrico 2015
+
+- 25 notas/secciones, 88 páginas-sección cotejadas y 392 expresiones esperadas.
+- Campo2015: nueve preguntas, trece problemas, tres ecuaciones recuperadas y
+  once figuras; páginas7–9. Página9 cubierta solo hasta fin del problema13;
+  Gauss empieza en esa misma página y permanece pendiente.
+- Coulomb2015 publicado ab2e462:11/11 math verificadas; imágenes aún en carga al
+  primer chequeo, volver a comprobarlas.
+- Vectorial:25/25 math y figura cargada verificadas; fuente51 continúa parcial.
+- Próximo paso: fuente51 Gauss desde mitad de página9 hasta antes de potencial;
+  renderizar página10 y determinar si continúa en11 antes de delimitar.
+- No confundir suma de páginas por sección con páginas únicas cuando dos
+  secciones comparten página.
