@@ -235,3 +235,13 @@ cotejada por separado. Se conservan la repetición del paso 4, el denominador de
 resuelven las preguntas.
 
 [Procedencia y comprobaciones](../../../resources/2015/fuentes.md).
+
+## Copia con idéntico render
+
+El archivo `2015/FISICA II - EXPERIENCIAS DE LABORATORIOS 2015- TP N° 7.pdf.pdf`
+tiene distinto SHA-256 binario, pero todas sus páginas tienen dimensiones y
+píxeles idénticos a los de la referencia transcrita, al renderizar en gris
+a72dpi. Se conserva esta nota sin duplicarla; la
+[evidencia por página](../../../resources/common/duplicados-render.json)
+registra los hashes y el alcance de la comparación. Esta comprobación no agrega
+páginas a la cuenta de revisión visual manual.

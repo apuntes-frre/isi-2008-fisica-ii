@@ -66,7 +66,8 @@ originales de las normalizadas y registra conteos matemáticos.
   `b537fe44a2a9866f53bf0781b26e5810921214fee85883d88b43a690e581486c`.
 - `2015/Extras/DOC-20160609-WA0004.pdf`: 13 páginas; pendiente. SHA-256:
   `e2452f4b287c4401d9902c425f82a9caaab0bb7dd7c877c724934eb2bed5a9fa`.
-- `2015/Extras/DOC-20160612-WA0011.pdf`: 27 páginas; pendiente. SHA-256:
+- `2015/Extras/DOC-20160612-WA0011.pdf`: 27 páginas; identidad de render
+  verificada; transcripción pendiente junto a referencia. SHA-256:
   `1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e`. Duplicado
   exacto de
   `2015/480938-Modelos de parcial FISICA II actualizado 060813(0).pdf`.
@@ -192,18 +193,19 @@ originales de las normalizadas y registra conteos matemáticos.
   páginas; transcrito y validado localmente en dos secciones. SHA-256:
   `53d7c28ab3daca9c606a3d49f4ad273d2591e9dcde2f3fe9fd9960b81b5811d6`.
 - `2015/FISICA II - EXPERIENCIAS DE LABORATORIOS 2015- TP N° 7.pdf`: 13 páginas;
-  laboratorio 7 transcrito, páginas 1-7; laboratorio 8 páginas 8-13 pendiente.
-  SHA-256: `53d7c28ab3daca9c606a3d49f4ad273d2591e9dcde2f3fe9fd9960b81b5811d6`.
-  Duplicado exacto de
-  `2015/FISICA II - EXPERIENCIAS DE LABORATORIOS 2015- TP N° 7-1.pdf`.
+  transcrito y validado localmente en dos secciones. SHA-256:
+  `53d7c28ab3daca9c606a3d49f4ad273d2591e9dcde2f3fe9fd9960b81b5811d6`. Duplicado
+  exacto de `2015/FISICA II - EXPERIENCIAS DE LABORATORIOS 2015- TP N° 7-1.pdf`.
 - `2015/FISICA II - EXPERIENCIAS DE LABORATORIOS 2015- TP N° 7.pdf.pdf`: 13
-  páginas; pendiente. SHA-256:
+  páginas; contenido transcrito en referencia; igualdad de render verificada en
+  todas las páginas; no se duplican notas. SHA-256:
   `0e5f0f3572b24911f39be3d34cd5eebba656b6e0420b4dc51dc954711f50c433`.
 - `2015/FISICA II - EXPERIENCIAS DE LABORATORIOS 2015- TP N° 8.pdf`: 6 páginas;
   transcrito y validado localmente. SHA-256:
   `074092b8c212861c17089b76c061d3b2245fb57f503fc77b02a3077fdbd09e62`.
 - `2015/FISICA II - EXPERIENCIAS DE LABORATORIOS 2015- TP N° 8.pdf.pdf`: 6
-  páginas; pendiente. SHA-256:
+  páginas; contenido transcrito en referencia; igualdad de render verificada en
+  todas las páginas; no se duplican notas. SHA-256:
   `cbac3a9dab0d0636f768bb54d5cdc44e68f87a622e7c43c55d074e81dd04ecf7`.
 - `2015/FISICA II - EXPERIENCIAS DE LABORATORIOS.pdf`: 98 páginas;
   completo:98páginas cotejadas; laboratorios1–17, presentación9bis, hojas y

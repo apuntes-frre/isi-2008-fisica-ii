@@ -1021,3 +1021,21 @@ verificadas también por sus tablas.
 - Próximo: revisar inventario de originales pendientes y continuar teoría,
   guías/modelos y otros años. Mantener PR en borrador hasta completar alcance
   y verificación, conforme a instrucción del usuario.
+
+## Checkpoint 64: copias de idéntico render y próximo examen
+
+- Las65notas están verificadas en GitHub:1271expresiones y247páginas únicas
+  cotejadas visualmente. Compilado completo, pero materia aún incompleta.
+- Fuente43 con SHA idéntico a42 tenía estado atrasado; corregida propagación
+  de estado y páginas cuando la referencia tiene varias notas.
+- Fuentes44/42:13/13páginas idénticas en dimensiones y muestras de render
+ 72dpi gris.46/45:6/6idénticas. Comparten notas sin sumar páginas a la cuenta
+  de revisión visual manual. Evidencia por página en duplicados-render.json.
+- Fuentes5/1:27/27idénticas en render, pero ambas siguen pendientes. Fuente66
+  es SHA idéntico a1. Esta igualdad no se declaró transcripción completa.
+- Checker local de tres notas con procedencia adicional y diff --check pasaron.
+- Próximo: fuente1 modelos de parciales/finales27páginas, versión1.1fechada
+ 04/08/2010; fuentes5/66comparten contenido. Numerosas páginas3–8,14–21
+  tienen imagen sin texto: preparar OCR español sobre copia y cotejar todo.
+- Material que figura IEM/IQ debe conservar esa identificación y no atribuir
+  automáticamente a ISI; la fuente está en carpeta canónica FísicaII.

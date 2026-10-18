@@ -1,0 +1,310 @@
+{
+  "comparaciones": [
+    {
+      "referencia": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS 2015- TP N° 7-1.pdf",
+      "sha256_referencia": "53d7c28ab3daca9c606a3d49f4ad273d2591e9dcde2f3fe9fd9960b81b5811d6",
+      "copia": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS 2015- TP N° 7.pdf.pdf",
+      "sha256_copia": "0e5f0f3572b24911f39be3d34cd5eebba656b6e0420b4dc51dc954711f50c433",
+      "metodo": "PyMuPDF render nativo72dpi, escala de grises, alpha=false; igualdad de dimensiones y SHA-256 de muestras en todas las páginas",
+      "paginas": [
+        {
+          "pagina": 1,
+          "ancho": 612,
+          "alto": 792,
+          "sha256_pixeles": "bc9f9771e449bc5ada1f923aaa3a4a9347f04c9436d4b1c7c755bf8bbb86cc30"
+        },
+        {
+          "pagina": 2,
+          "ancho": 612,
+          "alto": 792,
+          "sha256_pixeles": "0078d2b76191a8ec12a5c36193355d9ef914bf5a2d309aa782c10eac41ca9cb7"
+        },
+        {
+          "pagina": 3,
+          "ancho": 612,
+          "alto": 792,
+          "sha256_pixeles": "24be65ff389e9520bad22d5135638cedbb99b0c63ffc7789609f9cc48f4aa758"
+        },
+        {
+          "pagina": 4,
+          "ancho": 612,
+          "alto": 792,
+          "sha256_pixeles": "a2849310e964acbc96c449643a10a20c2369973e12fe4e00448767fdc15e3843"
+        },
+        {
+          "pagina": 5,
+          "ancho": 612,
+          "alto": 792,
+          "sha256_pixeles": "f9df584d39c2f2993cce00adf4f4366b0e49422ca0f88aadeab0a85b4508f5d2"
+        },
+        {
+          "pagina": 6,
+          "ancho": 612,
+          "alto": 792,
+          "sha256_pixeles": "f0b79b8d1341e8b5aabb1d379d88d32a90e149d6129681ec3655164ef6ee4272"
+        },
+        {
+          "pagina": 7,
+          "ancho": 612,
+          "alto": 792,
+          "sha256_pixeles": "5c3e37ed5da911956071508b24f2013f6ac26117fc66c2079311555898a629df"
+        },
+        {
+          "pagina": 8,
+          "ancho": 612,
+          "alto": 792,
+          "sha256_pixeles": "186a8d7b29c7efba0ed9b239cd28a1075cfd927bd1e88b52171ade5544e137c0"
+        },
+        {
+          "pagina": 9,
+          "ancho": 612,
+          "alto": 792,
+          "sha256_pixeles": "9a430afb5c771b0bce694dc5db1da138dd037467a410fa175d96eb53e675bd8c"
+        },
+        {
+          "pagina": 10,
+          "ancho": 612,
+          "alto": 792,
+          "sha256_pixeles": "6be58478b05b8bb5d14ecc7ba16c14b0a96767e3fe71a685904e6b10e716c36e"
+        },
+        {
+          "pagina": 11,
+          "ancho": 612,
+          "alto": 792,
+          "sha256_pixeles": "dda46b2605070fb4b3a4ccc390e98748d6ff75c5684e5154f0354a88e979cc79"
+        },
+        {
+          "pagina": 12,
+          "ancho": 612,
+          "alto": 792,
+          "sha256_pixeles": "f618b02211484b76822dcc3c165a817b8c8b96ebedabb8025ddfae071668a1a4"
+        },
+        {
+          "pagina": 13,
+          "ancho": 612,
+          "alto": 792,
+          "sha256_pixeles": "80ab13f590d6707a4eb9de3bc754e3b4f8569aecc59e5075359d375b6c1c2b20"
+        }
+      ],
+      "alcance": "Igualdad visual del render; no implica transcripción si la referencia continúa pendiente."
+    },
+    {
+      "referencia": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS 2015- TP N° 8.pdf",
+      "sha256_referencia": "074092b8c212861c17089b76c061d3b2245fb57f503fc77b02a3077fdbd09e62",
+      "copia": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS 2015- TP N° 8.pdf.pdf",
+      "sha256_copia": "cbac3a9dab0d0636f768bb54d5cdc44e68f87a622e7c43c55d074e81dd04ecf7",
+      "metodo": "PyMuPDF render nativo72dpi, escala de grises, alpha=false; igualdad de dimensiones y SHA-256 de muestras en todas las páginas",
+      "paginas": [
+        {
+          "pagina": 1,
+          "ancho": 612,
+          "alto": 792,
+          "sha256_pixeles": "bc6e290ab5950a4dc8cb3ce516eb1c78f88658f263ab8030b29d06e33443c67d"
+        },
+        {
+          "pagina": 2,
+          "ancho": 612,
+          "alto": 792,
+          "sha256_pixeles": "be45a79ace0f48509f5a035310f25ce3e0dfa89107a2e28e1326557075500c0e"
+        },
+        {
+          "pagina": 3,
+          "ancho": 612,
+          "alto": 792,
+          "sha256_pixeles": "7a4c6a4789b7bd92a43703d82a974f68b8287837c937f53ad9915e97603c9a99"
+        },
+        {
+          "pagina": 4,
+          "ancho": 612,
+          "alto": 792,
+          "sha256_pixeles": "85573a12ecf77534aa55e521ed6c9a56fd515da9661a87118c42fe59ec3c672b"
+        },
+        {
+          "pagina": 5,
+          "ancho": 612,
+          "alto": 792,
+          "sha256_pixeles": "177acd11fadf02ceb7f93444ba0b32968099bf6c46d3d7299aa0f818170e036e"
+        },
+        {
+          "pagina": 6,
+          "ancho": 612,
+          "alto": 792,
+          "sha256_pixeles": "c8601f14a4797a75adbd0d3859cfe2cd3af95ba1962159b11021acb9c4faf536"
+        }
+      ],
+      "alcance": "Igualdad visual del render; no implica transcripción si la referencia continúa pendiente."
+    },
+    {
+      "referencia": "2015/480938-Modelos de parcial FISICA II actualizado 060813(0).pdf",
+      "sha256_referencia": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+      "copia": "2015/Extras/DOC-20160612-WA0011.pdf",
+      "sha256_copia": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+      "metodo": "PyMuPDF render nativo72dpi, escala de grises, alpha=false; igualdad de dimensiones y SHA-256 de muestras en todas las páginas",
+      "paginas": [
+        {
+          "pagina": 1,
+          "ancho": 595,
+          "alto": 842,
+          "sha256_pixeles": "629efa7388754f005ad34d4829968ba869d9c855d83018b0975955026732b266"
+        },
+        {
+          "pagina": 2,
+          "ancho": 595,
+          "alto": 842,
+          "sha256_pixeles": "9881f32db02669b31b5803184675dfe38fafef37ee76afe8891ff2b371466fb7"
+        },
+        {
+          "pagina": 3,
+          "ancho": 595,
+          "alto": 842,
+          "sha256_pixeles": "a6ed77bbd0163080996f4dfbd8eee20f19d9c83417ea5fab1f80873981433633"
+        },
+        {
+          "pagina": 4,
+          "ancho": 595,
+          "alto": 842,
+          "sha256_pixeles": "68a083208cf451bcfd56c4403312671fe5d3666edfd041d5ec42d5b733e61a97"
+        },
+        {
+          "pagina": 5,
+          "ancho": 595,
+          "alto": 842,
+          "sha256_pixeles": "03692494f0d0a5c1d7ac68f20927aeaff5681f6f43c00710ba533b74359dbf07"
+        },
+        {
+          "pagina": 6,
+          "ancho": 595,
+          "alto": 842,
+          "sha256_pixeles": "d67f93d1951d2f64754536eb3957e4b283031618136c34a5c0b341a49dd3ee50"
+        },
+        {
+          "pagina": 7,
+          "ancho": 595,
+          "alto": 842,
+          "sha256_pixeles": "b50ca2ca2a794c4bc5af84fd31ef7522e7f5842ae18dab7f9cc2a58ff3798818"
+        },
+        {
+          "pagina": 8,
+          "ancho": 595,
+          "alto": 842,
+          "sha256_pixeles": "a50dcc7f56fc16f7f15696a5d0175cafad6124b322ba68e1730b1add168de432"
+        },
+        {
+          "pagina": 9,
+          "ancho": 595,
+          "alto": 842,
+          "sha256_pixeles": "c4520f2ec393b014257337bcb40eea0d662742d3c7696afeb723ff3d76635c04"
+        },
+        {
+          "pagina": 10,
+          "ancho": 595,
+          "alto": 842,
+          "sha256_pixeles": "c3f0be7da25605ebd27cf38ee9e85413421e2cd4077247c70872d773170e15b7"
+        },
+        {
+          "pagina": 11,
+          "ancho": 595,
+          "alto": 842,
+          "sha256_pixeles": "87e0ce5c758598a7fe08d181d7db6925b3a13f9ec0eef2142ce2e030963577fe"
+        },
+        {
+          "pagina": 12,
+          "ancho": 595,
+          "alto": 842,
+          "sha256_pixeles": "fb40d65caa58770fbddde55cec87756f9bda820f8c5d64415969204ad2c6ce08"
+        },
+        {
+          "pagina": 13,
+          "ancho": 595,
+          "alto": 842,
+          "sha256_pixeles": "f1b9fdfeb76a75a05b083671e6994e5bec942d72264df7da0cfe3b78816ed538"
+        },
+        {
+          "pagina": 14,
+          "ancho": 595,
+          "alto": 842,
+          "sha256_pixeles": "cf8edd3b5907ed4004121a08176c64ed8e00738fa62d7e1b1d8e365a83ece971"
+        },
+        {
+          "pagina": 15,
+          "ancho": 595,
+          "alto": 842,
+          "sha256_pixeles": "b87267fd9802018d3b413dd06ed09bd56d1f9284f819456e8f9ea30bc4c05887"
+        },
+        {
+          "pagina": 16,
+          "ancho": 595,
+          "alto": 842,
+          "sha256_pixeles": "0b219920f9011dd2ce1afa4da36a13c41e8a5b5e9fe4d88f488c4c3651519220"
+        },
+        {
+          "pagina": 17,
+          "ancho": 595,
+          "alto": 842,
+          "sha256_pixeles": "effe62e096486c2ce5eaaf02a718c91307a0ca84b8d174bfc8ea8089833633f7"
+        },
+        {
+          "pagina": 18,
+          "ancho": 595,
+          "alto": 842,
+          "sha256_pixeles": "018e07afc378d3cae37fe350c4d4519ca0c042d5dd01c52a89ac7b823e1d97ef"
+        },
+        {
+          "pagina": 19,
+          "ancho": 595,
+          "alto": 842,
+          "sha256_pixeles": "5964dc36a853dcd5cfee2ee6dde3e11e305677bccf1e8efc7e92c351ec7dd1ea"
+        },
+        {
+          "pagina": 20,
+          "ancho": 595,
+          "alto": 842,
+          "sha256_pixeles": "67126b3480ebde07ce4bde7aa58fac6e70a05b95e7969a1f0db8dc99b380d2b2"
+        },
+        {
+          "pagina": 21,
+          "ancho": 595,
+          "alto": 842,
+          "sha256_pixeles": "de17e887de2d652a7283235727d98dc4e0b7e5979ef9959eea2fcc8fec52e4e2"
+        },
+        {
+          "pagina": 22,
+          "ancho": 595,
+          "alto": 842,
+          "sha256_pixeles": "096085ed30f8ec8171fa3d00aa4bf5cee66f16b7dd4b00ca371d990cb2ce4e42"
+        },
+        {
+          "pagina": 23,
+          "ancho": 595,
+          "alto": 842,
+          "sha256_pixeles": "4865b8be9dbf5c4b16289531f5809a9eec8111417bc4e18e3122c570382e7974"
+        },
+        {
+          "pagina": 24,
+          "ancho": 595,
+          "alto": 842,
+          "sha256_pixeles": "81ba0f0f12057ce1ff86e82d5f8fff22242e3d33c8c207d5be6c399abfec3868"
+        },
+        {
+          "pagina": 25,
+          "ancho": 595,
+          "alto": 842,
+          "sha256_pixeles": "4c62a31d1efb70891fd3b9be19bb412d9f631e515e111ce2f4c22212cad9d9f2"
+        },
+        {
+          "pagina": 26,
+          "ancho": 595,
+          "alto": 842,
+          "sha256_pixeles": "3f19091ea6ab79c3c0f306438a705b98171b1438de7787110b56d2bfb5397cfd"
+        },
+        {
+          "pagina": 27,
+          "ancho": 595,
+          "alto": 842,
+          "sha256_pixeles": "1514db76a5da38d5d03473ea64b758cc8d42f41012face0bb3e93e027aa80647"
+        }
+      ],
+      "alcance": "Igualdad visual del render; no implica transcripción si la referencia continúa pendiente."
+    }
+  ]
+}

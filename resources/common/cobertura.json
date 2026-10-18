@@ -248,7 +248,22 @@
       "math_esperada": 19,
       "math_renderizada_github": 19,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/fuerza-magnetica-laboratorio-8.md",
-      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
+      "fuentes_adicionales": [
+        {
+          "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS 2015- TP N° 8.pdf.pdf",
+          "sha256": "cbac3a9dab0d0636f768bb54d5cdc44e68f87a622e7c43c55d074e81dd04ecf7",
+          "paginas_verificadas_identidad_render": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "estado": "píxeles idénticos a páginas de referencia ya cotejadas; evidencia en duplicados-render.json"
+        }
+      ]
     },
     {
       "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS 2015- TP N° 7-1.pdf",
@@ -267,7 +282,23 @@
       "math_esperada": 35,
       "math_renderizada_github": 35,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/campo-induccion-magnetica-laboratorio-7.md",
-      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
+      "fuentes_adicionales": [
+        {
+          "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS 2015- TP N° 7.pdf.pdf",
+          "sha256": "0e5f0f3572b24911f39be3d34cd5eebba656b6e0420b4dc51dc954711f50c433",
+          "paginas_verificadas_identidad_render": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "estado": "píxeles idénticos a páginas de referencia ya cotejadas; evidencia en duplicados-render.json"
+        }
+      ]
     },
     {
       "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS 2015- TP N° 7-1.pdf",
@@ -285,7 +316,22 @@
       "math_esperada": 20,
       "math_renderizada_github": 20,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/fuerza-magnetica-laboratorio-8-version-2.md",
-      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
+      "fuentes_adicionales": [
+        {
+          "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS 2015- TP N° 7.pdf.pdf",
+          "sha256": "0e5f0f3572b24911f39be3d34cd5eebba656b6e0420b4dc51dc954711f50c433",
+          "paginas_verificadas_identidad_render": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "estado": "píxeles idénticos a páginas de referencia ya cotejadas; evidencia en duplicados-render.json"
+        }
+      ]
     },
     {
       "original": "2015/HOJA DE DATOS  TP Nº 1.docx",
@@ -1072,9 +1118,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 26,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 26,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/potencial-laboratorio-1-compilado.md",
-      "estado": "pendiente render GitHub"
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
     }
   ]
 }
