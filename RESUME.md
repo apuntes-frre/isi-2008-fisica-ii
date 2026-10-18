@@ -927,3 +927,13 @@ verificadas también por sus tablas.
 - Próximo: laboratorio7 páginas40–45 y8 páginas46–51, incluidas hojas; luego
   laboratorios1–4 páginas2–30. Comparar las versiones individuales sin asumir
   identidad por título o porcentaje de coincidencia textual.
+
+## Checkpoint 57: cierre verificado del potenciómetro
+
+- Potenciómetro confirmado en GitHub15/15, cuatro imágenes cargadas y sin
+  errores matemáticos ni fórmulas expuestas como código.
+- Las59notas tienen conteos de render confirmados:1094expresiones. Fuentes
+  cotejadas visualmente:206páginas únicas. Materia y compilado siguen parciales.
+- Siguiente punto exacto: fuente47 páginas40–45 (laboratorio7 y hoja) y46–51
+  (laboratorio8 y hoja), después2–30 (laboratorios1–4). No repetir lo ya cubierto
+  en31–39,52–98 o confundir versiones individuales.
