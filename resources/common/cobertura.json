@@ -418,6 +418,21 @@
       "math_renderizada_github": null,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/potencial-electrico-guia.md",
       "estado": "pendiente render GitHub"
+    },
+    {
+      "original": "2015/GUIA DE PROBLEMAS PROPUESTOS 1ra parte.pdf",
+      "sha256": "efac01b619f48d06286a725a5a7ccc8de7b6baffb2a931515c9dba28ae7e5e5b",
+      "nota": "notes/2015/practica/capacidad-dielectrico-guia.md",
+      "paginas_revisadas": [
+        13,
+        14,
+        15
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 26,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/capacidad-dielectrico-guia.md",
+      "estado": "pendiente render GitHub"
     }
   ]
 }

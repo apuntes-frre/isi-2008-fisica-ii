@@ -376,3 +376,17 @@ git diff --check
 - Siguiente: verificar render potencial16math/ochofiguras y
   Gauss8math/seisfiguras. Luego capacidad desde página13, renderizar14–15 para
   encontrar fin.
+
+## Checkpoint 22: capacidad y dieléctrico 2015
+
+- 28 notas/secciones, 442 expresiones esperadas, 97 páginas-sección cotejadas
+  (94 únicas).
+- Capacidad páginas13–15: once preguntas, catorce problemas, once figuras.
+  Página15 cubierta solo sección capacidad; circuitos empieza después.
+- Potencial a93892d:16/16math y ocho figuras cargadas verificadas.
+  Gauss0fc1187:8/8math y seis figuras cargadas verificadas.
+- Capacidad pendiente render:26math y once figuras. Revisar formatos originales
+  P/B conservados y asociación de los tres circuitos del problema5.
+- Próximo: circuitos desde página15 hasta final antes de «GUIAS7 12 Segundo
+  parcial en construccion» en19. Renderizar16–19, delimitar solapamientos con
+  fuente50 por cotejo y no asumir duplicado.
