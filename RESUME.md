@@ -14,8 +14,8 @@
   `/Users/carlosferreyra/Library/CloudStorage/OneDrive-FacultadRegionalResistencia/Facultad/Materias Homogeneas/Fisica II`.
 - Inventario preliminar:
   `/Users/carlosferreyra/Development/apuntes-frre/.transcription/dispatch-fisica-ii-2026-10-17/source-inventory.json`.
-- Preflight de los 143 archivos EN CURSO, copias numeradas y SHA-256:
-  `/tmp/fisica-ii-20261017-fuentes`; al terminar genera `sources.json`.
+- Preflight de los 143 archivos COMPLETADO, copias numeradas y SHA-256:
+  `/tmp/fisica-ii-20261017-fuentes`; inventario completo en `sources.json`.
 - Extracciones y vistas: `/tmp/fisica-ii-conversion`.
 - Archivo RAR de CD 2016 extraído con bsdtar en `/tmp/fisica-ii-conversion/cd`;
   software NO ejecutado.
@@ -50,8 +50,8 @@
 - Docling Faraday omite cinco fórmulas, reparadas por comparación visual.
 - mdformat aplicado a nota Faraday con GFM y MyST.
 - Formato, lint y checker self-test/base aprobados para nota e inventario.
-- Pendientes: diff check,
-  commit, push, PR borrador y conteo MathJax real en GitHub.
+- Pendientes: diff check, commit, push, PR borrador y conteo MathJax real en
+  GitHub.
 
 ## Próximo paso concreto
 
@@ -68,3 +68,13 @@ cd /Users/carlosferreyra/Development/apuntes-frre/isi-2008-fisica-ii
 /Users/carlosferreyra/.local/bin/mise -C .github/transcription exec -- uv run check.py --base origin/main
 git diff --check
 ```
+
+## Checkpoint 2 en cierre
+
+- Checkpoint 1 remoto: `5d6a5b9`, PR borrador
+  <https://github.com/apuntes-frre/isi-2008-fisica-ii/pull/1>.
+- Faraday: GitHub verificado, 17/17 expresiones; cero merror/código residual.
+- TP1 potencial: siete páginas normalizadas revisadas, todas las ecuaciones WMF
+  reparadas y cinco figuras extraídas; fuente y SHA-256 registrados.
+- Nota y medios guardados; cerrando lint y commit. Render GitHub pendiente.
+- Preflight 143/143 finalizado con hashes y páginas. Textos Poppler extraídos.
