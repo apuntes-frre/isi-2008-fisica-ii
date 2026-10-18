@@ -222,9 +222,9 @@ originales de las normalizadas y registra conteos matemáticos.
   carátula y páginas sin ejercicios registradas. SHA-256:
   `efac01b619f48d06286a725a5a7ccc8de7b6baffb2a931515c9dba28ae7e5e5b`.
 - `2015/GUIA DE PROBLEMAS PROPUESTOS 2da parte.pdf`: 13 páginas; parcial:
-  fuerzas sobre cargas páginas1-3; otras secciones pendientes. SHA-256:
-  `e2452f4b287c4401d9902c425f82a9caaab0bb7dd7c877c724934eb2bed5a9fa`. Duplicado
-  exacto de `2015/Extras/DOC-20160609-WA0004.pdf`.
+  fuerzas y propiedades páginas1-6; página6 solo propiedades; resto pendiente.
+  SHA-256: `e2452f4b287c4401d9902c425f82a9caaab0bb7dd7c877c724934eb2bed5a9fa`.
+  Duplicado exacto de `2015/Extras/DOC-20160609-WA0004.pdf`.
 - `2015/Grupos de Lab ISI.xlsx`: no PDF páginas; administrativo; no convertir a
   apunte. SHA-256:
   `28d5b232e9587a10874c8daf0f00de27e500424901b9af6f3573fecd5f0f5845`.

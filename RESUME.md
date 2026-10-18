@@ -424,3 +424,18 @@ git diff --check
 - Próximo: fuente52 campo de inducción/propiedades desde página4. Página4render
   ya revisado; renderizar5y6 para delimitar final y conservar
   Fig1P/etiquetas/unidades originales.
+
+## Checkpoint 25: Biot–Savart y propiedades
+
+- 31 notas/secciones,507expresiones esperadas;111páginas únicas de fuentes
+  cotejadas. Fuente52 parcial en1–6; página6 cubierta solo sección propiedades.
+- Propiedades:13preguntas,14problemas(1,2,5,8,9,12,15,16,19,20,21,28,31,32),10figuras.
+  No confundir números al inicio de continuaciones con números de problema; las
+  extracciones requieren cotejo visual.
+- Circuitos1800502:13/13math y14imágenes cargadas verificadas.
+  Fuerzas2848689:32/32math; cincofiguras cargadas y selector de velocidades aún
+  cargándose al primer chequeo.
+- Propiedades pendiente publicar/render:20math y10figuras.
+- Próximo: inducción electromagnética desde mitad de página6; renderizar7–8 para
+  localizar final y revisar todas las figuras y preguntas con respuestas en
+  blanco.
