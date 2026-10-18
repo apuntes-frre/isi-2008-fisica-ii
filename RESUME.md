@@ -455,3 +455,14 @@ git diff --check
 - Próximo: magnetismo en medios materiales desde fin de página8; renderizar9–10
   y delimitar hasta título corrientealterna. Conservar tablas de
   magnetización/datos y fórmulas.
+
+## Checkpoint 27: magnetismo en medios materiales
+
+- 33 notas/secciones,529expresiones esperadas;115páginas únicas cotejadas.
+  Fuente52 hasta página10 solo sección medios materiales.
+- Medios:11preguntas,7problemas,1figura,tabla4registros de susceptibilidad
+  y14paresH/B. ψ/χ y unidadA/m² originales conservados; H800.000 no se corrige.
+- Inducción9a089b5 publicada; verificar8math/cuatrofiguras. Medios pendiente
+  publicar/render14math/unafigura/dostablas.
+- Próximo: corriente alterna empieza en página10; renderizar11–13 para delimitar
+  final y Maxwell, recuperar fórmulas de valor eficaz que pdftotext pierde.

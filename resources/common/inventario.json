@@ -797,7 +797,7 @@
       "duplicado_sha256_de": "2015/Extras/DOC-20160609-WA0004.pdf",
       "clasificacion": "pendiente de revisión documental",
       "evidencia": "",
-      "estado": "parcial: fuerzas, propiedades e inducción páginas1-8; página8 solo inducción; resto pendiente",
+      "estado": "parcial: fuerzas a medios materiales páginas1-10; página10 solo medios; alterna y Maxwell pendientes",
       "paginas_revisadas": [
         1,
         2,
@@ -806,14 +806,17 @@
         5,
         6,
         7,
-        8
+        8,
+        9,
+        10
       ],
       "copia_local": "/tmp/fisica-ii-20261017-fuentes/52-GUIA DE PROBLEMAS PROPUESTOS 2da parte.pdf",
       "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/52-GUIA DE PROBLEMAS PROPUESTOS 2da parte.txt",
       "notas": [
         "notes/2015/practica/fuerzas-magneticas-cargas-guia.md",
         "notes/2015/practica/campo-induccion-biot-savart-guia.md",
-        "notes/2015/practica/induccion-electromagnetica-guia.md"
+        "notes/2015/practica/induccion-electromagnetica-guia.md",
+        "notes/2015/practica/magnetismo-medios-materiales-guia.md"
       ]
     },
     {
