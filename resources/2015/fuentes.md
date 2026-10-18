@@ -189,8 +189,7 @@ originales de las normalizadas y registra conteos matemáticos.
   páginas; transcrito y validado localmente. SHA-256:
   `a7e46cb22afe66acb29dd101476d0f38f8d6234347fcb0849363105086fdd645`.
 - `2015/FISICA II - EXPERIENCIAS DE LABORATORIOS 2015- TP N° 7-1.pdf`: 13
-  páginas; laboratorio 7 transcrito, páginas 1-7; laboratorio 8 páginas 8-13
-  pendiente. SHA-256:
+  páginas; transcrito y validado localmente en dos secciones. SHA-256:
   `53d7c28ab3daca9c606a3d49f4ad273d2591e9dcde2f3fe9fd9960b81b5811d6`.
 - `2015/FISICA II - EXPERIENCIAS DE LABORATORIOS 2015- TP N° 7.pdf`: 13 páginas;
   laboratorio 7 transcrito, páginas 1-7; laboratorio 8 páginas 8-13 pendiente.
@@ -497,6 +496,21 @@ originales de las normalizadas y registra conteos matemáticos.
   unidades de μo y numeración conservadas. Autor/año impreso no constan; cátedra
   Física II UTN FRRe.
 - [Transcripción](../../notes/2015/practica/campo-induccion-magnetica-laboratorio-7.md).
-- Páginas 8–13: laboratorio 8, pendiente comparar versión y anexo con el PDF
-  independiente ya transcrito; no se declara cubierto todo este archivo.
+- Páginas 8–13: comparadas y conservadas en la versión del laboratorio 8
+  indicada abajo. El archivo compuesto queda cubierto por ambas notas.
 - Render GitHub pendiente, 35 expresiones esperadas.
+
+## Fuerza magnética, versión del cuadernillo
+
+- Original y SHA-256: mismo PDF compuesto de trece páginas del laboratorio 7,
+  registrado arriba.
+- Páginas 8–13 comparadas visualmente en su totalidad con la versión PDF
+  independiente (45), contraste tokenizado pdftotext y ambos juegos de figuras.
+- El contenido docente común coincide: nueve ecuaciones numeradas, fórmulas de
+  ajuste, figuras y tablas. Se conserva en una nota de versión independiente con
+  el anexo de página 13: representación gráfica, cálculo de pendiente A = Δy/Δx
+  = Δθ/ΔI =, ajuste y campos vacíos de A/B.
+- Se reutilizan las figuras comunes visualmente cotejadas; no se declaran
+  duplicados por hash los dos PDF.
+- [Versión del cuadernillo](../../notes/2015/practica/fuerza-magnetica-laboratorio-8-version-2.md).
+- Render GitHub pendiente; 20 expresiones esperadas.

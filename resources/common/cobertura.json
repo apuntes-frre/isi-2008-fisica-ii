@@ -1,5 +1,5 @@
 {
-  "alcance": "Parcial; no declara completa Física II; laboratorio 7 corresponde solo a páginas 1-7 de un PDF de 13 páginas",
+  "alcance": "Parcial; no declara completa Física II. El cuadernillo de laboratorios 7 y 8 se conserva en dos notas por sus páginas 1-7 y 8-13.",
   "documentos": [
     {
       "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS 2015 - TP N° 1.docx",
@@ -257,6 +257,24 @@
       "math_esperada": 35,
       "math_renderizada_github": null,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/campo-induccion-magnetica-laboratorio-7.md",
+      "estado": "pendiente render GitHub"
+    },
+    {
+      "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS 2015- TP N° 7-1.pdf",
+      "sha256": "53d7c28ab3daca9c606a3d49f4ad273d2591e9dcde2f3fe9fd9960b81b5811d6",
+      "nota": "notes/2015/practica/fuerza-magnetica-laboratorio-8-version-2.md",
+      "paginas_revisadas": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 20,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/fuerza-magnetica-laboratorio-8-version-2.md",
       "estado": "pendiente render GitHub"
     }
   ]

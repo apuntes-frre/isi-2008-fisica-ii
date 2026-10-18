@@ -228,9 +228,10 @@ TABLA 1. Radio medio =  N =  $`I_{max}`$ =
 
 Se transcriben las páginas 1–7 del PDF: el laboratorio 7 completo, su hoja de
 datos y la página 7 sin contenido adicional al encabezado/paginación. Las
-páginas 8–13 pertenecen al laboratorio 8 y quedan como sección independiente
-pendiente de comparar con su versión ya transcrita. Se conservan la repetición
-del paso 4, el denominador de (6) sin agregar factor 2 y las unidades impresas
-de μo, incluido s². No se resuelven las preguntas.
+páginas 8–13 pertenecen al laboratorio 8 y se conservan en la
+[versión del laboratorio 8](fuerza-magnetica-laboratorio-8-version-2.md),
+cotejada por separado. Se conservan la repetición del paso 4, el denominador de
+(6) sin agregar factor 2 y las unidades impresas de μo, incluido s². No se
+resuelven las preguntas.
 
 [Procedencia y comprobaciones](../../../resources/2015/fuentes.md).

@@ -580,7 +580,7 @@
       "duplicado_sha256_de": null,
       "clasificacion": "pendiente de revisión documental",
       "evidencia": "",
-      "estado": "laboratorio 7 transcrito, páginas 1-7; laboratorio 8 páginas 8-13 pendiente",
+      "estado": "transcrito y validado localmente en dos secciones",
       "paginas_revisadas": [
         1,
         2,
@@ -588,11 +588,20 @@
         4,
         5,
         6,
-        7
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
       ],
       "copia_local": "/tmp/fisica-ii-20261017-fuentes/42-FISICA II - EXPERIENCIAS DE LABORATORIOS 2015- TP N° 7-1.pdf",
       "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/42-FISICA II - EXPERIENCIAS DE LABORATORIOS 2015- TP N° 7-1.txt",
-      "nota": "notes/2015/practica/campo-induccion-magnetica-laboratorio-7.md"
+      "notas": [
+        "notes/2015/practica/campo-induccion-magnetica-laboratorio-7.md",
+        "notes/2015/practica/fuerza-magnetica-laboratorio-8-version-2.md"
+      ]
     },
     {
       "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS 2015- TP N° 7.pdf",
@@ -614,7 +623,10 @@
       ],
       "copia_local": "/tmp/fisica-ii-20261017-fuentes/43-FISICA II - EXPERIENCIAS DE LABORATORIOS 2015- TP N° 7.pdf",
       "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/43-FISICA II - EXPERIENCIAS DE LABORATORIOS 2015- TP N° 7.txt",
-      "nota": "notes/2015/practica/campo-induccion-magnetica-laboratorio-7.md"
+      "notas": [
+        "notes/2015/practica/campo-induccion-magnetica-laboratorio-7.md",
+        "notes/2015/practica/fuerza-magnetica-laboratorio-8-version-2.md"
+      ]
     },
     {
       "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS 2015- TP N° 7.pdf.pdf",

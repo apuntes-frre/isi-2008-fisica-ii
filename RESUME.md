@@ -256,3 +256,22 @@ git diff --check
   laboratorio8 y transcribir variante/anexo sin presumir duplicado.
 - Render GitHub de esta nota pendiente: 35 math. Último checkpoint de fuerza
   magnética19 math también pendiente.
+
+## Checkpoint 14: cuadernillo completo de laboratorios 7 y 8
+
+- 17 notas/secciones, 72 páginas comparadas, 305 math esperadas. Son 16 fuentes
+  únicas de notas porque el PDF compuesto se divide en dos secciones. No se
+  declara completa la materia.
+- Fuente 42/43 (duplicados exactos) cubierta en páginas 1–13 por dos notas,
+  incluida página 7 vacía y anexo gráfico de página 13.
+- Nota de laboratorio8 versión2 incluye texto/ecuaciones/diagramas comunes
+  cotejados y pendiente gráfica adicional, sin rellenar resultados.
+- Helper actualizar-cobertura.py contempla rangos1–7 y8–13 y agrega notas por
+  fuente; cuidar que duplicados con notas múltiples reciban también la lista
+  notas, no una única nota antigua.
+- Estado próximo: publicar y verificar render de laboratorio7 (35), laboratorio8
+  (19), versión2 (20); imágenes pendientes tras carga asíncrona en algunos
+  apuntes.
+- A continuación: hojas DOCX independientes 54/55/56/57, guías de problemas
+  extensas 50/51/52/77, planificación y teoría 2015/2019, informes y exámenes
+  2020; bibliografía y otras materias separadas en inventario.
