@@ -172,9 +172,13 @@ OBJETO DE LA EXPERIENCIA:
 <tr><td>4.-</td></tr>
 </table>
 
+<!-- markdownlint-disable MD029 -->
+
 6. Longitud de onda del laser NeNe=
 1. Registrar el espectro de difracción con la cámara digital y empleando el
    programa ImageJ hacer una representación gráfica del espectro.
+
+<!-- markdownlint-enable MD029 -->
 
 | Distancia x | Intensidad I |
 | -- | -- |

@@ -835,3 +835,9 @@ verificadas también por sus tablas.
   tablas5filas. Difracción pendiente render22math y seis imágenes.
 - Próximo: espectrómetro78–80, polarización81–89, termometría90–93,
   calorimetría94–97 y variantes1–8. Compilado y materia siguen parciales.
+
+### Reparación del control de numeración del checkpoint49
+
+- MD029 rechazó la lista que empieza en6. Se agregó una excepción local solo
+  para esa lista original6/7; se conserva su inicio y el resto de reglas.
+- Checker de transcripción y lint volvieron a pasar tras el ajuste.
