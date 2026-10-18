@@ -125,3 +125,15 @@ Datos impresos en el original:
   por otro circuito.
 - Los datos y el valor de ω del problema 8 están impresos; se transcriben sin
   calcular soluciones.
+
+## Versión incluida en la guía identificada como 2011
+
+La sección de `2015/guia de problemas 2011.pdf`, páginas 28–29, contiene las
+mismas diez preguntas, ocho problemas y datos de R/L/C/f/ω. Se cotejaron ambas
+páginas; las siete figuras tienen los mismos píxeles decodificados que en la
+otra fuente. Se comparte esta nota sin duplicar matemática.
+
+La versión 2011 repite «Figura 2P» al cambiar de página; se registra esa
+repetición sin crear otro circuito. El año consta en el nombre del archivo; se
+conserva su carpeta canónica 2015. SHA-256:
+`5a5ae8ac33a7a3d14d854623015ef14bc0af3dae1651c013aed06567e28a8bca`.

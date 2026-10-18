@@ -725,3 +725,19 @@ verificadas también por sus tablas.
   Registrar repetición de «Figura2P» en cambio de página.
 - Maxwell30–31 todavía no revisadas. Inducción2011 pendiente render de quince
   expresiones y diez imágenes.
+
+## Checkpoint 42: procedencia compartida de corriente alterna
+
+- Se mantienen 45 notas y 798 expresiones; 147 páginas únicas cotejadas.
+- Fuente77 páginas28–29 registrada como procedencia adicional de corriente
+  alterna. Diez preguntas, ocho problemas, datos R/L/C/f/ω y siete figuras
+  coinciden; comparación de digests de píxeles confirma los siete bitmaps
+  idénticos. Se registra rótulo Figura2P repetido en cambio de página.
+- Maxwell30–31 ya cotejada: mismos nueve interrogantes y ocho problemas.
+  Ecuación6 presenta delimitadores superpuestos sobre x; el recorte ampliado y
+  capa textual confirman x. Guardar recorte como evidencia al compartir nota,
+  sin cambiar signos o valores. Falta confirmar bitmap de la onda y registrar la
+  procedencia adicional.
+- Inducción2011 todavía pendiente render de quince expresiones y diez imágenes.
+  Fuente77 no declarar completa hasta incorporar Maxwell y evidencia de la
+  superposición gráfica.
