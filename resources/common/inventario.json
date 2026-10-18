@@ -634,8 +634,10 @@
       "duplicado_sha256_de": null,
       "clasificacion": "pendiente de revisión documental",
       "evidencia": "",
-      "estado": "pendiente",
-      "paginas_revisadas": [],
+      "estado": "transcrito y validado localmente",
+      "paginas_revisadas": [
+        1
+      ],
       "copia_local": "/tmp/fisica-ii-20261017-fuentes/48-GUIA DE PROBLEMAS POLARIZACION-1.pdf",
       "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/48-GUIA DE PROBLEMAS POLARIZACION-1.txt"
     },
@@ -647,8 +649,10 @@
       "duplicado_sha256_de": "2015/GUIA DE PROBLEMAS POLARIZACION-1.pdf",
       "clasificacion": "pendiente de revisión documental",
       "evidencia": "",
-      "estado": "pendiente",
-      "paginas_revisadas": [],
+      "estado": "transcrito y validado localmente",
+      "paginas_revisadas": [
+        1
+      ],
       "copia_local": "/tmp/fisica-ii-20261017-fuentes/49-GUIA DE PROBLEMAS POLARIZACION.pdf",
       "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/49-GUIA DE PROBLEMAS POLARIZACION.txt"
     },
@@ -764,8 +768,10 @@
       "duplicado_sha256_de": null,
       "clasificacion": "pendiente de revisión documental",
       "evidencia": "",
-      "estado": "pendiente",
-      "paginas_revisadas": [],
+      "estado": "transcrito y validado localmente",
+      "paginas_revisadas": [
+        1
+      ],
       "copia_local": "/tmp/fisica-ii-20261017-fuentes/58-HOJA DE DATOS - TP N° 7.pdf",
       "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/58-HOJA DE DATOS - TP N° 7.txt"
     },
@@ -777,8 +783,10 @@
       "duplicado_sha256_de": null,
       "clasificacion": "pendiente de revisión documental",
       "evidencia": "",
-      "estado": "pendiente",
-      "paginas_revisadas": [],
+      "estado": "transcrito y validado localmente",
+      "paginas_revisadas": [
+        1
+      ],
       "copia_local": "/tmp/fisica-ii-20261017-fuentes/59-HOJA DE DATOS - TP N° 8.pdf",
       "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/59-HOJA DE DATOS - TP N° 8.txt"
     },

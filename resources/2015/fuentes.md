@@ -323,4 +323,46 @@ pendientes.
 - Diferencias conservadas: 12 voltios experimental/10.0 teórico y tamaños 8/10
   cm. No se armonizaron valores.
 - [Transcripción](../../notes/2015/practica/ecuacion-de-laplace-laboratorio-2.md).
+- Render GitHub: commit `abce6e4` (ver historial de la nota), 9/9 expresiones,
+  cero errores/código residual y montaje cargado.
+- URL:
+  <https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/ecuacion-de-laplace-laboratorio-2.md>.
+
+## Guía de polarización
+
+- Original: `GUIA DE PROBLEMAS POLARIZACION-1.pdf`.
+- SHA-256: `6c3101fdb606626b5d46125b8bbcd59bbd75cfa8ffafc69f990cf6b26f3286f6`.
+- Herramientas: PyMuPDF4LLM/Poppler para polarización; pdftotext -layout,
+  pdftoppm y PyMuPDF para formularios.
+- Cobertura: 1 página revisada; ocho problemas numerados más párrafo sin número
+  de dos polarizadores; dos diagramas; fórmulas reparadas con evidencia visual.
+  Se conserva Wlm² y comilla 23.0" del original. Autor y año impreso no constan;
+  pertenencia temática a Física II por polarización.
+- [Transcripción](../../notes/2015/practica/polarizacion-problemas.md).
+- Render GitHub pendiente.
+
+## Hoja de datos de campo magnético terrestre
+
+- Original: `HOJA DE DATOS - TP N° 7.pdf`.
+- SHA-256: `cb0aedf6129d5ba3237da419ad337fc8dbf3a72c886f95821ff7ac7a1654e1f3`.
+- Herramientas: PyMuPDF4LLM/Poppler para polarización; pdftotext -layout,
+  pdftoppm y PyMuPDF para formularios.
+- Cobertura: 1 página revisada; formulario de cuatro integrantes, parámetros y
+  tabla de 14 filas vacías. Verificado también con find_tables de PyMuPDF (16
+  filas incluyendo celda extra y encabezado). Cátedra Física II UTN FRRe; autor
+  y año impreso no constan.
+- [Transcripción](../../notes/2015/practica/campo-magnetico-terrestre-hoja-de-datos.md).
+- Render GitHub pendiente.
+
+## Hoja de datos de fuerza magnética
+
+- Original: `HOJA DE DATOS - TP N° 8.pdf`.
+- SHA-256: `24233365951bd907d32436ec4512ac6016f8b21dc42754c2054d57a8acd9a101`.
+- Herramientas: PyMuPDF4LLM/Poppler para polarización; pdftotext -layout,
+  pdftoppm y PyMuPDF para formularios.
+- Cobertura: 1 página revisada; formulario de cuatro integrantes y tabla de ocho
+  filas vacías, verificada también con find_tables de PyMuPDF. Símbolo ausente
+  después de μ en el propio PDF, registrado sin adivinar. Se conserva Corrinete.
+  Cátedra Física II UTN FRRe; autor y año impreso no constan.
+- [Transcripción](../../notes/2015/practica/fuerza-magnetica-hoja-de-datos.md).
 - Render GitHub pendiente.

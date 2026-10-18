@@ -107,3 +107,16 @@ git diff --check
   y PDF normalizado bajo `/tmp/fisica-ii-conversion`.
 - Siguiente documento pequeño: guía Polarización (2015, 1 página) y hojas de
   datos TP7/8.
+
+## Checkpoint 5: polarización y formularios
+
+- Laplace: render real GitHub 9/9 math y montaje cargado; corrección de
+  puntuación de títulos ya publicada (consultar git log).
+- Nuevas notas: polarización (1 p., ocho problemas y párrafo sin número, dos
+  diagramas), hojas de datos TP7 (1 p., 14 filas vacías) y TP8 (1 p., ocho filas
+  vacías y símbolo ausente en original señalado).
+- Tres páginas completas comparadas visualmente; tablas corroboradas con PyMuPDF
+  find_tables.
+- Local checker/formato/lint aprobados; pendientes push y render GitHub de estas
+  tres notas.
+- Siguiente lote: guía de Coulomb 2018 (3 p.) o completar DOCX Faraday variante.
