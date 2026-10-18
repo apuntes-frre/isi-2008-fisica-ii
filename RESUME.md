@@ -950,3 +950,19 @@ verificadas también por sus tablas.
 - Se preservan(6)sin2, Ksin1/2, μo con s² y tg/Tang; paso4 ya no se repite
   en este original. Checker local y diff --check pasaron. Pendiente render35math
   y cinco imágenes. Próximo: fuerza magnética páginas46–51, después2–30.
+
+## Checkpoint 59: fuerza magnética del compilado
+
+- Instrucción del usuario reafirmada: trabajar hasta estar listo para merge,
+  sin unir ni aprobar todavía. Mantener el PR en borrador mientras falte contenido.
+- 61 notas,1150 expresiones esperadas y218 páginas únicas cotejadas visualmente.
+- Fuente47 páginas46–51 completas:21expresiones, cinco figuras y forma de
+  espira reutilizada, procedimientos1.1–1.3 y2.1–2.6, tablas5y8lecturas vacías.
+  Se conserva L como densidad y horizontal/vertical. Dos θ recuperados de capa
+  textual se marcan por cuadro del render; no se infieren de la teoría.
+- Brújula compilada confirmada35/35, cinco imágenes, tablas2/8/15filas.
+  Fuerza pendiente render21math y ocho apariciones de seis imágenes únicas.
+- Checker local y diff --check pasaron; texto también contrastado con Poppler.
+- Fuente47 cubierta1,31–98. Restan2–30: laboratorios1–4 y hojas. Próximo:
+  Ohm24–30, despuésRC15–23, Laplace9–14 y potencial2–8. Después continuar
+  con el resto de originales pendientes del inventario; no declarar materia completa.
