@@ -811,3 +811,15 @@ verificadas también por sus tablas.
  10/11/8. Fotometría pendiente render15math, cuatro imágenes y tres tablas.
 - Próximo: interferencia70–73 y difracción74–77; luego espectrómetro78–80,
   polarización81–89, termometría90–93, calorimetría94–97 y variantes1–8.
+
+## Checkpoint 48: interferencia
+
+- 52 notas,955 expresiones esperadas y175 páginas únicas cotejadas visualmente.
+- Fuente47 páginas70–73 completas: tres figuras, recorte de ecuaciones con
+  delimitadores superpuestos, cuatro ecuaciones numeradas,21 expresiones y hoja
+  con cuatro lecturas vacías. Se conservan objetivos distintos y HeNe/NeNe.
+- Fotometría confirmada en GitHub15/15, cuatro imágenes y tablas5/11/12filas.
+  Interferencia pendiente render21math, cuatro imágenes y tabla5filas.
+- Checker local pasó; comparación adicional con pdftotext-layout del compilado
+  confirma texto, erratas y limitaciones de extracción de fórmulas. Próximo:
+  difracción74–77, luego espectrómetro78–80 y laboratorios15–17.
