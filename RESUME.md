@@ -886,3 +886,17 @@ verificadas también por sus tablas.
 - Checker local de termometría pasó; pendiente render9math, imagen y tablas.
 - Próximo: calorimetría94–97. Luego cotejar páginas2–51 del compilado,
   sin asumir que las variantes individuales ya transcritas cubren este PDF.
+
+## Checkpoint 54: calorimetría
+
+- 57 notas,1073 expresiones esperadas y199 páginas únicas cotejadas visualmente.
+- Fuente47 páginas94–97 completas: dos experiencias con siete pasos cada una,
+  materiales, actividades, balances y fórmulas;29expresiones. Imagen original
+  de ocho accesos del GLX y tabla textual de los iconos. Se conserva Qabs=-Qced
+  y signos posteriores,80C, barra de división y agrupación de la fórmula de c.
+- Termometría confirmada9/9, imagen cargada y tablas4/5/13filas. Calorimetría
+  pendiente render29math, una imagen y tabla de ocho operaciones. Checker local
+  y diff --check pasaron. Texto contrastado con pdftotext-layout.
+- Fuente47: revisadas1,35,39,52–98. Pendiente cotejo visual y documental2–51
+  excepto hojas35/39. Próximo: comparar laboratorios1–8 con versiones ya
+  transcritas; no duplicar notas si contenido coincide tras cotejo completo.

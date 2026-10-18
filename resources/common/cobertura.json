@@ -912,8 +912,24 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 9,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 9,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/termometria-laboratorio-16.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS.pdf",
+      "sha256": "70e9fa9786e0061c255e9800e559dff99013cc033105f4d23e064053d5d506f9",
+      "nota": "notes/2015/practica/calorimetria-laboratorio-17.md",
+      "paginas_revisadas": [
+        94,
+        95,
+        96,
+        97
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 29,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/calorimetria-laboratorio-17.md",
       "estado": "pendiente render GitHub"
     }
   ]

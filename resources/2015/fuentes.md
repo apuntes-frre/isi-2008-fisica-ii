@@ -208,8 +208,8 @@ originales de las normalizadas y registra conteos matemáticos.
 - `2015/FISICA II - EXPERIENCIAS DE LABORATORIOS.pdf`: 98 páginas; parcial:
   hojas de datos35 y39, Faraday52–56, alterna58–64, fotometría65–69,
   interferencia70–73, difracción74–77, espectrómetro78–80, polarización81–89,
-  termometría90–93 y anexoGLX98 transcritos; aviso Faraday57 cotejado y
-  registrado; resto pendiente. SHA-256:
+  termometría90–93, calorimetría94–97 y anexoGLX98 transcritos; aviso Faraday57
+  cotejado y registrado; resto pendiente. SHA-256:
   `70e9fa9786e0061c255e9800e559dff99013cc033105f4d23e064053d5d506f9`.
 - `2015/GUIA DE PROBLEMAS POLARIZACION-1.pdf`: 1 páginas; transcrito y validado
   localmente. SHA-256:
