@@ -754,3 +754,20 @@ verificadas también por sus tablas.
   inducción2011 y las adiciones de procedencia compartida, incluida la imagen
   de Maxwell. Después inventariar por páginas el compilado fuente47 de98p,
   comparándolo con laboratorios ya cotejados antes de transcribir variantes.
+
+## Checkpoint 44: primeras secciones del compilado de laboratorios
+
+- 48 notas y 810 expresiones esperadas. 154 páginas únicas de fuentes revisadas
+  visualmente, incluidas carátulas y anexo; no es cobertura completa de la materia.
+- Inducción2011 confirmada en GitHub: 15/15 expresiones y diez imágenes cargadas.
+  Maxwell confirmado: 18/18 y ambas imágenes cargadas, incluido recorte2011.
+- Fuente47: mapa textual de laboratorios1–17 y anexo en inventario. Ninguna página
+  idéntica en render72dpi gris con fuentes40,41,42,45,73; no se asume duplicación.
+- Hojas35 y39 transcritas: FEM con ocho expresiones y Kirchoff con cuatro; seis
+  filas vacías para integrantes, tres lecturas por tabla y celdas combinadas.
+- Página57 cotejada: solo presentación de Faraday; aviso de guía adicional
+  incorporado en nota existente. Carátula1 cotejada. Anexo98: bitmap JPEG
+  original conservado y29etiquetas transcritas; extracción textual las omite.
+- Checker local pasó para las cinco notas/inventario modificados. Pendiente
+  render de nuevas hojas y anexo, y resto del compilado47. Próximo: laboratorio9
+  páginas52–56, distinto de la presentación9bis y guía adicional ya cubiertas.

@@ -104,3 +104,16 @@ perfectamente sinusoidal d) El área de $`e(t)`$ con qué está relacionado y c�
 Se conserva la ecuación (5) tal como aparece en el original, sin agregar una
 sumatoria. Fuente PDF de dos páginas; el DOCX es una versión diferente. Véase
 [procedencia y comprobaciones](../../../resources/2015/fuentes.md).
+
+## Presentación en el compilado de laboratorios
+
+La página 57 de `2015/FISICA II - EXPERIENCIAS DE LABORATORIOS.pdf` presenta el
+trabajo Nº 9BIS, TEMA: LEY DE FARADAY. Bajo «OBJETO DE LA EXPERIENCIA» reproduce
+el objetivo de esta nota, y bajo «RESUMEN» reproduce sus dos párrafos iniciales.
+A continuación dice:
+
+> GUÍA COMPLETA EN ARCHIVO ADICIONAL : TRABAJO DE LABORATORIO Nº 9bis
+
+Esa página no incluye equipamiento, fundamentos, montaje ni tablas. Se registra
+aquí como presentación compartida; la guía completa anterior procede del PDF
+adicional de dos páginas.

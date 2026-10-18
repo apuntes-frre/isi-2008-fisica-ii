@@ -49,7 +49,17 @@
       "math_esperada": 17,
       "math_renderizada_github": 17,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/ley-de-faraday-laboratorio-9-bis.md",
-      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
+      "fuentes_adicionales": [
+        {
+          "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS.pdf",
+          "sha256": "70e9fa9786e0061c255e9800e559dff99013cc033105f4d23e064053d5d506f9",
+          "paginas_revisadas": [
+            57
+          ],
+          "estado": "anuncio del laboratorio cotejado; solo objeto y resumen compartidos, con aviso adicional registrado"
+        }
+      ]
     },
     {
       "original": "2015/TRABAJO DE LABORATORIO Nº 9 BIS.docx",
@@ -726,8 +736,47 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 15,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 15,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/induccion-electromagnetica-guia-2011.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS.pdf",
+      "sha256": "70e9fa9786e0061c255e9800e559dff99013cc033105f4d23e064053d5d506f9",
+      "nota": "notes/2015/practica/medicion-fem-hoja-de-datos.md",
+      "paginas_revisadas": [
+        35
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 8,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/medicion-fem-hoja-de-datos.md",
+      "estado": "pendiente render GitHub"
+    },
+    {
+      "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS.pdf",
+      "sha256": "70e9fa9786e0061c255e9800e559dff99013cc033105f4d23e064053d5d506f9",
+      "nota": "notes/2015/practica/kirchoff-hoja-de-datos.md",
+      "paginas_revisadas": [
+        39
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 4,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/kirchoff-hoja-de-datos.md",
+      "estado": "pendiente render GitHub"
+    },
+    {
+      "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS.pdf",
+      "sha256": "70e9fa9786e0061c255e9800e559dff99013cc033105f4d23e064053d5d506f9",
+      "nota": "notes/2015/practica/xplorer-glx-anexo.md",
+      "paginas_revisadas": [
+        98
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 0,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/xplorer-glx-anexo.md",
       "estado": "pendiente render GitHub"
     }
   ]

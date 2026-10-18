@@ -683,10 +683,250 @@
       "duplicado_sha256_de": null,
       "clasificacion": "pendiente de revisión documental",
       "evidencia": "",
-      "estado": "pendiente",
-      "paginas_revisadas": [],
+      "estado": "parcial: hojas de datos35 y39, anexoGLX98 transcritos; aviso Faraday57 cotejado y registrado; resto pendiente",
+      "paginas_revisadas": [
+        1,
+        35,
+        39,
+        57,
+        98
+      ],
       "copia_local": "/tmp/fisica-ii-20261017-fuentes/47-FISICA II - EXPERIENCIAS DE LABORATORIOS.pdf",
-      "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/47-FISICA II - EXPERIENCIAS DE LABORATORIOS.txt"
+      "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/47-FISICA II - EXPERIENCIAS DE LABORATORIOS.txt",
+      "notas": [
+        "notes/2015/practica/medicion-fem-hoja-de-datos.md",
+        "notes/2015/practica/kirchoff-hoja-de-datos.md",
+        "notes/2015/practica/xplorer-glx-anexo.md"
+      ],
+      "paginas_transcritas": [
+        35,
+        39,
+        57,
+        98
+      ],
+      "observaciones_cobertura": "Carátula1 cotejada: EXPERIENCIAS DE LABORATORIOS. Página98 es diagrama GLX con etiquetas no extraídas: diagrama original conservado y29etiquetas transcritas y cotejadas. Mapa de secciones generado desde texto de98p; ese mapa no acredita revisión visual del resto. Ninguna igualdad de render con fuentes40,41,42,45,73 a72dpi gris; no se presume duplicación.",
+      "secciones_compartidas": [
+        {
+          "nota": "notes/2015/practica/ley-de-faraday-laboratorio-9-bis.md",
+          "paginas": [
+            57
+          ],
+          "comparacion": "solo objeto y resumen coinciden; aviso de guía adicional incorporado; no confundir con guía completa de dos páginas"
+        }
+      ],
+      "mapa_secciones_textual": [
+        {
+          "titulo": "1. Potencial eléctrico; mapeo",
+          "paginas": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ],
+          "alcance": "localización por capa textual; no acredita transcripción ni cotejo completo"
+        },
+        {
+          "titulo": "2. Ecuación de Laplace",
+          "paginas": [
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ],
+          "alcance": "localización por capa textual; no acredita transcripción ni cotejo completo"
+        },
+        {
+          "titulo": "3. Circuito RC",
+          "paginas": [
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23
+          ],
+          "alcance": "localización por capa textual; no acredita transcripción ni cotejo completo"
+        },
+        {
+          "titulo": "4. Ohm y resistencias",
+          "paginas": [
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "alcance": "localización por capa textual; no acredita transcripción ni cotejo completo"
+        },
+        {
+          "titulo": "5. FEM desconocida",
+          "paginas": [
+            31,
+            32,
+            33,
+            34,
+            35
+          ],
+          "alcance": "localización por capa textual; no acredita transcripción ni cotejo completo"
+        },
+        {
+          "titulo": "6. Kirchoff",
+          "paginas": [
+            36,
+            37,
+            38,
+            39
+          ],
+          "alcance": "localización por capa textual; no acredita transcripción ni cotejo completo"
+        },
+        {
+          "titulo": "7. Campo de inducción magnética",
+          "paginas": [
+            40,
+            41,
+            42,
+            43,
+            44,
+            45
+          ],
+          "alcance": "localización por capa textual; no acredita transcripción ni cotejo completo"
+        },
+        {
+          "titulo": "8. Fuerza magnética",
+          "paginas": [
+            46,
+            47,
+            48,
+            49,
+            50,
+            51
+          ],
+          "alcance": "localización por capa textual; no acredita transcripción ni cotejo completo"
+        },
+        {
+          "titulo": "9. Faraday",
+          "paginas": [
+            52,
+            53,
+            54,
+            55,
+            56
+          ],
+          "alcance": "localización por capa textual; no acredita transcripción ni cotejo completo"
+        },
+        {
+          "titulo": "9 bis. Presentación de guía adicional",
+          "paginas": [
+            57
+          ],
+          "alcance": "localización por capa textual; no acredita transcripción ni cotejo completo"
+        },
+        {
+          "titulo": "10. Corriente alterna serie",
+          "paginas": [
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64
+          ],
+          "alcance": "localización por capa textual; no acredita transcripción ni cotejo completo"
+        },
+        {
+          "titulo": "11. Fotometría",
+          "paginas": [
+            65,
+            66,
+            67,
+            68,
+            69
+          ],
+          "alcance": "localización por capa textual; no acredita transcripción ni cotejo completo"
+        },
+        {
+          "titulo": "12. Interferencia",
+          "paginas": [
+            70,
+            71,
+            72,
+            73
+          ],
+          "alcance": "localización por capa textual; no acredita transcripción ni cotejo completo"
+        },
+        {
+          "titulo": "13. Difracción",
+          "paginas": [
+            74,
+            75,
+            76,
+            77
+          ],
+          "alcance": "localización por capa textual; no acredita transcripción ni cotejo completo"
+        },
+        {
+          "titulo": "14. Espectrómetro",
+          "paginas": [
+            78,
+            79,
+            80
+          ],
+          "alcance": "localización por capa textual; no acredita transcripción ni cotejo completo"
+        },
+        {
+          "titulo": "15. Polarización",
+          "paginas": [
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89
+          ],
+          "alcance": "localización por capa textual; no acredita transcripción ni cotejo completo"
+        },
+        {
+          "titulo": "16. Termometría",
+          "paginas": [
+            90,
+            91,
+            92,
+            93
+          ],
+          "alcance": "localización por capa textual; no acredita transcripción ni cotejo completo"
+        },
+        {
+          "titulo": "17. Calorimetría",
+          "paginas": [
+            94,
+            95,
+            96,
+            97
+          ],
+          "alcance": "localización por capa textual; no acredita transcripción ni cotejo completo"
+        },
+        {
+          "titulo": "Anexo GLX",
+          "paginas": [
+            98
+          ],
+          "alcance": "localización por capa textual; no acredita transcripción ni cotejo completo"
+        }
+      ]
     },
     {
       "original": "2015/GUIA DE PROBLEMAS POLARIZACION-1.pdf",
