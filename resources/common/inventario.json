@@ -797,7 +797,7 @@
       "duplicado_sha256_de": "2015/Extras/DOC-20160609-WA0004.pdf",
       "clasificacion": "pendiente de revisión documental",
       "evidencia": "",
-      "estado": "parcial: fuerzas a corriente alterna páginas1-11; Maxwell páginas12-13 pendiente",
+      "estado": "completo: seis secciones de páginas1-13 cotejadas y transcritas",
       "paginas_revisadas": [
         1,
         2,
@@ -809,7 +809,9 @@
         8,
         9,
         10,
-        11
+        11,
+        12,
+        13
       ],
       "copia_local": "/tmp/fisica-ii-20261017-fuentes/52-GUIA DE PROBLEMAS PROPUESTOS 2da parte.pdf",
       "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/52-GUIA DE PROBLEMAS PROPUESTOS 2da parte.txt",
@@ -818,7 +820,8 @@
         "notes/2015/practica/campo-induccion-biot-savart-guia.md",
         "notes/2015/practica/induccion-electromagnetica-guia.md",
         "notes/2015/practica/magnetismo-medios-materiales-guia.md",
-        "notes/2015/practica/corriente-alterna-guia.md"
+        "notes/2015/practica/corriente-alterna-guia.md",
+        "notes/2015/practica/maxwell-ondas-electromagneticas-guia.md"
       ]
     },
     {

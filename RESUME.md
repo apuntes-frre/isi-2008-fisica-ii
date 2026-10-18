@@ -481,3 +481,23 @@ git diff --check
 - Próximo: Maxwell/ondas en12–13; ambas páginas ya renderizadas y revisadas.
   Recuperar fórmulas de problema3/6 y conservar símboloK,operadorsen y unidades
   impresas.
+
+## Checkpoint 29: segunda parte completa
+
+- 35notas/secciones,575expresiones esperadas y118páginas de fuentes únicas
+  cotejadas. Fuente51completa24p yfuente52completa13p; no significa materia
+  completa.
+- Maxwell páginas12–13:9preguntas,8problemas,1figura,18math; ecuaciones
+  completas recuperadas visualmente.
+- Fuente52 distribuida en seis notas: fuerzas, propiedades/Biot, inducción,
+  medios materiales, alterna y Maxwell. Página6/8/10 compartida entre secciones;
+  conservar rangos.
+- Alternacb375d0 pendiente render28math/7figuras; Maxwell pendiente
+  publicar/render18math/1figura.
+- Próximo: cerrar render/CI y coberturas pendientes, luego
+  fuente77guía2011(31p), planificación y teoría2015/2019, informes y
+  exámenes2020. Fuente47cuadernillo98p debe compararse por secciones con
+  laboratorios ya hechos; no declarar cubierto por simple parecido.
+- Helpers, PNG y extracciones permanecen en /tmp/fisica-ii-conversion;
+  manifiesto de143originales y copias recuperables en
+  /tmp/fisica-ii-20261017-fuentes.
