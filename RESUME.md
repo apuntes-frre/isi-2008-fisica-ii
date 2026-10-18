@@ -536,3 +536,20 @@ verificadas también por sus tablas.
   validar antes del commit.
 - Siguiente sección: Gauss, páginas 7–9. Sus imágenes están listas pero todavía
   no revisadas; no declararlas cubiertas.
+
+## Checkpoint 32: campo eléctrico de la guía 2011
+
+- 37 notas o secciones, 644 expresiones esperadas y 124 páginas únicas
+  cotejadas.
+- Campo en páginas 5–6: nueve preguntas, doce problemas y ocho figuras en cinco
+  archivos. Se recuperaron λ, σ, α y φ visibles en el original, sin añadir
+  símbolos ausentes en 11 y 12.
+- Se verificaron ampliaciones: exponentes positivos 9 y 8, distancia «2 un»,
+  «ángulo α a» y ausencia de σ en el enunciado 11. No se corrigen datos por
+  plausibilidad física.
+- Coulomb publicada en 7adb6fa: pendiente render de 34 expresiones y cinco
+  imágenes. Campo pendiente publicar/render: 35 expresiones y cinco imágenes.
+- Gauss páginas 7–9 ya cotejadas visualmente: once preguntas, once problemas,
+  fórmulas y figuras adicionales. Falta crear nota y cobertura. Recuperar
+  vectores, frecuencia del oscilador y rangos originales sin asumirlos desde
+  otras versiones.
