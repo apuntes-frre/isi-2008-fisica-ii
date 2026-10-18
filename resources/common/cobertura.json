@@ -875,9 +875,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 11,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 11,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/espectrometro-laboratorio-14.md",
-      "estado": "pendiente render GitHub"
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
     }
   ]
 }

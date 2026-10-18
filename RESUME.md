@@ -855,3 +855,12 @@ verificadas también por sus tablas.
   en1,35,39,52–80,98; restantes páginas no cubiertas por semejanza de títulos.
 - Próximo documento: polarización81–89, seguido de termometría90–93,
   calorimetría94–97 y cotejo de variantes1–8. Materia completa sigue pendiente.
+
+## Checkpoint 51: cierre de render y siguiente lote
+
+- Espectrómetro confirmado11/11, dos imágenes cargadas y listas5/7elementos,
+  esta última con inicio8. Todas las54notas tienen conteos GitHub confirmados,
+  total988expresiones;182páginas únicas de fuentes cotejadas visualmente.
+- Próximo trabajo autorizado: polarización del compilado47 páginas81–89.
+  Conservar todos los casos de polarización, diagramas, experiencias y hojas;
+  no confundir con problemas de polarización fuente48 ya transcritos.
