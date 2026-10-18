@@ -163,8 +163,8 @@ de 10 A, l A y 0.1 A
 
 La figura 10 muestra un circuito típico de un voltímetro de tres escalas cuyas
 entradas podrán medir hasta 3V, 15V y 150V. El galvanómetro de bobina móvil
-empleado tiene una resistencia$`r_9=10\,\Omega`$ y para una corriente de 0.001 A
-se desvía a fondo de escala. Hallar los valores de las resistencias indicadas
+empleado tiene una resistencia $`r_9=10\,\Omega`$ y para una corriente de 0.001
+A se desvía a fondo de escala. Hallar los valores de las resistencias indicadas
 para que, en cada caso, se desvíe a fondo de la escala.
 
 ### Problema 14

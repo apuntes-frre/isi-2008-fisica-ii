@@ -666,3 +666,23 @@ verificadas también por sus tablas.
   ecuación de hilo finito del problema 5 y mantener diez problemas, sin usar la
   selección distinta de otra guía.
 - Próximo después: inducción de páginas 24–25, aún sin cotejar.
+
+## Checkpoint 39: Biot–Savart de la guía 2011
+
+- 44 notas o secciones, 783 expresiones esperadas y 141 páginas únicas
+  cotejadas.
+- Propiedades en páginas 22–23: trece preguntas, diez problemas y siete archivos
+  gráficos. Ecuación del hilo finito recuperada; diez problemas consecutivos
+  propios de esta versión.
+- GitHub dejó r9 del apunte de circuitos como código por estar pegado a
+  «resistencia». Se añadió un espacio antes de la matemática; verificar tras
+  push que suba de 19 a 20 expresiones. No había error merror, por eso es
+  necesario comparar conteos.
+- Fuerzas de 2011: 21/21 expresiones y tres figuras cargadas verificadas. Biot
+  nueva: diez expresiones y siete imágenes pendientes de publicación/render.
+- Inducción páginas 24–26 ya cotejadas hasta el problema 12; comparte página 26
+  con medios materiales. Falta crear nota y cobertura: once preguntas, doce
+  problemas y diez imágenes. Recuperar μT, φ(t), π de la corriente y conservar
+  mwb/m² y rn/seg del original.
+- Medios materiales desde página 26 empieza con once preguntas; la página 27
+  todavía no está cotejada. No declarar cubierta la sección.
