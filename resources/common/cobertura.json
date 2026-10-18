@@ -236,9 +236,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 19,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 19,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/fuerza-magnetica-laboratorio-8.md",
-      "estado": "pendiente render GitHub"
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
     },
     {
       "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS 2015- TP N° 7-1.pdf",
@@ -255,9 +255,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 35,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 35,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/campo-induccion-magnetica-laboratorio-7.md",
-      "estado": "pendiente render GitHub"
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
     },
     {
       "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS 2015- TP N° 7-1.pdf",
@@ -273,9 +273,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 20,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 20,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/fuerza-magnetica-laboratorio-8-version-2.md",
-      "estado": "pendiente render GitHub"
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
     },
     {
       "original": "2015/HOJA DE DATOS  TP Nº 1.docx",
@@ -312,9 +312,9 @@
       ],
       "paginacion": "PDF normalizado desde DOCX; depende del renderizador",
       "math_esperada": 10,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 10,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/ley-de-ohm-hoja-de-datos.md",
-      "estado": "pendiente render GitHub"
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
     },
     {
       "original": "2015/HOJA DE DATOS  TP Nº3.docx",
@@ -342,8 +342,22 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 33,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 33,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/interferencia-calor-termodinamica-problemas.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/GUIA DE PROBLEMAS PROPUESTOS 1ra parte.pdf",
+      "sha256": "efac01b619f48d06286a725a5a7ccc8de7b6baffb2a931515c9dba28ae7e5e5b",
+      "nota": "notes/2015/practica/repaso-analisis-vectorial.md",
+      "paginas_revisadas": [
+        3,
+        4
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 25,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/repaso-analisis-vectorial.md",
       "estado": "pendiente render GitHub"
     }
   ]

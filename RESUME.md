@@ -305,3 +305,18 @@ git diff --check
   anteriores.
 - Próximo documento: fuente51 (guía primera parte, 24 páginas), revisión por
   secciones; conservar avance antes de operaciones largas.
+
+## Checkpoint 17: repaso vectorial
+
+- 23 notas/secciones, 83 páginas cotejadas y 373 expresiones matemáticas
+  esperadas.
+- Fuente51 cubierta parcialmente: páginas3–4, nueve enunciados con numeración
+  original repetida, 25 expresiones y figura de cuatro superficies.
+- No declarar completa fuente51: faltan carátula, página institucional y
+  secciones Coulomb/campo/Gauss/potencial/capacidad/circuitos y cola de
+  óptica/termodinámica. Revisar solapamientos por contenido, no por nombre.
+- Fuente50 commit f32c9cc: 33/33 math y seis imágenes cargadas verificadas en
+  GitHub. Hoja Ohm:10/10 math. Laboratorio8versión2:20math y ocho referencias de
+  imágenes cargadas.
+- Próximo paso: verificar render vectorial y seguir fuente51 desde página5
+  (Coulomb), sin confundir con guía2019 distinta de diez problemas.
