@@ -163,7 +163,7 @@ Con estos datos se hace la representación gráfica correspondiente
 punto a punto.
 
 ```math
-E_i=\frac{[\Phi_T(x,y)-\Phi_E(x,y)]}{\Phi_T(x,y)}\times100
+E_I=\frac{[\Phi_T(x,y)-\Phi_E(x,y)]}{\Phi_T(x,y)}\times100
 ```
 
 DATOS TEÓRICOS
@@ -231,3 +231,11 @@ conservan los contornos diferentes de las tablas experimental (12) y teórica
 fuente. No se completan las celdas vacías.
 
 [Procedencia y comprobaciones](../../../resources/2015/fuentes.md).
+
+El índice del error se transcribe I, sin punto, como se observa en el bitmap
+original. La misma imagen220×75 está en el DOCX y en el PDF, con idénticos
+píxeles decodificados (SHA-256
+`e5e621076712eae487e411a955699c73a6e76ee4238ef8c9fd3391740291f7c6`). Se corrige
+aquí la lectura i de la transcripción anterior:
+
+![Fórmula original del error con índice I](../../../resources/2015/laplace-compilado-error-original.png)

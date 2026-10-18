@@ -993,3 +993,16 @@ verificadas también por sus tablas.
 - Ohm confirmado43/43, ocho imágenes y tablas6filas×4/10/13columnas en cuerpo
   y hoja, identificación8filas. Fuente47 cubierta1,15–98. Próximo9–14Laplace,
   luego2–8potencial. El PR sigue en borrador y la materia incompleta.
+
+## Checkpoint 62: Laplace del compilado y corrección de índice
+
+- 64 notas,1245 expresiones esperadas y240 páginas únicas cotejadas visualmente.
+- Fuente47 páginas9–14 completas: nueve expresiones, montaje, tablas9×9 de
+  experimental12V y teórica10.0V, hoja11×11 vacía conØ y X/Ymayúsculas.
+- Se corrigió E_i a E_I en ambas versiones de Laplace: bitmap220×75 idéntico
+  en DOCX39 y compilado, SHA-256 de píxeles e5e621076712eae487e411a955699c73a6e76ee4238ef8c9fd3391740291f7c6.
+  Imagen original conservada y explicación agregada a ambas notas. Revisar render
+  de ambas9math y de dos imágenes por nota. Checker local y diff --check pasaron.
+- RC confirmado43/43, diez imágenes y tablas8/8/3/8/23filas; matriz13columnas.
+- Fuente47 cubierta1,9–98. Restan2–8potencial y su hoja. Después de cerrar
+  compilado continuar originales pendientes del inventario; materia sigue incompleta.
