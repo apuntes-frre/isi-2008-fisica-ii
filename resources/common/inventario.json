@@ -748,7 +748,7 @@
       "duplicado_sha256_de": null,
       "clasificacion": "pendiente de revisión documental",
       "evidencia": "",
-      "estado": "parcial: vectorial, Coulomb, campo y Gauss, páginas 3-11; página11 solo sección Gauss; otras secciones pendientes",
+      "estado": "parcial: vectorial, Coulomb, campo, Gauss y potencial, páginas 3-13; página13 solo potencial; otras secciones pendientes",
       "paginas_revisadas": [
         3,
         4,
@@ -758,7 +758,9 @@
         8,
         9,
         10,
-        11
+        11,
+        12,
+        13
       ],
       "copia_local": "/tmp/fisica-ii-20261017-fuentes/51-GUIA DE PROBLEMAS PROPUESTOS 1ra parte.pdf",
       "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/51-GUIA DE PROBLEMAS PROPUESTOS 1ra parte.txt",
@@ -766,7 +768,8 @@
         "notes/2015/practica/repaso-analisis-vectorial.md",
         "notes/2015/practica/ley-de-coulomb-guia-1.md",
         "notes/2015/practica/campo-electrico-guia.md",
-        "notes/2015/practica/ley-de-gauss-guia.md"
+        "notes/2015/practica/ley-de-gauss-guia.md",
+        "notes/2015/practica/potencial-electrico-guia.md"
       ]
     },
     {

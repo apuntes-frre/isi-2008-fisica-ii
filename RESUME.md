@@ -363,3 +363,16 @@ git diff --check
   final.
 - Fuente51 todavía parcial; no se han validado las páginas restantes por existir
   extracciones.
+
+## Checkpoint 21: potencial eléctrico 2015
+
+- 27 notas/secciones, 416 expresiones esperadas y 94 páginas-sección cotejadas
+  (92 páginas únicas).
+- Potencial en páginas11–13: diez preguntas, once problemas con salto7→9 y ocho
+  figuras. LetrasB/P impresas junto a subíndices/potencias se conservan y
+  documentan.
+- Fuente51 parcial hasta potencial en página13; capacidad empieza en esa misma
+  página y no queda cubierta por esta nota.
+- Siguiente: verificar render potencial16math/ochofiguras y
+  Gauss8math/seisfiguras. Luego capacidad desde página13, renderizar14–15 para
+  encontrar fin.
