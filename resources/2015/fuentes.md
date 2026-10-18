@@ -214,8 +214,9 @@ originales de las normalizadas y registra conteos matemáticos.
   localmente. SHA-256:
   `6c3101fdb606626b5d46125b8bbcd59bbd75cfa8ffafc69f990cf6b26f3286f6`. Duplicado
   exacto de `2015/GUIA DE PROBLEMAS POLARIZACION-1.pdf`.
-- `2015/GUIA DE PROBLEMAS PROPUESTOS  3ra parte.pdf`: 5 páginas; pendiente.
-  SHA-256: `9e435dc4dcfe136f2d31bf379dec734d46dec3dc10e330ada029d54b92a038b1`.
+- `2015/GUIA DE PROBLEMAS PROPUESTOS  3ra parte.pdf`: 5 páginas; transcrito y
+  validado localmente. SHA-256:
+  `9e435dc4dcfe136f2d31bf379dec734d46dec3dc10e330ada029d54b92a038b1`.
 - `2015/GUIA DE PROBLEMAS PROPUESTOS 1ra parte.pdf`: 24 páginas; pendiente.
   SHA-256: `efac01b619f48d06286a725a5a7ccc8de7b6baffb2a931515c9dba28ae7e5e5b`.
 - `2015/GUIA DE PROBLEMAS PROPUESTOS 2da parte.pdf`: 13 páginas; pendiente.

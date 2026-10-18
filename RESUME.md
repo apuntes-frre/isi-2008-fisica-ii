@@ -290,3 +290,18 @@ git diff --check
   hoja-ohm-1.png, hoja-rc-1.png.
 - Próximo lote: guía de problemas tercera parte (5p.) y guía polarización ya
   transcrita por separado; antes contrastar ejercicios/figuras.
+
+## Checkpoint 16: guía tercera parte
+
+- 22 notas/secciones, 81 páginas cotejadas, 348 expresiones matemáticas
+  esperadas.
+- Fuente50: cinco páginas completas; 6 problemas de interferencia, 8 de
+  difracción, 9 de calorimetría y 8 de termodinámica. Seis figuras y tabla de
+  signos con siete filas conservadas.
+- Ecuaciones omitidas por el extractor recuperadas visualmente; datos
+  discordantes y erratas del original señalados sin resolver ejercicios.
+- Render GitHub nuevo pendiente: 33 expresiones y seis imágenes. Confirmar
+  también cuatro hojas independientes y cargas de imágenes pendientes
+  anteriores.
+- Próximo documento: fuente51 (guía primera parte, 24 páginas), revisión por
+  secciones; conservar avance antes de operaciones largas.

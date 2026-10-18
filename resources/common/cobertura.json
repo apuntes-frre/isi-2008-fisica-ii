@@ -328,6 +328,23 @@
       "math_renderizada_github": null,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/circuito-rc-hoja-de-datos.md",
       "estado": "pendiente render GitHub"
+    },
+    {
+      "original": "2015/GUIA DE PROBLEMAS PROPUESTOS  3ra parte.pdf",
+      "sha256": "9e435dc4dcfe136f2d31bf379dec734d46dec3dc10e330ada029d54b92a038b1",
+      "nota": "notes/2015/practica/interferencia-calor-termodinamica-problemas.md",
+      "paginas_revisadas": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 33,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/interferencia-calor-termodinamica-problemas.md",
+      "estado": "pendiente render GitHub"
     }
   ]
 }

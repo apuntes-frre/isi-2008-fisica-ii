@@ -728,10 +728,17 @@
       "duplicado_sha256_de": null,
       "clasificacion": "pendiente de revisión documental",
       "evidencia": "",
-      "estado": "pendiente",
-      "paginas_revisadas": [],
+      "estado": "transcrito y validado localmente",
+      "paginas_revisadas": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
       "copia_local": "/tmp/fisica-ii-20261017-fuentes/50-GUIA DE PROBLEMAS PROPUESTOS  3ra parte.pdf",
-      "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/50-GUIA DE PROBLEMAS PROPUESTOS  3ra parte.txt"
+      "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/50-GUIA DE PROBLEMAS PROPUESTOS  3ra parte.txt",
+      "nota": "notes/2015/practica/interferencia-calor-termodinamica-problemas.md"
     },
     {
       "original": "2015/GUIA DE PROBLEMAS PROPUESTOS 1ra parte.pdf",
