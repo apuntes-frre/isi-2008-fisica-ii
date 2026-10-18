@@ -686,3 +686,25 @@ verificadas también por sus tablas.
   mwb/m² y rn/seg del original.
 - Medios materiales desde página 26 empieza con once preguntas; la página 27
   todavía no está cotejada. No declarar cubierta la sección.
+
+## Checkpoint 40: inducción de la guía 2011
+
+- 45 notas o secciones, 798 expresiones esperadas y 144 páginas únicas
+  cotejadas.
+- Inducción en páginas 24–26: once preguntas, doce problemas y diez archivos
+  gráficos. El problema 12 continúa en 26 antes de medios materiales; μT, φ(t) y
+  π recuperados.
+- Circuitos corregida: 20/20 expresiones, ningún código matemático residual y
+  catorce imágenes cargadas verificadas. Fuerzas: 21/21 y tres imágenes. Biot:
+  10/10 y siete imágenes. Las primeras 44 notas suman 783 expresiones
+  verificadas.
+- Inducción nueva: quince expresiones y diez imágenes pendientes de
+  publicación/render.
+- Medios materiales de páginas 26–27 ya cotejada visualmente: contenido, siete
+  problemas, once preguntas y tablas coinciden con la nota ya transcrita de
+  fuente52, con distinta paginación. El diff de palabras muestra pérdidas de
+  símbolos y orden de tabla de los extractores, sin diferencias de datos. Falta
+  registrar fuente adicional y confirmar imagen original compartida; no duplicar
+  matemática por el solapamiento.
+- Siguiente: corriente alterna de páginas 28–29 y Maxwell 30–31. Todavía no
+  revisadas visualmente.
