@@ -320,3 +320,17 @@ git diff --check
   imágenes cargadas.
 - Próximo paso: verificar render vectorial y seguir fuente51 desde página5
   (Coulomb), sin confundir con guía2019 distinta de diez problemas.
+
+## Checkpoint 18: Coulomb 2015
+
+- 24 notas/secciones, 85 páginas cotejadas, 384 expresiones esperadas.
+- Fuente51 parcialmente cubierta en páginas3–6: vectorial y Coulomb. Esta
+  versión tiene nueve preguntas, once problemas y cinco figuras, incluido el
+  ejercicio de esferas suspendidas que falta en guía2019.
+- Vectorial publicado ada56ef y verificado:25/25 math, figura cargada.
+  Coulomb2015 pendiente render:11 expresiones y cinco figuras.
+- CI del checkpoint16 pasó. PR1 continúa borrador; descripción actualizada para
+  reflejar el alcance parcial real.
+- Próximo paso: fuente51 páginas7–9 campo eléctrico, comprobar límites exactos
+  de sección antes de transcribir. Los extractores pierden ecuaciones e
+  imágenes, no tomar texto plano como contenido completo.

@@ -218,7 +218,7 @@ originales de las normalizadas y registra conteos matemáticos.
   validado localmente. SHA-256:
   `9e435dc4dcfe136f2d31bf379dec734d46dec3dc10e330ada029d54b92a038b1`.
 - `2015/GUIA DE PROBLEMAS PROPUESTOS 1ra parte.pdf`: 24 páginas; parcial: repaso
-  vectorial páginas 3-4 transcrito; otras secciones pendientes. SHA-256:
+  vectorial y Coulomb, páginas 3-6; otras secciones pendientes. SHA-256:
   `efac01b619f48d06286a725a5a7ccc8de7b6baffb2a931515c9dba28ae7e5e5b`.
 - `2015/GUIA DE PROBLEMAS PROPUESTOS 2da parte.pdf`: 13 páginas; pendiente.
   SHA-256: `e2452f4b287c4401d9902c425f82a9caaab0bb7dd7c877c724934eb2bed5a9fa`.
