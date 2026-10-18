@@ -94,3 +94,16 @@ git diff --check
 - Último checkpoint previo: `ad38928`. PR #1 sigue en borrador.
 - Próxima acción: revisar render TP1 corregido y comenzar laboratorio 2 Laplace
   (DOCX ya extraído, falta PDF normalizado y comparación).
+
+## Checkpoint 4: laboratorio 2 Laplace
+
+- Tres notas completas: Faraday PDF (2 p.), TP1 DOCX (7 p. normalizadas), TP2
+  DOCX (5 p. normalizadas).
+- TP1 corregido: GitHub `29bb56f`, 26/26 math, cinco figuras cargadas, ocho
+  pasos con numeración correcta.
+- TP2: todas las cinco páginas revisadas, siete fórmulas reparadas, un montaje y
+  cuatro tablas conservadas. Lint/checker en cierre; render GitHub pendiente.
+- Salidas reutilizables: `laplace-1.png` a `laplace-5.png`, `laplace.txt`, DOCX
+  y PDF normalizado bajo `/tmp/fisica-ii-conversion`.
+- Siguiente documento pequeño: guía Polarización (2015, 1 página) y hojas de
+  datos TP7/8.

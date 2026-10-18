@@ -509,10 +509,16 @@
       "bytes": 75773,
       "paginas_pdf": null,
       "duplicado_sha256_de": null,
-      "clasificacion": "pendiente de revisión documental",
-      "evidencia": "",
-      "estado": "pendiente",
-      "paginas_revisadas": [],
+      "clasificacion": "laboratorio",
+      "evidencia": "Cátedra Física II, UTN FRRe; páginas del PDF normalizado del DOCX",
+      "estado": "transcrito y validado localmente",
+      "paginas_revisadas": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
       "copia_local": "/tmp/fisica-ii-20261017-fuentes/39-FISICA II - EXPERIENCIAS DE LABORATORIOS 2015 - TP N° 2.docx",
       "texto_poppler_local": null
     },

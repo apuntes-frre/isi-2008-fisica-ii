@@ -2,6 +2,9 @@
 
 # Trabajo de laboratorio Nº 1: Potencial eléctrico. Mapeo del campo eléctrico
 
+Universidad Tecnologica Nacional. Facultad Regional Resistencia. Cátedra: Física
+II.
+
 TEMA: POTENCIAL ELÉCTRICO. MAPEO DEL CAMPO ELÉCTRICO
 
 ## Objeto de la experiencia

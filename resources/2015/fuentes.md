@@ -36,7 +36,7 @@ año de carpeta no demuestra el año impreso.
 - Cobertura: texto completo, 12 ecuaciones numeradas (salto de 3 a 5
   conservado), fórmulas sin número e incrustadas, 5 figuras, 8 pasos de técnica
   operatoria, 3 apartados de procesamiento, bibliografía, nota al pie y hoja de
-  datos. Cuatro tablas conservadas, incluidas las celdas vacías.
+  datos. Cinco tablas conservadas, incluidas las celdas vacías.
 - Reparaciones: WMF de ecuaciones transcritos a LaTeX; matemática de nota al pie
   llevada a sección enlazada.
 - Erratas conservadas: ecuación (13), último potencial V9 y diferencia con
@@ -44,7 +44,10 @@ año de carpeta no demuestra el año impreso.
 - La paginación de Word depende del renderizador; se registran las siete páginas
   del PDF normalizado, sin atribuirlas a un PDF original.
 - [Transcripción](../../notes/2015/practica/potencial-electrico-mapeo-laboratorio-1.md).
-- Renderizado GitHub: pendiente.
+- Renderizado GitHub: commit `29bb56f`, 26/26 expresiones, cero errores, cero
+  código residual; cinco figuras cargadas y numeración 1–8 comprobada.
+- URL:
+  <https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/29bb56f/notes/2015/practica/potencial-electrico-mapeo-laboratorio-1.md>.
 
 ## Inventario completo y pendientes
 
@@ -303,3 +306,21 @@ pendientes.
   `d7a208e0d1d2cae34eb0e31a28e7fb42a39f5179144191b1bd4fe7492ad52e3a`.
 - `2015/utilitarios/fisica.zip`: no PDF páginas; inventariado; no ejecutado.
   SHA-256: `e252fbcf8924d53ec4cfe7e1907a46307501e1bb07e51d29392650f5ed27acec`.
+
+## Ecuación de Laplace, laboratorio 2
+
+- Original: `FISICA II - EXPERIENCIAS DE LABORATORIOS 2015 - TP N° 2.docx`.
+- SHA-256: `35b51f553950e81434b4cb0db5645a32954ef68d785ae7d163c80187fd3c8c1d`.
+- Autor/año impreso: no constan; cátedra Física II, UTN FRRe.
+- Pandoc con medios; LibreOffice a PDF con perfil aislado, cinco páginas
+  comparadas visualmente (1–5); contraste pdftotext -layout.
+- Cobertura: texto completo, cinco ecuaciones numeradas, una ecuación intermedia
+  y una de error porcentual, un montaje, cuatro tablas (dos de 9 por 9 valores,
+  una hoja de integrantes y una malla 11 por 11 vacía), bibliografía y hoja de
+  datos.
+- Imágenes de ecuaciones reparadas a LaTeX; contornos y celdas vacías cotejados
+  con todas las páginas.
+- Diferencias conservadas: 12 voltios experimental/10.0 teórico y tamaños 8/10
+  cm. No se armonizaron valores.
+- [Transcripción](../../notes/2015/practica/ecuacion-de-laplace-laboratorio-2.md).
+- Render GitHub pendiente.
