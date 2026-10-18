@@ -966,3 +966,16 @@ verificadas también por sus tablas.
 - Fuente47 cubierta1,31–98. Restan2–30: laboratorios1–4 y hojas. Próximo:
   Ohm24–30, despuésRC15–23, Laplace9–14 y potencial2–8. Después continuar
   con el resto de originales pendientes del inventario; no declarar materia completa.
+
+## Checkpoint 60: Ohm y asociaciones del compilado
+
+- 62 notas,1193 expresiones esperadas y225 páginas únicas cotejadas visualmente.
+- Fuente47 páginas24–30 completas: ocho figuras,43expresiones, teoría de
+  serie/paralelo y tres tablas del cuerpo más tres en la hoja, cinco lecturas
+  cada una; columnas4/10/13. Se conservan R1=2,7KΩ y R2=3,3KΩ, Vbd en tabla
+  y Vac/Vbd en preguntaD. Hoja repite encabezado de serie sobre tabla de paralelo.
+- Fuerza magnética confirmada21/21, ocho apariciones de imágenes cargadas y
+  tablas6/8/9filas. Ohm pendiente render43math, ocho imágenes y siete tablas.
+- Checker local y diff --check pasaron; cotejo Poppler adicional. Fuente47
+  cubierta1,24–98. PróximoRC15–23, Laplace9–14, potencial2–8. Continuar luego
+  con originales pendientes: el PR no está listo para aprobar ni fusionar.
