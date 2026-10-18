@@ -5,7 +5,7 @@
 Universidad Tecnologica Nacional. Facultad Regional Resistencia. Cátedra: Física
 II.
 
-## Tema: potencial eléctrico. ecuación de laplace.
+## Tema: potencial eléctrico. ecuación de laplace
 
 **OBJETIVO:** Verificar experimentalmente la ecuación de Laplace en dos
 dimensiones,
@@ -196,7 +196,7 @@ Ondas - Ramo-Whinnery-Van Duzer - John Wiley& Son (1965)
 
 TRABAJO DE LABORATORIO Nº 2
 
-## Tema: potencial eléctrico. ecuación de laplace.
+## Tema: potencial eléctrico. ecuación de laplace
 
 ## Hoja de datos
 
