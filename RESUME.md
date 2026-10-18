@@ -194,3 +194,21 @@ git diff --check
 - Capacidad: PDF de 11 páginas ya convertido y renderizado localmente en
   `capacidad*`, todavía sin revisar todas las páginas ni transcribir.
 - Próximo: commit/render de Ohm y revisar Capacidad.
+
+## Checkpoint 11: capacidad y régimen RC
+
+- 14 documentos completos, 53 páginas comparadas, 231 math esperadas; fuente
+  exacta/estado por documento en cobertura.json.
+- Capacidad: 11 páginas completas, nueve figuras, ocho formularios lógicos; 43
+  expresiones. Todas las fórmulas e imágenes revisadas.
+- Figuras 6/7 faltaban en salida PyMuPDF4LLM; recuperadas directamente de xref
+  73/76 del PDF original (sin sustitución de ecuaciones por capturas).
+- Filas vacías contadas: tablas del cuerpo 3 registros, hoja carga 16, serie 14,
+  paralelo 14, descarga 16; continuaciones de páginas 9 y 11 incluidas.
+- Salidas: capacidad-tablas.json, capacidad-01.png a capacidad-11.png,
+  reparar-capacidad.py. Primera tentativa de recorte de figuras 6/7 descartada,
+  archivos finales contienen objetos originales correctos.
+- Pendiente: render GitHub de Ohm (33 expresiones) y Capacidad (43),
+  confirmación de imágenes de los últimos laboratorios; actualizar informe y CI.
+- Próximo: laboratorios 7 y 8 completos (solo hojas de datos ya transcritas),
+  PDF 42/45.

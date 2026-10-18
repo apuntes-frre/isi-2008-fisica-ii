@@ -185,7 +185,7 @@ originales de las normalizadas y registra conteos matemáticos.
   transcrito y validado localmente. SHA-256:
   `fb19b1707932e8874ad5ae05977a83f9eebca246d80f4202518fb80722361ae5`.
 - `2015/FISICA II - EXPERIENCIAS DE LABORATORIOS 2015 - tp N° 3.pdf`: 11
-  páginas; pendiente. SHA-256:
+  páginas; transcrito y validado localmente. SHA-256:
   `a7e46cb22afe66acb29dd101476d0f38f8d6234347fcb0849363105086fdd645`.
 - `2015/FISICA II - EXPERIENCIAS DE LABORATORIOS 2015- TP N° 7-1.pdf`: 13
   páginas; pendiente. SHA-256:
@@ -440,3 +440,23 @@ originales de las normalizadas y registra conteos matemáticos.
   referencias originales.
 - [Transcripción](../../notes/2015/practica/ley-de-ohm-asociaciones-laboratorio-4.md).
 - Render GitHub pendiente.
+
+## Circuito RC y capacidad, laboratorio 3
+
+- Original: `FISICA II - EXPERIENCIAS DE LABORATORIOS 2015 - tp N° 3.pdf`.
+- SHA-256: `a7e46cb22afe66acb29dd101476d0f38f8d6234347fcb0849363105086fdd645`.
+- Once páginas originales revisadas visualmente (1–11), contrastadas con
+  pdftotext -layout y PyMuPDF4LLM. Cátedra Física II, UTN FRRe; autor/año
+  impreso no constan.
+- Nueve figuras: asociaciones serie/paralelo y figuras 1–7. Los objetos PDF xref
+  73/76 conservan las figuras 6/7 omitidas por el extractor; extraídos con
+  PyMuPDF y comparados.
+- Todas las ecuaciones y consignas transcritas. Ocho formularios lógicos, con
+  tablas de carga/descarga, procesamiento e integrantes; filas vacías
+  preservadas, incluidas continuaciones de páginas 9 y 11. Conteos de tablas
+  cotejados con find_tables y vistas de página.
+- Erratas conservadas: salto de ecuación (9) a (11), repetición de (19), +0 en
+  (17), rótulo de gráfica y numeración 2.1/3.3 en procesamiento. No se resuelve
+  el ejercicio sobre (20).
+- [Transcripción](../../notes/2015/practica/circuito-rc-capacidad-laboratorio-3.md).
+- Render GitHub pendiente; 43 expresiones esperadas según math_expressions.

@@ -198,6 +198,29 @@
       "math_renderizada_github": null,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/ley-de-ohm-asociaciones-laboratorio-4.md",
       "estado": "pendiente render GitHub"
+    },
+    {
+      "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS 2015 - tp N° 3.pdf",
+      "sha256": "a7e46cb22afe66acb29dd101476d0f38f8d6234347fcb0849363105086fdd645",
+      "nota": "notes/2015/practica/circuito-rc-capacidad-laboratorio-3.md",
+      "paginas_revisadas": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 43,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/circuito-rc-capacidad-laboratorio-3.md",
+      "estado": "pendiente render GitHub"
     }
   ]
 }
