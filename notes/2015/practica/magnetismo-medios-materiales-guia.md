@@ -136,3 +136,16 @@ al plano de la órbita. Radio de la orbita $`r=5{,}1\cdot10^{-11}`$ m
 - Los dos vectores de catorce datos de H/B se presentan como tabla de pares para
   conservar su correspondencia. No se calculan valores adicionales ni se
   resuelven ejercicios.
+
+## Versión incluida en la guía identificada como 2011
+
+La sección de `2015/guia de problemas 2011.pdf`, páginas 26–27, contiene las
+mismas once preguntas, siete problemas y dos tablas. Se cotejaron ambas páginas,
+incluidos los cuatro registros de susceptibilidad y los catorce pares H/B. La
+figura de la varilla utiliza exactamente los mismos píxeles decodificados en
+ambos PDF. Cambia la paginación, por lo que se comparte esta nota sin duplicar
+las expresiones matemáticas.
+
+SHA-256 de esa fuente:
+`5a5ae8ac33a7a3d14d854623015ef14bc0af3dae1651c013aed06567e28a8bca`. El año 2011
+consta en el nombre del archivo; se conserva su ubicación canónica 2015.

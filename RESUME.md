@@ -708,3 +708,20 @@ verificadas también por sus tablas.
   matemática por el solapamiento.
 - Siguiente: corriente alterna de páginas 28–29 y Maxwell 30–31. Todavía no
   revisadas visualmente.
+
+## Checkpoint 41: procedencia compartida de medios materiales
+
+- Se mantienen 45 notas y 798 expresiones; 145 páginas únicas de fuentes
+  cotejadas.
+- Fuente77 páginas26–27 registrada como procedencia adicional de la nota de
+  medios materiales de fuente52. Once preguntas, siete problemas, cuatro
+  registros de susceptibilidad y catorce pares H/B coinciden tras cotejo visual.
+- Figura de la varilla: mismo bitmap de 250×238 píxeles, digest
+  decodificado23a1de2c05cbfef1b6872e94913ee016 en ambosPDF. Se comparte nota y
+  no se duplica matemática.
+- Fuente77 parcial hasta página27; alterna28–29 ya cotejada visualmente y
+  comparada en texto: mismos diez interrogantes, ocho problemas y datos de
+  circuito. Falta registrar procedencia adicional y confirmar siete bitmaps.
+  Registrar repetición de «Figura2P» en cambio de página.
+- Maxwell30–31 todavía no revisadas. Inducción2011 pendiente render de quince
+  expresiones y diez imágenes.
