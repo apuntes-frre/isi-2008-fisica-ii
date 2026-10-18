@@ -1006,3 +1006,18 @@ verificadas también por sus tablas.
 - RC confirmado43/43, diez imágenes y tablas8/8/3/8/23filas; matriz13columnas.
 - Fuente47 cubierta1,9–98. Restan2–8potencial y su hoja. Después de cerrar
   compilado continuar originales pendientes del inventario; materia sigue incompleta.
+
+## Checkpoint 63: compilado de98páginas completo
+
+- 65 notas,1271 expresiones esperadas y247 páginas únicas de fuentes cotejadas
+  visualmente. Fuente47 completa1–98: todos los laboratorios1–17, presentación
+ 9bis, hojas, carátula y anexoGLX. No implica que toda FísicaII esté completa.
+- Potencial2–8:26expresiones, cinco figuras, ocho pasos y nota original de
+  pendientes. Hoja de siete grupos V1–V7 y nueve lecturas,15columnas, distinta
+  del DOCX. Se conservan V9=7Vo/8, salto3→5, relación13 y erratas del texto.
+- Checker local y diff --check pasaron; pendiente render26math, cinco imágenes
+  y cinco tablas. Laplace nuevo e individual confirmados9/9 cada uno, ambas
+  imágenes cargadas e índiceI confirmado en MathML.
+- Próximo: revisar inventario de originales pendientes y continuar teoría,
+  guías/modelos y otros años. Mantener PR en borrador hasta completar alcance
+  y verificación, conforme a instrucción del usuario.

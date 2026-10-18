@@ -1053,8 +1053,27 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 9,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 9,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/laplace-laboratorio-2-compilado.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS.pdf",
+      "sha256": "70e9fa9786e0061c255e9800e559dff99013cc033105f4d23e064053d5d506f9",
+      "nota": "notes/2015/practica/potencial-laboratorio-1-compilado.md",
+      "paginas_revisadas": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 26,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/potencial-laboratorio-1-compilado.md",
       "estado": "pendiente render GitHub"
     }
   ]
