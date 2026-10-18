@@ -224,13 +224,17 @@ originales de las normalizadas y registra conteos matemáticos.
 - `2015/Grupos de Lab ISI.xlsx`: no PDF páginas; administrativo; no convertir a
   apunte. SHA-256:
   `28d5b232e9587a10874c8daf0f00de27e500424901b9af6f3573fecd5f0f5845`.
-- `2015/HOJA DE DATOS  TP Nº 1.docx`: no PDF páginas; pendiente. SHA-256:
+- `2015/HOJA DE DATOS  TP Nº 1.docx`: no PDF páginas; transcrito y validado
+  localmente. SHA-256:
   `5c2b24178f07925e46ac3050f3f2e4962a1d1446472595ab56969b0e0497ba2b`.
-- `2015/HOJA DE DATOS  TP Nº 2.docx`: no PDF páginas; pendiente. SHA-256:
+- `2015/HOJA DE DATOS  TP Nº 2.docx`: no PDF páginas; transcrito y validado
+  localmente. SHA-256:
   `947b2c1a219539da47f56bcf75dd9b995228f32e5c5f6f059cb0ffab733324a0`.
-- `2015/HOJA DE DATOS  TP Nº 4.docx`: no PDF páginas; pendiente. SHA-256:
+- `2015/HOJA DE DATOS  TP Nº 4.docx`: no PDF páginas; transcrito y validado
+  localmente. SHA-256:
   `6127bfd8b2de324f0069e215c8628d195ffc0414bfde9d3a7ecfa31975c31a6d`.
-- `2015/HOJA DE DATOS  TP Nº3.docx`: no PDF páginas; pendiente. SHA-256:
+- `2015/HOJA DE DATOS  TP Nº3.docx`: no PDF páginas; transcrito y validado
+  localmente. SHA-256:
   `1f425e49b1d9a1f0d49d842636e4fca8ad1dbda4d6c8cb889334e7ab9f043129`.
 - `2015/HOJA DE DATOS - TP N° 7.pdf`: 1 páginas; transcrito y validado
   localmente. SHA-256:
@@ -514,3 +518,54 @@ originales de las normalizadas y registra conteos matemáticos.
   duplicados por hash los dos PDF.
 - [Versión del cuadernillo](../../notes/2015/practica/fuerza-magnetica-laboratorio-8-version-2.md).
 - Render GitHub pendiente; 20 expresiones esperadas.
+
+## Hoja independiente de potencial y mapeo
+
+- Original: `HOJA DE DATOS  TP Nº 1.docx`.
+- SHA-256: `5c2b24178f07925e46ac3050f3f2e4962a1d1446472595ab56969b0e0497ba2b`.
+- Pandoc con medios, LibreOffice con perfil aislado, una página normalizada
+  comparada visualmente y XML/tablas inspeccionados. Autor/año impreso no
+  constan; cátedra Física II UTN FRRe.
+- Cobertura: Formulario de curso/grupo/fecha/nombres/firmas, siete potenciales
+  V1–V7 y nueve lecturas vacías, tabla de campo de dos longitudes y firma del
+  profesor. Difiere de la hoja incluida en el TP1.
+- [Transcripción](../../notes/2015/practica/potencial-electrico-hoja-de-datos.md).
+- Render GitHub pendiente.
+
+## Hoja independiente de Laplace
+
+- Original: `HOJA DE DATOS  TP Nº 2.docx`.
+- SHA-256: `947b2c1a219539da47f56bcf75dd9b995228f32e5c5f6f059cb0ffab733324a0`.
+- Pandoc con medios, LibreOffice con perfil aislado, una página normalizada
+  comparada visualmente y XML/tablas inspeccionados. Autor/año impreso no
+  constan; cátedra Física II UTN FRRe.
+- Cobertura: Formulario de grupo y firmas, malla X=0–10/Y=0–10 (121 celdas
+  vacías) y firma del profesor. Se conserva Ø(x,y) del original.
+- [Transcripción](../../notes/2015/practica/ecuacion-laplace-hoja-de-datos.md).
+- Render GitHub pendiente.
+
+## Hoja independiente de Ohm
+
+- Original: `HOJA DE DATOS  TP Nº 4.docx`.
+- SHA-256: `6127bfd8b2de324f0069e215c8628d195ffc0414bfde9d3a7ecfa31975c31a6d`.
+- Pandoc con medios, LibreOffice con perfil aislado, una página normalizada
+  comparada visualmente y XML/tablas inspeccionados. Autor/año impreso no
+  constan; cátedra Física II UTN FRRe.
+- Cobertura: Formulario y firmas, tres tablas incrustadas recuperadas a
+  Markdown/LaTeX con 4/10/13 columnas y cinco filas cada una. Se conserva el
+  título serie repetido en la tercera tabla.
+- [Transcripción](../../notes/2015/practica/ley-de-ohm-hoja-de-datos.md).
+- Render GitHub pendiente.
+
+## Hoja independiente de circuito RC
+
+- Original: `HOJA DE DATOS  TP Nº3.docx`.
+- SHA-256: `1f425e49b1d9a1f0d49d842636e4fca8ad1dbda4d6c8cb889334e7ab9f043129`.
+- Pandoc con medios, LibreOffice con perfil aislado, una página normalizada
+  comparada visualmente y XML/tablas inspeccionados. Autor/año impreso no
+  constan; cátedra Física II UTN FRRe.
+- Cobertura: Formulario y firmas, tabla con tiempos 0–200 cada diez y seis pares
+  de columnas de carga/descarga: C1, serie y paralelo. Todos los espacios
+  conservados sin completar.
+- [Transcripción](../../notes/2015/practica/circuito-rc-hoja-de-datos.md).
+- Render GitHub pendiente.

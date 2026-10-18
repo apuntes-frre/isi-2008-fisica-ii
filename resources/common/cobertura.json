@@ -276,6 +276,58 @@
       "math_renderizada_github": null,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/fuerza-magnetica-laboratorio-8-version-2.md",
       "estado": "pendiente render GitHub"
+    },
+    {
+      "original": "2015/HOJA DE DATOS  TP Nº 1.docx",
+      "sha256": "5c2b24178f07925e46ac3050f3f2e4962a1d1446472595ab56969b0e0497ba2b",
+      "nota": "notes/2015/practica/potencial-electrico-hoja-de-datos.md",
+      "paginas_revisadas": [
+        1
+      ],
+      "paginacion": "PDF normalizado desde DOCX; depende del renderizador",
+      "math_esperada": 0,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/potencial-electrico-hoja-de-datos.md",
+      "estado": "pendiente render GitHub"
+    },
+    {
+      "original": "2015/HOJA DE DATOS  TP Nº 2.docx",
+      "sha256": "947b2c1a219539da47f56bcf75dd9b995228f32e5c5f6f059cb0ffab733324a0",
+      "nota": "notes/2015/practica/ecuacion-laplace-hoja-de-datos.md",
+      "paginas_revisadas": [
+        1
+      ],
+      "paginacion": "PDF normalizado desde DOCX; depende del renderizador",
+      "math_esperada": 0,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/ecuacion-laplace-hoja-de-datos.md",
+      "estado": "pendiente render GitHub"
+    },
+    {
+      "original": "2015/HOJA DE DATOS  TP Nº 4.docx",
+      "sha256": "6127bfd8b2de324f0069e215c8628d195ffc0414bfde9d3a7ecfa31975c31a6d",
+      "nota": "notes/2015/practica/ley-de-ohm-hoja-de-datos.md",
+      "paginas_revisadas": [
+        1
+      ],
+      "paginacion": "PDF normalizado desde DOCX; depende del renderizador",
+      "math_esperada": 10,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/ley-de-ohm-hoja-de-datos.md",
+      "estado": "pendiente render GitHub"
+    },
+    {
+      "original": "2015/HOJA DE DATOS  TP Nº3.docx",
+      "sha256": "1f425e49b1d9a1f0d49d842636e4fca8ad1dbda4d6c8cb889334e7ab9f043129",
+      "nota": "notes/2015/practica/circuito-rc-hoja-de-datos.md",
+      "paginas_revisadas": [
+        1
+      ],
+      "paginacion": "PDF normalizado desde DOCX; depende del renderizador",
+      "math_esperada": 0,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/circuito-rc-hoja-de-datos.md",
+      "estado": "pendiente render GitHub"
     }
   ]
 }

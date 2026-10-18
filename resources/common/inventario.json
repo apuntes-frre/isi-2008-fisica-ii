@@ -780,10 +780,13 @@
       "duplicado_sha256_de": null,
       "clasificacion": "pendiente de revisión documental",
       "evidencia": "",
-      "estado": "pendiente",
-      "paginas_revisadas": [],
+      "estado": "transcrito y validado localmente",
+      "paginas_revisadas": [
+        1
+      ],
       "copia_local": "/tmp/fisica-ii-20261017-fuentes/54-HOJA DE DATOS  TP Nº 1.docx",
-      "texto_poppler_local": null
+      "texto_poppler_local": null,
+      "nota": "notes/2015/practica/potencial-electrico-hoja-de-datos.md"
     },
     {
       "original": "2015/HOJA DE DATOS  TP Nº 2.docx",
@@ -793,10 +796,13 @@
       "duplicado_sha256_de": null,
       "clasificacion": "pendiente de revisión documental",
       "evidencia": "",
-      "estado": "pendiente",
-      "paginas_revisadas": [],
+      "estado": "transcrito y validado localmente",
+      "paginas_revisadas": [
+        1
+      ],
       "copia_local": "/tmp/fisica-ii-20261017-fuentes/55-HOJA DE DATOS  TP Nº 2.docx",
-      "texto_poppler_local": null
+      "texto_poppler_local": null,
+      "nota": "notes/2015/practica/ecuacion-laplace-hoja-de-datos.md"
     },
     {
       "original": "2015/HOJA DE DATOS  TP Nº 4.docx",
@@ -806,10 +812,13 @@
       "duplicado_sha256_de": null,
       "clasificacion": "pendiente de revisión documental",
       "evidencia": "",
-      "estado": "pendiente",
-      "paginas_revisadas": [],
+      "estado": "transcrito y validado localmente",
+      "paginas_revisadas": [
+        1
+      ],
       "copia_local": "/tmp/fisica-ii-20261017-fuentes/56-HOJA DE DATOS  TP Nº 4.docx",
-      "texto_poppler_local": null
+      "texto_poppler_local": null,
+      "nota": "notes/2015/practica/ley-de-ohm-hoja-de-datos.md"
     },
     {
       "original": "2015/HOJA DE DATOS  TP Nº3.docx",
@@ -819,10 +828,13 @@
       "duplicado_sha256_de": null,
       "clasificacion": "pendiente de revisión documental",
       "evidencia": "",
-      "estado": "pendiente",
-      "paginas_revisadas": [],
+      "estado": "transcrito y validado localmente",
+      "paginas_revisadas": [
+        1
+      ],
       "copia_local": "/tmp/fisica-ii-20261017-fuentes/57-HOJA DE DATOS  TP Nº3.docx",
-      "texto_poppler_local": null
+      "texto_poppler_local": null,
+      "nota": "notes/2015/practica/circuito-rc-hoja-de-datos.md"
     },
     {
       "original": "2015/HOJA DE DATOS - TP N° 7.pdf",

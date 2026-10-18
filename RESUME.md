@@ -275,3 +275,18 @@ git diff --check
 - A continuación: hojas DOCX independientes 54/55/56/57, guías de problemas
   extensas 50/51/52/77, planificación y teoría 2015/2019, informes y exámenes
   2020; bibliografía y otras materias separadas en inventario.
+
+## Checkpoint 15: hojas DOCX independientes
+
+- 21 notas/secciones, 76 páginas cotejadas, 315 math esperadas. Cuatro hojas
+  adicionales de una página normalizada cada una: TP1/2/3/4.
+- No son copias asumidas: TP1 siete potenciales y nueve lecturas; TP2
+  malla11×11; TP3 tabla temporal0–200 con seis pares de columnas; TP4 tres
+  tablas con título serie repetido, fórmulas recuperadas. Formularios/firmas
+  vacíos conservados.
+- Next: cerrar commit y verificar render; las cuatro hojas suman diez math (solo
+  Ohm), las otras tres tienen cero.
+- Páginas normalizadas: hoja-potencial-1.png, hoja-laplace-1.png,
+  hoja-ohm-1.png, hoja-rc-1.png.
+- Próximo lote: guía de problemas tercera parte (5p.) y guía polarización ya
+  transcrita por separado; antes contrastar ejercicios/figuras.
