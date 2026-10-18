@@ -914,3 +914,16 @@ verificadas también por sus tablas.
   detecta variantes; evidencia temporal en comparacion-labs47.json. No acredita
   cotejo de páginas restantes. Próximo: FEM/potenciómetro31–34 y después
   laboratorios1–4,7–8 con sus hojas.
+
+## Checkpoint 56: FEM y potenciómetro del compilado
+
+- 59 notas,1094 expresiones esperadas y206 páginas únicas cotejadas visualmente.
+- Fuente47 páginas31–34 completas como variante separada del DOCX69: cuatro
+  figuras originales PDF,15expresiones, calibración, medición y sensibilidad.
+  Se conserva Vc−Va en el párrafo del cursor, d.d.p. y finales con punto/guion.
+- Kirchoff del compilado confirmado6/6, imagen cargada y tablas4/4filas.
+- Checker local del potenciómetro y diff --check pasaron. Pendiente render
+ 15math y cuatro imágenes. Fuente47 cotejada1,31–39,52–98; resto pendiente.
+- Próximo: laboratorio7 páginas40–45 y8 páginas46–51, incluidas hojas; luego
+  laboratorios1–4 páginas2–30. Comparar las versiones individuales sin asumir
+  identidad por título o porcentaje de coincidencia textual.
