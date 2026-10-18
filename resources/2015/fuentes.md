@@ -44,10 +44,10 @@ año de carpeta no demuestra el año impreso.
 - La paginación de Word depende del renderizador; se registran las siete páginas
   del PDF normalizado, sin atribuirlas a un PDF original.
 - [Transcripción](../../notes/2015/practica/potencial-electrico-mapeo-laboratorio-1.md).
-- Renderizado GitHub: commit `29bb56f`, 26/26 expresiones, cero errores, cero
+- Renderizado GitHub: commit `e42bf07`, 26/26 expresiones, cero errores, cero
   código residual; cinco figuras cargadas y numeración 1–8 comprobada.
 - URL:
-  <https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/29bb56f/notes/2015/practica/potencial-electrico-mapeo-laboratorio-1.md>.
+  <https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/e42bf07/notes/2015/practica/potencial-electrico-mapeo-laboratorio-1.md>.
 
 ## Inventario completo y pendientes
 
@@ -189,12 +189,14 @@ originales de las normalizadas y registra conteos matemáticos.
   páginas; transcrito y validado localmente. SHA-256:
   `a7e46cb22afe66acb29dd101476d0f38f8d6234347fcb0849363105086fdd645`.
 - `2015/FISICA II - EXPERIENCIAS DE LABORATORIOS 2015- TP N° 7-1.pdf`: 13
-  páginas; pendiente. SHA-256:
+  páginas; laboratorio 7 transcrito, páginas 1-7; laboratorio 8 páginas 8-13
+  pendiente. SHA-256:
   `53d7c28ab3daca9c606a3d49f4ad273d2591e9dcde2f3fe9fd9960b81b5811d6`.
 - `2015/FISICA II - EXPERIENCIAS DE LABORATORIOS 2015- TP N° 7.pdf`: 13 páginas;
-  pendiente. SHA-256:
-  `53d7c28ab3daca9c606a3d49f4ad273d2591e9dcde2f3fe9fd9960b81b5811d6`. Duplicado
-  exacto de `2015/FISICA II - EXPERIENCIAS DE LABORATORIOS 2015- TP N° 7-1.pdf`.
+  laboratorio 7 transcrito, páginas 1-7; laboratorio 8 páginas 8-13 pendiente.
+  SHA-256: `53d7c28ab3daca9c606a3d49f4ad273d2591e9dcde2f3fe9fd9960b81b5811d6`.
+  Duplicado exacto de
+  `2015/FISICA II - EXPERIENCIAS DE LABORATORIOS 2015- TP N° 7-1.pdf`.
 - `2015/FISICA II - EXPERIENCIAS DE LABORATORIOS 2015- TP N° 7.pdf.pdf`: 13
   páginas; pendiente. SHA-256:
   `0e5f0f3572b24911f39be3d34cd5eebba656b6e0420b4dc51dc954711f50c433`.
@@ -330,7 +332,7 @@ originales de las normalizadas y registra conteos matemáticos.
 - Diferencias conservadas: 12 voltios experimental/10.0 teórico y tamaños 8/10
   cm. No se armonizaron valores.
 - [Transcripción](../../notes/2015/practica/ecuacion-de-laplace-laboratorio-2.md).
-- Render GitHub: commit `abce6e4` (ver historial de la nota), 9/9 expresiones,
+- Render GitHub: commit `5f9c483` (ver historial de la nota), 9/9 expresiones,
   cero errores/código residual y montaje cargado.
 - URL:
   <https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/ecuacion-de-laplace-laboratorio-2.md>.
@@ -346,7 +348,7 @@ originales de las normalizadas y registra conteos matemáticos.
   Se conserva Wlm² y comilla 23.0" del original. Autor y año impreso no constan;
   pertenencia temática a Física II por polarización.
 - [Transcripción](../../notes/2015/practica/polarizacion-problemas.md).
-- Render GitHub: commit `28ff451`; polarización 6/6, hoja TP7 6/6 y hoja TP8 1/1
+- Render GitHub: commit `22c08ff`; polarización 6/6, hoja TP7 6/6 y hoja TP8 1/1
   expresiones; cero errores y cero código residual en las tres notas. Los dos
   diagramas de polarización presentan ancho nativo no nulo.
 
@@ -361,7 +363,7 @@ originales de las normalizadas y registra conteos matemáticos.
   filas incluyendo celda extra y encabezado). Cátedra Física II UTN FRRe; autor
   y año impreso no constan.
 - [Transcripción](../../notes/2015/practica/campo-magnetico-terrestre-hoja-de-datos.md).
-- Render GitHub: commit `28ff451`; polarización 6/6, hoja TP7 6/6 y hoja TP8 1/1
+- Render GitHub: commit `22c08ff`; polarización 6/6, hoja TP7 6/6 y hoja TP8 1/1
   expresiones; cero errores y cero código residual en las tres notas. Los dos
   diagramas de polarización presentan ancho nativo no nulo.
 
@@ -376,7 +378,7 @@ originales de las normalizadas y registra conteos matemáticos.
   después de μ en el propio PDF, registrado sin adivinar. Se conserva Corrinete.
   Cátedra Física II UTN FRRe; autor y año impreso no constan.
 - [Transcripción](../../notes/2015/practica/fuerza-magnetica-hoja-de-datos.md).
-- Render GitHub: commit `28ff451`; polarización 6/6, hoja TP7 6/6 y hoja TP8 1/1
+- Render GitHub: commit `22c08ff`; polarización 6/6, hoja TP7 6/6 y hoja TP8 1/1
   expresiones; cero errores y cero código residual en las tres notas. Los dos
   diagramas de polarización presentan ancho nativo no nulo.
 
@@ -478,3 +480,23 @@ originales de las normalizadas y registra conteos matemáticos.
   confunden con pérdidas de extracción.
 - [Transcripción](../../notes/2015/practica/fuerza-magnetica-laboratorio-8.md).
 - Render GitHub pendiente, 19 expresiones esperadas.
+
+## Brújula de tangentes, laboratorio 7
+
+- Original: `FISICA II - EXPERIENCIAS DE LABORATORIOS 2015- TP N° 7-1.pdf` (13
+  páginas, compuesto por laboratorios 7 y 8).
+- SHA-256: `53d7c28ab3daca9c606a3d49f4ad273d2591e9dcde2f3fe9fd9960b81b5811d6`;
+  duplicado exacto sin sufijo -1.
+- Esta nota cubre páginas 1–7 comparadas visualmente: ocho ecuaciones numeradas,
+  tres diagramas y dos fotos, seis materiales, técnica con paso 4 repetido, tres
+  preguntas, bibliografía y hoja de datos. Página 7 en blanco salvo
+  encabezado/paginación.
+- Formulario del cuerpo: una fila vacía. Hoja: cuatro integrantes y catorce
+  filas vacías de medición.
+- Motor PyMuPDF4LLM, contraste pdftotext -layout y pdftoppm. Erratas de (6),
+  unidades de μo y numeración conservadas. Autor/año impreso no constan; cátedra
+  Física II UTN FRRe.
+- [Transcripción](../../notes/2015/practica/campo-induccion-magnetica-laboratorio-7.md).
+- Páginas 8–13: laboratorio 8, pendiente comparar versión y anexo con el PDF
+  independiente ya transcrito; no se declara cubierto todo este archivo.
+- Render GitHub pendiente, 35 expresiones esperadas.

@@ -167,10 +167,10 @@ originales de las normalizadas y registra conteos matemáticos.
 - Motor: PyMuPDF4LLM 1.28.2; imágenes originales extraídas.
 - No se resuelven ni corrigen los enunciados.
 - [Transcripción](../../notes/2019/practica/ley-de-coulomb-guia-1-1.md).
-- Render GitHub: commit `fd3def9`, 28/28 expresiones, cinco diagramas cargados,
+- Render GitHub: commit `e267b67`, 28/28 expresiones, cinco diagramas cargados,
   sin errores ni código matemático residual.
 - URL:
-  <https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/fd3def9/notes/2019/practica/ley-de-coulomb-guia-1-1.md>.
+  <https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/e267b67/notes/2019/practica/ley-de-coulomb-guia-1-1.md>.
 
 ## Campo eléctrico, guía 1.2
 

@@ -99,7 +99,7 @@ git diff --check
 
 - Tres notas completas: Faraday PDF (2 p.), TP1 DOCX (7 p. normalizadas), TP2
   DOCX (5 p. normalizadas).
-- TP1 corregido: GitHub `29bb56f`, 26/26 math, cinco figuras cargadas, ocho
+- TP1 corregido: GitHub `e42bf07`, 26/26 math, cinco figuras cargadas, ocho
   pasos con numeración correcta.
 - TP2: todas las cinco páginas revisadas, siete fórmulas reparadas, un montaje y
   cuatro tablas conservadas. Lint/checker en cierre; render GitHub pendiente.
@@ -126,7 +126,7 @@ git diff --check
 - Guía 1.1 de 2019 (nombre 2018): páginas 1–3 revisadas, 9 preguntas, 10
   problemas, cinco diagramas y ecuación recuperada.
 - Lint/checker aprobados antes de commit. Duplicado 92 cubierto por hash exacto.
-- Checkpoint previo `28ff451`: polarización y hojas TP7/8 renderizadas, 6/6, 6/6
+- Checkpoint previo `22c08ff`: polarización y hojas TP7/8 renderizadas, 6/6, 6/6
   y 1/1 math.
 - Próximo: render de Coulomb; guías 1.2 Campo eléctrico y 1.3 Gauss ya
   convertidas/renderizadas localmente en
@@ -141,7 +141,7 @@ git diff --check
   diagramas. Todas las páginas comparadas.
 - math_expressions: campo 18 expresiones; Gauss 12. Pendiente verificación
   GitHub después del push.
-- Coulomb GitHub verificado en `fd3def9`: 28/28 expresiones y cinco figuras
+- Coulomb GitHub verificado en `e267b67`: 28/28 expresiones y cinco figuras
   cargadas.
 - Próximo: DOCX Faraday versión independiente; luego guías Kirchhoff/Puente de
   hilo.
@@ -170,7 +170,7 @@ git diff --check
   se excluyó interfaz de Windows. Scripts reutilizables: `cortar-puente.py`,
   `reparar-puente.py` en el temporal.
 - Nota guardada y checker aprobado; cerrar commit y render GitHub.
-- Checkpoint previo remoto `3e686d9`: Faraday DOCX 16/16 math; Kirchhoff 2/2;
+- Checkpoint previo remoto `9f6fdf8`: Faraday DOCX 16/16 math; Kirchhoff 2/2;
   montaje e imágenes pendientes de confirmación tras carga asíncrona.
 - Próximo documento: laboratorio 3 Capacidad (11 p.) o laboratorio 4 Ley de Ohm
   (7 p.), aún sin conversión.
@@ -230,3 +230,29 @@ git diff --check
 - Legacy Office: normalización con LibreOffice en
   /tmp/fisica-ii-conversion/legacy; extraer con MarkItDown/Pandoc antes de
   revisar. No software ejecutado.
+
+## Historial saneado
+
+- HEAD del checkpoint 12: `5187a60`. Rama remota actualizada con
+  force-with-lease, exclusivamente commits creados para esta transcripción.
+- Se preservaron los 13 commits/checkpoints y el árbol final idéntico; solo se
+  retiraron tres extractos de calificaciones ajenas de 10 inventarios
+  históricos. main intacto.
+- Mapa privado de SHA anteriores/nuevos:
+  `/tmp/fisica-ii-conversion/mapa-commits-redactados.json`; no volver a publicar
+  las versiones anteriores. Los SHA del registro se actualizan al historial
+  saneado.
+- No se afirma borrado de cachés/objetos del servidor; el historial activo de la
+  rama ya no incluye los extractos.
+
+## Checkpoint 13: brújula de tangentes
+
+- 16 notas/secciones, 66 páginas revisadas, 285 math esperadas. Laboratorio 7
+  corresponde a páginas 1–7 de PDF compuesto de 13; páginas 8–13 aún pendientes.
+- Ocho ecuaciones, cinco figuras (tres diagramas y dos fotos), técnica y
+  cuestionario íntegros, hoja con catorce registros; fuente/duplicado por hash y
+  cobertura parcial bien marcados.
+- Próxima acción: revisar visualmente páginas 8–13, comparar con fuente45 del
+  laboratorio8 y transcribir variante/anexo sin presumir duplicado.
+- Render GitHub de esta nota pendiente: 35 math. Último checkpoint de fuerza
+  magnética19 math también pendiente.
