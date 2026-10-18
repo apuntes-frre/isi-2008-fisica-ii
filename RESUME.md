@@ -409,3 +409,18 @@ git diff --check
   imágenes anteriores.
 - Helper actualizado con fuentes_adicionales en cobertura y estado completo de
   fuente51; no duplicar matemática ni apuntes por cola compartida.
+
+## Checkpoint 24: fuerzas magnéticas
+
+- 30 notas/secciones,487expresiones esperadas;108páginas de fuentes únicas
+  cotejadas, incluidas24de fuente51 y3de fuente52. La suma de páginas-sección en
+  helper excluye carátulas/cola compartida y cuenta solapamientos.
+- Fuente52 parcial páginas1–3:15preguntas,14problemas con numeración Serway
+  discontinua,6figuras; vectores recuperados visualmente. Fuente51 completa
+  en1800502.
+- Circuitos13/13math verificados;14imágenes estaban cargándose parcialmente al
+  primer chequeo, volver a consultar sin navegar antes.
+- Fuerzas pendiente publicar/render:32math y6figuras.
+- Próximo: fuente52 campo de inducción/propiedades desde página4. Página4render
+  ya revisado; renderizar5y6 para delimitar final y conservar
+  Fig1P/etiquetas/unidades originales.
