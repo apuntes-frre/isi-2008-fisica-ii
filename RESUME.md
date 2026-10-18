@@ -348,3 +348,18 @@ git diff --check
   renderizar página10 y determinar si continúa en11 antes de delimitar.
 - No confundir suma de páginas por sección con páginas únicas cuando dos
   secciones comparten página.
+
+## Checkpoint 20: Gauss 2015
+
+- 26 notas/secciones y 400 expresiones esperadas. 91 páginas-sección cotejadas;
+  90 páginas únicas porque campo y Gauss comparten página9.
+- Gauss2015:cinco preguntas, doce problemas y seis figuras; páginas9–11 entre
+  título de Gauss y título de potencial. Página11 solo Gauss está cubierta por
+  esta nota.
+- Coulomb2015:11/11math y cinco figuras cargadas verificadas. Campo2015
+  commit60e042a:8/8math y once figuras cargadas verificadas.
+- Próximo paso: verificar Gauss publicado (8math/seisfiguras), transcribir
+  potencial desde mitad de página11; ver página12 y comienzo13 para delimitar
+  final.
+- Fuente51 todavía parcial; no se han validado las páginas restantes por existir
+  extracciones.
