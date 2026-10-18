@@ -683,7 +683,7 @@
       "duplicado_sha256_de": null,
       "clasificacion": "pendiente de revisión documental",
       "evidencia": "",
-      "estado": "parcial: hojas de datos35 y39, Faraday52–56, alterna58–64, fotometría65–69, interferencia70–73, difracción74–77, espectrómetro78–80 y anexoGLX98 transcritos; aviso Faraday57 cotejado y registrado; resto pendiente",
+      "estado": "parcial: hojas de datos35 y39, Faraday52–56, alterna58–64, fotometría65–69, interferencia70–73, difracción74–77, espectrómetro78–80, polarización81–89 y anexoGLX98 transcritos; aviso Faraday57 cotejado y registrado; resto pendiente",
       "paginas_revisadas": [
         1,
         35,
@@ -717,6 +717,15 @@
         78,
         79,
         80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
         98
       ],
       "copia_local": "/tmp/fisica-ii-20261017-fuentes/47-FISICA II - EXPERIENCIAS DE LABORATORIOS.pdf",
@@ -730,7 +739,8 @@
         "notes/2015/practica/fotometria-laboratorio-11.md",
         "notes/2015/practica/interferencia-laboratorio-12.md",
         "notes/2015/practica/difraccion-laboratorio-13.md",
-        "notes/2015/practica/espectrometro-laboratorio-14.md"
+        "notes/2015/practica/espectrometro-laboratorio-14.md",
+        "notes/2015/practica/polarizacion-laboratorio-15.md"
       ],
       "paginas_transcritas": [
         35,
@@ -764,6 +774,15 @@
         78,
         79,
         80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
         98
       ],
       "observaciones_cobertura": "Carátula1 cotejada: EXPERIENCIAS DE LABORATORIOS. Página98 es diagrama GLX con etiquetas no extraídas: diagrama original conservado y29etiquetas transcritas y cotejadas. Mapa de secciones generado desde texto de98p; ese mapa no acredita revisión visual del resto. Ninguna igualdad de render con fuentes40,41,42,45,73 a72dpi gris; no se presume duplicación.",

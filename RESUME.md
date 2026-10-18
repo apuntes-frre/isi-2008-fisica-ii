@@ -864,3 +864,15 @@ verificadas también por sus tablas.
 - Próximo trabajo autorizado: polarización del compilado47 páginas81–89.
   Conservar todos los casos de polarización, diagramas, experiencias y hojas;
   no confundir con problemas de polarización fuente48 ya transcritos.
+
+## Checkpoint 52: polarización de la luz
+
+- 55 notas,1035 expresiones esperadas y191 páginas únicas cotejadas visualmente.
+- Fuente47 páginas81–89 completas:13figuras,47expresiones, desarrollo de
+  polarización lineal/circular/elíptica, dicroísmo, Brewster, Malus, materiales
+  fotoelásticos, cuatro trabajos y hoja con36ángulos. Se preservan signos,
+  convención de giro, αP/θP, ausencia de paréntesis sen90°−θP y n1/n2.
+- Texto contrastado también con pdftotext-layout. Checker local y diff --check
+  pasaron. Pendiente render47math,13imágenes y tabla13filas×6columnas.
+- Próximo: termometría90–93 y calorimetría94–97; después cotejar variantes1–8
+  del compilado. No declarar completa materia ni compilado.
