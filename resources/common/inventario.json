@@ -2545,10 +2545,34 @@
       "duplicado_sha256_de": null,
       "clasificacion": "pendiente de revisión documental",
       "evidencia": "",
-      "estado": "pendiente",
-      "paginas_revisadas": [],
+      "estado": "parcial: páginas1–17 cotejadas y transcritas; programa, carga, Coulomb y superposición; páginas18–42 pendientes",
+      "paginas_revisadas": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
       "copia_local": "/tmp/fisica-ii-20261017-fuentes/96-2018 UT I - Fuerza Eléctrica y Campo Elécrtico.pdf",
-      "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/96-2018 UT I - Fuerza Eléctrica y Campo Elécrtico.txt"
+      "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/96-2018 UT I - Fuerza Eléctrica y Campo Elécrtico.txt",
+      "notas": [
+        "notes/2019/teoria/ley-coulomb-fuerza-constantes-2018.md",
+        "notes/2019/teoria/superposicion-componentes-fuerza-2018.md",
+        "notes/2019/teoria/electrostatica-introduccion-programa-2018.md",
+        "notes/2019/teoria/carga-electrica-cuantizacion-electrizacion-2018.md"
+      ]
     },
     {
       "original": "2019/1er Parcial/Campo cero de dos cargas puntuales.pdf",

@@ -37,7 +37,8 @@ originales de las normalizadas y registra conteos matemáticos.
   raster original. SHA-256:
   `ac23675b753c3d9349b89600ea349edcbc8dfe56058b3c78a09e873777616145`.
 - `2019/1er Parcial/2018 UT I - Fuerza Eléctrica y Campo Elécrtico.pdf`: 42
-  páginas; pendiente. SHA-256:
+  páginas; parcial: páginas1–17 cotejadas y transcritas; programa, carga,
+  Coulomb y superposición; páginas18–42 pendientes. SHA-256:
   `326bb078ddbf25b43f166e198c175106027b686dde0d0ea9688c025795f46ca7`.
 - `2019/1er Parcial/Campo cero de dos cargas puntuales.pdf`: 3 páginas;
   pendiente. SHA-256:

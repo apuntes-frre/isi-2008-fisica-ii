@@ -1230,3 +1230,16 @@ verificadas también por sus tablas.
   no asumirduplicado. Render/textos preparados en fuerza-campo-96 temporal,
   todavía no cotejados visualmente ni transcritos.
 - Próximo continuar96; luego97–101. Materia yPRsiguenincompletos.
+
+## Checkpoint 76: fuerza y campo2018, primeras17páginas
+
+- Fuente96parcial:1–3programa/bibliografía/introducción;4–10carga einducción;
+  11–14Coulomb;15–17superposición/componentes3D. Cuatro notas,29expresiones,
+  12medios (átomo repetido enp7/8).149notas/1807mathesperadas.
+-429páginas únicas revisadas (412+17);444delhelper repite páginas entre notas.
+- Cotejados todoslosvalores ypasos. «dos dos tipos» en13eserrata visible,
+  no duplicacióndeextracción; recorteampliado lo confirma. Versores conbreve.
+- El diagrama de17inferior y15superior carece de explicación adicional: se
+  conserva sininventar. El contenido delprogramano cuenta comotemascompletos.
+- check103pasó4notas+fuentes. Próximo publicar/verificar29math y13referencias
+  aimagen; continuar páginas18–42, luego97–101. Materia incompleta.
