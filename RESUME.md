@@ -1196,3 +1196,11 @@ verificadas también por sus tablas.
   mediante contactos; circuito39extraído raster paraevitartextoajeno.
 - check98pasó12notas+fuentes; próximo publicar y verificar141math/45medios
   enGitHub antes decontinuarfuente95. PRsigueborrador; materia incompleta.
+
+## Checkpoint 73: Electrocinética verificada en GitHub
+
+- 137 notas /1701 expresiones verificadas;45imágenes de fuente90cargadas.
+  Sin merror ni macros literales detectadas. Fuente90publicada en0ebc2fa.
+- 386páginas únicas revisadas; fuente95es capacidad/dieléctricos26páginas.
+  ÚltimaCI aún pendiente; no confundir estado pendiente con fallo.
+- Próximo: fuente95, después96y guías97–101. PRcontinúaborrador.
