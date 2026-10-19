@@ -4,15 +4,179 @@
     {
       "original": "2015/480938-Modelos de parcial FISICA II actualizado 060813(0).pdf",
       "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+      "nota": "notes/2015/practica/isi-recuperatorio-segundo-parcial-tema-a.md",
+      "paginas_revisadas": [
+        14
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 1,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/isi-recuperatorio-segundo-parcial-tema-a.md",
+      "estado": "pendiente render GitHub",
+      "pendientes_lectura": [
+        "Unidad de anotación manuscrita de R; imagen original conservada"
+      ],
+      "fuentes_adicionales": [
+        {
+          "original": "2015/Extras/DOC-20160612-WA0011.pdf",
+          "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+          "paginas_verificadas_identidad_render": [
+            14
+          ],
+          "estado": "píxeles idénticos a páginas de referencia ya cotejadas; evidencia en duplicados-render.json"
+        }
+      ]
+    },
+    {
+      "original": "2015/480938-Modelos de parcial FISICA II actualizado 060813(0).pdf",
+      "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+      "nota": "notes/2015/practica/parcial-corrientes-circuito-onda-em.md",
+      "paginas_revisadas": [
+        21
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 2,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/parcial-corrientes-circuito-onda-em.md",
+      "estado": "pendiente render GitHub",
+      "fuentes_adicionales": [
+        {
+          "original": "2015/Extras/DOC-20160612-WA0011.pdf",
+          "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+          "paginas_verificadas_identidad_render": [
+            21
+          ],
+          "estado": "píxeles idénticos a páginas de referencia ya cotejadas; evidencia en duplicados-render.json"
+        }
+      ]
+    },
+    {
+      "original": "2015/480938-Modelos de parcial FISICA II actualizado 060813(0).pdf",
+      "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+      "nota": "notes/2015/practica/iq-2009-segundo-parcial-tema-1-version-sin-velocidad.md",
+      "paginas_revisadas": [
+        21
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 0,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/iq-2009-segundo-parcial-tema-1-version-sin-velocidad.md",
+      "estado": "pendiente render GitHub",
+      "fuentes_adicionales": [
+        {
+          "original": "2015/Extras/DOC-20160612-WA0011.pdf",
+          "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+          "paginas_verificadas_identidad_render": [
+            21
+          ],
+          "estado": "píxeles idénticos a páginas de referencia ya cotejadas; evidencia en duplicados-render.json"
+        }
+      ]
+    },
+    {
+      "original": "2015/480938-Modelos de parcial FISICA II actualizado 060813(0).pdf",
+      "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+      "nota": "notes/2015/practica/segundo-parcial-2008-tema-1-instrumentos-espectrografo.md",
+      "paginas_revisadas": [
+        20
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 2,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/segundo-parcial-2008-tema-1-instrumentos-espectrografo.md",
+      "estado": "pendiente render GitHub",
+      "fuentes_adicionales": [
+        {
+          "original": "2015/Extras/DOC-20160612-WA0011.pdf",
+          "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+          "paginas_verificadas_identidad_render": [
+            20
+          ],
+          "estado": "píxeles idénticos a páginas de referencia ya cotejadas; evidencia en duplicados-render.json"
+        }
+      ]
+    },
+    {
+      "original": "2015/480938-Modelos de parcial FISICA II actualizado 060813(0).pdf",
+      "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+      "nota": "notes/2015/practica/segundo-parcial-2008-tema-2-instrumentos-espectrografo.md",
+      "paginas_revisadas": [
+        20
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 0,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/segundo-parcial-2008-tema-2-instrumentos-espectrografo.md",
+      "estado": "pendiente render GitHub",
+      "fuentes_adicionales": [
+        {
+          "original": "2015/Extras/DOC-20160612-WA0011.pdf",
+          "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+          "paginas_verificadas_identidad_render": [
+            20
+          ],
+          "estado": "píxeles idénticos a páginas de referencia ya cotejadas; evidencia en duplicados-render.json"
+        }
+      ]
+    },
+    {
+      "original": "2015/480938-Modelos de parcial FISICA II actualizado 060813(0).pdf",
+      "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+      "nota": "notes/2015/practica/recuperatorio-segundo-parcial-tema-1-espectrografo.md",
+      "paginas_revisadas": [
+        15
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 2,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/recuperatorio-segundo-parcial-tema-1-espectrografo.md",
+      "estado": "pendiente render GitHub",
+      "fuentes_adicionales": [
+        {
+          "original": "2015/Extras/DOC-20160612-WA0011.pdf",
+          "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+          "paginas_verificadas_identidad_render": [
+            15
+          ],
+          "estado": "píxeles idénticos a páginas de referencia ya cotejadas; evidencia en duplicados-render.json"
+        }
+      ]
+    },
+    {
+      "original": "2015/480938-Modelos de parcial FISICA II actualizado 060813(0).pdf",
+      "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+      "nota": "notes/2015/practica/recuperatorio-segundo-parcial-tema-2-espectrografo.md",
+      "paginas_revisadas": [
+        15
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 2,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/recuperatorio-segundo-parcial-tema-2-espectrografo.md",
+      "estado": "pendiente render GitHub",
+      "fuentes_adicionales": [
+        {
+          "original": "2015/Extras/DOC-20160612-WA0011.pdf",
+          "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+          "paginas_verificadas_identidad_render": [
+            15
+          ],
+          "estado": "píxeles idénticos a páginas de referencia ya cotejadas; evidencia en duplicados-render.json"
+        }
+      ]
+    },
+    {
+      "original": "2015/480938-Modelos de parcial FISICA II actualizado 060813(0).pdf",
+      "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
       "nota": "notes/2015/practica/iq-recuperatorio-segundo-parcial-instrumentos-coaxial-barra.md",
       "paginas_revisadas": [
         19
       ],
       "paginacion": "PDF original",
       "math_esperada": 0,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 0,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/iq-recuperatorio-segundo-parcial-instrumentos-coaxial-barra.md",
-      "estado": "pendiente render GitHub",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
       "fuentes_adicionales": [
         {
           "original": "2015/Extras/DOC-20160612-WA0011.pdf",
@@ -33,9 +197,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 0,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 0,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/recuperatorio-2008-primer-parcial-tema-1.md",
-      "estado": "pendiente render GitHub",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
       "fuentes_adicionales": [
         {
           "original": "2015/Extras/DOC-20160612-WA0011.pdf",
@@ -56,9 +220,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 0,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 0,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/isi-recuperatorio-primer-parcial-alambres-resortes-rc.md",
-      "estado": "pendiente render GitHub",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
       "fuentes_adicionales": [
         {
           "original": "2015/Extras/DOC-20160612-WA0011.pdf",
@@ -79,9 +243,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 0,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 0,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/recuperatorio-segundo-parcial-t2-espira-conductores-rl.md",
-      "estado": "pendiente render GitHub",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
       "fuentes_adicionales": [
         {
           "original": "2015/Extras/DOC-20160612-WA0011.pdf",
@@ -102,9 +266,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 2,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 2,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/segundo-parcial-2007-tema-b.md",
-      "estado": "pendiente render GitHub",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
       "fuentes_adicionales": [
         {
           "original": "2015/Extras/DOC-20160612-WA0011.pdf",
@@ -125,9 +289,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 0,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 0,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/segundo-parcial-tema-1-circuito-alambre-espira.md",
-      "estado": "pendiente render GitHub",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
       "fuentes_adicionales": [
         {
           "original": "2015/Extras/DOC-20160612-WA0011.pdf",
@@ -148,9 +312,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 3,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 3,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/segundo-parcial-tema-b-capacitores-corrientes-induccion.md",
-      "estado": "pendiente render GitHub",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
       "fuentes_adicionales": [
         {
           "original": "2015/Extras/DOC-20160612-WA0011.pdf",
@@ -171,9 +335,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 3,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 3,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/segundo-parcial-tema-a-capacitores-corrientes-induccion.md",
-      "estado": "pendiente render GitHub",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
       "fuentes_adicionales": [
         {
           "original": "2015/Extras/DOC-20160612-WA0011.pdf",
