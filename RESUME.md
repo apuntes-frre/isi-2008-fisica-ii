@@ -1149,3 +1149,15 @@ verificadas también por sus tablas.
 - check91pasó las11notas yfuentes2015/2019; diff --checkpendientealcommit.
   Próximo publicar y verificar1478esperadas, especialmenteoiint enGitHub;
   luego seguirinventariopendiente, sin aprobar ni fusionarPR.
+
+## Checkpoint 70: verificación de la unidad teórica publicada
+
+- 116 notas y 1478 expresiones verificadas en GitHub; 315 páginas únicas
+  cotejadas visualmente. Las 24 imágenes de la unidad 1 cargaron correctamente.
+- GitHub mostraba literalmente la macro oiint aunque KaTeX la aceptaba.
+  Se sustituyó por el símbolo Unicode de integral de superficie cerrada dentro
+  de mathop, conservando el significado original; ambas notas verificadas.
+- CI del commit 6bc9831 pasó. PR sigue en borrador y materia incompleta.
+- Búsqueda de PR abiertos: Física II #1 y control .github #13 de correlativas
+  ISI Plan 2023; no aparecieron PR de otras materias.
+- Próxima fuente: 89, Energía electrostática y potencial eléctrico, 16 páginas.
