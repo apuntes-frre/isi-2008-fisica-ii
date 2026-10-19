@@ -32,7 +32,9 @@ originales de las normalizadas y registra conteos matemáticos.
   localmente. SHA-256:
   `3aa48c34e63a8ea1155b39ba28f273552e92987848b4ea071c054ebb0beb6775`.
 - `2019/1er Parcial/2018 PF UT III - Capacidad. Prop electr de la Materia.pptx.pdf`:
-  26 páginas; pendiente. SHA-256:
+  26 páginas; completo:26páginas y51diapositivas cotejadas; ocho notas de
+  capacidad y dieléctricos; imágenes superpuestas de carga recuperadas desde
+  raster original. SHA-256:
   `ac23675b753c3d9349b89600ea349edcbc8dfe56058b3c78a09e873777616145`.
 - `2019/1er Parcial/2018 UT I - Fuerza Eléctrica y Campo Elécrtico.pdf`: 42
   páginas; pendiente. SHA-256:

@@ -1204,3 +1204,19 @@ verificadas también por sus tablas.
 - 386páginas únicas revisadas; fuente95es capacidad/dieléctricos26páginas.
   ÚltimaCI aún pendiente; no confundir estado pendiente con fallo.
 - Próximo: fuente95, después96y guías97–101. PRcontinúaborrador.
+
+## Checkpoint 74: capacidad y dieléctricos
+
+- Fuente95completa:26páginas/51diapositivas del28/03/2018 cotejadas en8notas,
+  77expresiones y29medios. Total145notas/1778mathesperadas.
+- 412páginas únicas revisadas (386+26); suma427delhelper duplica compartidas.
+- Introducción1–5; geometrías6–9superior; asociaciones9inferior–12; energía
+  13–15superior; dieléctricos15inferior–20superior; dipolos20inferior–22;
+  polarización23; desplazamiento/Gauss24–26.26soloFinUTIII, mitadinferiorvacía.
+- Rótulos tapados de diapositiva7 recuperados desde imágenes raster27/28
+  incrustadas: ambas conservadas por separado, no reconstruidas. Sombras de
+  PPTduplican texto enextracción: solo una copia del texto visible.
+- No se agregan fórmulas a diapositivas15–17de cilindro/esfera (solofiguras).
+  Tabla39conservaEtanol/Titanio/valores/vacíos; preguntas sinresolver.
+- check99pasó8notas+fuentes;29medios revisados encontactos. Próximo publicar
+  y verificar77expresiones/29medios enGitHub; despuésfuente96.
