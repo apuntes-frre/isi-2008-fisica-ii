@@ -2617,10 +2617,15 @@
       "duplicado_sha256_de": null,
       "clasificacion": "pendiente de revisión documental",
       "evidencia": "",
-      "estado": "pendiente",
-      "paginas_revisadas": [],
+      "estado": "completo:3páginas cotejadas; desarrollo y tabla de tanteo con exponentes originales conservados",
+      "paginas_revisadas": [
+        1,
+        2,
+        3
+      ],
       "copia_local": "/tmp/fisica-ii-20261017-fuentes/97-Campo cero de dos cargas puntuales.pdf",
-      "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/97-Campo cero de dos cargas puntuales.txt"
+      "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/97-Campo cero de dos cargas puntuales.txt",
+      "nota": "notes/2019/practica/campo-cero-dos-cargas-puntuales.md"
     },
     {
       "original": "2019/1er Parcial/Discretizando un sistema continuo.pdf",
@@ -2630,10 +2635,16 @@
       "duplicado_sha256_de": null,
       "clasificacion": "pendiente de revisión documental",
       "evidencia": "",
-      "estado": "pendiente",
-      "paginas_revisadas": [],
+      "estado": "completo:4páginas cotejadas; discretización del disco en cinco y nueve cargas",
+      "paginas_revisadas": [
+        1,
+        2,
+        3,
+        4
+      ],
       "copia_local": "/tmp/fisica-ii-20261017-fuentes/98-Discretizando un sistema continuo.pdf",
-      "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/98-Discretizando un sistema continuo.txt"
+      "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/98-Discretizando un sistema continuo.txt",
+      "nota": "notes/2019/practica/discretizacion-sistema-continuo.md"
     },
     {
       "original": "2019/1er Parcial/Ecuacion de Laplace.pdf",

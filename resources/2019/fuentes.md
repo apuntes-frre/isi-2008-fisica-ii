@@ -41,11 +41,12 @@ originales de las normalizadas y registra conteos matemáticos.
   de fórmulas y figura oculta recuperadas desde raster original. SHA-256:
   `326bb078ddbf25b43f166e198c175106027b686dde0d0ea9688c025795f46ca7`.
 - `2019/1er Parcial/Campo cero de dos cargas puntuales.pdf`: 3 páginas;
-  pendiente. SHA-256:
+  completo:3páginas cotejadas; desarrollo y tabla de tanteo con exponentes
+  originales conservados. SHA-256:
   `bcf5bdd3a530fea8b6921b4a6678c4e8e9e6aa2ca45006d2cf9bc537c989c378`.
 - `2019/1er Parcial/Discretizando un sistema continuo.pdf`: 4 páginas;
-  pendiente. SHA-256:
-  `b7013ac36095abfc6ab7699191fbe3c3d366a16edbb735008eb1624fe634be20`.
+  completo:4páginas cotejadas; discretización del disco en cinco y nueve cargas.
+  SHA-256: `b7013ac36095abfc6ab7699191fbe3c3d366a16edbb735008eb1624fe634be20`.
 - `2019/1er Parcial/Ecuacion de Laplace.pdf`: 6 páginas; pendiente. SHA-256:
   `2bba95ad33085c6c4f4edfd88db4f90c720c117ef69dc2b1a6bb7e34f69a014f`.
 - `2019/1er Parcial/Ley de Ohm.pdf`: 9 páginas; pendiente. SHA-256:

@@ -1261,3 +1261,17 @@ verificadas también por sus tablas.
   pregunta41sinrespuesta. No se corrigen fórmulas deloriginal.
 - check106pasó10nuevas+procedenciaCoulomb+fuentes; próximospublicar yverificar
   103math/34medios nuevos yfigura19actualizada. Después97–101.
+
+## Checkpoint 78: campo cero y discretización
+
+- Fuente96completa publicadaen5fa8a13;159notas/1910mathverificadas enGitHub,
+  todaslasfiguras incluidalíneasrecuperadas cargadas.
+- Fuentes97(3p) y98(4p) completas enlocal:2notas,45math,8figuras.
+  Total161notas/1955mathesperadas;461páginas únicas cotejadas.
+- Campo cero:conservados ambosq1defigura1, «no orá», infinitoy tablaE1con
+  exponentes10inconsistentes enfilas1.8/2/2.2; no corregir.
+- Discretización: conservadoordendelafórmulaE5despuésEt/comparación, sintaxis
+  Mathcad:=, redondeosynombre anillo paraeldisco. UnidadprimeraErecortadaN/cou.
+- check110pasódosnotas+fuentes; medios cotejados. Próximo publicar/verificar
+  45math/8figuras. Textos/renders99Laplace(6p),100Ohm(9p),101Mapeo(7p)ya
+  preparados en /tmp/fisica-ii-conversion/guia-N, aún nocotejados.
