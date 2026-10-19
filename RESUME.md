@@ -1102,3 +1102,24 @@ verificadas también por sus tablas.
   p15dosrecuperatorios y20dostemas,21dosversiones,14temaA, y pendientes5–9.
 - Fuente1: completas3,4,10,11,12,16,17,18,19,22,23,25,26,27; parciales5,6,7,14.
   Carátula1 y separadores2,13,24cotejados. Resto de la materia aún pendiente.
+
+## Checkpoint 68: texto impreso del compilado de27p completo
+
+-105notas/1400math esperadas.97/1370verificadas en GitHub; ocho notas finales
+  locales pasan check85. Próximo publicar y verificar esas ocho antes de seguir.
+- Fuente1:39exámenes/versiones y nota de carátula/índice. Todas27páginas
+  cotejadas, con las variantes y sus figuras separadas. Índice conserva portada
+  y separadores2/13/24. Total acumulado274páginas únicas de fuentes cotejadas
+  visualmente (247previas +27del compilado); no usar suma285de helper porque
+  cuenta páginas repetidas entre notas.
+- Amplificación correcta resolvió Q1p5:exponente−8, no−9; conservado recorte
+  original en recursos y notaIQtemaA. Q2imprime10-9enlínea: no convertirlo
+  silenciosamente a superíndice. Ejercicios5–8delrecuperatoriop6 conservan
+  ncoul para λ sin añadir/m y numeración5–8.
+- Permanece una unidad manuscrita de R en p14sinlectura inequívoca; recorte
+  original conservado y pendiente explícito en nota/coverage/inventario.
+- Próximo: verificar ocho nuevas en GitHub; revisar resultado readonly de
+  buscar-duplicados-pdf.py (sesión6884) que calcula hashes de render de todos
+  PDFs sin modificar originales, para identificar versiones realmenteiguales.
+- PR sigueborrador. La materia aún tiene teoría y material2019/2020pendientes;
+  este cierre cubre solo el texto impreso del compilado, no toda FísicaII.

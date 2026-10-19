@@ -57,8 +57,9 @@ estado. La [cobertura verificada](../common/cobertura.json) distingue páginas
 originales de las normalizadas y registra conteos matemáticos.
 
 - `2015/480938-Modelos de parcial FISICA II actualizado 060813(0).pdf`: 27
-  páginas; parcial:32exámenes transcritos; páginas5,6,7 solo un examen;
-  faltan8,9 y exámenes restantes; unidad manuscrita página14 pendiente. SHA-256:
+  páginas; contenido impreso completo:39exámenes/versiones y
+  carátula/separadores de27páginas cotejados; unidad manuscrita página14
+  pendiente. SHA-256:
   `1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e`.
 - `2015/AL ESTUDIANTE.docx`: no PDF páginas; referencia; no transcrito. SHA-256:
   `65e26536adc8f9e905b1c70f63c4602a9cb987ddaf016265c52f4308de4af943`.
@@ -67,10 +68,11 @@ originales de las normalizadas y registra conteos matemáticos.
   `b537fe44a2a9866f53bf0781b26e5810921214fee85883d88b43a690e581486c`.
 - `2015/Extras/DOC-20160609-WA0004.pdf`: 13 páginas; pendiente. SHA-256:
   `e2452f4b287c4401d9902c425f82a9caaab0bb7dd7c877c724934eb2bed5a9fa`.
-- `2015/Extras/DOC-20160612-WA0011.pdf`: 27 páginas; contenido parcialmente
-  transcrito en referencia; resto pendiente; identidad de render verificada.
-  SHA-256: `1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e`.
-  Duplicado exacto de
+- `2015/Extras/DOC-20160612-WA0011.pdf`: 27 páginas; contenido impreso
+  transcrito en referencia; unidad manuscrita página14 pendiente; identidad de
+  render verificada. SHA-256:
+  `1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e`. Duplicado
+  exacto de
   `2015/480938-Modelos de parcial FISICA II actualizado 060813(0).pdf`.
 - `2015/Extras/DOC-20161011-WA0002.pdf`: 1 páginas; excluido de transcripción de
   Física II. SHA-256:
@@ -263,8 +265,8 @@ originales de las normalizadas y registra conteos matemáticos.
   `f8b78ccaea4e2a0a6e03331360824f66be2d1899b3f1ead31f65c2335da0960f`.
 - `2015/L8 Fza sobre elemento de cte G6 Aprobado.pdf`: 9 páginas; pendiente.
   SHA-256: `fb2be56c4577a2058d5334daff09c1974e826f2fa3023bd5e6da74dcbca6a701`.
-- `2015/Modelos de parcial FISICA II.pdf`: 27 páginas; parcial:32exámenes
-  transcritos; páginas5,6,7 solo un examen; faltan8,9 y exámenes restantes;
+- `2015/Modelos de parcial FISICA II.pdf`: 27 páginas; contenido impreso
+  completo:39exámenes/versiones y carátula/separadores de27páginas cotejados;
   unidad manuscrita página14 pendiente. SHA-256:
   `1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e`. Duplicado
   exacto de

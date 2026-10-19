@@ -4,15 +4,205 @@
     {
       "original": "2015/480938-Modelos de parcial FISICA II actualizado 060813(0).pdf",
       "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+      "nota": "notes/2015/practica/modelos-examenes-parciales-finales-version-1-1.md",
+      "paginas_revisadas": [
+        1,
+        2,
+        13,
+        24
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 0,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/modelos-examenes-parciales-finales-version-1-1.md",
+      "estado": "pendiente render GitHub",
+      "fuentes_adicionales": [
+        {
+          "original": "2015/Extras/DOC-20160612-WA0011.pdf",
+          "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+          "paginas_verificadas_identidad_render": [
+            1,
+            2,
+            13,
+            24
+          ],
+          "estado": "píxeles idénticos a páginas de referencia ya cotejadas; evidencia en duplicados-render.json"
+        }
+      ]
+    },
+    {
+      "original": "2015/480938-Modelos de parcial FISICA II actualizado 060813(0).pdf",
+      "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+      "nota": "notes/2015/practica/recuperatorio-2008-tema-1-problemas-5-8.md",
+      "paginas_revisadas": [
+        6
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 5,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/recuperatorio-2008-tema-1-problemas-5-8.md",
+      "estado": "pendiente render GitHub",
+      "fuentes_adicionales": [
+        {
+          "original": "2015/Extras/DOC-20160612-WA0011.pdf",
+          "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+          "paginas_verificadas_identidad_render": [
+            6
+          ],
+          "estado": "píxeles idénticos a páginas de referencia ya cotejadas; evidencia en duplicados-render.json"
+        }
+      ]
+    },
+    {
+      "original": "2015/480938-Modelos de parcial FISICA II actualizado 060813(0).pdf",
+      "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+      "nota": "notes/2015/practica/iq-recuperatorio-primer-parcial-tema-a.md",
+      "paginas_revisadas": [
+        5
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 2,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/iq-recuperatorio-primer-parcial-tema-a.md",
+      "estado": "pendiente render GitHub",
+      "fuentes_adicionales": [
+        {
+          "original": "2015/Extras/DOC-20160612-WA0011.pdf",
+          "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+          "paginas_verificadas_identidad_render": [
+            5
+          ],
+          "estado": "píxeles idénticos a páginas de referencia ya cotejadas; evidencia en duplicados-render.json"
+        }
+      ]
+    },
+    {
+      "original": "2015/480938-Modelos de parcial FISICA II actualizado 060813(0).pdf",
+      "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+      "nota": "notes/2015/practica/primer-parcial-2010-tema-1-calor-cargas.md",
+      "paginas_revisadas": [
+        8
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 5,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/primer-parcial-2010-tema-1-calor-cargas.md",
+      "estado": "pendiente render GitHub",
+      "fuentes_adicionales": [
+        {
+          "original": "2015/Extras/DOC-20160612-WA0011.pdf",
+          "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+          "paginas_verificadas_identidad_render": [
+            8
+          ],
+          "estado": "píxeles idénticos a páginas de referencia ya cotejadas; evidencia en duplicados-render.json"
+        }
+      ]
+    },
+    {
+      "original": "2015/480938-Modelos de parcial FISICA II actualizado 060813(0).pdf",
+      "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+      "nota": "notes/2015/practica/primer-parcial-2010-tema-2-calor-cargas.md",
+      "paginas_revisadas": [
+        9
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 5,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/primer-parcial-2010-tema-2-calor-cargas.md",
+      "estado": "pendiente render GitHub",
+      "fuentes_adicionales": [
+        {
+          "original": "2015/Extras/DOC-20160612-WA0011.pdf",
+          "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+          "paginas_verificadas_identidad_render": [
+            9
+          ],
+          "estado": "píxeles idénticos a páginas de referencia ya cotejadas; evidencia en duplicados-render.json"
+        }
+      ]
+    },
+    {
+      "original": "2015/480938-Modelos de parcial FISICA II actualizado 060813(0).pdf",
+      "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+      "nota": "notes/2015/practica/iem-2010-recuperatorio-extraordinario-cargas-calor.md",
+      "paginas_revisadas": [
+        9
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 4,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/iem-2010-recuperatorio-extraordinario-cargas-calor.md",
+      "estado": "pendiente render GitHub",
+      "fuentes_adicionales": [
+        {
+          "original": "2015/Extras/DOC-20160612-WA0011.pdf",
+          "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+          "paginas_verificadas_identidad_render": [
+            9
+          ],
+          "estado": "píxeles idénticos a páginas de referencia ya cotejadas; evidencia en duplicados-render.json"
+        }
+      ]
+    },
+    {
+      "original": "2015/480938-Modelos de parcial FISICA II actualizado 060813(0).pdf",
+      "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+      "nota": "notes/2015/practica/iem-2009-recuperatorio-primer-parcial-calor-molar-cinco-medios.md",
+      "paginas_revisadas": [
+        7
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 6,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/iem-2009-recuperatorio-primer-parcial-calor-molar-cinco-medios.md",
+      "estado": "pendiente render GitHub",
+      "fuentes_adicionales": [
+        {
+          "original": "2015/Extras/DOC-20160612-WA0011.pdf",
+          "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+          "paginas_verificadas_identidad_render": [
+            7
+          ],
+          "estado": "píxeles idénticos a páginas de referencia ya cotejadas; evidencia en duplicados-render.json"
+        }
+      ]
+    },
+    {
+      "original": "2015/480938-Modelos de parcial FISICA II actualizado 060813(0).pdf",
+      "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+      "nota": "notes/2015/practica/iem-2009-recuperatorio-primer-parcial-calor-molar-tres-medios.md",
+      "paginas_revisadas": [
+        8
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 3,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/iem-2009-recuperatorio-primer-parcial-calor-molar-tres-medios.md",
+      "estado": "pendiente render GitHub",
+      "fuentes_adicionales": [
+        {
+          "original": "2015/Extras/DOC-20160612-WA0011.pdf",
+          "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+          "paginas_verificadas_identidad_render": [
+            8
+          ],
+          "estado": "píxeles idénticos a páginas de referencia ya cotejadas; evidencia en duplicados-render.json"
+        }
+      ]
+    },
+    {
+      "original": "2015/480938-Modelos de parcial FISICA II actualizado 060813(0).pdf",
+      "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
       "nota": "notes/2015/practica/isi-recuperatorio-segundo-parcial-tema-a.md",
       "paginas_revisadas": [
         14
       ],
       "paginacion": "PDF original",
       "math_esperada": 1,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 1,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/isi-recuperatorio-segundo-parcial-tema-a.md",
-      "estado": "pendiente render GitHub",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
       "pendientes_lectura": [
         "Unidad de anotación manuscrita de R; imagen original conservada"
       ],
@@ -36,9 +226,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 2,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 2,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/parcial-corrientes-circuito-onda-em.md",
-      "estado": "pendiente render GitHub",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
       "fuentes_adicionales": [
         {
           "original": "2015/Extras/DOC-20160612-WA0011.pdf",
@@ -59,9 +249,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 0,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 0,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/iq-2009-segundo-parcial-tema-1-version-sin-velocidad.md",
-      "estado": "pendiente render GitHub",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
       "fuentes_adicionales": [
         {
           "original": "2015/Extras/DOC-20160612-WA0011.pdf",
@@ -82,9 +272,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 2,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 2,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/segundo-parcial-2008-tema-1-instrumentos-espectrografo.md",
-      "estado": "pendiente render GitHub",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
       "fuentes_adicionales": [
         {
           "original": "2015/Extras/DOC-20160612-WA0011.pdf",
@@ -105,9 +295,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 0,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 0,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/segundo-parcial-2008-tema-2-instrumentos-espectrografo.md",
-      "estado": "pendiente render GitHub",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
       "fuentes_adicionales": [
         {
           "original": "2015/Extras/DOC-20160612-WA0011.pdf",
@@ -128,9 +318,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 2,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 2,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/recuperatorio-segundo-parcial-tema-1-espectrografo.md",
-      "estado": "pendiente render GitHub",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
       "fuentes_adicionales": [
         {
           "original": "2015/Extras/DOC-20160612-WA0011.pdf",
@@ -151,9 +341,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 2,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 2,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/recuperatorio-segundo-parcial-tema-2-espectrografo.md",
-      "estado": "pendiente render GitHub",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
       "fuentes_adicionales": [
         {
           "original": "2015/Extras/DOC-20160612-WA0011.pdf",
