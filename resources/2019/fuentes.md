@@ -11,7 +11,8 @@ estado. La [cobertura verificada](../common/cobertura.json) distingue páginas
 originales de las normalizadas y registra conteos matemáticos.
 
 - `2019/1er Parcial/2017 UT II - Energía Electrostatica. Potencial electrico.pdf`:
-  16 páginas; pendiente. SHA-256:
+  16 páginas; completo:16páginas y31diapositivas cotejadas; nueve notas de
+  energía, potencial, gradiente, equipotenciales y Poisson/Laplace. SHA-256:
   `3e220eba27f223b646b95bb01387049e32d8a38191b146cb7d8e0bcb5eb7ece5`.
 - `2019/1er Parcial/2017 UT IV - Electrocinética.ppt.pdf`: 55 páginas;
   pendiente. SHA-256:

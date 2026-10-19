@@ -2,6 +2,131 @@
   "alcance": "Parcial; no declara completa Física II. El cuadernillo de laboratorios 7 y 8 se conserva en dos notas por sus páginas 1-7 y 8-13.",
   "documentos": [
     {
+      "original": "2019/1er Parcial/2017 UT II - Energía Electrostatica. Potencial electrico.pdf",
+      "sha256": "3e220eba27f223b646b95bb01387049e32d8a38191b146cb7d8e0bcb5eb7ece5",
+      "nota": "notes/2019/teoria/energia-potencial-fuerzas-conservativas.md",
+      "paginas_revisadas": [
+        1,
+        2,
+        3
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 8,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/energia-potencial-fuerzas-conservativas.md",
+      "estado": "pendiente render GitHub"
+    },
+    {
+      "original": "2019/1er Parcial/2017 UT II - Energía Electrostatica. Potencial electrico.pdf",
+      "sha256": "3e220eba27f223b646b95bb01387049e32d8a38191b146cb7d8e0bcb5eb7ece5",
+      "nota": "notes/2019/teoria/energia-potencial-electrica-trabajo.md",
+      "paginas_revisadas": [
+        4,
+        5,
+        6
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 17,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/energia-potencial-electrica-trabajo.md",
+      "estado": "pendiente render GitHub"
+    },
+    {
+      "original": "2019/1er Parcial/2017 UT II - Energía Electrostatica. Potencial electrico.pdf",
+      "sha256": "3e220eba27f223b646b95bb01387049e32d8a38191b146cb7d8e0bcb5eb7ece5",
+      "nota": "notes/2019/teoria/potencial-electrico-definicion-diferencia.md",
+      "paginas_revisadas": [
+        7,
+        8
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 12,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/potencial-electrico-definicion-diferencia.md",
+      "estado": "pendiente render GitHub"
+    },
+    {
+      "original": "2019/1er Parcial/2017 UT II - Energía Electrostatica. Potencial electrico.pdf",
+      "sha256": "3e220eba27f223b646b95bb01387049e32d8a38191b146cb7d8e0bcb5eb7ece5",
+      "nota": "notes/2019/teoria/potencial-electrico-anillo-disco.md",
+      "paginas_revisadas": [
+        9
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 10,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/potencial-electrico-anillo-disco.md",
+      "estado": "pendiente render GitHub"
+    },
+    {
+      "original": "2019/1er Parcial/2017 UT II - Energía Electrostatica. Potencial electrico.pdf",
+      "sha256": "3e220eba27f223b646b95bb01387049e32d8a38191b146cb7d8e0bcb5eb7ece5",
+      "nota": "notes/2019/teoria/potencial-esfera-cargada-electronvoltio.md",
+      "paginas_revisadas": [
+        10,
+        11
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 7,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/potencial-esfera-cargada-electronvoltio.md",
+      "estado": "pendiente render GitHub"
+    },
+    {
+      "original": "2019/1er Parcial/2017 UT II - Energía Electrostatica. Potencial electrico.pdf",
+      "sha256": "3e220eba27f223b646b95bb01387049e32d8a38191b146cb7d8e0bcb5eb7ece5",
+      "nota": "notes/2019/teoria/campo-electrico-gradiente-potencial.md",
+      "paginas_revisadas": [
+        12,
+        13
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 10,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/campo-electrico-gradiente-potencial.md",
+      "estado": "pendiente render GitHub"
+    },
+    {
+      "original": "2019/1er Parcial/2017 UT II - Energía Electrostatica. Potencial electrico.pdf",
+      "sha256": "3e220eba27f223b646b95bb01387049e32d8a38191b146cb7d8e0bcb5eb7ece5",
+      "nota": "notes/2019/teoria/superficies-equipotenciales-campo-homogeneo.md",
+      "paginas_revisadas": [
+        14,
+        15
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 7,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/superficies-equipotenciales-campo-homogeneo.md",
+      "estado": "pendiente render GitHub"
+    },
+    {
+      "original": "2019/1er Parcial/2017 UT II - Energía Electrostatica. Potencial electrico.pdf",
+      "sha256": "3e220eba27f223b646b95bb01387049e32d8a38191b146cb7d8e0bcb5eb7ece5",
+      "nota": "notes/2019/teoria/potencial-dipolo-punto-plano.md",
+      "paginas_revisadas": [
+        15
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 5,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/potencial-dipolo-punto-plano.md",
+      "estado": "pendiente render GitHub"
+    },
+    {
+      "original": "2019/1er Parcial/2017 UT II - Energía Electrostatica. Potencial electrico.pdf",
+      "sha256": "3e220eba27f223b646b95bb01387049e32d8a38191b146cb7d8e0bcb5eb7ece5",
+      "nota": "notes/2019/teoria/ecuaciones-poisson-laplace-teoria.md",
+      "paginas_revisadas": [
+        16
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 6,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/ecuaciones-poisson-laplace-teoria.md",
+      "estado": "pendiente render GitHub"
+    },
+    {
       "original": "2015/UNIDAD 1 Fuerza electrica y campo electrico-1.pdf",
       "sha256": "1130cc5160c8a6f87578f071f70595c679fb1535a8899aa02e13c9b0d093da07",
       "nota": "notes/2015/teoria/flujo-campo-electrico.md",

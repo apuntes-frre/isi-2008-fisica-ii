@@ -1161,3 +1161,18 @@ verificadas también por sus tablas.
 - Búsqueda de PR abiertos: Física II #1 y control .github #13 de correlativas
   ISI Plan 2023; no aparecieron PR de otras materias.
 - Próxima fuente: 89, Energía electrostática y potencial eléctrico, 16 páginas.
+
+## Checkpoint 71: energía electrostática y potencial
+
+- Fuente 89 completa: 16 páginas, 31 diapositivas, nueve notas y 15 figuras.
+  331 páginas únicas cotejadas visualmente (315 +16); no usar suma 343 del
+  helper, que repite páginas compartidas entre notas.
+- 125 notas /1560 expresiones esperadas; 116 /1478 verificadas en GitHub.
+  Las nueve nuevas pasan check94; falta su verificación publicada.
+- Conservados los límites 0 y a tras cambio a u en el disco, el texto con
+  paréntesis abierto en derivación del gradiente y la integral de esfera sin
+  evaluación final. No se agregaron soluciones ni temas anunciados ausentes.
+- Medios cotejados: 15 recortes, incluida diapositiva 5 sin texto; diapositiva
+  16 contiene fórmula raster transcrita también como matemática.
+- Próximo: publicar y comprobar 82 expresiones nuevas e imágenes; seguir con
+  fuente 90 (capacidad y dieléctricos). PR permanece en borrador.
