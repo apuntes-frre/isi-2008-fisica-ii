@@ -2,6 +2,79 @@
   "alcance": "Parcial; no declara completa Física II. El cuadernillo de laboratorios 7 y 8 se conserva en dos notas por sus páginas 1-7 y 8-13.",
   "documentos": [
     {
+      "original": "2015/480938-Modelos de parcial FISICA II actualizado 060813(0).pdf",
+      "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+      "nota": "notes/2015/practica/iem-2010-recuperatorio-primer-parcial-tema-1.md",
+      "paginas_revisadas": [
+        10,
+        11
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 16,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/iem-2010-recuperatorio-primer-parcial-tema-1.md",
+      "estado": "pendiente render GitHub",
+      "fuentes_adicionales": [
+        {
+          "original": "2015/Extras/DOC-20160612-WA0011.pdf",
+          "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+          "paginas_verificadas_identidad_render": [
+            10,
+            11
+          ],
+          "estado": "píxeles idénticos a páginas de referencia ya cotejadas; evidencia en duplicados-render.json"
+        }
+      ]
+    },
+    {
+      "original": "2015/480938-Modelos de parcial FISICA II actualizado 060813(0).pdf",
+      "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+      "nota": "notes/2015/practica/iem-2010-recuperatorio-primer-parcial-tema-2.md",
+      "paginas_revisadas": [
+        11,
+        12
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 17,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/iem-2010-recuperatorio-primer-parcial-tema-2.md",
+      "estado": "pendiente render GitHub",
+      "fuentes_adicionales": [
+        {
+          "original": "2015/Extras/DOC-20160612-WA0011.pdf",
+          "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+          "paginas_verificadas_identidad_render": [
+            11,
+            12
+          ],
+          "estado": "píxeles idénticos a páginas de referencia ya cotejadas; evidencia en duplicados-render.json"
+        }
+      ]
+    },
+    {
+      "original": "2015/480938-Modelos de parcial FISICA II actualizado 060813(0).pdf",
+      "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+      "nota": "notes/2015/practica/primer-parcial-2008-09-16-tema-1.md",
+      "paginas_revisadas": [
+        12
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 7,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/primer-parcial-2008-09-16-tema-1.md",
+      "estado": "pendiente render GitHub",
+      "fuentes_adicionales": [
+        {
+          "original": "2015/Extras/DOC-20160612-WA0011.pdf",
+          "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+          "paginas_verificadas_identidad_render": [
+            12
+          ],
+          "estado": "píxeles idénticos a páginas de referencia ya cotejadas; evidencia en duplicados-render.json"
+        }
+      ]
+    },
+    {
       "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS 2015 - TP N° 1.docx",
       "sha256": "0dcfa5e1bb140927a5baed3ccd1428d37f72a2885d53f701c2c9fff1d6822fd0",
       "nota": "notes/2015/practica/potencial-electrico-mapeo-laboratorio-1.md",

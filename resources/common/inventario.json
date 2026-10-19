@@ -9,10 +9,19 @@
       "duplicado_sha256_de": null,
       "clasificacion": "pendiente de revisión documental",
       "evidencia": "",
-      "estado": "pendiente",
-      "paginas_revisadas": [],
+      "estado": "transcrito y validado localmente en dos secciones",
+      "paginas_revisadas": [
+        10,
+        11,
+        12
+      ],
       "copia_local": "/tmp/fisica-ii-20261017-fuentes/01-480938-Modelos de parcial FISICA II actualizado 060813(0).pdf",
-      "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/01-480938-Modelos de parcial FISICA II actualizado 060813(0).txt"
+      "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/01-480938-Modelos de parcial FISICA II actualizado 060813(0).txt",
+      "notas": [
+        "notes/2015/practica/iem-2010-recuperatorio-primer-parcial-tema-1.md",
+        "notes/2015/practica/iem-2010-recuperatorio-primer-parcial-tema-2.md",
+        "notes/2015/practica/primer-parcial-2008-09-16-tema-1.md"
+      ]
     },
     {
       "original": "2015/AL ESTUDIANTE.docx",
@@ -61,8 +70,12 @@
       "duplicado_sha256_de": "2015/480938-Modelos de parcial FISICA II actualizado 060813(0).pdf",
       "clasificacion": "pendiente de revisión documental",
       "evidencia": "",
-      "estado": "identidad de render verificada; transcripción pendiente junto a referencia",
-      "paginas_revisadas": [],
+      "estado": "contenido parcialmente transcrito en referencia; resto pendiente; identidad de render verificada",
+      "paginas_revisadas": [
+        10,
+        11,
+        12
+      ],
       "copia_local": "/tmp/fisica-ii-20261017-fuentes/05-DOC-20160612-WA0011.pdf",
       "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/05-DOC-20160612-WA0011.txt",
       "identico_render_de": "2015/480938-Modelos de parcial FISICA II actualizado 060813(0).pdf",
@@ -95,7 +108,12 @@
         26,
         27
       ],
-      "evidencia_identidad_render": "resources/common/duplicados-render.json"
+      "evidencia_identidad_render": "resources/common/duplicados-render.json",
+      "notas": [
+        "notes/2015/practica/iem-2010-recuperatorio-primer-parcial-tema-1.md",
+        "notes/2015/practica/iem-2010-recuperatorio-primer-parcial-tema-2.md",
+        "notes/2015/practica/primer-parcial-2008-09-16-tema-1.md"
+      ]
     },
     {
       "original": "2015/Extras/DOC-20161011-WA0002.pdf",
@@ -1537,10 +1555,19 @@
       "duplicado_sha256_de": "2015/480938-Modelos de parcial FISICA II actualizado 060813(0).pdf",
       "clasificacion": "pendiente de revisión documental",
       "evidencia": "",
-      "estado": "pendiente",
-      "paginas_revisadas": [],
+      "estado": "transcrito y validado localmente en dos secciones",
+      "paginas_revisadas": [
+        10,
+        11,
+        12
+      ],
       "copia_local": "/tmp/fisica-ii-20261017-fuentes/66-Modelos de parcial FISICA II.pdf",
-      "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/66-Modelos de parcial FISICA II.txt"
+      "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/66-Modelos de parcial FISICA II.txt",
+      "notas": [
+        "notes/2015/practica/iem-2010-recuperatorio-primer-parcial-tema-1.md",
+        "notes/2015/practica/iem-2010-recuperatorio-primer-parcial-tema-2.md",
+        "notes/2015/practica/primer-parcial-2008-09-16-tema-1.md"
+      ]
     },
     {
       "original": "2015/PARTES Y FUNCIONES DE UN MULTÍMETRO DIGITAL.ppsx",
