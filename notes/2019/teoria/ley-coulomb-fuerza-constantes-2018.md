@@ -101,13 +101,21 @@ k=\frac1{4\pi\varepsilon_o}
 - Original:
   `2019/1er Parcial/2018 UT I - Fuerza Eléctrica y Campo Elécrtico.pdf`, páginas
   11, 12, 13, 14 de 42.
+
 - SHA-256: `326bb078ddbf25b43f166e198c175106027b686dde0d0ea9688c025795f46ca7`.
+
 - El nombre del archivo indica 2018; ubicación canónica 2019. No consta autor ni
   fecha completa en estas páginas.
+
 - Herramientas: PyMuPDF4LLM y Poppler para extracción; texto, todas las
   expresiones y figuras cotejados visualmente. Medios conservados por
   recorte/render PyMuPDF.
+
 - Se conservan «dos dos tipos», el paréntesis abierto de Acción y Reacción, los
   valores de constantes y el subíndice o de permitividad. La unidad de
   permitividad mantiene la escritura C²/N m², sin añadir paréntesis. El versor r
   se representa con la marca curva breve que utiliza la fuente.
+
+- La figura cartesiana se recompone con sus tres franjas raster originales,
+  manteniendo su posición relativa, para excluir texto adyacente sin cortar el
+  eje x.

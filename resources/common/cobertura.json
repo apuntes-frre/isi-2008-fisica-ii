@@ -4,6 +4,155 @@
     {
       "original": "2019/1er Parcial/2018 UT I - Fuerza Eléctrica y Campo Elécrtico.pdf",
       "sha256": "326bb078ddbf25b43f166e198c175106027b686dde0d0ea9688c025795f46ca7",
+      "nota": "notes/2019/teoria/campo-electrico-definicion-caracteristicas-2018.md",
+      "paginas_revisadas": [
+        18,
+        19,
+        20
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 4,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/campo-electrico-definicion-caracteristicas-2018.md",
+      "estado": "pendiente render GitHub"
+    },
+    {
+      "original": "2019/1er Parcial/2018 UT I - Fuerza Eléctrica y Campo Elécrtico.pdf",
+      "sha256": "326bb078ddbf25b43f166e198c175106027b686dde0d0ea9688c025795f46ca7",
+      "nota": "notes/2019/teoria/campo-discreto-componentes-dipolo-2018.md",
+      "paginas_revisadas": [
+        20,
+        21,
+        23,
+        24
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 14,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/campo-discreto-componentes-dipolo-2018.md",
+      "estado": "pendiente render GitHub"
+    },
+    {
+      "original": "2019/1er Parcial/2018 UT I - Fuerza Eléctrica y Campo Elécrtico.pdf",
+      "sha256": "326bb078ddbf25b43f166e198c175106027b686dde0d0ea9688c025795f46ca7",
+      "nota": "notes/2019/teoria/campo-continuo-linea-anillo-2018.md",
+      "paginas_revisadas": [
+        22,
+        24,
+        25,
+        26,
+        27
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 17,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/campo-continuo-linea-anillo-2018.md",
+      "estado": "pendiente render GitHub"
+    },
+    {
+      "original": "2019/1er Parcial/2018 UT I - Fuerza Eléctrica y Campo Elécrtico.pdf",
+      "sha256": "326bb078ddbf25b43f166e198c175106027b686dde0d0ea9688c025795f46ca7",
+      "nota": "notes/2019/teoria/campo-disco-placas-formulario-2018.md",
+      "paginas_revisadas": [
+        28,
+        29
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 25,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/campo-disco-placas-formulario-2018.md",
+      "estado": "pendiente render GitHub"
+    },
+    {
+      "original": "2019/1er Parcial/2018 UT I - Fuerza Eléctrica y Campo Elécrtico.pdf",
+      "sha256": "326bb078ddbf25b43f166e198c175106027b686dde0d0ea9688c025795f46ca7",
+      "nota": "notes/2019/teoria/lineas-campo-electrico-caracteristicas-2018.md",
+      "paginas_revisadas": [
+        30,
+        31
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 0,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/lineas-campo-electrico-caracteristicas-2018.md",
+      "estado": "pendiente render GitHub"
+    },
+    {
+      "original": "2019/1er Parcial/2018 UT I - Fuerza Eléctrica y Campo Elécrtico.pdf",
+      "sha256": "326bb078ddbf25b43f166e198c175106027b686dde0d0ea9688c025795f46ca7",
+      "nota": "notes/2019/teoria/movimiento-carga-campo-uniforme-2018.md",
+      "paginas_revisadas": [
+        32,
+        33
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 4,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/movimiento-carga-campo-uniforme-2018.md",
+      "estado": "pendiente render GitHub"
+    },
+    {
+      "original": "2019/1er Parcial/2018 UT I - Fuerza Eléctrica y Campo Elécrtico.pdf",
+      "sha256": "326bb078ddbf25b43f166e198c175106027b686dde0d0ea9688c025795f46ca7",
+      "nota": "notes/2019/teoria/flujo-campo-superficie-cubo-2018.md",
+      "paginas_revisadas": [
+        33,
+        34,
+        35
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 10,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/flujo-campo-superficie-cubo-2018.md",
+      "estado": "pendiente render GitHub"
+    },
+    {
+      "original": "2019/1er Parcial/2018 UT I - Fuerza Eléctrica y Campo Elécrtico.pdf",
+      "sha256": "326bb078ddbf25b43f166e198c175106027b686dde0d0ea9688c025795f46ca7",
+      "nota": "notes/2019/teoria/ley-gauss-superficies-procedimiento-2018.md",
+      "paginas_revisadas": [
+        36,
+        37,
+        38
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 13,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/ley-gauss-superficies-procedimiento-2018.md",
+      "estado": "pendiente render GitHub"
+    },
+    {
+      "original": "2019/1er Parcial/2018 UT I - Fuerza Eléctrica y Campo Elécrtico.pdf",
+      "sha256": "326bb078ddbf25b43f166e198c175106027b686dde0d0ea9688c025795f46ca7",
+      "nota": "notes/2019/teoria/gauss-plano-linea-esferas-2018.md",
+      "paginas_revisadas": [
+        39,
+        40,
+        41
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 12,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/gauss-plano-linea-esferas-2018.md",
+      "estado": "pendiente render GitHub"
+    },
+    {
+      "original": "2019/1er Parcial/2018 UT I - Fuerza Eléctrica y Campo Elécrtico.pdf",
+      "sha256": "326bb078ddbf25b43f166e198c175106027b686dde0d0ea9688c025795f46ca7",
+      "nota": "notes/2019/teoria/conductor-gauss-diferencial-2018.md",
+      "paginas_revisadas": [
+        41,
+        42
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 4,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/conductor-gauss-diferencial-2018.md",
+      "estado": "pendiente render GitHub"
+    },
+    {
+      "original": "2019/1er Parcial/2018 UT I - Fuerza Eléctrica y Campo Elécrtico.pdf",
+      "sha256": "326bb078ddbf25b43f166e198c175106027b686dde0d0ea9688c025795f46ca7",
       "nota": "notes/2019/teoria/ley-coulomb-fuerza-constantes-2018.md",
       "paginas_revisadas": [
         11,
@@ -13,9 +162,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 6,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 6,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/ley-coulomb-fuerza-constantes-2018.md",
-      "estado": "pendiente render GitHub"
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
     },
     {
       "original": "2019/1er Parcial/2018 UT I - Fuerza Eléctrica y Campo Elécrtico.pdf",
@@ -28,9 +177,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 14,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 14,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/superposicion-componentes-fuerza-2018.md",
-      "estado": "pendiente render GitHub"
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
     },
     {
       "original": "2019/1er Parcial/2018 UT I - Fuerza Eléctrica y Campo Elécrtico.pdf",
@@ -43,9 +192,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 0,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 0,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/electrostatica-introduccion-programa-2018.md",
-      "estado": "pendiente render GitHub"
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
     },
     {
       "original": "2019/1er Parcial/2018 UT I - Fuerza Eléctrica y Campo Elécrtico.pdf",
@@ -62,9 +211,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 9,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 9,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/carga-electrica-cuantizacion-electrizacion-2018.md",
-      "estado": "pendiente render GitHub"
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
     },
     {
       "original": "2019/1er Parcial/2018 PF UT III - Capacidad. Prop electr de la Materia.pptx.pdf",

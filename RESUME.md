@@ -1243,3 +1243,21 @@ verificadas también por sus tablas.
   conserva sininventar. El contenido delprogramano cuenta comotemascompletos.
 - check103pasó4notas+fuentes. Próximo publicar/verificar29math y13referencias
   aimagen; continuar páginas18–42, luego97–101. Materia incompleta.
+
+## Checkpoint 77: fuerza y campo2018completos
+
+- Fuente96:42páginas cotejadas completas,14notas/132math/46medios (47refs).
+  Total159notas/1910mathesperadas;149/1807verificadas enGitHub.
+-454páginas únicas revisadas (412+42). Suma473delhelper incluyecompartidas.
+- 18–20superior definición;20inferior/21/23/24superiordiscretos;22/24inferior
+  /25–27continuos;28–29disco/placas/formulario;30–31líneas;32–33superior
+  movimiento;33inferior–35flujo;36–38Gauss;39–41superioraplicaciones;
+  41inferior–42conductor/diferencial. Conservadafrasefinal27.
+- Captura29contiene16mathvisibles: transcritas, conservando captura desde
+  tresfranjas. Figuraoculta30recuperada desde2franjas. Figura27recompuesta
+  con máscarasalpha paraevitarfondo gris ytextoajeno; ejes19tambiénraster.
+- Conservados -q0enlistacoordenadas24, factor k ausenteenintegralvolumétrica22,
+  límites±L/2frenteaLfinal26, límitesRald(r²)28, integralescerradascondV42,
+  pregunta41sinrespuesta. No se corrigen fórmulas deloriginal.
+- check106pasó10nuevas+procedenciaCoulomb+fuentes; próximospublicar yverificar
+  103math/34medios nuevos yfigura19actualizada. Después97–101.
