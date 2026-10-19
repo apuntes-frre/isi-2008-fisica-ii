@@ -8,7 +8,7 @@ es la distribución de carga.-
 Dado que el campo está dentro de la integral,
 
 ```math
-\oiint\vec E.\overrightarrow{ds}=\frac Q{\varepsilon o}
+\mathop{∯}\vec E.\overrightarrow{ds}=\frac Q{\varepsilon o}
 ```
 
 Para poder extraer el campo de la integral se debe seleccionar una superficie
@@ -53,11 +53,18 @@ gaussiana que cumpla con:
 - Original: `2015/UNIDAD 1 Fuerza electrica y campo electrico-1.pdf`,
   páginas32–38 y41 de41. La página41 contiene solo el diagrama final, sin texto
   extraíble. No constan autor ni fecha propios.
+
 - SHA-256: `1130cc5160c8a6f87578f071f70595c679fb1535a8899aa02e13c9b0d093da07`.
+
 - Herramientas: PyMuPDF y Poppler; cotejo visual de las ocho diapositivas,
   ecuación, geometrías y etiquetas. Figuras originales conservadas por render
   PyMuPDF.
+
 - Las páginas33–38 presentan los títulos y diagramas, sin resultados algebraicos
   de campo adicionales: no se completan como ejercicios resueltos. Tampoco se
   inventa un enunciado para el diagrama sin título de la página41. Se conserva
   «Lamina» sin tilde del encabezado.
+
+- Compatibilidad de publicación: el símbolo de integral de superficie cerrada se
+  escribe mediante el carácter Unicode ∯, conservando el glifo original; GitHub
+  mostraba literalmente el comando oiint.
