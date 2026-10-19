@@ -1062,3 +1062,25 @@ verificadas también por sus tablas.
 - Próximo: verificar render de tres notas recién preparadas y continuar
   recuperatorioIQtemaA superiorp5; luego p6–9 y segunda mitad del compilado.
   Fuente5 tiene27/27rendersidénticos y66esSHAidéntico: siguenparcialescon1.
+
+## Checkpoint 66: 82 notas publicadas y verificadas
+
+- Las82notas y1353expresiones están verificadas en GitHub; todas las figuras
+  de las9notas adicionales cargaron completas. Controles locales check74pasaron.
+- Además: recuperatorio2008tema2 página6superior, tema2varilla página7superior,
+  recuperatorioextraordinarioIEM2010 página22superior, segundosparciales2010
+  temas1/2 páginas22–23, finalesmarzo2010 y17/12/09 página25, IQ2009temas1/2
+  páginas26–27. No atribuir IQ/IEM automáticamente a ISI.
+- Separadores13/24vistos: «Modelos de segundo parcial»/«Problemas de final».
+  No contienen ejercicios. Páginas22–23 y25–27 completamente cotejadas;
+  fuente1aúnparcial. Paginas3,4,10–12 completas;5,6,7soloexámenesindicados.
+- Queda sin usar/referenciar iq-recuperatorio-tema-a-figuras.png (propio),
+  destinado a siguiente nota página5superior. Revisar exponente de Q1 en
+  recorte tema-a-iq-texto.png antes de transcribirlo: OCR no lo reconoce;
+  no inferirlo desde otros exámenes similares. Q2 imprime10-9 en línea.
+- Restan primerparcialp5superior,p6inferior,p7inferior,p8ambos,p9ambos;
+  luego escaneados14–21. Todas1–12 y22–27 tienen renders temporales.
+- TextoOCR/Poppler de27p y conversiónPyMuPDF4LLM completos en
+  /tmp/fisica-ii-conversion/modelos-examenes-ocr; no prueban fidelidad por sí solos.
+- PR sigueborrador; cuerpoactualizado explicita materia incompleta. No aprobar
+  ni fusionar. Continuar luego teoría/documentos de otros años del inventario.
