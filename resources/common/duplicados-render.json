@@ -305,6 +305,384 @@
         }
       ],
       "alcance": "Igualdad visual del render; no implica transcripción si la referencia continúa pendiente."
+    },
+    {
+      "referencia": "2015/GUIA DE PROBLEMAS PROPUESTOS 2da parte.pdf",
+      "sha256_referencia": "e2452f4b287c4401d9902c425f82a9caaab0bb7dd7c877c724934eb2bed5a9fa",
+      "copia": "2015/Extras/DOC-20160609-WA0004.pdf",
+      "sha256_copia": "e2452f4b287c4401d9902c425f82a9caaab0bb7dd7c877c724934eb2bed5a9fa",
+      "metodo": "PyMuPDF render nativo72dpi, escala de grises, alpha=false; igualdad de dimensiones y SHA-256 de muestras en todas las páginas",
+      "paginas": [
+        {
+          "pagina": 1,
+          "ancho": 596,
+          "alto": 842,
+          "sha256_pixeles": "0e9543880715db73b0cddcb6ae707a21f4200efc6d85c55f83d46396bf0e5ae1"
+        },
+        {
+          "pagina": 2,
+          "ancho": 596,
+          "alto": 842,
+          "sha256_pixeles": "fd03e8e2ab3493090c173e0b0ec53e4f7d2f931dd7dff322584d5af20d0ad3f0"
+        },
+        {
+          "pagina": 3,
+          "ancho": 596,
+          "alto": 842,
+          "sha256_pixeles": "46c041501e6a512341b25240e6a0e27b900a580f3b581bed0edd87921f8d51a1"
+        },
+        {
+          "pagina": 4,
+          "ancho": 596,
+          "alto": 842,
+          "sha256_pixeles": "660025116cab42b95c1d025af05133466f0410aeec7cedef93a785af05567df3"
+        },
+        {
+          "pagina": 5,
+          "ancho": 596,
+          "alto": 842,
+          "sha256_pixeles": "d26ee0ce698ee8b72f6d797c6dae197c25025e68713625427be3d2cd1a588c4d"
+        },
+        {
+          "pagina": 6,
+          "ancho": 596,
+          "alto": 842,
+          "sha256_pixeles": "ea411a6f679404d0e10b6566d71bbfb9668752f25bd969a0d79013c078f874e6"
+        },
+        {
+          "pagina": 7,
+          "ancho": 596,
+          "alto": 842,
+          "sha256_pixeles": "7b10e891d3c9451ae5b25f6b20d47d606c00438025b20a9a8d1d459c909a88fa"
+        },
+        {
+          "pagina": 8,
+          "ancho": 596,
+          "alto": 842,
+          "sha256_pixeles": "553c7531d4bd254bc2be75b5a930c1bc85ec9feecb2a24dfd3b7bd34e4e652fd"
+        },
+        {
+          "pagina": 9,
+          "ancho": 596,
+          "alto": 842,
+          "sha256_pixeles": "b1b20ffa36e5c323551b0ebf79e171a7fb80c6d9c0f4d1978f68fa2f5f6be34f"
+        },
+        {
+          "pagina": 10,
+          "ancho": 596,
+          "alto": 842,
+          "sha256_pixeles": "76ce220385a20c5f526d16c084b82e210572ecc94185468efe6759dde6ee2670"
+        },
+        {
+          "pagina": 11,
+          "ancho": 596,
+          "alto": 842,
+          "sha256_pixeles": "a670c15843df46b5807f1b6668250da16c3181d5c2e4d46163684d4359a5804b"
+        },
+        {
+          "pagina": 12,
+          "ancho": 596,
+          "alto": 842,
+          "sha256_pixeles": "c685569df4374d1a5e8f5679dea58e9786ca759ab9eced4dadb3d753a478d9f2"
+        },
+        {
+          "pagina": 13,
+          "ancho": 596,
+          "alto": 842,
+          "sha256_pixeles": "c2e11f89f7c5104dcaee9db17abeca3f391ff841622c71b4f8fe7a9d9c8f9702"
+        }
+      ],
+      "alcance": "Identidad de render; no acredita nueva revisión visual manual ni transcripción de una referencia pendiente"
+    },
+    {
+      "referencia": "2019/2do Parcial/Laboratorios/Campo de Induccion Magnetica (1).pdf",
+      "sha256_referencia": "fe381f45db3f41d4505d241c796b942090c3f8d12582b62bd52d56c26c34aa68",
+      "copia": "2019/2do Parcial/Laboratorios/Campo de Induccion Magnetica.pdf",
+      "sha256_copia": "fe381f45db3f41d4505d241c796b942090c3f8d12582b62bd52d56c26c34aa68",
+      "metodo": "PyMuPDF render nativo72dpi, escala de grises, alpha=false; igualdad de dimensiones y SHA-256 de muestras en todas las páginas",
+      "paginas": [
+        {
+          "pagina": 1,
+          "ancho": 595,
+          "alto": 842,
+          "sha256_pixeles": "5bc6d99ed1e2a21781f432ad844bce089a6fa87c7b1e613225f3c30cd2f5211d"
+        },
+        {
+          "pagina": 2,
+          "ancho": 595,
+          "alto": 842,
+          "sha256_pixeles": "0c7e394707cfb4bd819356bbe352e727046794ecdddfea5753bd09bc6ee11a0c"
+        },
+        {
+          "pagina": 3,
+          "ancho": 595,
+          "alto": 842,
+          "sha256_pixeles": "1da8c0bbc07f3bae78c69fb1b240f4960b82a7dae6515c83d9823cca4083d331"
+        },
+        {
+          "pagina": 4,
+          "ancho": 595,
+          "alto": 842,
+          "sha256_pixeles": "679a19032788deb7dde91a864cf20133d17ef4608d0e1537ddb435150b761eec"
+        },
+        {
+          "pagina": 5,
+          "ancho": 595,
+          "alto": 842,
+          "sha256_pixeles": "3a8c3c30606633c83dc9e34e43664334cae4a826ef2d98ddc15911eb8744e42b"
+        },
+        {
+          "pagina": 6,
+          "ancho": 595,
+          "alto": 842,
+          "sha256_pixeles": "37984079cac232a24780d9f5b3d228445f8e643a39c5681f06a21cbedc2bc7b0"
+        },
+        {
+          "pagina": 7,
+          "ancho": 595,
+          "alto": 842,
+          "sha256_pixeles": "662c61c798bfccbfc256f002afb06d8c33d5cc08c5c20bff0a8414aa3119f074"
+        },
+        {
+          "pagina": 8,
+          "ancho": 595,
+          "alto": 842,
+          "sha256_pixeles": "9531d3a7f8044f5f5de300ff914d196b5e0f6699fc4b0b3c0653bee2f5309a16"
+        },
+        {
+          "pagina": 9,
+          "ancho": 595,
+          "alto": 842,
+          "sha256_pixeles": "183eeeb250a3d6238380b26adfda75af082cf7e5444df22b6fedd2a749855d71"
+        },
+        {
+          "pagina": 10,
+          "ancho": 595,
+          "alto": 842,
+          "sha256_pixeles": "c2bc3e837c7f3a67130f1a705b055b93edd88c0d34a0a66fe91b0640c3025a46"
+        },
+        {
+          "pagina": 11,
+          "ancho": 595,
+          "alto": 842,
+          "sha256_pixeles": "3d7fa68fe6486f64ef3f7863a69eaa79da15102e98cf64c1838bb04ea1e13c5a"
+        },
+        {
+          "pagina": 12,
+          "ancho": 595,
+          "alto": 842,
+          "sha256_pixeles": "e0e3e0262d0e2aa589d81e37d241a750f8966ec412158b61176a9f19edd1fc86"
+        },
+        {
+          "pagina": 13,
+          "ancho": 595,
+          "alto": 842,
+          "sha256_pixeles": "f4b59dabcfbc217bb20ddd1e3c62858ef0da59af723991e77fd8dcea68fc8d18"
+        }
+      ],
+      "alcance": "Identidad de render; no acredita nueva revisión visual manual ni transcripción de una referencia pendiente"
+    },
+    {
+      "referencia": "2019/3er Parcial/2018 UT XI - Fotometria.pdf",
+      "sha256_referencia": "b8cd5a2b645f5d301f347d8191d41cd87469e75a7595a0388a7d8ef460d669b2",
+      "copia": "2019/3er Parcial/2019 UT XI - Fotometria..pdf",
+      "sha256_copia": "b8cd5a2b645f5d301f347d8191d41cd87469e75a7595a0388a7d8ef460d669b2",
+      "metodo": "PyMuPDF render nativo72dpi, escala de grises, alpha=false; igualdad de dimensiones y SHA-256 de muestras en todas las páginas",
+      "paginas": [
+        {
+          "pagina": 1,
+          "ancho": 720,
+          "alto": 540,
+          "sha256_pixeles": "dfd4c8f5042b5ee72bb5a97222355a8644fe18f25637ccc4e5cc56e669e4700d"
+        },
+        {
+          "pagina": 2,
+          "ancho": 720,
+          "alto": 540,
+          "sha256_pixeles": "622ed2fa90c5561163c9ee3fa7175f07a48598fa4f9d5a48ee8711849a0f9821"
+        },
+        {
+          "pagina": 3,
+          "ancho": 720,
+          "alto": 540,
+          "sha256_pixeles": "040de24ab5a40ac762167eebd73d7cf864b693e9e22ed07fee3da991c3817666"
+        },
+        {
+          "pagina": 4,
+          "ancho": 720,
+          "alto": 540,
+          "sha256_pixeles": "029307d5b6ccd99d7acbb9f7a00ae77cf15e43620916c509ff7bd3e7301252b9"
+        },
+        {
+          "pagina": 5,
+          "ancho": 720,
+          "alto": 540,
+          "sha256_pixeles": "d6ad87bcdc60107a7945206143c3fadf1e2af1ccacd59e2c06b1e69465c834e2"
+        },
+        {
+          "pagina": 6,
+          "ancho": 720,
+          "alto": 540,
+          "sha256_pixeles": "03d46535be9d65938dea81596ee89fbc318325f1515c2a6a86a447c718de7f35"
+        },
+        {
+          "pagina": 7,
+          "ancho": 720,
+          "alto": 540,
+          "sha256_pixeles": "d34782b70e9d5686136fd636fd96f622d32a9f2419674e598615477788787c5f"
+        },
+        {
+          "pagina": 8,
+          "ancho": 720,
+          "alto": 540,
+          "sha256_pixeles": "cc57a63d3e1ac230446cb5ad1bdc69ba7f05cf65e0a29e66fedb5f27421e12f7"
+        },
+        {
+          "pagina": 9,
+          "ancho": 720,
+          "alto": 540,
+          "sha256_pixeles": "db301a3dfb84dd32c1c5a7556c4cbea2a0805368b3e1fa6bd99a2db3c195a0b3"
+        },
+        {
+          "pagina": 10,
+          "ancho": 720,
+          "alto": 540,
+          "sha256_pixeles": "325b877f6e3761c3b8a76098e81bbcda82d14d090bb6635a29005b89c3174065"
+        },
+        {
+          "pagina": 11,
+          "ancho": 720,
+          "alto": 540,
+          "sha256_pixeles": "4a464579a93712c20a529bbfe9e6c84bc835e56c9414ed3efcfdd8bcb57b8992"
+        },
+        {
+          "pagina": 12,
+          "ancho": 720,
+          "alto": 540,
+          "sha256_pixeles": "d628c4ba6281000bdb4e26a94ca577cca41fa82e74b3b5db50af2df678e37335"
+        },
+        {
+          "pagina": 13,
+          "ancho": 720,
+          "alto": 540,
+          "sha256_pixeles": "ab42464d4ab615aaba73aa0de24a994d509180c09a52514767a09ef7349ef472"
+        },
+        {
+          "pagina": 14,
+          "ancho": 720,
+          "alto": 540,
+          "sha256_pixeles": "7ff9570d7da984c5dcc09c9571f217843d355513c4707d48dd9acfbf78ea4e07"
+        },
+        {
+          "pagina": 15,
+          "ancho": 720,
+          "alto": 540,
+          "sha256_pixeles": "725c8dbc108d6671c01645293ab7af72b21c868885a3835dcdca8f0f0ed2cf68"
+        },
+        {
+          "pagina": 16,
+          "ancho": 720,
+          "alto": 540,
+          "sha256_pixeles": "9659f1286a44f949ac89e5acc8ea13c4dba94ed1f7d686d4c23560e805a7d34b"
+        },
+        {
+          "pagina": 17,
+          "ancho": 720,
+          "alto": 540,
+          "sha256_pixeles": "bc01ff0ade1fee82041745aa6465e73af9e42885102f19bd1845c30890ccf704"
+        },
+        {
+          "pagina": 18,
+          "ancho": 720,
+          "alto": 540,
+          "sha256_pixeles": "f614303c5eded2489986b7b3dc3ff7953a20502acf0ee5a68656ca30c7542090"
+        },
+        {
+          "pagina": 19,
+          "ancho": 720,
+          "alto": 540,
+          "sha256_pixeles": "c06ddf390a84bf32cba0b76e6947de093cbb6727b3fba09c463e5f0d133ce495"
+        },
+        {
+          "pagina": 20,
+          "ancho": 720,
+          "alto": 540,
+          "sha256_pixeles": "f1b58ce96a9ce0813eb25bb7aeb8de4c367a18880dbc61536a51de2e7c65dd6f"
+        },
+        {
+          "pagina": 21,
+          "ancho": 720,
+          "alto": 540,
+          "sha256_pixeles": "a06e127a2eb384670380d844d0aa20eff3f4cd2e6c81f98522fed8b1b0d5e18a"
+        },
+        {
+          "pagina": 22,
+          "ancho": 720,
+          "alto": 540,
+          "sha256_pixeles": "bf7ab5a8cb2b707f73ec22122ce2f3deee3311b1513876a231a89064cdf805db"
+        },
+        {
+          "pagina": 23,
+          "ancho": 720,
+          "alto": 540,
+          "sha256_pixeles": "61ad5abb21202c6101024d6dbf66f13ae24bb985d81df098fdea94568521d4d9"
+        },
+        {
+          "pagina": 24,
+          "ancho": 720,
+          "alto": 540,
+          "sha256_pixeles": "f8cdda1278e31f3db8c5499ec8b8a037f8a1a2172a268e7288f080aa93edf11b"
+        },
+        {
+          "pagina": 25,
+          "ancho": 720,
+          "alto": 540,
+          "sha256_pixeles": "9949c5925cb4afe6dadab03e867ce3b8427cfd5a0e29f950c57fd70e9185c678"
+        },
+        {
+          "pagina": 26,
+          "ancho": 720,
+          "alto": 540,
+          "sha256_pixeles": "314265c55a1f584dfa65435fe9acac470917393ba9991dd9d45c51288395b869"
+        },
+        {
+          "pagina": 27,
+          "ancho": 720,
+          "alto": 540,
+          "sha256_pixeles": "a8d95373e6523e7a34cfb51b754a89e4011f07a845608f9c2a5d2e8b968568c0"
+        },
+        {
+          "pagina": 28,
+          "ancho": 720,
+          "alto": 540,
+          "sha256_pixeles": "64c86ffa132795d4a34d84002a816ca08a8b349dbcdae8bf71310dacebf4e5fa"
+        },
+        {
+          "pagina": 29,
+          "ancho": 720,
+          "alto": 540,
+          "sha256_pixeles": "e9c4485275713315235dacfb6594a0d641d918b41fd6dba960b5dca625e41589"
+        },
+        {
+          "pagina": 30,
+          "ancho": 720,
+          "alto": 540,
+          "sha256_pixeles": "8b521d9298bc2fcb46aecccfedeca9df1d2e495e7e4046052c708d1b14963476"
+        },
+        {
+          "pagina": 31,
+          "ancho": 720,
+          "alto": 540,
+          "sha256_pixeles": "c36b4c0ecf23030c6f7f1cc9a1b6d7f1df7405cc1867056bd35f61abdfd477b5"
+        },
+        {
+          "pagina": 32,
+          "ancho": 720,
+          "alto": 540,
+          "sha256_pixeles": "85058f2c08360948fb8b158da62ad42fdaef5b940ccafe27123985a59db5b3fe"
+        }
+      ],
+      "alcance": "Identidad de render; no acredita nueva revisión visual manual ni transcripción de una referencia pendiente"
     }
   ]
 }

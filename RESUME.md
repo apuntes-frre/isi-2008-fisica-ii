@@ -1123,3 +1123,29 @@ verificadas también por sus tablas.
   PDFs sin modificar originales, para identificar versiones realmenteiguales.
 - PR sigueborrador. La materia aún tiene teoría y material2019/2020pendientes;
   este cierre cubre solo el texto impreso del compilado, no toda FísicaII.
+
+## Checkpoint 69: unidad1teórica completa en local
+
+-116notas/1478math esperadas.105/1400confirmadas en GitHub. Once notas teóricas
+  nuevas de fuente74 cubren sus41páginas; fuente75SHAidéntica compartecontenido.
+-315páginas únicas de fuentes cotejadas visualmente (274previas +41unidad1).
+  La suma326del helper repite páginas por notas; no usarla como revisión única.
+- Unidad1: fuerza/superposición1–6; definicióncampo7–10; puntuales11–13;
+  hilo/plano14–15; líneas16–22; movimiento23; ángulosólido24–25; flujo26–29;
+  Gauss30–31; aplicaciones32–38+41; diferencial39–40. La41solo tiene diagrama,
+  no era blanca. Figuras y etiquetas revisadas; dos diagramas de38 y el39 se
+  extraen del objeto raster original para evitar restos de texto ajeno.
+- Página27 superpone animaciones22/45/90 ycasogeneral: fórmulas completas
+  recuperadas desdecapatextual yrecorteconservado; x/asteriscos/superíndice0
+  originales mantenidos. Índiceserróneos ysumatorias documentados sincorregir.
+- Docling --enrich-formula muestra2–4 terminó370s y produjo expresiónespuria,
+  omisiones y textoenfórmulas; no se aceptó esa salida. PyMuPDF4LLM conserva
+  imágenes peroomiteLaTeX. Todoslosbloques fueron cotejadosvisualmente.
+- Comparaciónreadonly102PDF/2217p terminó sinerrores; no hay copias porpágina
+  adicionales hacia fuentescompletas fuera de gruposyaidentificados.
+- Nuevaprueba de renders:52↔4(13p),112↔113(13p),127↔132(32p). Solo4comparte
+  material ya transcrito;112/113y127/132siguenpendientesjuntoas referencia.
+  No sumaridentidadpixelcomorevisiónmanual. Prueba ampliada en duplicados-render.
+- check91pasó las11notas yfuentes2015/2019; diff --checkpendientealcommit.
+  Próximo publicar y verificar1478esperadas, especialmenteoiint enGitHub;
+  luego seguirinventariopendiente, sin aprobar ni fusionarPR.

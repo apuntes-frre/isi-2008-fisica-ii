@@ -80,9 +80,9 @@ originales de las normalizadas y registra conteos matemáticos.
   páginas; pendiente. SHA-256:
   `fe381f45db3f41d4505d241c796b942090c3f8d12582b62bd52d56c26c34aa68`.
 - `2019/2do Parcial/Laboratorios/Campo de Induccion Magnetica.pdf`: 13 páginas;
-  pendiente. SHA-256:
-  `fe381f45db3f41d4505d241c796b942090c3f8d12582b62bd52d56c26c34aa68`. Duplicado
-  exacto de
+  identidad de render verificada; transcripción pendiente junto a referencia.
+  SHA-256: `fe381f45db3f41d4505d241c796b942090c3f8d12582b62bd52d56c26c34aa68`.
+  Duplicado exacto de
   `2019/2do Parcial/Laboratorios/Campo de Induccion Magnetica (1).pdf`.
 - `2019/2do Parcial/Laboratorios/Campo de Induccion Magnetica_apto_busqueda.pdf`:
   13 páginas; pendiente. SHA-256:
@@ -129,9 +129,10 @@ originales de las normalizadas y registra conteos matemáticos.
 - `2019/3er Parcial/2019 UT X - Ecuaciones de Maxwell.pdf`: 22 páginas;
   pendiente. SHA-256:
   `e01eb7f935efffe562f16d41e625a0bcf0f0f3a257126a6299f46b2e69e79665`.
-- `2019/3er Parcial/2019 UT XI - Fotometria..pdf`: 32 páginas; pendiente.
-  SHA-256: `b8cd5a2b645f5d301f347d8191d41cd87469e75a7595a0388a7d8ef460d669b2`.
-  Duplicado exacto de `2019/3er Parcial/2018 UT XI - Fotometria.pdf`.
+- `2019/3er Parcial/2019 UT XI - Fotometria..pdf`: 32 páginas; identidad de
+  render verificada; transcripción pendiente junto a referencia. SHA-256:
+  `b8cd5a2b645f5d301f347d8191d41cd87469e75a7595a0388a7d8ef460d669b2`. Duplicado
+  exacto de `2019/3er Parcial/2018 UT XI - Fotometria.pdf`.
 - `2019/3er Parcial/Apuntes de Fotometria.pdf`: 73 páginas; referencia; no
   transcrito. SHA-256:
   `0c7bd04c172b0f9e8916432238f0e651af34124c6c35d7a5026ed2b6c16b0934`.

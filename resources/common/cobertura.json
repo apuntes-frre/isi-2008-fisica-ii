@@ -2,6 +2,179 @@
   "alcance": "Parcial; no declara completa Física II. El cuadernillo de laboratorios 7 y 8 se conserva en dos notas por sus páginas 1-7 y 8-13.",
   "documentos": [
     {
+      "original": "2015/UNIDAD 1 Fuerza electrica y campo electrico-1.pdf",
+      "sha256": "1130cc5160c8a6f87578f071f70595c679fb1535a8899aa02e13c9b0d093da07",
+      "nota": "notes/2015/teoria/flujo-campo-electrico.md",
+      "paginas_revisadas": [
+        26,
+        27,
+        28,
+        29
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 11,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/teoria/flujo-campo-electrico.md",
+      "estado": "pendiente render GitHub"
+    },
+    {
+      "original": "2015/UNIDAD 1 Fuerza electrica y campo electrico-1.pdf",
+      "sha256": "1130cc5160c8a6f87578f071f70595c679fb1535a8899aa02e13c9b0d093da07",
+      "nota": "notes/2015/teoria/ley-gauss-demostracion.md",
+      "paginas_revisadas": [
+        30,
+        31
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 7,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/teoria/ley-gauss-demostracion.md",
+      "estado": "pendiente render GitHub"
+    },
+    {
+      "original": "2015/UNIDAD 1 Fuerza electrica y campo electrico-1.pdf",
+      "sha256": "1130cc5160c8a6f87578f071f70595c679fb1535a8899aa02e13c9b0d093da07",
+      "nota": "notes/2015/teoria/ley-gauss-aplicaciones-simetrias.md",
+      "paginas_revisadas": [
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        41
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 1,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/teoria/ley-gauss-aplicaciones-simetrias.md",
+      "estado": "pendiente render GitHub"
+    },
+    {
+      "original": "2015/UNIDAD 1 Fuerza electrica y campo electrico-1.pdf",
+      "sha256": "1130cc5160c8a6f87578f071f70595c679fb1535a8899aa02e13c9b0d093da07",
+      "nota": "notes/2015/teoria/ley-gauss-forma-diferencial.md",
+      "paginas_revisadas": [
+        39,
+        40
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 13,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/teoria/ley-gauss-forma-diferencial.md",
+      "estado": "pendiente render GitHub"
+    },
+    {
+      "original": "2015/UNIDAD 1 Fuerza electrica y campo electrico-1.pdf",
+      "sha256": "1130cc5160c8a6f87578f071f70595c679fb1535a8899aa02e13c9b0d093da07",
+      "nota": "notes/2015/teoria/lineas-campo-electrico.md",
+      "paginas_revisadas": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 0,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/teoria/lineas-campo-electrico.md",
+      "estado": "pendiente render GitHub"
+    },
+    {
+      "original": "2015/UNIDAD 1 Fuerza electrica y campo electrico-1.pdf",
+      "sha256": "1130cc5160c8a6f87578f071f70595c679fb1535a8899aa02e13c9b0d093da07",
+      "nota": "notes/2015/teoria/particula-cargada-campo-uniforme.md",
+      "paginas_revisadas": [
+        23
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 6,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/teoria/particula-cargada-campo-uniforme.md",
+      "estado": "pendiente render GitHub"
+    },
+    {
+      "original": "2015/UNIDAD 1 Fuerza electrica y campo electrico-1.pdf",
+      "sha256": "1130cc5160c8a6f87578f071f70595c679fb1535a8899aa02e13c9b0d093da07",
+      "nota": "notes/2015/teoria/angulo-solido.md",
+      "paginas_revisadas": [
+        24,
+        25
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 2,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/teoria/angulo-solido.md",
+      "estado": "pendiente render GitHub"
+    },
+    {
+      "original": "2015/UNIDAD 1 Fuerza electrica y campo electrico-1.pdf",
+      "sha256": "1130cc5160c8a6f87578f071f70595c679fb1535a8899aa02e13c9b0d093da07",
+      "nota": "notes/2015/teoria/campo-electrico-cargas-puntuales-componentes.md",
+      "paginas_revisadas": [
+        11,
+        12,
+        13
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 12,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/teoria/campo-electrico-cargas-puntuales-componentes.md",
+      "estado": "pendiente render GitHub"
+    },
+    {
+      "original": "2015/UNIDAD 1 Fuerza electrica y campo electrico-1.pdf",
+      "sha256": "1130cc5160c8a6f87578f071f70595c679fb1535a8899aa02e13c9b0d093da07",
+      "nota": "notes/2015/teoria/campo-electrico-hilo-plano-infinitos.md",
+      "paginas_revisadas": [
+        14,
+        15
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 0,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/teoria/campo-electrico-hilo-plano-infinitos.md",
+      "estado": "pendiente render GitHub"
+    },
+    {
+      "original": "2015/UNIDAD 1 Fuerza electrica y campo electrico-1.pdf",
+      "sha256": "1130cc5160c8a6f87578f071f70595c679fb1535a8899aa02e13c9b0d093da07",
+      "nota": "notes/2015/teoria/fuerza-electrica-principio-superposicion.md",
+      "paginas_revisadas": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 20,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/teoria/fuerza-electrica-principio-superposicion.md",
+      "estado": "pendiente render GitHub"
+    },
+    {
+      "original": "2015/UNIDAD 1 Fuerza electrica y campo electrico-1.pdf",
+      "sha256": "1130cc5160c8a6f87578f071f70595c679fb1535a8899aa02e13c9b0d093da07",
+      "nota": "notes/2015/teoria/campo-electrico-definicion-carga-prueba.md",
+      "paginas_revisadas": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 6,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/teoria/campo-electrico-definicion-carga-prueba.md",
+      "estado": "pendiente render GitHub"
+    },
+    {
       "original": "2015/480938-Modelos de parcial FISICA II actualizado 060813(0).pdf",
       "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
       "nota": "notes/2015/practica/modelos-examenes-parciales-finales-version-1-1.md",
@@ -13,9 +186,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 0,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 0,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/modelos-examenes-parciales-finales-version-1-1.md",
-      "estado": "pendiente render GitHub",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
       "fuentes_adicionales": [
         {
           "original": "2015/Extras/DOC-20160612-WA0011.pdf",
@@ -39,9 +212,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 5,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 5,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/recuperatorio-2008-tema-1-problemas-5-8.md",
-      "estado": "pendiente render GitHub",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
       "fuentes_adicionales": [
         {
           "original": "2015/Extras/DOC-20160612-WA0011.pdf",
@@ -62,9 +235,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 2,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 2,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/iq-recuperatorio-primer-parcial-tema-a.md",
-      "estado": "pendiente render GitHub",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
       "fuentes_adicionales": [
         {
           "original": "2015/Extras/DOC-20160612-WA0011.pdf",
@@ -85,9 +258,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 5,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 5,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/primer-parcial-2010-tema-1-calor-cargas.md",
-      "estado": "pendiente render GitHub",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
       "fuentes_adicionales": [
         {
           "original": "2015/Extras/DOC-20160612-WA0011.pdf",
@@ -108,9 +281,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 5,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 5,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/primer-parcial-2010-tema-2-calor-cargas.md",
-      "estado": "pendiente render GitHub",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
       "fuentes_adicionales": [
         {
           "original": "2015/Extras/DOC-20160612-WA0011.pdf",
@@ -131,9 +304,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 4,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 4,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/iem-2010-recuperatorio-extraordinario-cargas-calor.md",
-      "estado": "pendiente render GitHub",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
       "fuentes_adicionales": [
         {
           "original": "2015/Extras/DOC-20160612-WA0011.pdf",
@@ -154,9 +327,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 6,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 6,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/iem-2009-recuperatorio-primer-parcial-calor-molar-cinco-medios.md",
-      "estado": "pendiente render GitHub",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
       "fuentes_adicionales": [
         {
           "original": "2015/Extras/DOC-20160612-WA0011.pdf",
@@ -177,9 +350,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 3,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 3,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/iem-2009-recuperatorio-primer-parcial-calor-molar-tres-medios.md",
-      "estado": "pendiente render GitHub",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
       "fuentes_adicionales": [
         {
           "original": "2015/Extras/DOC-20160612-WA0011.pdf",
@@ -1471,7 +1644,19 @@
       "math_esperada": 32,
       "math_renderizada_github": 32,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/fuerzas-magneticas-cargas-guia.md",
-      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
+      "fuentes_adicionales": [
+        {
+          "original": "2015/Extras/DOC-20160609-WA0004.pdf",
+          "sha256": "e2452f4b287c4401d9902c425f82a9caaab0bb7dd7c877c724934eb2bed5a9fa",
+          "paginas_verificadas_identidad_render": [
+            1,
+            2,
+            3
+          ],
+          "estado": "píxeles idénticos a páginas de referencia ya cotejadas; evidencia en duplicados-render.json"
+        }
+      ]
     },
     {
       "original": "2015/GUIA DE PROBLEMAS PROPUESTOS 2da parte.pdf",
@@ -1486,7 +1671,19 @@
       "math_esperada": 20,
       "math_renderizada_github": 20,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/campo-induccion-biot-savart-guia.md",
-      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
+      "fuentes_adicionales": [
+        {
+          "original": "2015/Extras/DOC-20160609-WA0004.pdf",
+          "sha256": "e2452f4b287c4401d9902c425f82a9caaab0bb7dd7c877c724934eb2bed5a9fa",
+          "paginas_verificadas_identidad_render": [
+            4,
+            5,
+            6
+          ],
+          "estado": "píxeles idénticos a páginas de referencia ya cotejadas; evidencia en duplicados-render.json"
+        }
+      ]
     },
     {
       "original": "2015/GUIA DE PROBLEMAS PROPUESTOS 2da parte.pdf",
@@ -1501,7 +1698,19 @@
       "math_esperada": 8,
       "math_renderizada_github": 8,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/induccion-electromagnetica-guia.md",
-      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
+      "fuentes_adicionales": [
+        {
+          "original": "2015/Extras/DOC-20160609-WA0004.pdf",
+          "sha256": "e2452f4b287c4401d9902c425f82a9caaab0bb7dd7c877c724934eb2bed5a9fa",
+          "paginas_verificadas_identidad_render": [
+            6,
+            7,
+            8
+          ],
+          "estado": "píxeles idénticos a páginas de referencia ya cotejadas; evidencia en duplicados-render.json"
+        }
+      ]
     },
     {
       "original": "2015/GUIA DE PROBLEMAS PROPUESTOS 2da parte.pdf",
@@ -1526,6 +1735,16 @@
             27
           ],
           "estado": "contenido cotejado; comparte nota con fuente52; no suma matemática duplicada"
+        },
+        {
+          "original": "2015/Extras/DOC-20160609-WA0004.pdf",
+          "sha256": "e2452f4b287c4401d9902c425f82a9caaab0bb7dd7c877c724934eb2bed5a9fa",
+          "paginas_verificadas_identidad_render": [
+            8,
+            9,
+            10
+          ],
+          "estado": "píxeles idénticos a páginas de referencia ya cotejadas; evidencia en duplicados-render.json"
         }
       ]
     },
@@ -1551,6 +1770,15 @@
             29
           ],
           "estado": "contenido cotejado; comparte nota con fuente52; no suma matemática duplicada"
+        },
+        {
+          "original": "2015/Extras/DOC-20160609-WA0004.pdf",
+          "sha256": "e2452f4b287c4401d9902c425f82a9caaab0bb7dd7c877c724934eb2bed5a9fa",
+          "paginas_verificadas_identidad_render": [
+            10,
+            11
+          ],
+          "estado": "píxeles idénticos a páginas de referencia ya cotejadas; evidencia en duplicados-render.json"
         }
       ]
     },
@@ -1576,6 +1804,15 @@
             31
           ],
           "estado": "contenido cotejado; comparte nota con fuente52; no suma matemática duplicada; defecto gráfico documentado"
+        },
+        {
+          "original": "2015/Extras/DOC-20160609-WA0004.pdf",
+          "sha256": "e2452f4b287c4401d9902c425f82a9caaab0bb7dd7c877c724934eb2bed5a9fa",
+          "paginas_verificadas_identidad_render": [
+            12,
+            13
+          ],
+          "estado": "píxeles idénticos a páginas de referencia ya cotejadas; evidencia en duplicados-render.json"
         }
       ]
     },

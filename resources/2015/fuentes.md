@@ -66,7 +66,9 @@ originales de las normalizadas y registra conteos matemáticos.
 - `2015/CD -Física II FRReUTN- 2016.rar`: no PDF páginas; extraído; inventario
   interno pendiente. SHA-256:
   `b537fe44a2a9866f53bf0781b26e5810921214fee85883d88b43a690e581486c`.
-- `2015/Extras/DOC-20160609-WA0004.pdf`: 13 páginas; pendiente. SHA-256:
+- `2015/Extras/DOC-20160609-WA0004.pdf`: 13 páginas; contenido transcrito en
+  referencia; igualdad de render verificada en todas las páginas; no se duplican
+  notas. SHA-256:
   `e2452f4b287c4401d9902c425f82a9caaab0bb7dd7c877c724934eb2bed5a9fa`.
 - `2015/Extras/DOC-20160612-WA0011.pdf`: 27 páginas; contenido impreso
   transcrito en referencia; unidad manuscrita página14 pendiente; identidad de
@@ -291,9 +293,12 @@ originales de las normalizadas y registra conteos matemáticos.
   transcrito y validado localmente. SHA-256:
   `59381e5d6ed9b15751e0a12bbe7a8bf55d2772300390ce3a85cb5b78911b96b7`.
 - `2015/UNIDAD 1 Fuerza electrica y campo electrico-1.pdf`: 41 páginas;
-  pendiente. SHA-256:
-  `1130cc5160c8a6f87578f071f70595c679fb1535a8899aa02e13c9b0d093da07`.
-- `2015/UNIDAD 1 Fuerza electrica y campo electrico.pdf`: 41 páginas; pendiente.
+  completo:41páginas cotejadas y transcritas; fuerza, campo, líneas, movimiento,
+  ángulo sólido, flujo y Gauss; animaciones superpuestas y erratas documentadas.
+  SHA-256: `1130cc5160c8a6f87578f071f70595c679fb1535a8899aa02e13c9b0d093da07`.
+- `2015/UNIDAD 1 Fuerza electrica y campo electrico.pdf`: 41 páginas;
+  completo:41páginas cotejadas y transcritas; fuerza, campo, líneas, movimiento,
+  ángulo sólido, flujo y Gauss; animaciones superpuestas y erratas documentadas.
   SHA-256: `1130cc5160c8a6f87578f071f70595c679fb1535a8899aa02e13c9b0d093da07`.
   Duplicado exacto de `2015/UNIDAD 1 Fuerza electrica y campo electrico-1.pdf`.
 - `2015/direcciones utiles de internet.doc`: no PDF páginas; pendiente. SHA-256:
