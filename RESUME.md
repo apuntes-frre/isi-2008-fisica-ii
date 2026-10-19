@@ -1175,4 +1175,24 @@ verificadas también por sus tablas.
 - Medios cotejados: 15 recortes, incluida diapositiva 5 sin texto; diapositiva
   16 contiene fórmula raster transcrita también como matemática.
 - Próximo: publicar y comprobar 82 expresiones nuevas e imágenes; seguir con
-  fuente 90 (capacidad y dieléctricos). PR permanece en borrador.
+  fuente 90 (Electrocinética). PR permanece en borrador.
+
+## Checkpoint 72: Electrocínética completa en local
+
+- Fuente 89 publicada en b69fa80: nueve notas, 82 expresiones y 15 imágenes
+  verificadas en GitHub. Acumulado previo:125notas/1560expresiones.
+- Fuente90:55páginas cotejadas visualmente y transcritas en12notas,141math
+  y45medios. Total137notas/1701expresiones esperadas;386páginas únicas
+  revisadas (331+55). La suma398delhelper duplica páginas compartidas.
+- Contenidos/objetivos1–3; corriente4–7; densidad/continuidad8–11; modelo12–15;
+  resistencia/colores16–20; resistividad/temperatura21–24; asociaciones25–26;
+  Joule27–29; instrumentos/Wheatstone30–34; fem35–41; Kirchhoff42–47;
+  conexiones48–49; RC50–55. La55solo diceFin de laClase y se conserva.
+- Conservados cuadrados ya visibles sobre n/entreJydS, exponentedoblemente
+  negativo delmiliampere, gráfica vacía13, superposiciónunidad21, «Rmallas»47
+  y celdas vacías de tablas18/20/24. No se reconstruyen símbolos porconjetura.
+- Desarrollo de batería41incluido desdeimagen; preguntasfinales sinresolver.
+  Fórmula oscura diminuta27también transcrita. Las45figuras fueron revisadas
+  mediante contactos; circuito39extraído raster paraevitartextoajeno.
+- check98pasó12notas+fuentes; próximo publicar y verificar141math/45medios
+  enGitHub antes decontinuarfuente95. PRsigueborrador; materia incompleta.

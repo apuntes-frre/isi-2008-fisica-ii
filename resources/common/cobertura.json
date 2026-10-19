@@ -2,6 +2,205 @@
   "alcance": "Parcial; no declara completa Física II. El cuadernillo de laboratorios 7 y 8 se conserva en dos notas por sus páginas 1-7 y 8-13.",
   "documentos": [
     {
+      "original": "2019/1er Parcial/2017 UT IV - Electrocinética.ppt.pdf",
+      "sha256": "5593bcdeb59339b25f4dfee074beac1812300dcec491fb423777a4e776ba1399",
+      "nota": "notes/2019/teoria/resistividad-geometria-temperatura.md",
+      "paginas_revisadas": [
+        21,
+        22,
+        23,
+        24
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 38,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/resistividad-geometria-temperatura.md",
+      "estado": "pendiente render GitHub"
+    },
+    {
+      "original": "2019/1er Parcial/2017 UT IV - Electrocinética.ppt.pdf",
+      "sha256": "5593bcdeb59339b25f4dfee074beac1812300dcec491fb423777a4e776ba1399",
+      "nota": "notes/2019/teoria/resistencias-serie-paralelo-teoria.md",
+      "paginas_revisadas": [
+        25,
+        26
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 9,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/resistencias-serie-paralelo-teoria.md",
+      "estado": "pendiente render GitHub"
+    },
+    {
+      "original": "2019/1er Parcial/2017 UT IV - Electrocinética.ppt.pdf",
+      "sha256": "5593bcdeb59339b25f4dfee074beac1812300dcec491fb423777a4e776ba1399",
+      "nota": "notes/2019/teoria/potencia-transformacion-energia-ley-joule.md",
+      "paginas_revisadas": [
+        27,
+        28,
+        29
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 12,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/potencia-transformacion-energia-ley-joule.md",
+      "estado": "pendiente render GitHub"
+    },
+    {
+      "original": "2019/1er Parcial/2017 UT IV - Electrocinética.ppt.pdf",
+      "sha256": "5593bcdeb59339b25f4dfee074beac1812300dcec491fb423777a4e776ba1399",
+      "nota": "notes/2019/teoria/instrumentos-electricos-puente-wheatstone.md",
+      "paginas_revisadas": [
+        30,
+        31,
+        32,
+        33,
+        34
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 2,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/instrumentos-electricos-puente-wheatstone.md",
+      "estado": "pendiente render GitHub"
+    },
+    {
+      "original": "2019/1er Parcial/2017 UT IV - Electrocinética.ppt.pdf",
+      "sha256": "5593bcdeb59339b25f4dfee074beac1812300dcec491fb423777a4e776ba1399",
+      "nota": "notes/2019/teoria/fuentes-fem-resistencia-interna-bateria.md",
+      "paginas_revisadas": [
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 9,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/fuentes-fem-resistencia-interna-bateria.md",
+      "estado": "pendiente render GitHub"
+    },
+    {
+      "original": "2019/1er Parcial/2017 UT IV - Electrocinética.ppt.pdf",
+      "sha256": "5593bcdeb59339b25f4dfee074beac1812300dcec491fb423777a4e776ba1399",
+      "nota": "notes/2019/teoria/leyes-kirchhoff-mallas-nodos-teoria.md",
+      "paginas_revisadas": [
+        42,
+        43,
+        44,
+        45,
+        46,
+        47
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 12,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/leyes-kirchhoff-mallas-nodos-teoria.md",
+      "estado": "pendiente render GitHub"
+    },
+    {
+      "original": "2019/1er Parcial/2017 UT IV - Electrocinética.ppt.pdf",
+      "sha256": "5593bcdeb59339b25f4dfee074beac1812300dcec491fb423777a4e776ba1399",
+      "nota": "notes/2019/teoria/baterias-arranque-conexiones-ejemplo.md",
+      "paginas_revisadas": [
+        48,
+        49
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 4,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/baterias-arranque-conexiones-ejemplo.md",
+      "estado": "pendiente render GitHub"
+    },
+    {
+      "original": "2019/1er Parcial/2017 UT IV - Electrocinética.ppt.pdf",
+      "sha256": "5593bcdeb59339b25f4dfee074beac1812300dcec491fb423777a4e776ba1399",
+      "nota": "notes/2019/teoria/circuitos-rc-carga-descarga-teoria.md",
+      "paginas_revisadas": [
+        50,
+        51,
+        52,
+        53,
+        54,
+        55
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 16,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/circuitos-rc-carga-descarga-teoria.md",
+      "estado": "pendiente render GitHub"
+    },
+    {
+      "original": "2019/1er Parcial/2017 UT IV - Electrocinética.ppt.pdf",
+      "sha256": "5593bcdeb59339b25f4dfee074beac1812300dcec491fb423777a4e776ba1399",
+      "nota": "notes/2019/teoria/electrocinetica-corriente-sentido-convencional.md",
+      "paginas_revisadas": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 7,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/electrocinetica-corriente-sentido-convencional.md",
+      "estado": "pendiente render GitHub"
+    },
+    {
+      "original": "2019/1er Parcial/2017 UT IV - Electrocinética.ppt.pdf",
+      "sha256": "5593bcdeb59339b25f4dfee074beac1812300dcec491fb423777a4e776ba1399",
+      "nota": "notes/2019/teoria/densidad-corriente-ecuacion-continuidad.md",
+      "paginas_revisadas": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 16,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/densidad-corriente-ecuacion-continuidad.md",
+      "estado": "pendiente render GitHub"
+    },
+    {
+      "original": "2019/1er Parcial/2017 UT IV - Electrocinética.ppt.pdf",
+      "sha256": "5593bcdeb59339b25f4dfee074beac1812300dcec491fb423777a4e776ba1399",
+      "nota": "notes/2019/teoria/modelo-conductor-conductividad-resistividad.md",
+      "paginas_revisadas": [
+        12,
+        13,
+        14,
+        15
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 12,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/modelo-conductor-conductividad-resistividad.md",
+      "estado": "pendiente render GitHub"
+    },
+    {
+      "original": "2019/1er Parcial/2017 UT IV - Electrocinética.ppt.pdf",
+      "sha256": "5593bcdeb59339b25f4dfee074beac1812300dcec491fb423777a4e776ba1399",
+      "nota": "notes/2019/teoria/resistencia-ley-ohm-codigo-colores.md",
+      "paginas_revisadas": [
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 4,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/resistencia-ley-ohm-codigo-colores.md",
+      "estado": "pendiente render GitHub"
+    },
+    {
       "original": "2019/1er Parcial/2017 UT II - Energía Electrostatica. Potencial electrico.pdf",
       "sha256": "3e220eba27f223b646b95bb01387049e32d8a38191b146cb7d8e0bcb5eb7ece5",
       "nota": "notes/2019/teoria/energia-potencial-fuerzas-conservativas.md",
@@ -12,9 +211,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 8,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 8,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/energia-potencial-fuerzas-conservativas.md",
-      "estado": "pendiente render GitHub"
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
     },
     {
       "original": "2019/1er Parcial/2017 UT II - Energía Electrostatica. Potencial electrico.pdf",
@@ -27,9 +226,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 17,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 17,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/energia-potencial-electrica-trabajo.md",
-      "estado": "pendiente render GitHub"
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
     },
     {
       "original": "2019/1er Parcial/2017 UT II - Energía Electrostatica. Potencial electrico.pdf",
@@ -41,9 +240,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 12,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 12,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/potencial-electrico-definicion-diferencia.md",
-      "estado": "pendiente render GitHub"
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
     },
     {
       "original": "2019/1er Parcial/2017 UT II - Energía Electrostatica. Potencial electrico.pdf",
@@ -54,9 +253,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 10,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 10,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/potencial-electrico-anillo-disco.md",
-      "estado": "pendiente render GitHub"
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
     },
     {
       "original": "2019/1er Parcial/2017 UT II - Energía Electrostatica. Potencial electrico.pdf",
@@ -68,9 +267,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 7,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 7,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/potencial-esfera-cargada-electronvoltio.md",
-      "estado": "pendiente render GitHub"
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
     },
     {
       "original": "2019/1er Parcial/2017 UT II - Energía Electrostatica. Potencial electrico.pdf",
@@ -82,9 +281,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 10,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 10,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/campo-electrico-gradiente-potencial.md",
-      "estado": "pendiente render GitHub"
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
     },
     {
       "original": "2019/1er Parcial/2017 UT II - Energía Electrostatica. Potencial electrico.pdf",
@@ -96,9 +295,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 7,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 7,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/superficies-equipotenciales-campo-homogeneo.md",
-      "estado": "pendiente render GitHub"
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
     },
     {
       "original": "2019/1er Parcial/2017 UT II - Energía Electrostatica. Potencial electrico.pdf",
@@ -109,9 +308,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 5,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 5,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/potencial-dipolo-punto-plano.md",
-      "estado": "pendiente render GitHub"
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
     },
     {
       "original": "2019/1er Parcial/2017 UT II - Energía Electrostatica. Potencial electrico.pdf",
@@ -122,9 +321,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 6,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 6,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/ecuaciones-poisson-laplace-teoria.md",
-      "estado": "pendiente render GitHub"
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
     },
     {
       "original": "2015/UNIDAD 1 Fuerza electrica y campo electrico-1.pdf",

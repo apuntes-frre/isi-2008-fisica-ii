@@ -15,7 +15,8 @@ originales de las normalizadas y registra conteos matemáticos.
   energía, potencial, gradiente, equipotenciales y Poisson/Laplace. SHA-256:
   `3e220eba27f223b646b95bb01387049e32d8a38191b146cb7d8e0bcb5eb7ece5`.
 - `2019/1er Parcial/2017 UT IV - Electrocinética.ppt.pdf`: 55 páginas;
-  pendiente. SHA-256:
+  completo:55páginas cotejadas; doce notas de corriente a circuitoRC, tablas y
+  ejemplos; símbolos cuadrados del original conservados. SHA-256:
   `5593bcdeb59339b25f4dfee074beac1812300dcec491fb423777a4e776ba1399`.
 - `2019/1er Parcial/2018 1C Guia 01.1.pdf`: 3 páginas; transcrito y validado
   localmente. SHA-256:
