@@ -1220,3 +1220,13 @@ verificadas también por sus tablas.
   Tabla39conservaEtanol/Titanio/valores/vacíos; preguntas sinresolver.
 - check99pasó8notas+fuentes;29medios revisados encontactos. Próximo publicar
   y verificar77expresiones/29medios enGitHub; despuésfuente96.
+
+## Checkpoint 75: capacidad publicada y verificada
+
+- 145notas/1778expresiones verificadas enGitHub;29medios de fuente95
+  cargados y sinerroresmath ni macros literales. Publicadoene8d6b74.
+- PRactualizado a145/1778.412páginas únicas revisadas.
+- Fuente96(2018UTI) tiene42páginas y desarrollo más amplio que fuente74;
+  no asumirduplicado. Render/textos preparados en fuerza-campo-96 temporal,
+  todavía no cotejados visualmente ni transcritos.
+- Próximo continuar96; luego97–101. Materia yPRsiguenincompletos.

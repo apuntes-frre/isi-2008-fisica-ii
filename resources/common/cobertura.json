@@ -14,9 +14,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 7,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 7,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/capacidad-condensadores-definicion-unidades.md",
-      "estado": "pendiente render GitHub"
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
     },
     {
       "original": "2019/1er Parcial/2018 PF UT III - Capacidad. Prop electr de la Materia.pptx.pdf",
@@ -30,9 +30,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 5,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 5,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/capacidad-placas-cilindrico-esferico.md",
-      "estado": "pendiente render GitHub"
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
     },
     {
       "original": "2019/1er Parcial/2018 PF UT III - Capacidad. Prop electr de la Materia.pptx.pdf",
@@ -46,9 +46,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 10,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 10,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/condensadores-serie-paralelo-capacidad-equivalente.md",
-      "estado": "pendiente render GitHub"
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
     },
     {
       "original": "2019/1er Parcial/2018 PF UT III - Capacidad. Prop electr de la Materia.pptx.pdf",
@@ -61,9 +61,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 13,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 13,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/energia-condensador-densidad-fuerza-placas.md",
-      "estado": "pendiente render GitHub"
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
     },
     {
       "original": "2019/1er Parcial/2018 PF UT III - Capacidad. Prop electr de la Materia.pptx.pdf",
@@ -79,9 +79,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 13,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 13,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/dielectricos-constante-capacidad-tabla.md",
-      "estado": "pendiente render GitHub"
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
     },
     {
       "original": "2019/1er Parcial/2018 PF UT III - Capacidad. Prop electr de la Materia.pptx.pdf",
@@ -94,9 +94,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 9,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 9,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/dipolo-dielectricos-torque-energia.md",
-      "estado": "pendiente render GitHub"
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
     },
     {
       "original": "2019/1er Parcial/2018 PF UT III - Capacidad. Prop electr de la Materia.pptx.pdf",
@@ -107,9 +107,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 5,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 5,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/vector-polarizacion-cargas-superficiales.md",
-      "estado": "pendiente render GitHub"
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
     },
     {
       "original": "2019/1er Parcial/2018 PF UT III - Capacidad. Prop electr de la Materia.pptx.pdf",
@@ -122,9 +122,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 15,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 15,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/desplazamiento-permitividad-gauss-generalizada.md",
-      "estado": "pendiente render GitHub"
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
     },
     {
       "original": "2019/1er Parcial/2017 UT IV - Electrocinética.ppt.pdf",
