@@ -4,15 +4,84 @@
     {
       "original": "2015/480938-Modelos de parcial FISICA II actualizado 060813(0).pdf",
       "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+      "nota": "notes/2015/practica/primer-parcial-f2-calor-cargas-esfera.md",
+      "paginas_revisadas": [
+        4
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 5,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/primer-parcial-f2-calor-cargas-esfera.md",
+      "estado": "pendiente render GitHub",
+      "fuentes_adicionales": [
+        {
+          "original": "2015/Extras/DOC-20160612-WA0011.pdf",
+          "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+          "paginas_verificadas_identidad_render": [
+            4
+          ],
+          "estado": "píxeles idénticos a páginas de referencia ya cotejadas; evidencia en duplicados-render.json"
+        }
+      ]
+    },
+    {
+      "original": "2015/480938-Modelos de parcial FISICA II actualizado 060813(0).pdf",
+      "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+      "nota": "notes/2015/practica/primer-parcial-tema-1-campo-esfera-capacitores.md",
+      "paginas_revisadas": [
+        4
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 5,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/primer-parcial-tema-1-campo-esfera-capacitores.md",
+      "estado": "pendiente render GitHub",
+      "fuentes_adicionales": [
+        {
+          "original": "2015/Extras/DOC-20160612-WA0011.pdf",
+          "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+          "paginas_verificadas_identidad_render": [
+            4
+          ],
+          "estado": "píxeles idénticos a páginas de referencia ya cotejadas; evidencia en duplicados-render.json"
+        }
+      ]
+    },
+    {
+      "original": "2015/480938-Modelos de parcial FISICA II actualizado 060813(0).pdf",
+      "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+      "nota": "notes/2015/practica/primer-parcial-2007-tema-a.md",
+      "paginas_revisadas": [
+        5
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 8,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/primer-parcial-2007-tema-a.md",
+      "estado": "pendiente render GitHub",
+      "fuentes_adicionales": [
+        {
+          "original": "2015/Extras/DOC-20160612-WA0011.pdf",
+          "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+          "paginas_verificadas_identidad_render": [
+            5
+          ],
+          "estado": "píxeles idénticos a páginas de referencia ya cotejadas; evidencia en duplicados-render.json"
+        }
+      ]
+    },
+    {
+      "original": "2015/480938-Modelos de parcial FISICA II actualizado 060813(0).pdf",
+      "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
       "nota": "notes/2015/practica/primer-parcial-tema-1-cargas-pelota-esfera-capacitores.md",
       "paginas_revisadas": [
         3
       ],
       "paginacion": "PDF original",
       "math_esperada": 0,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 0,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/primer-parcial-tema-1-cargas-pelota-esfera-capacitores.md",
-      "estado": "pendiente render GitHub",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
       "fuentes_adicionales": [
         {
           "original": "2015/Extras/DOC-20160612-WA0011.pdf",
@@ -33,9 +102,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 4,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 4,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/iq-recuperatorio-primer-parcial-tema-b.md",
-      "estado": "pendiente render GitHub",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
       "fuentes_adicionales": [
         {
           "original": "2015/Extras/DOC-20160612-WA0011.pdf",

@@ -12,6 +12,8 @@
       "estado": "transcrito y validado localmente en dos secciones",
       "paginas_revisadas": [
         3,
+        4,
+        5,
         10,
         11,
         12
@@ -19,6 +21,9 @@
       "copia_local": "/tmp/fisica-ii-20261017-fuentes/01-480938-Modelos de parcial FISICA II actualizado 060813(0).pdf",
       "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/01-480938-Modelos de parcial FISICA II actualizado 060813(0).txt",
       "notas": [
+        "notes/2015/practica/primer-parcial-f2-calor-cargas-esfera.md",
+        "notes/2015/practica/primer-parcial-tema-1-campo-esfera-capacitores.md",
+        "notes/2015/practica/primer-parcial-2007-tema-a.md",
         "notes/2015/practica/primer-parcial-tema-1-cargas-pelota-esfera-capacitores.md",
         "notes/2015/practica/iq-recuperatorio-primer-parcial-tema-b.md",
         "notes/2015/practica/iem-2010-recuperatorio-primer-parcial-tema-1.md",
@@ -76,6 +81,8 @@
       "estado": "contenido parcialmente transcrito en referencia; resto pendiente; identidad de render verificada",
       "paginas_revisadas": [
         3,
+        4,
+        5,
         10,
         11,
         12
@@ -114,6 +121,9 @@
       ],
       "evidencia_identidad_render": "resources/common/duplicados-render.json",
       "notas": [
+        "notes/2015/practica/primer-parcial-f2-calor-cargas-esfera.md",
+        "notes/2015/practica/primer-parcial-tema-1-campo-esfera-capacitores.md",
+        "notes/2015/practica/primer-parcial-2007-tema-a.md",
         "notes/2015/practica/primer-parcial-tema-1-cargas-pelota-esfera-capacitores.md",
         "notes/2015/practica/iq-recuperatorio-primer-parcial-tema-b.md",
         "notes/2015/practica/iem-2010-recuperatorio-primer-parcial-tema-1.md",
@@ -1564,6 +1574,8 @@
       "estado": "transcrito y validado localmente en dos secciones",
       "paginas_revisadas": [
         3,
+        4,
+        5,
         10,
         11,
         12
@@ -1571,6 +1583,9 @@
       "copia_local": "/tmp/fisica-ii-20261017-fuentes/66-Modelos de parcial FISICA II.pdf",
       "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/66-Modelos de parcial FISICA II.txt",
       "notas": [
+        "notes/2015/practica/primer-parcial-f2-calor-cargas-esfera.md",
+        "notes/2015/practica/primer-parcial-tema-1-campo-esfera-capacitores.md",
+        "notes/2015/practica/primer-parcial-2007-tema-a.md",
         "notes/2015/practica/primer-parcial-tema-1-cargas-pelota-esfera-capacitores.md",
         "notes/2015/practica/iq-recuperatorio-primer-parcial-tema-b.md",
         "notes/2015/practica/iem-2010-recuperatorio-primer-parcial-tema-1.md",

@@ -1039,3 +1039,26 @@ verificadas también por sus tablas.
   tienen imagen sin texto: preparar OCR español sobre copia y cotejar todo.
 - Material que figura IEM/IQ debe conservar esa identificación y no atribuir
   automáticamente a ISI; la fuente está en carpeta canónica FísicaII.
+
+## Checkpoint 65: modelos de exámenes, OCR y primeras ocho versiones
+
+- Fuente1 modelos27p: OCR --skip-text omitía todas porque hay una capa de
+  espacios. OCR español --force-ocr sobre copia temporal produjo texto; se
+  conservó extracción PyMuPDF4LLM y Poppler en modelos-examenes-ocr. Original intacto.
+- Nuevas8notas: página3 dos exámenes, página4 temas1 yF2, página5 inferior
+  parcial2007temaA, páginas10–12 recuperatoriosIEM2010 temas1/2 y parcial16/09/08.
+  No declarar completa página5: su recuperatorio superior sigue pendiente.
+- Las cinco primeras notas publicadas se verificaron en GitHub:16+17+7+0+4
+  expresiones; cinco figuras de los recuperatorios/2008 y dos de página3 cargadas.
+  Acumulado confirmado70notas/1315math. Otras3notas pasan controles locales:
+  8+5+5 expresiones; pendiente renderGitHub tras publicar.
+- Conservados exponente15 en atm/Pa, repeticiónc), carga16sinpunto, masa3,11,
+  tiempo2seg, V2textual/V1figura, identificaciónIQ/IEM y formularios sin completar.
+- Figuras de problemas3/4 del tema2IEM continúan arriba de página12; las del
+  tema1 están en página10 con rótulos desplazados a11. No confundir exámenes.
+- Páginas1–12 renderizadas y vistas como orientación; para revisión terminada
+  del texto/diagramas contar1,2,3,4,10,11,12; página5 solo examen inferior.
+  Restantes4–9 requieren cubrir cada examen faltante, además de14–27.
+- Próximo: verificar render de tres notas recién preparadas y continuar
+  recuperatorioIQtemaA superiorp5; luego p6–9 y segunda mitad del compilado.
+  Fuente5 tiene27/27rendersidénticos y66esSHAidéntico: siguenparcialescon1.
