@@ -1084,3 +1084,21 @@ verificadas también por sus tablas.
   /tmp/fisica-ii-conversion/modelos-examenes-ocr; no prueban fidelidad por sí solos.
 - PR sigueborrador; cuerpoactualizado explicita materia incompleta. No aprobar
   ni fusionar. Continuar luego teoría/documentos de otros años del inventario.
+
+## Checkpoint 67: ocho exámenes escaneados adicionales preparados
+
+- Hay90notas/1361math esperadas:82/1353ya verificadas en GitHub; ocho nuevas
+  locales de páginas14temaB,16ambos,17ambos,18completa y19ambos.
+- Figuras originales de cada nueva nota cotejadas; corregidos márgenes para
+  no cortar datos. Último control check77pasó; check78incluye fuentes.md
+  actualizado tras corregir estado de cobertura.
+- Hallado y corregido helper temporal: agregación de varias notas ponía
+  «dos secciones» y sobrescribía estado parcial de fuente1. Ahora1/66siguen
+  parciales y cuentan25exámenes; separa páginas completas, parciales y
+  carátulas/separadores. Fuente5tambiénparcial, igualdad de render no es cierre.
+- No inferir valores de exámenes similares. Conservadas J=C.r frente aJ=C/r,
+  «1ºPARCIAL» de fuente17aunque sean magnetismo/CA y circuitos diferentes.
+- Próximo: publicar/verificar ocho nuevas y actualizar math_renderizada; seguir
+  p15dosrecuperatorios y20dostemas,21dosversiones,14temaA, y pendientes5–9.
+- Fuente1: completas3,4,10,11,12,16,17,18,19,22,23,25,26,27; parciales5,6,7,14.
+  Carátula1 y separadores2,13,24cotejados. Resto de la materia aún pendiente.
