@@ -1292,3 +1292,19 @@ verificadas también por sus tablas.
   comprobados, renders y extracciones en /tmp/fisica-ii-continuacion-20261020.
   Los originales siguen en OneDrive y el inventario durable conserva sus hashes.
 - PR #1 sigue en borrador; la materia no está lista para merge.
+
+## Checkpoint 80: fuerzas magnéticas completas y Faraday inicial
+
+- Unidad V completa en ea156ce: 42 páginas cotejadas, diez notas y 63
+  expresiones; todas las fórmulas y figuras verificadas en GitHub.
+- Total publicado y verificado: 180 notas y 2168 expresiones; 541 páginas
+  únicas cotejadas antes de la unidad siguiente.
+- Unidad VII, fenómenos de inducción (67 páginas): páginas 1–8 cotejadas, dos
+  notas locales sin matemática y cinco figuras. La fuente sigue parcial;
+  próximas páginas 9–67. Total 549 páginas únicas revisadas con este tramo.
+- Copias, renders y scripts temporales: /tmp/fisica-ii-continuacion-20261020.
+  Los scripts de generación preceden algunos arreglos manuales; no regenerar
+  notas o figuras ciegamente.
+- Pendientes principales: resto de inducción, Electromagnetismo 62 páginas,
+  medios materiales 21 páginas y los demás documentos del inventario.
+  La materia permanece incompleta y el PR en borrador.

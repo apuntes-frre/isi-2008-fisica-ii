@@ -2846,10 +2846,23 @@
       "duplicado_sha256_de": null,
       "clasificacion": "pendiente de revisión documental",
       "evidencia": "",
-      "estado": "pendiente",
-      "paginas_revisadas": [],
-      "copia_local": "/tmp/fisica-ii-20261017-fuentes/105-2019 UT VII - Fenómenos de Inducción Electromagnética.pdf",
-      "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/105-2019 UT VII - Fenómenos de Inducción Electromagnética.txt"
+      "estado": "parcial:8de67páginas cotejadas; programa,introducción y experiencias de Faraday; pendientes páginas9–67",
+      "paginas_revisadas": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "copia_local": "/tmp/fisica-ii-continuacion-20261020/fenomenos-induccion.pdf",
+      "texto_poppler_local": "/tmp/fisica-ii-continuacion-20261020/fenomenos.txt",
+      "notas": [
+        "notes/2019/teoria/induccion-electromagnetica-programa-introduccion-2019.md",
+        "notes/2019/teoria/experiencias-faraday-corrientes-imanes-2019.md"
+      ]
     },
     {
       "original": "2019/2do Parcial/2019 UT VII Electromagnetismo.pdf",
