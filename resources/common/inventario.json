@@ -2740,10 +2740,23 @@
       "duplicado_sha256_de": null,
       "clasificacion": "pendiente de revisión documental",
       "evidencia": "",
-      "estado": "pendiente",
-      "paginas_revisadas": [],
-      "copia_local": "/tmp/fisica-ii-20261017-fuentes/103-2019 UT V - Fuerzas Magnéticas sobre cargas y elementos de corriente.pdf",
-      "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/103-2019 UT V - Fuerzas Magnéticas sobre cargas y elementos de corriente.txt"
+      "estado": "parcial:8de42páginas cotejadas; programa,historia,imanes y características; continúan pendientes páginas9–42",
+      "paginas_revisadas": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "copia_local": "/tmp/fisica-ii-continuacion-20261020/fuerzas-magneticas.pdf",
+      "texto_poppler_local": "/tmp/fisica-ii-continuacion-20261020/fuerzas.txt",
+      "notas": [
+        "notes/2019/teoria/fuerzas-magneticas-programa-historia-2019.md",
+        "notes/2019/teoria/imanes-caracteristicas-fuerzas-magneticas-2019.md"
+      ]
     },
     {
       "original": "2019/2do Parcial/2019 UT VI - Campo de Inducción Magnética. Propiedades.pdf",

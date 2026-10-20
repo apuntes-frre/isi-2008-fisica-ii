@@ -1275,3 +1275,20 @@ verificadas también por sus tablas.
 - check110pasódosnotas+fuentes; medios cotejados. Próximo publicar/verificar
   45math/8figuras. Textos/renders99Laplace(6p),100Ohm(9p),101Mapeo(7p)ya
   preparados en /tmp/fisica-ii-conversion/guia-N, aún nocotejados.
+
+## Checkpoint 79: informes de 2019 e inducción magnética
+
+- Publicados Laplace (6 páginas, 363 valores y tres gráficas), Ley de Ohm (9
+  páginas del archivo fragmentario) y Mapeo del campo eléctrico (7 páginas).
+  Todas las expresiones y figuras verificadas en GitHub; erratas conservadas.
+- Unidad VI de 2019 completa: 16 páginas, 31 diapositivas, seis notas y 60
+  expresiones; figuras y MathJax verificados. Commit b179987.
+- Total publicado y verificado antes del siguiente lote: 170 notas y 2105
+  expresiones; 499 páginas únicas cotejadas, sin sumar duplicados ni páginas
+  compartidas entre apuntes.
+- Fuente de fuerzas magnéticas: primeras 8 de 42 páginas cotejadas y dos notas
+  locales; la fuente sigue parcial. Próximo continuar páginas 9–42.
+- Las copias temporales anteriores desaparecieron. Nuevas copias, SHA-256
+  comprobados, renders y extracciones en /tmp/fisica-ii-continuacion-20261020.
+  Los originales siguen en OneDrive y el inventario durable conserva sus hashes.
+- PR #1 sigue en borrador; la materia no está lista para merge.

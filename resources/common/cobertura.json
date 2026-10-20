@@ -2,6 +2,38 @@
   "alcance": "Parcial; no declara completa Física II. El cuadernillo de laboratorios 7 y 8 se conserva en dos notas por sus páginas 1-7 y 8-13.",
   "documentos": [
     {
+      "original": "2019/2do Parcial/2019 UT V - Fuerzas Magnéticas sobre cargas y elementos de corriente.pdf",
+      "sha256": "383fdb6f46e1627fbe65cf259b89a480bd4b4cc61821cbfc466fa3e4a63ceb29",
+      "nota": "notes/2019/teoria/fuerzas-magneticas-programa-historia-2019.md",
+      "paginas_revisadas": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 0,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/fuerzas-magneticas-programa-historia-2019.md",
+      "estado": "pendiente render GitHub"
+    },
+    {
+      "original": "2019/2do Parcial/2019 UT V - Fuerzas Magnéticas sobre cargas y elementos de corriente.pdf",
+      "sha256": "383fdb6f46e1627fbe65cf259b89a480bd4b4cc61821cbfc466fa3e4a63ceb29",
+      "nota": "notes/2019/teoria/imanes-caracteristicas-fuerzas-magneticas-2019.md",
+      "paginas_revisadas": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 1,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/imanes-caracteristicas-fuerzas-magneticas-2019.md",
+      "estado": "pendiente render GitHub"
+    },
+    {
       "original": "2019/2do Parcial/2019 UT VI - Campo de Inducción Magnética. Propiedades.pdf",
       "sha256": "b9bb8ec5e8acfa36814e15207ee532a00e566ff5ea72bd139eff27ae0b2d634f",
       "nota": "notes/2019/teoria/biot-savart-corriente-rectilinea-circular-2019.md",
@@ -13,9 +45,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 15,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 15,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/biot-savart-corriente-rectilinea-circular-2019.md",
-      "estado": "pendiente render GitHub"
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
     },
     {
       "original": "2019/2do Parcial/2019 UT VI - Campo de Inducción Magnética. Propiedades.pdf",
@@ -29,9 +61,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 7,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 7,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/ley-ampere-corrientes-distribuidas-2019.md",
-      "estado": "pendiente render GitHub"
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
     },
     {
       "original": "2019/2do Parcial/2019 UT VI - Campo de Inducción Magnética. Propiedades.pdf",
@@ -43,9 +75,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 12,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 12,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/solenoide-toroide-campo-magnetico-2019.md",
-      "estado": "pendiente render GitHub"
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
     },
     {
       "original": "2019/2do Parcial/2019 UT VI - Campo de Inducción Magnética. Propiedades.pdf",
@@ -57,9 +89,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 7,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 7,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/fuerzas-corrientes-definicion-ampere-2019.md",
-      "estado": "pendiente render GitHub"
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
     },
     {
       "original": "2019/2do Parcial/2019 UT VI - Campo de Inducción Magnética. Propiedades.pdf",
@@ -72,9 +104,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 8,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 8,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/flujo-magnetico-gauss-espira-2019.md",
-      "estado": "pendiente render GitHub"
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
     },
     {
       "original": "2019/2do Parcial/2019 UT VI - Campo de Inducción Magnética. Propiedades.pdf",
@@ -87,9 +119,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 11,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 11,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/corriente-desplazamiento-ampere-maxwell-2019.md",
-      "estado": "pendiente render GitHub"
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
     },
     {
       "original": "2019/1er Parcial/Mapeo de Campo Electrico.pdf",
@@ -106,9 +138,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 25,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 25,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/practica/mapeo-campo-electrico-informe.md",
-      "estado": "pendiente render GitHub"
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
     },
     {
       "original": "2019/1er Parcial/Ley de Ohm.pdf",
