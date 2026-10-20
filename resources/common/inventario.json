@@ -2944,7 +2944,7 @@
       "duplicado_sha256_de": null,
       "clasificacion": "pendiente de revisión documental",
       "evidencia": "",
-      "estado": "parcial:9de62páginas cotejadas; programa,introducción histórica y experiencias; pendientes páginas10–62; versión distinta de la de67páginas",
+      "estado": "parcial:18de62páginas cotejadas; hasta flujo,Faraday y Lenz con cuatro casos; pendientes páginas19–62",
       "paginas_revisadas": [
         1,
         2,
@@ -2954,13 +2954,25 @@
         6,
         7,
         8,
-        9
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
       ],
       "copia_local": "/tmp/fisica-ii-continuacion-20261020/electromagnetismo.pdf",
       "texto_poppler_local": "/tmp/fisica-ii-continuacion-20261020/electromagnetismo.txt",
       "notas": [
         "notes/2019/teoria/electromagnetismo-programa-introduccion-historica-2019.md",
-        "notes/2019/teoria/experiencias-faraday-electromagnetismo-2019.md"
+        "notes/2019/teoria/experiencias-faraday-electromagnetismo-2019.md",
+        "notes/2019/teoria/flujo-magnetico-weber-electromagnetismo-2019.md",
+        "notes/2019/teoria/ley-faraday-biografia-electromagnetismo-2019.md",
+        "notes/2019/teoria/ley-lenz-casos-electromagnetismo-2019.md"
       ]
     },
     {

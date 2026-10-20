@@ -4,6 +4,51 @@
     {
       "original": "2019/2do Parcial/2019 UT VII Electromagnetismo.pdf",
       "sha256": "eff3447774cadfcb2726a6caabbe8e257782276fce3e67dda465673d5ef67a6a",
+      "nota": "notes/2019/teoria/flujo-magnetico-weber-electromagnetismo-2019.md",
+      "paginas_revisadas": [
+        10,
+        11,
+        12
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 4,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/flujo-magnetico-weber-electromagnetismo-2019.md",
+      "estado": "pendiente render GitHub"
+    },
+    {
+      "original": "2019/2do Parcial/2019 UT VII Electromagnetismo.pdf",
+      "sha256": "eff3447774cadfcb2726a6caabbe8e257782276fce3e67dda465673d5ef67a6a",
+      "nota": "notes/2019/teoria/ley-faraday-biografia-electromagnetismo-2019.md",
+      "paginas_revisadas": [
+        13,
+        14
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 1,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/ley-faraday-biografia-electromagnetismo-2019.md",
+      "estado": "pendiente render GitHub"
+    },
+    {
+      "original": "2019/2do Parcial/2019 UT VII Electromagnetismo.pdf",
+      "sha256": "eff3447774cadfcb2726a6caabbe8e257782276fce3e67dda465673d5ef67a6a",
+      "nota": "notes/2019/teoria/ley-lenz-casos-electromagnetismo-2019.md",
+      "paginas_revisadas": [
+        15,
+        16,
+        17,
+        18
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 0,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/ley-lenz-casos-electromagnetismo-2019.md",
+      "estado": "pendiente render GitHub"
+    },
+    {
+      "original": "2019/2do Parcial/2019 UT VII Electromagnetismo.pdf",
+      "sha256": "eff3447774cadfcb2726a6caabbe8e257782276fce3e67dda465673d5ef67a6a",
       "nota": "notes/2019/teoria/electromagnetismo-programa-introduccion-historica-2019.md",
       "paginas_revisadas": [
         1,
@@ -13,9 +58,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 0,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 0,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/electromagnetismo-programa-introduccion-historica-2019.md",
-      "estado": "pendiente render GitHub"
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
     },
     {
       "original": "2019/2do Parcial/2019 UT VII Electromagnetismo.pdf",
@@ -30,9 +75,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 0,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 0,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/experiencias-faraday-electromagnetismo-2019.md",
-      "estado": "pendiente render GitHub"
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
     },
     {
       "original": "2019/2do Parcial/2019 UT VII - Fenómenos de Inducción Electromagnética.pdf",
