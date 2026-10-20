@@ -1308,3 +1308,20 @@ verificadas también por sus tablas.
 - Pendientes principales: resto de inducción, Electromagnetismo 62 páginas,
   medios materiales 21 páginas y los demás documentos del inventario.
   La materia permanece incompleta y el PR en borrador.
+
+## Checkpoint 81: inducción completa y versión Electromagnetismo
+
+- Fuente105 completa en 453b2b0: 67 páginas cotejadas, quince notas y 93
+  expresiones. Todas las fórmulas y figuras de los 195 apuntes publicados
+  verificadas en GitHub: 2261 expresiones. CI de 453b2b0 pasó.
+- 608 páginas únicas cotejadas antes de la versión siguiente. No sumar páginas
+  compartidas entre notas ni comparaciones automáticas de duplicados.
+- Fuente106, Electromagnetismo 62 páginas: páginas 1–9 cotejadas; dos notas
+  locales sin matemática, cinco figuras. Agrega historia en página 4, cambia
+  texto en 6, omite enlace de simulación en 7 y usa otra imagen en 9. No es
+  duplicado declarado. Total con este tramo: 617 páginas únicas.
+- Copias y renders completos de 105 y 106 en
+  /tmp/fisica-ii-continuacion-20261020. Página 10 de 106 ya vista, pendiente
+  incorporar junto al tramo siguiente; no contada en el total anterior.
+- Próximo: continuar 106 páginas 10–62; luego107 (magnetismo en medios
+  materiales) y resto del inventario. La materia sigue incompleta; PR borrador.
