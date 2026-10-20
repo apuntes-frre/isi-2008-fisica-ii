@@ -2944,7 +2944,7 @@
       "duplicado_sha256_de": null,
       "clasificacion": "pendiente de revisión documental",
       "evidencia": "",
-      "estado": "parcial:25de62páginas cotejadas; hasta generador alterno y aplicaciones; pendientes páginas26–62",
+      "estado": "parcial:40de62páginas cotejadas; hasta autoinducción de una bobina; pendientes páginas41–62",
       "paginas_revisadas": [
         1,
         2,
@@ -2970,7 +2970,22 @@
         22,
         23,
         24,
-        25
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40
       ],
       "copia_local": "/tmp/fisica-ii-continuacion-20261020/electromagnetismo.pdf",
       "texto_poppler_local": "/tmp/fisica-ii-continuacion-20261020/electromagnetismo.txt",
@@ -2981,7 +2996,11 @@
         "notes/2019/teoria/ley-faraday-biografia-electromagnetismo-2019.md",
         "notes/2019/teoria/ley-lenz-casos-electromagnetismo-2019.md",
         "notes/2019/teoria/generador-alterna-fases-electromagnetismo-2019.md",
-        "notes/2019/teoria/aplicaciones-induccion-interruptor-guitarra-2019.md"
+        "notes/2019/teoria/aplicaciones-induccion-interruptor-guitarra-2019.md",
+        "notes/2019/teoria/fem-movimiento-avion-electromagnetismo-2019.md",
+        "notes/2019/teoria/campo-electrico-inducido-electromagnetismo-2019.md",
+        "notes/2019/teoria/faraday-campos-electricos-electromagnetismo-2019.md",
+        "notes/2019/teoria/autoinduccion-geometria-electromagnetismo-2019.md"
       ]
     },
     {

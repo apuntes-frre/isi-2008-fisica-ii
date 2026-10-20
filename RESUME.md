@@ -1325,3 +1325,15 @@ verificadas también por sus tablas.
   incorporar junto al tramo siguiente; no contada en el total anterior.
 - Próximo: continuar 106 páginas 10–62; luego107 (magnetismo en medios
   materiales) y resto del inventario. La materia sigue incompleta; PR borrador.
+
+## Checkpoint 82: Electromagnetismo hasta autoinducción
+
+- Fuente106: páginas 1–40 de 62 cotejadas y transcritas en once notas;
+  quedan páginas 41–62. Total registrado: 648 páginas únicas revisadas.
+- Se conservan las aplicaciones a interruptor y guitarra, las fases del
+  generador y la solución original del avión (280 m/s, 1 V). No se unificó
+  esta versión con fuente105: contiene diferencias verificadas.
+- Cuatro notas nuevas para páginas 26–40 pasan el checker local: 35
+  expresiones, seis figuras; pendiente comprobar su render publicado.
+- Próximo: fuente106 desde página41, luego107 y resto del inventario.
+  La materia sigue incompleta y el PR permanece en borrador.
