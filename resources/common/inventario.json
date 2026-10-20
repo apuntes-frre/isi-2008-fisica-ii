@@ -2944,7 +2944,7 @@
       "duplicado_sha256_de": null,
       "clasificacion": "pendiente de revisión documental",
       "evidencia": "",
-      "estado": "parcial:40de62páginas cotejadas; hasta autoinducción de una bobina; pendientes páginas41–62",
+      "estado": "completo:62páginas cotejadas;16notas; figuras y desarrollos propios conservados",
       "paginas_revisadas": [
         1,
         2,
@@ -2985,7 +2985,29 @@
         37,
         38,
         39,
-        40
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62
       ],
       "copia_local": "/tmp/fisica-ii-continuacion-20261020/electromagnetismo.pdf",
       "texto_poppler_local": "/tmp/fisica-ii-continuacion-20261020/electromagnetismo.txt",
@@ -3000,7 +3022,12 @@
         "notes/2019/teoria/fem-movimiento-avion-electromagnetismo-2019.md",
         "notes/2019/teoria/campo-electrico-inducido-electromagnetismo-2019.md",
         "notes/2019/teoria/faraday-campos-electricos-electromagnetismo-2019.md",
-        "notes/2019/teoria/autoinduccion-geometria-electromagnetismo-2019.md"
+        "notes/2019/teoria/autoinduccion-geometria-electromagnetismo-2019.md",
+        "notes/2019/teoria/inductancias-serie-paralelo-electromagnetismo-2019.md",
+        "notes/2019/teoria/energia-bobina-densidad-electromagnetismo-2019.md",
+        "notes/2019/teoria/corrientes-transitorias-lr-electromagnetismo-2019.md",
+        "notes/2019/teoria/induccion-mutua-bobinas-electromagnetismo-2019.md",
+        "notes/2019/teoria/transformadores-transmision-electromagnetismo-2019.md"
       ]
     },
     {

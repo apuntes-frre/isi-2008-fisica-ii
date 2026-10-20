@@ -72,8 +72,8 @@ originales de las normalizadas y registra conteos matemáticos.
   67 páginas; completo: 67 páginas y quince notas cotejadas; fórmulas, gráficos
   y preguntas conservados. SHA-256:
   `cbefa338a0f56f56079880a84f05a963257a6473febd8da50f944a67f2210a8f`.
-- `2019/2do Parcial/2019 UT VII Electromagnetismo.pdf`: 62 páginas; parcial:
-  páginas 1–40 cotejadas; pendientes 41–62. Versión con introducción histórica,
+- `2019/2do Parcial/2019 UT VII Electromagnetismo.pdf`: 62 páginas; completo:
+  páginas 1–62 cotejadas en dieciséis notas. Versión con introducción histórica,
   aplicaciones y desarrollos propios. SHA-256:
   `eff3447774cadfcb2726a6caabbe8e257782276fce3e67dda465673d5ef67a6a`.
 - `2019/2do Parcial/2019 UT VIII - Magnetismo en Medios materiales.pdf`: 21

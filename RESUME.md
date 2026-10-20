@@ -1337,3 +1337,14 @@ verificadas también por sus tablas.
   expresiones, seis figuras; pendiente comprobar su render publicado.
 - Próximo: fuente106 desde página41, luego107 y resto del inventario.
   La materia sigue incompleta y el PR permanece en borrador.
+
+## Checkpoint 83: versión Electromagnetismo completa
+
+- Fuente106 completa: 62 páginas cotejadas, dieciséis notas. Se conservaron
+  diferencias de texto, ecuaciones, figuras y ejemplos respecto de fuente105.
+- Total registrado: 670 páginas únicas revisadas y 211 apuntes; 2358
+  expresiones esperadas. Las últimas cinco notas (50 expresiones) pasan
+  controles locales; falta revisar su render en GitHub.
+- Los apuntes anteriores hasta página40 de106 están comprobados en GitHub.
+- Próximo: fuente107, Magnetismo en medios materiales (21 páginas), y resto
+  del inventario. Materia incompleta; PR permanece en borrador.
