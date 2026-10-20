@@ -1348,3 +1348,18 @@ verificadas también por sus tablas.
 - Los apuntes anteriores hasta página40 de106 están comprobados en GitHub.
 - Próximo: fuente107, Magnetismo en medios materiales (21 páginas), y resto
   del inventario. Materia incompleta; PR permanece en borrador.
+
+## Checkpoint 84: magnetismo en medios materiales
+
+- Fuente107 completa: 21 páginas cotejadas, cinco notas, 34 expresiones y doce
+  figuras. Se conservan erratas y formulaciones originales; las marcas de
+  integral cerrada se verificaron visualmente. Controles locales pasaron.
+- Total: 691 páginas únicas registradas, 216 notas y 2392 expresiones
+  esperadas. Las cinco notas nuevas todavía requieren comprobación en GitHub.
+- Fuente106 completa y verificada: 62 páginas, dieciséis notas, todas sus
+  expresiones e imágenes comprobadas. CI de c9c7e11 pasó.
+- Las copias temporales en /tmp desaparecen entre sesiones. La fuente107,
+  extracción, renders y scripts ahora están en
+  /Users/carlosferreyra/.cache/fisica-ii-transcripcion/20261020-medios.
+- Próximo: laboratorios2019 fuentes112–116 y resto del inventario. La materia
+  sigue incompleta; PR permanece en borrador.

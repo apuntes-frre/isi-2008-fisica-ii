@@ -2,6 +2,87 @@
   "alcance": "Parcial; no declara completa Física II. El cuadernillo de laboratorios 7 y 8 se conserva en dos notas por sus páginas 1-7 y 8-13.",
   "documentos": [
     {
+      "original": "2019/2do Parcial/2019 UT VIII - Magnetismo en Medios materiales.pdf",
+      "sha256": "5d97f163bf24ba9b9d9317dbe7faec1a00e5fab87621e3849d37756083e8f919",
+      "nota": "notes/2019/teoria/magnetizacion-dipolos-corrientes-superficiales-2019.md",
+      "paginas_revisadas": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 9,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/magnetizacion-dipolos-corrientes-superficiales-2019.md",
+      "estado": "pendiente render GitHub"
+    },
+    {
+      "original": "2019/2do Parcial/2019 UT VIII - Magnetismo en Medios materiales.pdf",
+      "sha256": "5d97f163bf24ba9b9d9317dbe7faec1a00e5fab87621e3849d37756083e8f919",
+      "nota": "notes/2019/teoria/intensidad-magnetica-permeabilidad-susceptibilidad-2019.md",
+      "paginas_revisadas": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 17,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/intensidad-magnetica-permeabilidad-susceptibilidad-2019.md",
+      "estado": "pendiente render GitHub"
+    },
+    {
+      "original": "2019/2do Parcial/2019 UT VIII - Magnetismo en Medios materiales.pdf",
+      "sha256": "5d97f163bf24ba9b9d9317dbe7faec1a00e5fab87621e3849d37756083e8f919",
+      "nota": "notes/2019/teoria/materiales-magneticos-paramagnetismo-curie-2019.md",
+      "paginas_revisadas": [
+        12,
+        13,
+        14,
+        15
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 6,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/materiales-magneticos-paramagnetismo-curie-2019.md",
+      "estado": "pendiente render GitHub"
+    },
+    {
+      "original": "2019/2do Parcial/2019 UT VIII - Magnetismo en Medios materiales.pdf",
+      "sha256": "5d97f163bf24ba9b9d9317dbe7faec1a00e5fab87621e3849d37756083e8f919",
+      "nota": "notes/2019/teoria/diamagnetismo-modelo-clasico-2019.md",
+      "paginas_revisadas": [
+        16,
+        17
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 1,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/diamagnetismo-modelo-clasico-2019.md",
+      "estado": "pendiente render GitHub"
+    },
+    {
+      "original": "2019/2do Parcial/2019 UT VIII - Magnetismo en Medios materiales.pdf",
+      "sha256": "5d97f163bf24ba9b9d9317dbe7faec1a00e5fab87621e3849d37756083e8f919",
+      "nota": "notes/2019/teoria/ferromagnetismo-dominios-histeresis-2019.md",
+      "paginas_revisadas": [
+        18,
+        19,
+        20,
+        21
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 1,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/ferromagnetismo-dominios-histeresis-2019.md",
+      "estado": "pendiente render GitHub"
+    },
+    {
       "original": "2019/2do Parcial/2019 UT VII Electromagnetismo.pdf",
       "sha256": "eff3447774cadfcb2726a6caabbe8e257782276fce3e67dda465673d5ef67a6a",
       "nota": "notes/2019/teoria/inductancias-serie-paralelo-electromagnetismo-2019.md",
@@ -12,9 +93,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 7,
-      "math_renderizada_github": null,
-      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/inductancias-serie-paralelo-electromagnetismo-2019.md",
-      "estado": "pendiente render GitHub"
+      "math_renderizada_github": 7,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/c9c7e11/notes/2019/teoria/inductancias-serie-paralelo-electromagnetismo-2019.md",
+      "estado": "verificado en GitHub"
     },
     {
       "original": "2019/2do Parcial/2019 UT VII Electromagnetismo.pdf",
@@ -26,9 +107,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 8,
-      "math_renderizada_github": null,
-      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/energia-bobina-densidad-electromagnetismo-2019.md",
-      "estado": "pendiente render GitHub"
+      "math_renderizada_github": 8,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/c9c7e11/notes/2019/teoria/energia-bobina-densidad-electromagnetismo-2019.md",
+      "estado": "verificado en GitHub"
     },
     {
       "original": "2019/2do Parcial/2019 UT VII Electromagnetismo.pdf",
@@ -42,9 +123,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 12,
-      "math_renderizada_github": null,
-      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/corrientes-transitorias-lr-electromagnetismo-2019.md",
-      "estado": "pendiente render GitHub"
+      "math_renderizada_github": 12,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/c9c7e11/notes/2019/teoria/corrientes-transitorias-lr-electromagnetismo-2019.md",
+      "estado": "verificado en GitHub"
     },
     {
       "original": "2019/2do Parcial/2019 UT VII Electromagnetismo.pdf",
@@ -57,9 +138,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 7,
-      "math_renderizada_github": null,
-      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/induccion-mutua-bobinas-electromagnetismo-2019.md",
-      "estado": "pendiente render GitHub"
+      "math_renderizada_github": 7,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/c9c7e11/notes/2019/teoria/induccion-mutua-bobinas-electromagnetismo-2019.md",
+      "estado": "verificado en GitHub"
     },
     {
       "original": "2019/2do Parcial/2019 UT VII Electromagnetismo.pdf",
@@ -79,9 +160,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 16,
-      "math_renderizada_github": null,
-      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/transformadores-transmision-electromagnetismo-2019.md",
-      "estado": "pendiente render GitHub"
+      "math_renderizada_github": 16,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/c9c7e11/notes/2019/teoria/transformadores-transmision-electromagnetismo-2019.md",
+      "estado": "verificado en GitHub"
     },
     {
       "original": "2019/2do Parcial/2019 UT VII Electromagnetismo.pdf",

@@ -77,7 +77,8 @@ originales de las normalizadas y registra conteos matemáticos.
   aplicaciones y desarrollos propios. SHA-256:
   `eff3447774cadfcb2726a6caabbe8e257782276fce3e67dda465673d5ef67a6a`.
 - `2019/2do Parcial/2019 UT VIII - Magnetismo en Medios materiales.pdf`: 21
-  páginas; pendiente. SHA-256:
+  páginas; completo: páginas 1–21 cotejadas en cinco notas, con figuras y
+  expresiones conservadas. SHA-256:
   `5d97f163bf24ba9b9d9317dbe7faec1a00e5fab87621e3849d37756083e8f919`.
 - `2019/2do Parcial/Laboratorios/Calculadora/LAB7.g2e`: no PDF páginas; binario
   de calculadora; file informa data; sin visor compatible; no ejecutado.
