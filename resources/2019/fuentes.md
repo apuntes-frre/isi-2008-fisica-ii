@@ -69,7 +69,7 @@ originales de las normalizadas y registra conteos matemáticos.
   ecuaciones superpuestas documentadas. SHA-256:
   `b9bb8ec5e8acfa36814e15207ee532a00e566ff5ea72bd139eff27ae0b2d634f`.
 - `2019/2do Parcial/2019 UT VII - Fenómenos de Inducción Electromagnética.pdf`:
-  67 páginas; parcial: páginas 1–8 cotejadas; pendientes 9–67. SHA-256:
+  67 páginas; parcial: páginas 1–16 cotejadas; pendientes 17–67. SHA-256:
   `cbefa338a0f56f56079880a84f05a963257a6473febd8da50f944a67f2210a8f`.
 - `2019/2do Parcial/2019 UT VII Electromagnetismo.pdf`: 62 páginas; pendiente.
   SHA-256: `eff3447774cadfcb2726a6caabbe8e257782276fce3e67dda465673d5ef67a6a`.

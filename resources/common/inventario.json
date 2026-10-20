@@ -2846,7 +2846,7 @@
       "duplicado_sha256_de": null,
       "clasificacion": "pendiente de revisión documental",
       "evidencia": "",
-      "estado": "parcial:8de67páginas cotejadas; programa,introducción y experiencias de Faraday; pendientes páginas9–67",
+      "estado": "parcial:16de67páginas cotejadas; experiencias,flujo y leyes de Faraday/Lenz; pendientes páginas17–67",
       "paginas_revisadas": [
         1,
         2,
@@ -2855,13 +2855,23 @@
         5,
         6,
         7,
-        8
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
       ],
       "copia_local": "/tmp/fisica-ii-continuacion-20261020/fenomenos-induccion.pdf",
       "texto_poppler_local": "/tmp/fisica-ii-continuacion-20261020/fenomenos.txt",
       "notas": [
         "notes/2019/teoria/induccion-electromagnetica-programa-introduccion-2019.md",
-        "notes/2019/teoria/experiencias-faraday-corrientes-imanes-2019.md"
+        "notes/2019/teoria/experiencias-faraday-corrientes-imanes-2019.md",
+        "notes/2019/teoria/flujo-magnetico-induccion-weber-2019.md",
+        "notes/2019/teoria/ley-faraday-lenz-induccion-2019.md"
       ]
     },
     {
