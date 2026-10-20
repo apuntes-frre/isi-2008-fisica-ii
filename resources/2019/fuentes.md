@@ -47,7 +47,8 @@ originales de las normalizadas y registra conteos matemáticos.
 - `2019/1er Parcial/Discretizando un sistema continuo.pdf`: 4 páginas;
   completo:4páginas cotejadas; discretización del disco en cinco y nueve cargas.
   SHA-256: `b7013ac36095abfc6ab7699191fbe3c3d366a16edbb735008eb1624fe634be20`.
-- `2019/1er Parcial/Ecuacion de Laplace.pdf`: 6 páginas; pendiente. SHA-256:
+- `2019/1er Parcial/Ecuacion de Laplace.pdf`: 6 páginas; completo: ecuación, 363
+  valores y tres gráficas cotejados; erratas originales conservadas. SHA-256:
   `2bba95ad33085c6c4f4edfd88db4f90c720c117ef69dc2b1a6bb7e34f69a014f`.
 - `2019/1er Parcial/Ley de Ohm.pdf`: 9 páginas; pendiente. SHA-256:
   `2208a1c73fa18b49a8fb424a4338333358827fe17c2a0db62d57cd4bcf6e6f9c`.
