@@ -2,6 +2,96 @@
   "alcance": "Parcial; no declara completa Física II. El cuadernillo de laboratorios 7 y 8 se conserva en dos notas por sus páginas 1-7 y 8-13.",
   "documentos": [
     {
+      "original": "2019/2do Parcial/2019 UT VI - Campo de Inducción Magnética. Propiedades.pdf",
+      "sha256": "b9bb8ec5e8acfa36814e15207ee532a00e566ff5ea72bd139eff27ae0b2d634f",
+      "nota": "notes/2019/teoria/biot-savart-corriente-rectilinea-circular-2019.md",
+      "paginas_revisadas": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 15,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/biot-savart-corriente-rectilinea-circular-2019.md",
+      "estado": "pendiente render GitHub"
+    },
+    {
+      "original": "2019/2do Parcial/2019 UT VI - Campo de Inducción Magnética. Propiedades.pdf",
+      "sha256": "b9bb8ec5e8acfa36814e15207ee532a00e566ff5ea72bd139eff27ae0b2d634f",
+      "nota": "notes/2019/teoria/ley-ampere-corrientes-distribuidas-2019.md",
+      "paginas_revisadas": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 7,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/ley-ampere-corrientes-distribuidas-2019.md",
+      "estado": "pendiente render GitHub"
+    },
+    {
+      "original": "2019/2do Parcial/2019 UT VI - Campo de Inducción Magnética. Propiedades.pdf",
+      "sha256": "b9bb8ec5e8acfa36814e15207ee532a00e566ff5ea72bd139eff27ae0b2d634f",
+      "nota": "notes/2019/teoria/solenoide-toroide-campo-magnetico-2019.md",
+      "paginas_revisadas": [
+        9,
+        10
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 12,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/solenoide-toroide-campo-magnetico-2019.md",
+      "estado": "pendiente render GitHub"
+    },
+    {
+      "original": "2019/2do Parcial/2019 UT VI - Campo de Inducción Magnética. Propiedades.pdf",
+      "sha256": "b9bb8ec5e8acfa36814e15207ee532a00e566ff5ea72bd139eff27ae0b2d634f",
+      "nota": "notes/2019/teoria/fuerzas-corrientes-definicion-ampere-2019.md",
+      "paginas_revisadas": [
+        11,
+        12
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 7,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/fuerzas-corrientes-definicion-ampere-2019.md",
+      "estado": "pendiente render GitHub"
+    },
+    {
+      "original": "2019/2do Parcial/2019 UT VI - Campo de Inducción Magnética. Propiedades.pdf",
+      "sha256": "b9bb8ec5e8acfa36814e15207ee532a00e566ff5ea72bd139eff27ae0b2d634f",
+      "nota": "notes/2019/teoria/flujo-magnetico-gauss-espira-2019.md",
+      "paginas_revisadas": [
+        12,
+        13,
+        14
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 8,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/flujo-magnetico-gauss-espira-2019.md",
+      "estado": "pendiente render GitHub"
+    },
+    {
+      "original": "2019/2do Parcial/2019 UT VI - Campo de Inducción Magnética. Propiedades.pdf",
+      "sha256": "b9bb8ec5e8acfa36814e15207ee532a00e566ff5ea72bd139eff27ae0b2d634f",
+      "nota": "notes/2019/teoria/corriente-desplazamiento-ampere-maxwell-2019.md",
+      "paginas_revisadas": [
+        14,
+        15,
+        16
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 11,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/corriente-desplazamiento-ampere-maxwell-2019.md",
+      "estado": "pendiente render GitHub"
+    },
+    {
       "original": "2019/1er Parcial/Mapeo de Campo Electrico.pdf",
       "sha256": "9967197aee682d3117c6553b04d6550e588cf48710ece7f08c137bbabacd2e94",
       "nota": "notes/2019/practica/mapeo-campo-electrico-informe.md",

@@ -2753,10 +2753,35 @@
       "duplicado_sha256_de": null,
       "clasificacion": "pendiente de revisión documental",
       "evidencia": "",
-      "estado": "pendiente",
-      "paginas_revisadas": [],
-      "copia_local": "/tmp/fisica-ii-20261017-fuentes/104-2019 UT VI - Campo de Inducción Magnética. Propiedades.pdf",
-      "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/104-2019 UT VI - Campo de Inducción Magnética. Propiedades.txt"
+      "estado": "completo:16páginas y31diapositivas cotejadas; seis notas de Biot-Savart,Ampere,solenoide,toroide,flujo y desplazamiento; superposición original documentada",
+      "paginas_revisadas": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "copia_local": "/tmp/fisica-ii-continuacion-20261020/induccion-magnetica.pdf",
+      "texto_poppler_local": "/tmp/fisica-ii-continuacion-20261020/induccion.txt",
+      "notas": [
+        "notes/2019/teoria/biot-savart-corriente-rectilinea-circular-2019.md",
+        "notes/2019/teoria/ley-ampere-corrientes-distribuidas-2019.md",
+        "notes/2019/teoria/solenoide-toroide-campo-magnetico-2019.md",
+        "notes/2019/teoria/fuerzas-corrientes-definicion-ampere-2019.md",
+        "notes/2019/teoria/flujo-magnetico-gauss-espira-2019.md",
+        "notes/2019/teoria/corriente-desplazamiento-ampere-maxwell-2019.md"
+      ]
     },
     {
       "original": "2019/2do Parcial/2019 UT VII - Fenómenos de Inducción Electromagnética.pdf",

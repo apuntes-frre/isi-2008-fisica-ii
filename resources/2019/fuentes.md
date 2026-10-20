@@ -64,7 +64,8 @@ originales de las normalizadas y registra conteos matemáticos.
   42 páginas; pendiente. SHA-256:
   `383fdb6f46e1627fbe65cf259b89a480bd4b4cc61821cbfc466fa3e4a63ceb29`.
 - `2019/2do Parcial/2019 UT VI - Campo de Inducción Magnética. Propiedades.pdf`:
-  16 páginas; pendiente. SHA-256:
+  16 páginas; completo: 31 diapositivas, seis notas y figuras cotejadas;
+  ecuaciones superpuestas documentadas. SHA-256:
   `b9bb8ec5e8acfa36814e15207ee532a00e566ff5ea72bd139eff27ae0b2d634f`.
 - `2019/2do Parcial/2019 UT VII - Fenómenos de Inducción Electromagnética.pdf`:
   67 páginas; pendiente. SHA-256:
