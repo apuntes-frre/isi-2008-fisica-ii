@@ -2740,7 +2740,7 @@
       "duplicado_sha256_de": null,
       "clasificacion": "pendiente de revisión documental",
       "evidencia": "",
-      "estado": "parcial:8de42páginas cotejadas; programa,historia,imanes y características; continúan pendientes páginas9–42",
+      "estado": "parcial:20de42páginas cotejadas; hasta Lorentz y movimiento circular/helicoidal; pendientes páginas21–42",
       "paginas_revisadas": [
         1,
         2,
@@ -2749,13 +2749,28 @@
         5,
         6,
         7,
-        8
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
       ],
       "copia_local": "/tmp/fisica-ii-continuacion-20261020/fuerzas-magneticas.pdf",
       "texto_poppler_local": "/tmp/fisica-ii-continuacion-20261020/fuerzas.txt",
       "notas": [
         "notes/2019/teoria/fuerzas-magneticas-programa-historia-2019.md",
-        "notes/2019/teoria/imanes-caracteristicas-fuerzas-magneticas-2019.md"
+        "notes/2019/teoria/imanes-caracteristicas-fuerzas-magneticas-2019.md",
+        "notes/2019/teoria/campo-magnetico-lineas-intensidad-2019.md",
+        "notes/2019/teoria/fuerza-magnetica-carga-unidades-regla-mano-2019.md",
+        "notes/2019/teoria/lorentz-movimiento-circular-helicoidal-2019.md"
       ]
     },
     {

@@ -4,6 +4,54 @@
     {
       "original": "2019/2do Parcial/2019 UT V - Fuerzas Magnéticas sobre cargas y elementos de corriente.pdf",
       "sha256": "383fdb6f46e1627fbe65cf259b89a480bd4b4cc61821cbfc466fa3e4a63ceb29",
+      "nota": "notes/2019/teoria/campo-magnetico-lineas-intensidad-2019.md",
+      "paginas_revisadas": [
+        9,
+        10,
+        11
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 0,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/campo-magnetico-lineas-intensidad-2019.md",
+      "estado": "pendiente render GitHub"
+    },
+    {
+      "original": "2019/2do Parcial/2019 UT V - Fuerzas Magnéticas sobre cargas y elementos de corriente.pdf",
+      "sha256": "383fdb6f46e1627fbe65cf259b89a480bd4b4cc61821cbfc466fa3e4a63ceb29",
+      "nota": "notes/2019/teoria/fuerza-magnetica-carga-unidades-regla-mano-2019.md",
+      "paginas_revisadas": [
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 6,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/fuerza-magnetica-carga-unidades-regla-mano-2019.md",
+      "estado": "pendiente render GitHub"
+    },
+    {
+      "original": "2019/2do Parcial/2019 UT V - Fuerzas Magnéticas sobre cargas y elementos de corriente.pdf",
+      "sha256": "383fdb6f46e1627fbe65cf259b89a480bd4b4cc61821cbfc466fa3e4a63ceb29",
+      "nota": "notes/2019/teoria/lorentz-movimiento-circular-helicoidal-2019.md",
+      "paginas_revisadas": [
+        17,
+        18,
+        19,
+        20
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 11,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/lorentz-movimiento-circular-helicoidal-2019.md",
+      "estado": "pendiente render GitHub"
+    },
+    {
+      "original": "2019/2do Parcial/2019 UT V - Fuerzas Magnéticas sobre cargas y elementos de corriente.pdf",
+      "sha256": "383fdb6f46e1627fbe65cf259b89a480bd4b4cc61821cbfc466fa3e4a63ceb29",
       "nota": "notes/2019/teoria/fuerzas-magneticas-programa-historia-2019.md",
       "paginas_revisadas": [
         1,
