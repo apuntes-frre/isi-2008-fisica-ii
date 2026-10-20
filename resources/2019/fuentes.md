@@ -50,7 +50,9 @@ originales de las normalizadas y registra conteos matemáticos.
 - `2019/1er Parcial/Ecuacion de Laplace.pdf`: 6 páginas; completo: ecuación, 363
   valores y tres gráficas cotejados; erratas originales conservadas. SHA-256:
   `2bba95ad33085c6c4f4edfd88db4f90c720c117ef69dc2b1a6bb7e34f69a014f`.
-- `2019/1er Parcial/Ley de Ohm.pdf`: 9 páginas; pendiente. SHA-256:
+- `2019/1er Parcial/Ley de Ohm.pdf`: 9 páginas; completo para el archivo
+  disponible, que comienza en página impresa 4; tablas, figuras y erratas
+  cotejadas. SHA-256:
   `2208a1c73fa18b49a8fb424a4338333358827fe17c2a0db62d57cd4bcf6e6f9c`.
 - `2019/1er Parcial/Mapeo de Campo Electrico.pdf`: 7 páginas; pendiente.
   SHA-256: `9967197aee682d3117c6553b04d6550e588cf48710ece7f08c137bbabacd2e94`.

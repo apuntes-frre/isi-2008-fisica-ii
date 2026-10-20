@@ -2677,10 +2677,23 @@
       "duplicado_sha256_de": null,
       "clasificacion": "pendiente de revisión documental",
       "evidencia": "",
-      "estado": "pendiente",
-      "paginas_revisadas": [],
-      "copia_local": "/tmp/fisica-ii-20261017-fuentes/100-Ley de Ohm.pdf",
-      "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/100-Ley de Ohm.txt"
+      "estado": "completo:9páginas del archivo cotejadas; informe fragmentario desde página impresa4; tres tablas y tres figuras; erratas conservadas",
+      "paginas_revisadas": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "copia_local": "/tmp/fisica-ii-continuacion-20261020/ohm.pdf",
+      "texto_poppler_local": "/tmp/fisica-ii-continuacion-20261020/ohm.txt",
+      "notas": [
+        "notes/2019/practica/ley-ohm-asociacion-resistencias-informe.md"
+      ]
     },
     {
       "original": "2019/1er Parcial/Mapeo de Campo Electrico.pdf",

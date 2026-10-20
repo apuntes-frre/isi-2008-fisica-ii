@@ -2,6 +2,27 @@
   "alcance": "Parcial; no declara completa Física II. El cuadernillo de laboratorios 7 y 8 se conserva en dos notas por sus páginas 1-7 y 8-13.",
   "documentos": [
     {
+      "original": "2019/1er Parcial/Ley de Ohm.pdf",
+      "sha256": "2208a1c73fa18b49a8fb424a4338333358827fe17c2a0db62d57cd4bcf6e6f9c",
+      "nota": "notes/2019/practica/ley-ohm-asociacion-resistencias-informe.md",
+      "paginas_revisadas": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "paginacion": "PDF original; impresa4–11 y11",
+      "math_esperada": 64,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/practica/ley-ohm-asociacion-resistencias-informe.md",
+      "estado": "pendiente render GitHub"
+    },
+    {
       "original": "2019/1er Parcial/Ecuacion de Laplace.pdf",
       "sha256": "2bba95ad33085c6c4f4edfd88db4f90c720c117ef69dc2b1a6bb7e34f69a014f",
       "nota": "notes/2019/practica/ecuacion-laplace-informe-experimental.md",
