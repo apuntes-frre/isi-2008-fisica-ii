@@ -2,6 +2,25 @@
   "alcance": "Parcial; no declara completa Física II. El cuadernillo de laboratorios 7 y 8 se conserva en dos notas por sus páginas 1-7 y 8-13.",
   "documentos": [
     {
+      "original": "2019/1er Parcial/Mapeo de Campo Electrico.pdf",
+      "sha256": "9967197aee682d3117c6553b04d6550e588cf48710ece7f08c137bbabacd2e94",
+      "nota": "notes/2019/practica/mapeo-campo-electrico-informe.md",
+      "paginas_revisadas": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 25,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/practica/mapeo-campo-electrico-informe.md",
+      "estado": "pendiente render GitHub"
+    },
+    {
       "original": "2019/1er Parcial/Ley de Ohm.pdf",
       "sha256": "2208a1c73fa18b49a8fb424a4338333358827fe17c2a0db62d57cd4bcf6e6f9c",
       "nota": "notes/2019/practica/ley-ohm-asociacion-resistencias-informe.md",
@@ -18,9 +37,9 @@
       ],
       "paginacion": "PDF original; impresa4–11 y11",
       "math_esperada": 64,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 64,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/practica/ley-ohm-asociacion-resistencias-informe.md",
-      "estado": "pendiente render GitHub"
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
     },
     {
       "original": "2019/1er Parcial/Ecuacion de Laplace.pdf",
@@ -36,9 +55,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 1,
-      "math_renderizada_github": null,
+      "math_renderizada_github": 1,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/practica/ecuacion-laplace-informe-experimental.md",
-      "estado": "pendiente render GitHub"
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
     },
     {
       "original": "2019/1er Parcial/Campo cero de dos cargas puntuales.pdf",

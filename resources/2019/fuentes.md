@@ -54,8 +54,9 @@ originales de las normalizadas y registra conteos matemáticos.
   disponible, que comienza en página impresa 4; tablas, figuras y erratas
   cotejadas. SHA-256:
   `2208a1c73fa18b49a8fb424a4338333358827fe17c2a0db62d57cd4bcf6e6f9c`.
-- `2019/1er Parcial/Mapeo de Campo Electrico.pdf`: 7 páginas; pendiente.
-  SHA-256: `9967197aee682d3117c6553b04d6550e588cf48710ece7f08c137bbabacd2e94`.
+- `2019/1er Parcial/Mapeo de Campo Electrico.pdf`: 7 páginas; completo: teoría,
+  procedimiento, dos tablas, análisis y bibliografía cotejados. SHA-256:
+  `9967197aee682d3117c6553b04d6550e588cf48710ece7f08c137bbabacd2e94`.
 - `2019/1er Parcial/al estudiante_9cdd28a8aa03ad399cd90d7ca2c47f2d.pdf`: 2
   páginas; referencia; no transcrito. SHA-256:
   `cf8cac8e29324ac38a3567a41713c29a1eb7d6f1e598bf9f151c3e8fd6305c9d`.

@@ -2703,10 +2703,21 @@
       "duplicado_sha256_de": null,
       "clasificacion": "pendiente de revisión documental",
       "evidencia": "",
-      "estado": "pendiente",
-      "paginas_revisadas": [],
-      "copia_local": "/tmp/fisica-ii-20261017-fuentes/101-Mapeo de Campo Electrico.pdf",
-      "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/101-Mapeo de Campo Electrico.txt"
+      "estado": "completo:7páginas cotejadas; teoría,procedimiento,dos tablas,análisis y bibliografía; erratas conservadas",
+      "paginas_revisadas": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "copia_local": "/tmp/fisica-ii-continuacion-20261020/mapeo.pdf",
+      "texto_poppler_local": "/tmp/fisica-ii-continuacion-20261020/mapeo.txt",
+      "notas": [
+        "notes/2019/practica/mapeo-campo-electrico-informe.md"
+      ]
     },
     {
       "original": "2019/1er Parcial/al estudiante_9cdd28a8aa03ad399cd90d7ca2c47f2d.pdf",
