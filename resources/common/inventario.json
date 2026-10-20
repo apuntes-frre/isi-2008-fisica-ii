@@ -2846,7 +2846,7 @@
       "duplicado_sha256_de": null,
       "clasificacion": "pendiente de revisión documental",
       "evidencia": "",
-      "estado": "parcial:30de67páginas cotejadas; hasta generador alterno y fem de movimiento; pendientes páginas31–67",
+      "estado": "parcial:40de67páginas cotejadas; hasta campo eléctrico inducido y Faraday diferencial; pendientes páginas41–67",
       "paginas_revisadas": [
         1,
         2,
@@ -2877,7 +2877,17 @@
         27,
         28,
         29,
-        30
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40
       ],
       "copia_local": "/tmp/fisica-ii-continuacion-20261020/fenomenos-induccion.pdf",
       "texto_poppler_local": "/tmp/fisica-ii-continuacion-20261020/fenomenos.txt",
@@ -2888,7 +2898,9 @@
         "notes/2019/teoria/ley-faraday-lenz-induccion-2019.md",
         "notes/2019/teoria/ley-lenz-sentido-corriente-diagramas-2019.md",
         "notes/2019/teoria/generador-corriente-alterna-espira-2019.md",
-        "notes/2019/teoria/fem-movimiento-varilla-circuito-2019.md"
+        "notes/2019/teoria/fem-movimiento-varilla-circuito-2019.md",
+        "notes/2019/teoria/campo-electrico-inducido-espira-2019.md",
+        "notes/2019/teoria/faraday-generalizacion-forma-diferencial-2019.md"
       ]
     },
     {
