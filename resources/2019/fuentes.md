@@ -61,7 +61,8 @@ originales de las normalizadas y registra conteos matemáticos.
   páginas; referencia; no transcrito. SHA-256:
   `cf8cac8e29324ac38a3567a41713c29a1eb7d6f1e598bf9f151c3e8fd6305c9d`.
 - `2019/2do Parcial/2019 UT V - Fuerzas Magnéticas sobre cargas y elementos de corriente.pdf`:
-  42 páginas; parcial: páginas 1–20 cotejadas; pendientes 21–42. SHA-256:
+  42 páginas; completo: 42 páginas, diez notas, figuras y anexo de demostración
+  cotejados; erratas conservadas. SHA-256:
   `383fdb6f46e1627fbe65cf259b89a480bd4b4cc61821cbfc466fa3e4a63ceb29`.
 - `2019/2do Parcial/2019 UT VI - Campo de Inducción Magnética. Propiedades.pdf`:
   16 páginas; completo: 31 diapositivas, seis notas y figuras cotejadas;

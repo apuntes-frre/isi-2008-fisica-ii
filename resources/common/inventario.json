@@ -2740,7 +2740,7 @@
       "duplicado_sha256_de": null,
       "clasificacion": "pendiente de revisión documental",
       "evidencia": "",
-      "estado": "parcial:20de42páginas cotejadas; hasta Lorentz y movimiento circular/helicoidal; pendientes páginas21–42",
+      "estado": "completo:42páginas cotejadas; diez notas de magnetismo,fuerzas,Lorentz,Hall,ciclotrón,torque y demostración; erratas conservadas",
       "paginas_revisadas": [
         1,
         2,
@@ -2761,7 +2761,29 @@
         17,
         18,
         19,
-        20
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42
       ],
       "copia_local": "/tmp/fisica-ii-continuacion-20261020/fuerzas-magneticas.pdf",
       "texto_poppler_local": "/tmp/fisica-ii-continuacion-20261020/fuerzas.txt",
@@ -2770,7 +2792,12 @@
         "notes/2019/teoria/imanes-caracteristicas-fuerzas-magneticas-2019.md",
         "notes/2019/teoria/campo-magnetico-lineas-intensidad-2019.md",
         "notes/2019/teoria/fuerza-magnetica-carga-unidades-regla-mano-2019.md",
-        "notes/2019/teoria/lorentz-movimiento-circular-helicoidal-2019.md"
+        "notes/2019/teoria/lorentz-movimiento-circular-helicoidal-2019.md",
+        "notes/2019/teoria/selector-velocidades-espectrometro-masas-2019.md",
+        "notes/2019/teoria/efecto-hall-ciclotron-2019.md",
+        "notes/2019/teoria/fuerza-conductor-corriente-elemento-2019.md",
+        "notes/2019/teoria/torque-espira-momento-dipolar-2019.md",
+        "notes/2019/teoria/demostracion-trayectoria-helicoidal-2019.md"
       ]
     },
     {
