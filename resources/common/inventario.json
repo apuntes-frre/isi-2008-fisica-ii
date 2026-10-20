@@ -3130,12 +3130,29 @@
       "bytes": 2499051,
       "paginas_pdf": 13,
       "duplicado_sha256_de": null,
-      "clasificacion": "pendiente de revisión documental",
-      "evidencia": "",
-      "estado": "pendiente",
-      "paginas_revisadas": [],
-      "copia_local": "/tmp/fisica-ii-20261017-fuentes/112-Campo de Induccion Magnetica (1).pdf",
-      "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/112-Campo de Induccion Magnetica (1).txt"
+      "clasificacion": "informe experimental",
+      "evidencia": "Encabezado Ingeniería Química; se preserva contenido académico y se omiten anotaciones de evaluación.",
+      "estado": "completo:13páginas cotejadas; informe con datos, tablas, gráficos y cuestionario",
+      "paginas_revisadas": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "copia_local": "/Users/carlosferreyra/.cache/fisica-ii-transcripcion/20261020-laboratorios/fuente-112.pdf",
+      "texto_poppler_local": "/Users/carlosferreyra/.cache/fisica-ii-transcripcion/20261020-laboratorios/fuente-112.txt",
+      "notas": [
+        "notes/2019/practica/campo-induccion-magnetica-informe.md"
+      ]
     },
     {
       "original": "2019/2do Parcial/Laboratorios/Campo de Induccion Magnetica.pdf",
@@ -3143,9 +3160,9 @@
       "bytes": 2499051,
       "paginas_pdf": 13,
       "duplicado_sha256_de": "2019/2do Parcial/Laboratorios/Campo de Induccion Magnetica (1).pdf",
-      "clasificacion": "pendiente de revisión documental",
+      "clasificacion": "duplicado exacto de informe experimental",
       "evidencia": "",
-      "estado": "identidad de render verificada; transcripción pendiente junto a referencia",
+      "estado": "completo por duplicado SHA-256; transcripción de fuente112",
       "paginas_revisadas": [],
       "copia_local": "/tmp/fisica-ii-20261017-fuentes/113-Campo de Induccion Magnetica.pdf",
       "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/113-Campo de Induccion Magnetica.txt",
@@ -3165,7 +3182,10 @@
         12,
         13
       ],
-      "evidencia_identidad_render": "resources/common/duplicados-render.json"
+      "evidencia_identidad_render": "resources/common/duplicados-render.json",
+      "notas": [
+        "notes/2019/practica/campo-induccion-magnetica-informe.md"
+      ]
     },
     {
       "original": "2019/2do Parcial/Laboratorios/Campo de Induccion Magnetica_apto_busqueda.pdf",
@@ -3173,12 +3193,30 @@
       "bytes": 2006961,
       "paginas_pdf": 13,
       "duplicado_sha256_de": null,
-      "clasificacion": "pendiente de revisión documental",
-      "evidencia": "",
-      "estado": "pendiente",
-      "paginas_revisadas": [],
-      "copia_local": "/tmp/fisica-ii-20261017-fuentes/114-Campo de Induccion Magnetica_apto_busqueda.pdf",
-      "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/114-Campo de Induccion Magnetica_apto_busqueda.txt"
+      "clasificacion": "derivación OCR con símbolos deteriorados",
+      "evidencia": "13páginas cotejadas: misma estructura, datos y fotografías; errores visibles en momentos y flechas p2, fórmulas p3, rótulos de gráficos p6–7 y vectores p11. No identidad de render.",
+      "estado": "revisión completa:derivación OCR deteriorada; referencia legible transcrita en fuente112",
+      "paginas_revisadas": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "copia_local": "/Users/carlosferreyra/.cache/fisica-ii-transcripcion/20261020-laboratorios/fuente-114.pdf",
+      "texto_poppler_local": "/Users/carlosferreyra/.cache/fisica-ii-transcripcion/20261020-laboratorios/fuente-114.txt",
+      "notas": [
+        "notes/2019/practica/campo-induccion-magnetica-informe.md"
+      ],
+      "derivacion_de": "2019/2do Parcial/Laboratorios/Campo de Induccion Magnetica (1).pdf"
     },
     {
       "original": "2019/2do Parcial/Laboratorios/Fza Magnetica sobre elementos de corriente.pdf",

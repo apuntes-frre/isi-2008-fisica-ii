@@ -93,15 +93,16 @@ originales de las normalizadas y registra conteos matemáticos.
   binario de calculadora; file informa data; sin visor compatible; no ejecutado.
   SHA-256: `86199e6e9354df2fb99784845b759cfb7115a315bfbe03e02891e4b3333abb3f`.
 - `2019/2do Parcial/Laboratorios/Campo de Induccion Magnetica (1).pdf`: 13
-  páginas; pendiente. SHA-256:
+  páginas; completo: informe y trece páginas cotejadas. SHA-256:
   `fe381f45db3f41d4505d241c796b942090c3f8d12582b62bd52d56c26c34aa68`.
 - `2019/2do Parcial/Laboratorios/Campo de Induccion Magnetica.pdf`: 13 páginas;
-  identidad de render verificada; transcripción pendiente junto a referencia.
-  SHA-256: `fe381f45db3f41d4505d241c796b942090c3f8d12582b62bd52d56c26c34aa68`.
-  Duplicado exacto de
+  duplicado exacto; transcripción completa junto a referencia. SHA-256:
+  `fe381f45db3f41d4505d241c796b942090c3f8d12582b62bd52d56c26c34aa68`. Duplicado
+  exacto de
   `2019/2do Parcial/Laboratorios/Campo de Induccion Magnetica (1).pdf`.
 - `2019/2do Parcial/Laboratorios/Campo de Induccion Magnetica_apto_busqueda.pdf`:
-  13 páginas; pendiente. SHA-256:
+  13 páginas cotejadas; derivación OCR deteriorada, referencia legible en el
+  informe anterior; no identidad de render. SHA-256:
   `efd60fb6f541ddde38129ccd1ea38c4fa50d9885b4325e2fa77f1e5b64b3e236`.
 - `2019/2do Parcial/Laboratorios/Fza Magnetica sobre elementos de corriente.pdf`:
   9 páginas; pendiente. SHA-256:

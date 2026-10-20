@@ -1363,3 +1363,19 @@ verificadas también por sus tablas.
   /Users/carlosferreyra/.cache/fisica-ii-transcripcion/20261020-medios.
 - Próximo: laboratorios2019 fuentes112–116 y resto del inventario. La materia
   sigue incompleta; PR permanece en borrador.
+
+## Checkpoint 85: informe de campo de inducción magnética
+
+- Fuente112: trece páginas completas, veinte expresiones, tabla experimental
+  de17 filas, tabla auxiliar, dos gráficos y ocho figuras académicas. Fuente113
+  comparte SHA-256 y transcripción. Se conservan errores y resultados originales.
+- Fuente114: trece páginas cotejadas; derivación OCR visiblemente deteriorada
+  del mismo informe. Se documentan pérdidas de símbolos y se remite al escaneo
+  legible; no se declara identidad de render ni se copia matemática corrupta.
+- Total: 217 apuntes y 2412 expresiones esperadas. Hasta los 216 anteriores
+  (2392 expresiones) quedó verificado en GitHub. El nuevo informe requiere
+  comprobación publicada; controles locales pasaron.
+- Próximo: fuente115 (fuerza magnética sobre elementos de corriente, nueve
+  páginas) y116 (derivación apto búsquedas); luego117–122 y resto del inventario.
+- Trabajo persistente en ~/.cache/fisica-ii-transcripcion/20261020-laboratorios.
+  Materia incompleta; PR en borrador.

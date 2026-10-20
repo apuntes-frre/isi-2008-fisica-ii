@@ -2,6 +2,58 @@
   "alcance": "Parcial; no declara completa Física II. El cuadernillo de laboratorios 7 y 8 se conserva en dos notas por sus páginas 1-7 y 8-13.",
   "documentos": [
     {
+      "original": "2019/2do Parcial/Laboratorios/Campo de Induccion Magnetica (1).pdf",
+      "sha256": "fe381f45db3f41d4505d241c796b942090c3f8d12582b62bd52d56c26c34aa68",
+      "nota": "notes/2019/practica/campo-induccion-magnetica-informe.md",
+      "paginas_revisadas": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 20,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/practica/campo-induccion-magnetica-informe.md",
+      "estado": "pendiente render GitHub",
+      "fuentes_adicionales": [
+        {
+          "original": "2019/2do Parcial/Laboratorios/Campo de Induccion Magnetica.pdf",
+          "sha256": "fe381f45db3f41d4505d241c796b942090c3f8d12582b62bd52d56c26c34aa68",
+          "estado": "duplicado binario exacto; no agrega revisión manual"
+        },
+        {
+          "original": "2019/2do Parcial/Laboratorios/Campo de Induccion Magnetica_apto_busqueda.pdf",
+          "sha256": "efd60fb6f541ddde38129ccd1ea38c4fa50d9885b4325e2fa77f1e5b64b3e236",
+          "paginas_revisadas": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "estado": "revisión completa:derivación OCR deteriorada; referencia legible transcrita en fuente112"
+        }
+      ]
+    },
+    {
       "original": "2019/2do Parcial/2019 UT VIII - Magnetismo en Medios materiales.pdf",
       "sha256": "5d97f163bf24ba9b9d9317dbe7faec1a00e5fab87621e3849d37756083e8f919",
       "nota": "notes/2019/teoria/magnetizacion-dipolos-corrientes-superficiales-2019.md",
@@ -15,9 +67,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 9,
-      "math_renderizada_github": null,
-      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/magnetizacion-dipolos-corrientes-superficiales-2019.md",
-      "estado": "pendiente render GitHub"
+      "math_renderizada_github": 9,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/23d8a37/notes/2019/teoria/magnetizacion-dipolos-corrientes-superficiales-2019.md",
+      "estado": "verificado en GitHub"
     },
     {
       "original": "2019/2do Parcial/2019 UT VIII - Magnetismo en Medios materiales.pdf",
@@ -32,9 +84,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 17,
-      "math_renderizada_github": null,
-      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/intensidad-magnetica-permeabilidad-susceptibilidad-2019.md",
-      "estado": "pendiente render GitHub"
+      "math_renderizada_github": 17,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/23d8a37/notes/2019/teoria/intensidad-magnetica-permeabilidad-susceptibilidad-2019.md",
+      "estado": "verificado en GitHub"
     },
     {
       "original": "2019/2do Parcial/2019 UT VIII - Magnetismo en Medios materiales.pdf",
@@ -48,9 +100,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 6,
-      "math_renderizada_github": null,
-      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/materiales-magneticos-paramagnetismo-curie-2019.md",
-      "estado": "pendiente render GitHub"
+      "math_renderizada_github": 6,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/23d8a37/notes/2019/teoria/materiales-magneticos-paramagnetismo-curie-2019.md",
+      "estado": "verificado en GitHub"
     },
     {
       "original": "2019/2do Parcial/2019 UT VIII - Magnetismo en Medios materiales.pdf",
@@ -62,9 +114,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 1,
-      "math_renderizada_github": null,
-      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/diamagnetismo-modelo-clasico-2019.md",
-      "estado": "pendiente render GitHub"
+      "math_renderizada_github": 1,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/23d8a37/notes/2019/teoria/diamagnetismo-modelo-clasico-2019.md",
+      "estado": "verificado en GitHub"
     },
     {
       "original": "2019/2do Parcial/2019 UT VIII - Magnetismo en Medios materiales.pdf",
@@ -78,9 +130,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 1,
-      "math_renderizada_github": null,
-      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/ferromagnetismo-dominios-histeresis-2019.md",
-      "estado": "pendiente render GitHub"
+      "math_renderizada_github": 1,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/23d8a37/notes/2019/teoria/ferromagnetismo-dominios-histeresis-2019.md",
+      "estado": "verificado en GitHub"
     },
     {
       "original": "2019/2do Parcial/2019 UT VII Electromagnetismo.pdf",
