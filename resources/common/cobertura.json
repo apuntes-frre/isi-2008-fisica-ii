@@ -4,6 +4,105 @@
     {
       "original": "2019/2do Parcial/2019 UT VII - Fenómenos de Inducción Electromagnética.pdf",
       "sha256": "cbefa338a0f56f56079880a84f05a963257a6473febd8da50f944a67f2210a8f",
+      "nota": "notes/2019/teoria/autoinduccion-bobina-henrio-2019.md",
+      "paginas_revisadas": [
+        41,
+        42,
+        43,
+        44
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 8,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/autoinduccion-bobina-henrio-2019.md",
+      "estado": "pendiente render GitHub"
+    },
+    {
+      "original": "2019/2do Parcial/2019 UT VII - Fenómenos de Inducción Electromagnética.pdf",
+      "sha256": "cbefa338a0f56f56079880a84f05a963257a6473febd8da50f944a67f2210a8f",
+      "nota": "notes/2019/teoria/autoinducciones-serie-paralelo-2019.md",
+      "paginas_revisadas": [
+        45,
+        46,
+        47
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 7,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/autoinducciones-serie-paralelo-2019.md",
+      "estado": "pendiente render GitHub"
+    },
+    {
+      "original": "2019/2do Parcial/2019 UT VII - Fenómenos de Inducción Electromagnética.pdf",
+      "sha256": "cbefa338a0f56f56079880a84f05a963257a6473febd8da50f944a67f2210a8f",
+      "nota": "notes/2019/teoria/energia-bobina-densidad-magnetica-2019.md",
+      "paginas_revisadas": [
+        48,
+        49
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 7,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/energia-bobina-densidad-magnetica-2019.md",
+      "estado": "pendiente render GitHub"
+    },
+    {
+      "original": "2019/2do Parcial/2019 UT VII - Fenómenos de Inducción Electromagnética.pdf",
+      "sha256": "cbefa338a0f56f56079880a84f05a963257a6473febd8da50f944a67f2210a8f",
+      "nota": "notes/2019/teoria/corrientes-transitorias-circuito-lr-2019.md",
+      "paginas_revisadas": [
+        50,
+        51,
+        52,
+        53,
+        54
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 10,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/corrientes-transitorias-circuito-lr-2019.md",
+      "estado": "pendiente render GitHub"
+    },
+    {
+      "original": "2019/2do Parcial/2019 UT VII - Fenómenos de Inducción Electromagnética.pdf",
+      "sha256": "cbefa338a0f56f56079880a84f05a963257a6473febd8da50f944a67f2210a8f",
+      "nota": "notes/2019/teoria/induccion-mutua-bobinas-2019.md",
+      "paginas_revisadas": [
+        55,
+        56,
+        57,
+        58
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 8,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/induccion-mutua-bobinas-2019.md",
+      "estado": "pendiente render GitHub"
+    },
+    {
+      "original": "2019/2do Parcial/2019 UT VII - Fenómenos de Inducción Electromagnética.pdf",
+      "sha256": "cbefa338a0f56f56079880a84f05a963257a6473febd8da50f944a67f2210a8f",
+      "nota": "notes/2019/teoria/transformadores-transmision-energia-2019.md",
+      "paginas_revisadas": [
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 8,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/transformadores-transmision-energia-2019.md",
+      "estado": "pendiente render GitHub"
+    },
+    {
+      "original": "2019/2do Parcial/2019 UT VII - Fenómenos de Inducción Electromagnética.pdf",
+      "sha256": "cbefa338a0f56f56079880a84f05a963257a6473febd8da50f944a67f2210a8f",
       "nota": "notes/2019/teoria/campo-electrico-inducido-espira-2019.md",
       "paginas_revisadas": [
         31,
