@@ -4,6 +4,37 @@
     {
       "original": "2019/2do Parcial/2019 UT VII Electromagnetismo.pdf",
       "sha256": "eff3447774cadfcb2726a6caabbe8e257782276fce3e67dda465673d5ef67a6a",
+      "nota": "notes/2019/teoria/generador-alterna-fases-electromagnetismo-2019.md",
+      "paginas_revisadas": [
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 7,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/generador-alterna-fases-electromagnetismo-2019.md",
+      "estado": "pendiente render GitHub"
+    },
+    {
+      "original": "2019/2do Parcial/2019 UT VII Electromagnetismo.pdf",
+      "sha256": "eff3447774cadfcb2726a6caabbe8e257782276fce3e67dda465673d5ef67a6a",
+      "nota": "notes/2019/teoria/aplicaciones-induccion-interruptor-guitarra-2019.md",
+      "paginas_revisadas": [
+        25
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 0,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/aplicaciones-induccion-interruptor-guitarra-2019.md",
+      "estado": "pendiente render GitHub"
+    },
+    {
+      "original": "2019/2do Parcial/2019 UT VII Electromagnetismo.pdf",
+      "sha256": "eff3447774cadfcb2726a6caabbe8e257782276fce3e67dda465673d5ef67a6a",
       "nota": "notes/2019/teoria/flujo-magnetico-weber-electromagnetismo-2019.md",
       "paginas_revisadas": [
         10,
