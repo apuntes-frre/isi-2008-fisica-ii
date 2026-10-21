@@ -1685,3 +1685,12 @@ verificadas también por sus tablas.
 - ae470bf:31/31expresiones y16medios cargados;sin errores MathJax ni comandos
   residuales. CI39581248180aprobado. Registros por nota y fuente actualizados.
 - Total287notas/2920expresiones verificadas. Próximo126Polarización.
+
+## Checkpoint 101 — Polarización transcrita
+
+- Fuente126:26diapositivas completas, trece notas(12teoría/1práctica),
+  18expresiones y25medios (20PNG y5GIF incrustados). Ejemplo sin resolver.
+- Todas las diapositivas cotejadas con PDF yPoppler; deducción de la elipse
+  completa con raíz positiva original, Malus con notaciones divergentes señaladas.
+- Formato, lint, KaTeX y enlaces aprobados. Render de las trece notas pendiente.
+- Total300notas/2938expresiones. Próximo:verificar GitHub, luego128Termodinámica.
