@@ -1644,3 +1644,20 @@ verificadas también por sus tablas.
   residuales; imágenes cargadas y tablas6/32/6/4filas comprobadas.
 - Total269notas/2789expresiones. Continúa pendiente el resto del inventario.
 - Próximo:134Interferencias; caché persistente con conversión PPTX y PDF.
+
+## Checkpoint 97 — Interferencias transcrita, render pendiente
+
+- Fuente134 completa:42diapositivas,13notas (12teoría/1práctica),
+  102expresiones y32medios (30PNG y2GIF originales). Tres ejercicios sin resolver.
+- Comparación MarkItDown/Poppler y cotejo visual de todas las diapositivas;
+  las fórmulas WMF se transcribieron con las erratas originales señaladas.
+- Se incluyen las siete diapositivas posteriores al «Fin tema12», repetición
+  de películas con2nt y figuras de Michelson/Fresnel. Recorte de artículo12
+  transcrito hasta el texto legible; parte inferior truncada en la fuente.
+- Las dos animaciones están asociadas por descripción y relación XML;
+  sin texto adicional del presentador. OriginalSHAverificado en la copia.
+- Caché20261021-interferencias: normalizado/PPTX/PDF, directo/PDF,42renders,
+  texto.txt, extraido.md ynotas-paginas.json. El generador inicial requirió
+  reparaciones posteriores: NOvolveraejecutarlo sobre notas verificadas.
+- Total282notas/2891expresiones;269/2789ya verificadas,13/102pendientes GitHub.
+- Próximo: publicar/verificar lote134, luego135Interferencia/difracción.

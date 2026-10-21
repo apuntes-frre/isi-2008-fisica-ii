@@ -5278,6 +5278,204 @@
           "estado": "duplicado binario exacto; mismo contenido y paginación"
         }
       ]
+    },
+    {
+      "original": "2019/3er Parcial/UT XII - Interferencias.ppt",
+      "sha256": "1aedc0734c24e71c0cbae9ecc29b034fe9e22575940fc895559579ce1326b91e",
+      "nota": "notes/2019/teoria/interferencias-programa.md",
+      "paginas_revisadas": [
+        1
+      ],
+      "paginacion": "diapositivas del PPT original; PDF normalizado42páginas",
+      "math_esperada": 0,
+      "math_renderizada_github": null,
+      "url_github": null,
+      "estado": "pendiente verificar en GitHub"
+    },
+    {
+      "original": "2019/3er Parcial/UT XII - Interferencias.ppt",
+      "sha256": "1aedc0734c24e71c0cbae9ecc29b034fe9e22575940fc895559579ce1326b91e",
+      "nota": "notes/2019/teoria/interferencias-superposicion.md",
+      "paginas_revisadas": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "paginacion": "diapositivas del PPT original; PDF normalizado42páginas",
+      "math_esperada": 23,
+      "math_renderizada_github": null,
+      "url_github": null,
+      "estado": "pendiente verificar en GitHub"
+    },
+    {
+      "original": "2019/3er Parcial/UT XII - Interferencias.ppt",
+      "sha256": "1aedc0734c24e71c0cbae9ecc29b034fe9e22575940fc895559579ce1326b91e",
+      "nota": "notes/2019/teoria/interferencias-coherencia.md",
+      "paginas_revisadas": [
+        6,
+        7
+      ],
+      "paginacion": "diapositivas del PPT original; PDF normalizado42páginas",
+      "math_esperada": 2,
+      "math_renderizada_github": null,
+      "url_github": null,
+      "estado": "pendiente verificar en GitHub"
+    },
+    {
+      "original": "2019/3er Parcial/UT XII - Interferencias.ppt",
+      "sha256": "1aedc0734c24e71c0cbae9ecc29b034fe9e22575940fc895559579ce1326b91e",
+      "nota": "notes/2019/teoria/interferencias-montaje-calibracion.md",
+      "paginas_revisadas": [
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "paginacion": "diapositivas del PPT original; PDF normalizado42páginas",
+      "math_esperada": 0,
+      "math_renderizada_github": null,
+      "url_github": null,
+      "estado": "pendiente verificar en GitHub"
+    },
+    {
+      "original": "2019/3er Parcial/UT XII - Interferencias.ppt",
+      "sha256": "1aedc0734c24e71c0cbae9ecc29b034fe9e22575940fc895559579ce1326b91e",
+      "nota": "notes/2019/teoria/interferencias-young-geometria.md",
+      "paginas_revisadas": [
+        13,
+        14,
+        15,
+        16,
+        28
+      ],
+      "paginacion": "diapositivas del PPT original; PDF normalizado42páginas",
+      "math_esperada": 15,
+      "math_renderizada_github": null,
+      "url_github": null,
+      "estado": "pendiente verificar en GitHub"
+    },
+    {
+      "original": "2019/3er Parcial/UT XII - Interferencias.ppt",
+      "sha256": "1aedc0734c24e71c0cbae9ecc29b034fe9e22575940fc895559579ce1326b91e",
+      "nota": "notes/2019/teoria/interferencias-young-intensidad.md",
+      "paginas_revisadas": [
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "paginacion": "diapositivas del PPT original; PDF normalizado42páginas",
+      "math_esperada": 19,
+      "math_renderizada_github": null,
+      "url_github": null,
+      "estado": "pendiente verificar en GitHub"
+    },
+    {
+      "original": "2019/3er Parcial/UT XII - Interferencias.ppt",
+      "sha256": "1aedc0734c24e71c0cbae9ecc29b034fe9e22575940fc895559579ce1326b91e",
+      "nota": "notes/2019/practica/interferencias-young-problemas.md",
+      "paginas_revisadas": [
+        22,
+        23,
+        24
+      ],
+      "paginacion": "diapositivas del PPT original; PDF normalizado42páginas",
+      "math_esperada": 0,
+      "math_renderizada_github": null,
+      "url_github": null,
+      "estado": "pendiente verificar en GitHub"
+    },
+    {
+      "original": "2019/3er Parcial/UT XII - Interferencias.ppt",
+      "sha256": "1aedc0734c24e71c0cbae9ecc29b034fe9e22575940fc895559579ce1326b91e",
+      "nota": "notes/2019/teoria/interferencias-fasores-ranuras-multiples.md",
+      "paginas_revisadas": [
+        25,
+        26,
+        27
+      ],
+      "paginacion": "diapositivas del PPT original; PDF normalizado42páginas",
+      "math_esperada": 8,
+      "math_renderizada_github": null,
+      "url_github": null,
+      "estado": "pendiente verificar en GitHub"
+    },
+    {
+      "original": "2019/3er Parcial/UT XII - Interferencias.ppt",
+      "sha256": "1aedc0734c24e71c0cbae9ecc29b034fe9e22575940fc895559579ce1326b91e",
+      "nota": "notes/2019/teoria/interferencias-reflexion-lloyd.md",
+      "paginas_revisadas": [
+        29,
+        30,
+        31
+      ],
+      "paginacion": "diapositivas del PPT original; PDF normalizado42páginas",
+      "math_esperada": 4,
+      "math_renderizada_github": null,
+      "url_github": null,
+      "estado": "pendiente verificar en GitHub"
+    },
+    {
+      "original": "2019/3er Parcial/UT XII - Interferencias.ppt",
+      "sha256": "1aedc0734c24e71c0cbae9ecc29b034fe9e22575940fc895559579ce1326b91e",
+      "nota": "notes/2019/teoria/interferencias-peliculas-delgadas.md",
+      "paginas_revisadas": [
+        32,
+        33,
+        34,
+        35,
+        41
+      ],
+      "paginacion": "diapositivas del PPT original; PDF normalizado42páginas",
+      "math_esperada": 14,
+      "math_renderizada_github": null,
+      "url_github": null,
+      "estado": "pendiente verificar en GitHub"
+    },
+    {
+      "original": "2019/3er Parcial/UT XII - Interferencias.ppt",
+      "sha256": "1aedc0734c24e71c0cbae9ecc29b034fe9e22575940fc895559579ce1326b91e",
+      "nota": "notes/2019/teoria/interferencias-michelson.md",
+      "paginas_revisadas": [
+        36,
+        42
+      ],
+      "paginacion": "diapositivas del PPT original; PDF normalizado42páginas",
+      "math_esperada": 4,
+      "math_renderizada_github": null,
+      "url_github": null,
+      "estado": "pendiente verificar en GitHub"
+    },
+    {
+      "original": "2019/3er Parcial/UT XII - Interferencias.ppt",
+      "sha256": "1aedc0734c24e71c0cbae9ecc29b034fe9e22575940fc895559579ce1326b91e",
+      "nota": "notes/2019/teoria/interferencias-n-rendijas.md",
+      "paginas_revisadas": [
+        37,
+        38,
+        39
+      ],
+      "paginacion": "diapositivas del PPT original; PDF normalizado42páginas",
+      "math_esperada": 11,
+      "math_renderizada_github": null,
+      "url_github": null,
+      "estado": "pendiente verificar en GitHub"
+    },
+    {
+      "original": "2019/3er Parcial/UT XII - Interferencias.ppt",
+      "sha256": "1aedc0734c24e71c0cbae9ecc29b034fe9e22575940fc895559579ce1326b91e",
+      "nota": "notes/2019/teoria/interferencias-fresnel.md",
+      "paginas_revisadas": [
+        40
+      ],
+      "paginacion": "diapositivas del PPT original; PDF normalizado42páginas",
+      "math_esperada": 0,
+      "math_renderizada_github": null,
+      "url_github": null,
+      "estado": "pendiente verificar en GitHub"
     }
   ]
 }
