@@ -13,8 +13,8 @@
 
 ### Ultimo ingreso 31/10/2009
 
-Física con ordenador. Curso Interactivo de Física en Internet\*\*.\*\* Ángel
-Franco García
+Física con ordenador. Curso Interactivo de Física en Internet. Ángel Franco
+García
 
 <http://www.sc.ehu.es/sbweb/fisica/default.htm>
 

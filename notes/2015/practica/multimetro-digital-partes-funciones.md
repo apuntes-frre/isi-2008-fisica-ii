@@ -14,7 +14,9 @@
 
 MULTIMETRO
 
-DIGITAL Laboratorio Física II
+DIGITAL
+
+Laboratorio Física II
 
 ## Diapositiva 2
 
@@ -22,13 +24,16 @@ PARTES Y FUNCIONES DE UN MULTÍMETRO DIGITAL A continuación describiremos las
 partes y funciones de un multímetro , recuerde que generalmente los multímetros
 son semejantes, aunque dependiendo de los modelos, pueden cambiar la posición de
 sus partes y la cantidad de funciones, es por eso que cada parte tiene un
-símbolo estándar que identifica su función. Laboratorio Física II
+símbolo estándar que identifica su función.
+
+Laboratorio Física II
 
 ## Diapositiva 3
 
 Partes de un Multimetro Digital
 
 ![partes rotuladas](../../../resources/2015/multimetro-digital/partes-rotuladas.jpg)
+
 Laboratorio Física II
 
 ## Diapositiva 4
@@ -45,6 +50,7 @@ Llave selectora (Selector Rotativo) del tipo y rango de medición: Esta llave no
 sirve para seleccionar el tipo de magnitud a medir y el rango de la medición.
 
 ![selector rotativo](../../../resources/2015/multimetro-digital/selector-rotativo.jpg)
+
 Laboratorio Física II
 
 ## Diapositiva 6
@@ -55,6 +61,7 @@ diferentes tipos de posibles mediciones de magnitudes como el voltaje continuo y
 alterno, la corriente continua y alterna, la resistencia, etc.
 
 ![rangos medicion](../../../resources/2015/multimetro-digital/rangos-medicion.jpg)
+
 Laboratorio Física II
 
 ## Diapositiva 7
@@ -64,6 +71,7 @@ negro, mientras que el cable rojo se conecta al jack adecuado según la magnitud
 que se quiera medir.
 
 ![cables puntas](../../../resources/2015/multimetro-digital/cables-puntas.jpg)
+
 Laboratorio Física II
 
 ## Diapositiva 8
@@ -78,6 +86,7 @@ siguiente.
 ![borne com](../../../resources/2015/multimetro-digital/borne-com.jpg)
 
 ![borne voltaje ohm frecuencia](../../../resources/2015/multimetro-digital/borne-voltaje-ohm-frecuencia.jpg)
+
 Laboratorio Física II
 
 ## Diapositiva 9
@@ -91,6 +100,7 @@ Borne de conexión o jack para el cable rojo con punta para medición de amperes
 ![borne miliamperes](../../../resources/2015/multimetro-digital/borne-miliamperes.jpg)
 
 ![borne amperes](../../../resources/2015/multimetro-digital/borne-amperes.jpg)
+
 Laboratorio Física II
 
 ## Diapositiva 10
@@ -99,6 +109,7 @@ A continuación vemos la forma en que se conectan los cables al multímetro.
 Medición de Tensión (V), Resistencia (Ω) y Frecuencia (f)
 
 ![conexion voltaje resistencia frecuencia](../../../resources/2015/multimetro-digital/conexion-voltaje-resistencia-frecuencia.jpg)
+
 Laboratorio Física II
 
 ## Diapositiva 11
@@ -106,6 +117,7 @@ Laboratorio Física II
 Conexión para medir corriente en la unidad de mili Amper (mA)
 
 ![conexion miliamperes](../../../resources/2015/multimetro-digital/conexion-miliamperes.jpg)
+
 Laboratorio Física II
 
 ## Diapositiva 12
@@ -122,7 +134,9 @@ resistencia medida.
 
 **Tengamos en cuenta que para utilizar el multímetro en esta escala, el
 componente a medir no debe recibir corriente del circuito al cual pertenece y
-debe encontrarse desconectado.** Laboratorio Física II
+debe encontrarse desconectado.**
+
+Laboratorio Física II
 
 ## Diapositiva 13
 
@@ -133,13 +147,16 @@ proporcionada por el resistor, si no lo sabemos, escogemos el rango más alto y
 lo disminuimos poco a poco hasta llegar a un cantidad diferente de uno (el uno
 indica que el rango es muy pequeño para medir esa resistencia) , tocamos los
 extremos del resistor con las puntas roja y negra y finalmente multiplicamos la
-cantidad por el valor del rango. Laboratorio Física II
+cantidad por el valor del rango.
+
+Laboratorio Física II
 
 ## Diapositiva 14
 
 Medición de una resistencia
 
 ![medicion resistencia](../../../resources/2015/multimetro-digital/medicion-resistencia.jpg)
+
 Laboratorio Física II
 
 ## Diapositiva 15
@@ -154,13 +171,16 @@ conductores, podemos elegir una escala con un máximo más pequeño, luego de
 arrancar con un rango más elevado y así tener una lectura aproximada. Siempre
 hay que empezar por un rango alto, para ir bajando y así obtener mayor
 precisión. Cuando el valor a medir supere el máximo elegido, indicará “1”en el
-lado izquierdo del Display. Laboratorio Física II
+lado izquierdo del Display.
+
+Laboratorio Física II
 
 ## Diapositiva 16
 
 Medición de tensión de una fuente de alimentación
 
 ![medicion fuente tension](../../../resources/2015/multimetro-digital/medicion-fuente-tension.jpg)
+
 Laboratorio Física II
 
 ## Diapositiva 17
@@ -171,6 +191,7 @@ tanto toda la corriente a medir se conducirá por su interior, con el riesgo de
 quemarlo.**
 
 ![medicion corriente](../../../resources/2015/multimetro-digital/medicion-corriente.jpg)
+
 Laboratorio Física II
 
 ## Diapositiva 18
@@ -186,7 +207,9 @@ controlar y la rapidez con la cual registre el valor a igual que su precisión
 dependerá de la calidad de cada multímetro y termocupla en cuestión. Algunos
 multímetros también agregan otro zócalo para la prueba de transistores, indicado
 como hFE. Esto determina el estado de la base y el emisor de dicho
-semiconductor. Laboratorio Física II
+semiconductor.
+
+Laboratorio Física II
 
 ## Diapositiva 19
 
@@ -197,4 +220,5 @@ Multímetros utilizados en el Laboratorio de Física II
 ![multimetro amarillo](../../../resources/2015/multimetro-digital/multimetro-amarillo.jpg)
 
 ![multimetro ut20b](../../../resources/2015/multimetro-digital/multimetro-ut20b.jpg)
+
 Laboratorio Física II

@@ -77,6 +77,10 @@ La transcripción está activa. La materia sigue incompleta.
    crops pregunta01..16, figuras y script de autoría. No regenerar notas.
 5. Continuar137(planificación31p) y143(parcial2,39p); después checklist.
    No detener trabajo documental por la falta de navegador.
+   Fuente137: copia y Poppler persistentes en caché20261021-planificacion-2019;
+   PyMuPDF4LLM completo, Markdown+imágenes enpymupdf/planificacion-2019/.
+   Extrae horarios con filas agrupadas y encabezados gráficos: comparar con
+   Poppler y PDF; evaluar Docling antes de autoría. Aún NO cotejada ni transcrita.
 
 Fuente76 también transcrita: notes/2015/teoria/direcciones-utiles-internet-simulaciones.md.
 DOCnormalizado3p completas, enlaces históricos, fecha31/10/2009. Sin medios/math;
@@ -86,6 +90,9 @@ Fuente67 también transcrita: notes/2015/practica/multimetro-digital-partes-func
 19diapositivas/17figuras; sin expresionesmath; render GitHub pendiente.
 Caché20261021-multimetro: originalesnormalizados,extracción,cotejos4porhoja.
 MarkItDown rechazaPPSX; usar conversión realLOaPPTX, no solo renombrar extensión.
+
+CI aprobados:0718d0b(39640720312),694f299(39641465591),a624ce8(39642051189).
+Publicados además6806d7f(enlaces) y3ed1729(multímetro); CI aprobados6806d7f(39642624711) y3ed1729(39643203257).
 
 ### Totales después de reanudar
 
@@ -112,7 +119,7 @@ Los totales anteriores describen el checkpoint8511554.
   revisar todas las hojas y registrar correspondencias.122 y131 cerradas.
 - [ ] 61–65: informes2015 de Capacidad,Kirchhoff,Brújula,fuerza sobre corriente,
   incluidas versiones a corregir/aprobadas.
-- [ ] 67: multímetroPPSX.
+- [ ] 67: multímetroPPSX completo19diapositivas/17figuras; solo render GitHub pendiente.
 - [ ] 68: planificación2016,25páginas.
 - [ ] 70: Biot-Sabat de Anibal Kaseros,62páginas.
 - [ ] 71: Resumen-Fisca-2,80páginas.
@@ -1826,3 +1833,16 @@ verificadas también por sus tablas.
 - Fuente138 cerrada:fc150ad,16expresiones,siete pasos,tachadura y tres enlaces,
   CI39585995105aprobado. Fuentes139/140 cotejadas pero aún sin transcribir.
 - El bloque vigente superior contiene la recuperación exacta y el checklist.
+
+## Checkpoint 111: continuación tras reset
+
+- 0718d0b: primeras entregas Arduino139/140, dos notas,10math y13medios.
+- 694f299: final142,16preguntas,19math y9figuras.
+- a624ce8: final141,20preguntas,23math y13figuras, incluida tabla original anillo.
+- 6806d7f: enlaces76,una nota,3pnormalizadas,sin math o medios.
+- 3ed1729: multímetro67,una nota,19diapositivas y17medios.
+- Todos esos commits conCIaprobado. Seis notas nuevas/52math/52medios.
+- Render GitHub de las seis sigue pendiente por falta de navegador CUA.
+- Inventario actualizado a copias persistentes, PR2 sigue borrador.
+- PR abiertos enapuntes-frre: FísicaII#2 y.github#13(correlativas); ninguna otra materia.
+- 137: extracción persistente preparada; no cotejo total todavía.
