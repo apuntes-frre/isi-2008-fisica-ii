@@ -144,7 +144,7 @@ originales de las normalizadas y registra conteos matemáticos.
   SHA-256: `a3fbcbd2a058fabe49a11845b069458b60cb348b3497ce7097a46a131603a856`.
 - `2019/3er Parcial/2017 UT XIV - Polarización (1).pptx`:26diapositivas
   completas transcritas en trece notas,20PNG y5GIF originales; ejemplo sin
-  resolver yerratas conservadas. Render GitHub pendiente. SHA-256:
+  resolver yerratas conservadas. Render GitHub verificado en03acf0b. SHA-256:
   `cdbb4a10bd2ae311654780d7928425abe5fad492cc8b8600f298f0a7ace6fc4f`.
 - `2019/3er Parcial/2018 UT XI - Fotometria.pdf`: 32 páginas completas
   transcritas en once notas,19figuras y tablas de32,6,6y4filas. Se conservan

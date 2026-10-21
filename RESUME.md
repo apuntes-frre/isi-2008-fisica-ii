@@ -26,11 +26,11 @@ restableció y autorizó continuar. La materia sigue incompleta.
 
 ### Todo lo transcrito y comprobado
 
-- Total: **287 notas**, **2920 expresiones**. Las 287 tienen URL de evidencia
+- Total: **300 notas**, **2938 expresiones**. Las 300 tienen URL de evidencia
   y conteo MathJax igual al esperado en `resources/common/cobertura.json`.
-- Distribución: 171 teoría y116práctica;113notas bajo2015 y174bajo2019.
-- En main: 218 notas / 2427 expresiones. En la continuación: 69 notas nuevas /
-  493 expresiones y131medios originales (128imágenes y3GIF) (hay dos referencias reiteradas).
+- Distribución: 183teoría y117práctica;113notas bajo2015 y187bajo2019.
+- En main: 218 notas / 2427 expresiones. En la continuación: 82notas nuevas /
+  511expresiones y156medios originales (148imágenes y8GIF) (hay dos referencias reiteradas).
 - Fuente123: `2019/3er Parcial/2017 UT IX Corriente Alterna.pdf`, 34 páginas
   completas; fecha impresa13/06/2018. Trece notas,101expresiones,23figuras.
   Evidencia GitHub `b1a7e73`; sin errores y todas las figuras cargadas.
@@ -82,11 +82,11 @@ restableció y autorizó continuar. La materia sigue incompleta.
 
 1. Leer este bloque, AGENTS.md y la skill local document-to-markdown antes de
    convertir; inspeccionar `git status`, rama, remoto y estado de PR #2.
-2. Continuar **fuente126**, Polarización PPTX2017 archivado bajo2019.
-   Caché20261021-polarizacion: preflight, extracción MarkItDown y PDF LibreOffice.
-   Revisar todas las diapositivas antes de declarar completa la fuente.
-3. Luego128introducción termodinámica60p.,129principios termodinámica36p.
-   Fuentes123–125,127,130–132y134–135cubiertas.
+2. Continuar **fuente128**, Introducción a la Termodinámica2018,60páginas.
+   Caché20261021-termodinamica-introduccion: preflight, originalSHAverificado,
+   extracción PyMuPDF4LLM yPoppler. Cotejar todas las páginas.
+3. Luego129Principios de la Termodinámica36páginas.
+   Fuentes123–127,130–132y134–135cubiertas.
 4. Quedan136hoja de fórmulas,137planificación,138–140calorimetría/Arduino,
    141–143exámenes2020; excluir datos personales de estudiantes al publicar.
 5. Fuentes117–121: imposiciones pendientes. De117 solo se cotejaron
@@ -1694,3 +1694,10 @@ verificadas también por sus tablas.
   completa con raíz positiva original, Malus con notaciones divergentes señaladas.
 - Formato, lint, KaTeX y enlaces aprobados. Render de las trece notas pendiente.
 - Total300notas/2938expresiones. Próximo:verificar GitHub, luego128Termodinámica.
+
+## Checkpoint 102 — Polarización verificada
+
+- 03acf0b:18/18expresiones y25medios cargados; cero errores MathJax ni comandos
+  residuales. Todas las13notas revisadas en GitHub.
+- Total300notas/2938expresiones verificadas; la materia sigue incompleta.
+- Próximo128Introducción a Termodinámica,60páginas, caché persistente nueva.

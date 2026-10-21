@@ -3525,8 +3525,8 @@
       "paginas_pdf": null,
       "duplicado_sha256_de": null,
       "clasificacion": "material docente de Física II: Polarización",
-      "evidencia": "26diapositivas completas cotejadas;13notas (12teoría y1práctica),20PNG y5GIF incrustados. Deducciones lineal/circular/elíptica completas, absorción,Malus,Brewster,dispersión,birrefringencia yactividad óptica. Ejemplo sin solución, raíz positiva ynotaciones originales conservadas; sin notas del presentador.",
-      "estado": "transcrito; pendiente verificar render en GitHub",
+      "evidencia": "26diapositivas completas cotejadas;13notas (12teoría y1práctica),20PNG y5GIF incrustados. Deducciones lineal/circular/elíptica completas, absorción,Malus,Brewster,dispersión,birrefringencia yactividad óptica. Ejemplo sin solución, raíz positiva ynotaciones originales conservadas; sin notas del presentador. GitHub03acf0b:18/18expresiones,25medios cargados,sin errores ni comandos residuales.",
+      "estado": "transcrito y verificado en GitHub",
       "paginas_revisadas": [
         1,
         2,
