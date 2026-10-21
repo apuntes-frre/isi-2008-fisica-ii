@@ -1738,3 +1738,14 @@ verificadas también por sus tablas.
   Sin errores MathJax ni comandos residuales. CI39584059603aprobado.
 - Total330notas/3063expresiones verificadas. PR2sigue en borrador.
 - Próximo136Hoja de Fórmulas2019:dos páginas cotejadas, sin transcripción aún.
+
+## Checkpoint 107 — Hoja de Fórmulas2019 transcrita
+
+- Fuente136:dos páginas completas,dosnotas,89expresiones ycuatro diagramas.
+  Grillas originales16y18filas,celdas yfilas vacías,instrucciones de calculadora
+  ynotaciones ambiguas conservadas. Losdiagramas fueron cotejados tras recorte.
+- Total332notas/3152expresiones; dos notas pendientes GitHub.
+- Caché20261021-formulas-2019 conoriginalSHAverificado,Poppler,dosrenders
+  ynotas-paginas.json. No rerun delgenerador:recorte fuentes-derecha reparado.
+- Próximo:verificar grillas enGitHub yseguir137planificación,138–140Arduino,
+  exámenes2020 yrestantes del inventario.

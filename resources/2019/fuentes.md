@@ -191,7 +191,9 @@ originales de las normalizadas y registra conteos matemáticos.
   diapositivas posteriores al cierre, sin ejercicios. Render GitHub verificado
   enae470bf. SHA-256:
   `12c4947f897a58508ce3794255b164f41d4356b0bb4bbad0e9d8314ef6eaf137`.
-- `2019/Hoja de Fórmulas 2019.pdf`: 2 páginas; pendiente. SHA-256:
+- `2019/Hoja de Fórmulas 2019.pdf`:dos páginas completas transcritas en dos
+  notas, grillas16y18filas, cuatro diagramas ycasilleros vacíos conservados.
+  Render GitHub pendiente. SHA-256:
   `08334993bbf390cc9959ca35446c5c1de7274de09029385c6801a5188d306499`.
 - `2019/Planificación 2019_e86a2f40b7c92c86772a2b980a78a58f.pdf`: 31 páginas;
   pendiente. SHA-256:

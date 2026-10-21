@@ -6194,6 +6194,32 @@
       "math_renderizada_github": 0,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/bf59b38/notes/2019/teoria/termodinamica-cierre-curso-2018.md",
       "estado": "verificado en GitHub"
+    },
+    {
+      "original": "2019/Hoja de Fórmulas 2019.pdf",
+      "sha256": "08334993bbf390cc9959ca35446c5c1de7274de09029385c6801a5188d306499",
+      "nota": "notes/2019/teoria/hoja-formulas-2019-parte-1.md",
+      "paginas_revisadas": [
+        1
+      ],
+      "paginacion": "PDF original2páginas",
+      "math_esperada": 29,
+      "math_renderizada_github": null,
+      "url_github": null,
+      "estado": "pendiente verificar en GitHub"
+    },
+    {
+      "original": "2019/Hoja de Fórmulas 2019.pdf",
+      "sha256": "08334993bbf390cc9959ca35446c5c1de7274de09029385c6801a5188d306499",
+      "nota": "notes/2019/teoria/hoja-formulas-2019-parte-2.md",
+      "paginas_revisadas": [
+        2
+      ],
+      "paginacion": "PDF original2páginas",
+      "math_esperada": 60,
+      "math_renderizada_github": null,
+      "url_github": null,
+      "estado": "pendiente verificar en GitHub"
     }
   ]
 }
