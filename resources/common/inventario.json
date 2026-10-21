@@ -3612,8 +3612,8 @@
       "paginas_pdf": 60,
       "duplicado_sha256_de": null,
       "clasificacion": "material docente de Física II: Introducción a la Termodinámica",
-      "evidencia": "60páginas completas cotejadas;17notas (14teoría/3práctica),24figuras originales. Tablas termómetros6filas,variables3filas,procesos4filas,dilatación4filas de6columnas,calor específico8filas ycalor latente11filas. Preguntas ycuatroproblemas sin resolver, ejemplo final resueltoA–E conservado. Se mantienen erratas, signos, unidades, diferencias273/273.15 yvalores originaleshierro/cobre.",
-      "estado": "transcrito; pendiente verificar render en GitHub",
+      "evidencia": "60páginas completas cotejadas;17notas (14teoría/3práctica),24figuras originales. Tablas termómetros6filas,variables3filas,procesos4filas,dilatación4filas de6columnas,calor específico8filas ycalor latente11filas. Preguntas ycuatroproblemas sin resolver, ejemplo final resueltoA–E conservado. Se mantienen erratas, signos, unidades, diferencias273/273.15 yvalores originaleshierro/cobre. GitHub190f6d6:91/91expresiones,24figuras cargadas, seis tablas3/4/6/4/8/11filas,sin errores ni comandos residuales. CI39583115054aprobado.",
+      "estado": "transcrito y verificado en GitHub",
       "paginas_revisadas": [
         1,
         2,

@@ -26,11 +26,11 @@ restableció y autorizó continuar. La materia sigue incompleta.
 
 ### Todo lo transcrito y comprobado
 
-- Total: **300 notas**, **2938 expresiones**. Las 300 tienen URL de evidencia
+- Total: **317 notas**, **3029 expresiones**. Las 317 tienen URL de evidencia
   y conteo MathJax igual al esperado en `resources/common/cobertura.json`.
-- Distribución: 183teoría y117práctica;113notas bajo2015 y187bajo2019.
-- En main: 218 notas / 2427 expresiones. En la continuación: 82notas nuevas /
-  511expresiones y156medios originales (148imágenes y8GIF) (hay dos referencias reiteradas).
+- Distribución: 197teoría y120práctica;113notas bajo2015 y204bajo2019.
+- En main: 218 notas / 2427 expresiones. En la continuación: 99notas nuevas /
+  602expresiones y180medios originales (172imágenes y8GIF) (hay dos referencias reiteradas).
 - Fuente123: `2019/3er Parcial/2017 UT IX Corriente Alterna.pdf`, 34 páginas
   completas; fecha impresa13/06/2018. Trece notas,101expresiones,23figuras.
   Evidencia GitHub `b1a7e73`; sin errores y todas las figuras cargadas.
@@ -82,11 +82,10 @@ restableció y autorizó continuar. La materia sigue incompleta.
 
 1. Leer este bloque, AGENTS.md y la skill local document-to-markdown antes de
    convertir; inspeccionar `git status`, rama, remoto y estado de PR #2.
-2. Continuar **fuente128**, Introducción a la Termodinámica2018,60páginas.
-   Caché20261021-termodinamica-introduccion: preflight, originalSHAverificado,
-   extracción PyMuPDF4LLM yPoppler. Cotejar todas las páginas.
-3. Luego129Principios de la Termodinámica36páginas.
-   Fuentes123–127,130–132y134–135cubiertas.
+2. Continuar **fuente129**, Principios de la Termodinámica2018,36páginas.
+   Caché20261021-termodinamica-principios: preflight, originalSHAverificado,
+   extracción PyMuPDF4LLM yPoppler,36renders. Cotejadas1–21; restan22–36.
+3. Fuentes123–128,130–132y134–135cubiertas; todavía no declarar completa la materia.
 4. Quedan136hoja de fórmulas,137planificación,138–140calorimetría/Arduino,
    141–143exámenes2020; excluir datos personales de estudiantes al publicar.
 5. Fuentes117–121: imposiciones pendientes. De117 solo se cotejaron
@@ -1714,3 +1713,10 @@ verificadas también por sus tablas.
   reparar formato:reparar.py conserva las últimas reparaciones.
 - Total317notas/3029expresiones;17nuevas pendientes de GitHub.
 - Próximo:verificar render de128 yseguir129Principios de Termodinámica36páginas.
+
+## Checkpoint 104 — Introducción a Termodinámica verificada
+
+- 190f6d6:91/91expresiones,24figuras cargadas yseis tablas3/4/6/4/8/11filas.
+  Sin errores MathJax ni comandos residuales. CI39583115054aprobado.
+- Total317notas/3029expresiones verificadas. PR2sigue en borrador.
+- Próximo129Principios:36páginas,1–21cotejadas visualmente;22–36pendientes.
