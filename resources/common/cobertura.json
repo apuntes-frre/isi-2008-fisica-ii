@@ -5491,9 +5491,9 @@
       ],
       "paginacion": "diapositivas del PPT original; PDF normalizado20páginas",
       "math_esperada": 0,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "pendiente verificar en GitHub"
+      "math_renderizada_github": 0,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/ae470bf/notes/2019/teoria/difraccion-introduccion-huygens.md",
+      "estado": "verificado en GitHub"
     },
     {
       "original": "2019/3er Parcial/UT XIII - Interferencia y Difraccion 290616.ppt",
@@ -5506,9 +5506,9 @@
       ],
       "paginacion": "diapositivas del PPT original; PDF normalizado20páginas",
       "math_esperada": 0,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "pendiente verificar en GitHub"
+      "math_renderizada_github": 0,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/ae470bf/notes/2019/teoria/difraccion-fresnel-fraunhofer.md",
+      "estado": "verificado en GitHub"
     },
     {
       "original": "2019/3er Parcial/UT XIII - Interferencia y Difraccion 290616.ppt",
@@ -5522,9 +5522,9 @@
       ],
       "paginacion": "diapositivas del PPT original; PDF normalizado20páginas",
       "math_esperada": 16,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "pendiente verificar en GitHub"
+      "math_renderizada_github": 16,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/ae470bf/notes/2019/teoria/difraccion-rendija-amplitud-intensidad.md",
+      "estado": "verificado en GitHub"
     },
     {
       "original": "2019/3er Parcial/UT XIII - Interferencia y Difraccion 290616.ppt",
@@ -5540,9 +5540,9 @@
       ],
       "paginacion": "diapositivas del PPT original; PDF normalizado20páginas",
       "math_esperada": 12,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "pendiente verificar en GitHub"
+      "math_renderizada_github": 12,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/ae470bf/notes/2019/teoria/difraccion-interferencia-doble-rendija.md",
+      "estado": "verificado en GitHub"
     },
     {
       "original": "2019/3er Parcial/UT XIII - Interferencia y Difraccion 290616.ppt",
@@ -5553,9 +5553,9 @@
       ],
       "paginacion": "diapositivas del PPT original; PDF normalizado20páginas",
       "math_esperada": 3,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "pendiente verificar en GitHub"
+      "math_renderizada_github": 3,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/ae470bf/notes/2019/teoria/difraccion-n-rendijas.md",
+      "estado": "verificado en GitHub"
     }
   ]
 }

@@ -3861,8 +3861,8 @@
       "paginas_pdf": null,
       "duplicado_sha256_de": null,
       "clasificacion": "material docente de Física II: Difracción",
-      "evidencia": "20diapositivas completas cotejadas, incluidas19y20posteriores al cierre18; cinco notas,15PNG y1GIF incrustado. Fórmulas, diagramas y rótulos conservados; sen/sin y disposición originalsen N(phi/2), sin notas del presentador.",
-      "estado": "transcrito; pendiente verificar render en GitHub",
+      "evidencia": "20diapositivas completas cotejadas, incluidas19y20posteriores al cierre18; cinco notas,15PNG y1GIF incrustado. Fórmulas, diagramas y rótulos conservados; sen/sin y disposición originalsen N(phi/2), sin notas del presentador. GitHubae470bf:31/31expresiones,16medios cargados,sin errores ni comandos residuales. CI39581248180aprobado.",
+      "estado": "transcrito y verificado en GitHub",
       "paginas_revisadas": [
         1,
         2,
