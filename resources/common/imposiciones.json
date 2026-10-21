@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "documentos": [
+    {
+      "original": "2019/2do Parcial/UT 8 6 pag.pdf",
+      "sha256": "d2d2d0f25fb3fdf3e79399ff0127bd753745d6368a9511122ae7f7076e1f09b2",
+      "referencia": "2019/2do Parcial/2019 UT VIII - Magnetismo en Medios materiales.pdf",
+      "sha256_referencia": "5d97f163bf24ba9b9d9317dbe7faec1a00e5fab87621e3849d37756083e8f919",
+      "metodo": "Cotejo visual de todas las diapositivas, con PDF rotado -90 grados para lectura. Identidad de contenido; no identidad binaria ni de render.",
+      "paginas": [
+        {
+          "pagina_pdf": 1,
+          "diapositivas_referencia": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "casilleros_vacios": 0
+        },
+        {
+          "pagina_pdf": 2,
+          "diapositivas_referencia": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ],
+          "casilleros_vacios": 0
+        },
+        {
+          "pagina_pdf": 3,
+          "diapositivas_referencia": [
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ],
+          "casilleros_vacios": 0
+        },
+        {
+          "pagina_pdf": 4,
+          "diapositivas_referencia": [
+            19,
+            20,
+            21
+          ],
+          "casilleros_vacios": 3
+        }
+      ]
+    }
+  ]
+}

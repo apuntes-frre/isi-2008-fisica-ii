@@ -1,0 +1,4029 @@
+{
+  "alcance": "Parcial; no declara completa Física II. El cuadernillo de laboratorios 7 y 8 se conserva en dos notas por sus páginas 1-7 y 8-13.",
+  "documentos": [
+    {
+      "original": "2019/2do Parcial/Laboratorios/Fza Magnetica sobre elementos de corriente.pdf",
+      "sha256": "774d656816c33c843a4066a34a82d7e25b1562a37a5921a0ec38e35dd7792bb6",
+      "nota": "notes/2019/practica/fuerza-magnetica-elementos-corriente-informe.md",
+      "paginas_revisadas": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 15,
+      "math_renderizada_github": 15,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/145e295/notes/2019/practica/fuerza-magnetica-elementos-corriente-informe.md",
+      "estado": "verificado en GitHub",
+      "fuentes_adicionales": [
+        {
+          "original": "2019/2do Parcial/Laboratorios/Fza Magnetica sobre elementos de corriente_apto_busquedas.pdf",
+          "sha256": "b7c6ad28eccedebbac43e01c2fefa96d20763c7b06bd705559aee0a27cef5a2a",
+          "paginas_revisadas": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "estado": "revisión completa:derivación OCR deteriorada; referencia legible transcrita en fuente115"
+        }
+      ]
+    },
+    {
+      "original": "2019/2do Parcial/Laboratorios/Campo de Induccion Magnetica (1).pdf",
+      "sha256": "fe381f45db3f41d4505d241c796b942090c3f8d12582b62bd52d56c26c34aa68",
+      "nota": "notes/2019/practica/campo-induccion-magnetica-informe.md",
+      "paginas_revisadas": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 20,
+      "math_renderizada_github": 20,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/e0fcf82/notes/2019/practica/campo-induccion-magnetica-informe.md",
+      "estado": "verificado en GitHub",
+      "fuentes_adicionales": [
+        {
+          "original": "2019/2do Parcial/Laboratorios/Campo de Induccion Magnetica.pdf",
+          "sha256": "fe381f45db3f41d4505d241c796b942090c3f8d12582b62bd52d56c26c34aa68",
+          "estado": "duplicado binario exacto; no agrega revisión manual"
+        },
+        {
+          "original": "2019/2do Parcial/Laboratorios/Campo de Induccion Magnetica_apto_busqueda.pdf",
+          "sha256": "efd60fb6f541ddde38129ccd1ea38c4fa50d9885b4325e2fa77f1e5b64b3e236",
+          "paginas_revisadas": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "estado": "revisión completa:derivación OCR deteriorada; referencia legible transcrita en fuente112"
+        }
+      ]
+    },
+    {
+      "original": "2019/2do Parcial/2019 UT VIII - Magnetismo en Medios materiales.pdf",
+      "sha256": "5d97f163bf24ba9b9d9317dbe7faec1a00e5fab87621e3849d37756083e8f919",
+      "nota": "notes/2019/teoria/magnetizacion-dipolos-corrientes-superficiales-2019.md",
+      "paginas_revisadas": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 9,
+      "math_renderizada_github": 9,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/23d8a37/notes/2019/teoria/magnetizacion-dipolos-corrientes-superficiales-2019.md",
+      "estado": "verificado en GitHub",
+      "fuentes_adicionales": [
+        {
+          "original": "2019/2do Parcial/UT 8 6 pag.pdf",
+          "sha256": "d2d2d0f25fb3fdf3e79399ff0127bd753745d6368a9511122ae7f7076e1f09b2",
+          "paginas_revisadas": [
+            1
+          ],
+          "estado": "cotejo visual de impresión seis diapositivas por página; correspondencia en imposiciones.json"
+        }
+      ]
+    },
+    {
+      "original": "2019/2do Parcial/2019 UT VIII - Magnetismo en Medios materiales.pdf",
+      "sha256": "5d97f163bf24ba9b9d9317dbe7faec1a00e5fab87621e3849d37756083e8f919",
+      "nota": "notes/2019/teoria/intensidad-magnetica-permeabilidad-susceptibilidad-2019.md",
+      "paginas_revisadas": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 17,
+      "math_renderizada_github": 17,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/23d8a37/notes/2019/teoria/intensidad-magnetica-permeabilidad-susceptibilidad-2019.md",
+      "estado": "verificado en GitHub",
+      "fuentes_adicionales": [
+        {
+          "original": "2019/2do Parcial/UT 8 6 pag.pdf",
+          "sha256": "d2d2d0f25fb3fdf3e79399ff0127bd753745d6368a9511122ae7f7076e1f09b2",
+          "paginas_revisadas": [
+            2
+          ],
+          "estado": "cotejo visual de impresión seis diapositivas por página; correspondencia en imposiciones.json"
+        }
+      ]
+    },
+    {
+      "original": "2019/2do Parcial/2019 UT VIII - Magnetismo en Medios materiales.pdf",
+      "sha256": "5d97f163bf24ba9b9d9317dbe7faec1a00e5fab87621e3849d37756083e8f919",
+      "nota": "notes/2019/teoria/materiales-magneticos-paramagnetismo-curie-2019.md",
+      "paginas_revisadas": [
+        12,
+        13,
+        14,
+        15
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 6,
+      "math_renderizada_github": 6,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/23d8a37/notes/2019/teoria/materiales-magneticos-paramagnetismo-curie-2019.md",
+      "estado": "verificado en GitHub",
+      "fuentes_adicionales": [
+        {
+          "original": "2019/2do Parcial/UT 8 6 pag.pdf",
+          "sha256": "d2d2d0f25fb3fdf3e79399ff0127bd753745d6368a9511122ae7f7076e1f09b2",
+          "paginas_revisadas": [
+            2,
+            3
+          ],
+          "estado": "cotejo visual de impresión seis diapositivas por página; correspondencia en imposiciones.json"
+        }
+      ]
+    },
+    {
+      "original": "2019/2do Parcial/2019 UT VIII - Magnetismo en Medios materiales.pdf",
+      "sha256": "5d97f163bf24ba9b9d9317dbe7faec1a00e5fab87621e3849d37756083e8f919",
+      "nota": "notes/2019/teoria/diamagnetismo-modelo-clasico-2019.md",
+      "paginas_revisadas": [
+        16,
+        17
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 1,
+      "math_renderizada_github": 1,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/23d8a37/notes/2019/teoria/diamagnetismo-modelo-clasico-2019.md",
+      "estado": "verificado en GitHub",
+      "fuentes_adicionales": [
+        {
+          "original": "2019/2do Parcial/UT 8 6 pag.pdf",
+          "sha256": "d2d2d0f25fb3fdf3e79399ff0127bd753745d6368a9511122ae7f7076e1f09b2",
+          "paginas_revisadas": [
+            3
+          ],
+          "estado": "cotejo visual de impresión seis diapositivas por página; correspondencia en imposiciones.json"
+        }
+      ]
+    },
+    {
+      "original": "2019/2do Parcial/2019 UT VIII - Magnetismo en Medios materiales.pdf",
+      "sha256": "5d97f163bf24ba9b9d9317dbe7faec1a00e5fab87621e3849d37756083e8f919",
+      "nota": "notes/2019/teoria/ferromagnetismo-dominios-histeresis-2019.md",
+      "paginas_revisadas": [
+        18,
+        19,
+        20,
+        21
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 1,
+      "math_renderizada_github": 1,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/23d8a37/notes/2019/teoria/ferromagnetismo-dominios-histeresis-2019.md",
+      "estado": "verificado en GitHub",
+      "fuentes_adicionales": [
+        {
+          "original": "2019/2do Parcial/UT 8 6 pag.pdf",
+          "sha256": "d2d2d0f25fb3fdf3e79399ff0127bd753745d6368a9511122ae7f7076e1f09b2",
+          "paginas_revisadas": [
+            3,
+            4
+          ],
+          "estado": "cotejo visual de impresión seis diapositivas por página; correspondencia en imposiciones.json"
+        }
+      ]
+    },
+    {
+      "original": "2019/2do Parcial/2019 UT VII Electromagnetismo.pdf",
+      "sha256": "eff3447774cadfcb2726a6caabbe8e257782276fce3e67dda465673d5ef67a6a",
+      "nota": "notes/2019/teoria/inductancias-serie-paralelo-electromagnetismo-2019.md",
+      "paginas_revisadas": [
+        41,
+        42,
+        43
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 7,
+      "math_renderizada_github": 7,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/c9c7e11/notes/2019/teoria/inductancias-serie-paralelo-electromagnetismo-2019.md",
+      "estado": "verificado en GitHub"
+    },
+    {
+      "original": "2019/2do Parcial/2019 UT VII Electromagnetismo.pdf",
+      "sha256": "eff3447774cadfcb2726a6caabbe8e257782276fce3e67dda465673d5ef67a6a",
+      "nota": "notes/2019/teoria/energia-bobina-densidad-electromagnetismo-2019.md",
+      "paginas_revisadas": [
+        44,
+        45
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 8,
+      "math_renderizada_github": 8,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/c9c7e11/notes/2019/teoria/energia-bobina-densidad-electromagnetismo-2019.md",
+      "estado": "verificado en GitHub"
+    },
+    {
+      "original": "2019/2do Parcial/2019 UT VII Electromagnetismo.pdf",
+      "sha256": "eff3447774cadfcb2726a6caabbe8e257782276fce3e67dda465673d5ef67a6a",
+      "nota": "notes/2019/teoria/corrientes-transitorias-lr-electromagnetismo-2019.md",
+      "paginas_revisadas": [
+        46,
+        47,
+        48,
+        49
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 12,
+      "math_renderizada_github": 12,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/c9c7e11/notes/2019/teoria/corrientes-transitorias-lr-electromagnetismo-2019.md",
+      "estado": "verificado en GitHub"
+    },
+    {
+      "original": "2019/2do Parcial/2019 UT VII Electromagnetismo.pdf",
+      "sha256": "eff3447774cadfcb2726a6caabbe8e257782276fce3e67dda465673d5ef67a6a",
+      "nota": "notes/2019/teoria/induccion-mutua-bobinas-electromagnetismo-2019.md",
+      "paginas_revisadas": [
+        50,
+        51,
+        52
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 7,
+      "math_renderizada_github": 7,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/c9c7e11/notes/2019/teoria/induccion-mutua-bobinas-electromagnetismo-2019.md",
+      "estado": "verificado en GitHub"
+    },
+    {
+      "original": "2019/2do Parcial/2019 UT VII Electromagnetismo.pdf",
+      "sha256": "eff3447774cadfcb2726a6caabbe8e257782276fce3e67dda465673d5ef67a6a",
+      "nota": "notes/2019/teoria/transformadores-transmision-electromagnetismo-2019.md",
+      "paginas_revisadas": [
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 16,
+      "math_renderizada_github": 16,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/c9c7e11/notes/2019/teoria/transformadores-transmision-electromagnetismo-2019.md",
+      "estado": "verificado en GitHub"
+    },
+    {
+      "original": "2019/2do Parcial/2019 UT VII Electromagnetismo.pdf",
+      "sha256": "eff3447774cadfcb2726a6caabbe8e257782276fce3e67dda465673d5ef67a6a",
+      "nota": "notes/2019/teoria/faraday-campos-electricos-electromagnetismo-2019.md",
+      "paginas_revisadas": [
+        35,
+        36,
+        37
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 6,
+      "math_renderizada_github": 6,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/7895978/notes/2019/teoria/faraday-campos-electricos-electromagnetismo-2019.md",
+      "estado": "verificado en GitHub"
+    },
+    {
+      "original": "2019/2do Parcial/2019 UT VII Electromagnetismo.pdf",
+      "sha256": "eff3447774cadfcb2726a6caabbe8e257782276fce3e67dda465673d5ef67a6a",
+      "nota": "notes/2019/teoria/autoinduccion-geometria-electromagnetismo-2019.md",
+      "paginas_revisadas": [
+        38,
+        39,
+        40
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 8,
+      "math_renderizada_github": 8,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/7895978/notes/2019/teoria/autoinduccion-geometria-electromagnetismo-2019.md",
+      "estado": "verificado en GitHub"
+    },
+    {
+      "original": "2019/2do Parcial/2019 UT VII Electromagnetismo.pdf",
+      "sha256": "eff3447774cadfcb2726a6caabbe8e257782276fce3e67dda465673d5ef67a6a",
+      "nota": "notes/2019/teoria/fem-movimiento-avion-electromagnetismo-2019.md",
+      "paginas_revisadas": [
+        26,
+        27,
+        28,
+        29,
+        30,
+        31
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 12,
+      "math_renderizada_github": 12,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/7895978/notes/2019/teoria/fem-movimiento-avion-electromagnetismo-2019.md",
+      "estado": "verificado en GitHub"
+    },
+    {
+      "original": "2019/2do Parcial/2019 UT VII Electromagnetismo.pdf",
+      "sha256": "eff3447774cadfcb2726a6caabbe8e257782276fce3e67dda465673d5ef67a6a",
+      "nota": "notes/2019/teoria/campo-electrico-inducido-electromagnetismo-2019.md",
+      "paginas_revisadas": [
+        32,
+        33,
+        34
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 9,
+      "math_renderizada_github": 9,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/7895978/notes/2019/teoria/campo-electrico-inducido-electromagnetismo-2019.md",
+      "estado": "verificado en GitHub"
+    },
+    {
+      "original": "2019/2do Parcial/2019 UT VII Electromagnetismo.pdf",
+      "sha256": "eff3447774cadfcb2726a6caabbe8e257782276fce3e67dda465673d5ef67a6a",
+      "nota": "notes/2019/teoria/generador-alterna-fases-electromagnetismo-2019.md",
+      "paginas_revisadas": [
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 7,
+      "math_renderizada_github": 7,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/1422c43/notes/2019/teoria/generador-alterna-fases-electromagnetismo-2019.md",
+      "estado": "verificado en GitHub"
+    },
+    {
+      "original": "2019/2do Parcial/2019 UT VII Electromagnetismo.pdf",
+      "sha256": "eff3447774cadfcb2726a6caabbe8e257782276fce3e67dda465673d5ef67a6a",
+      "nota": "notes/2019/teoria/aplicaciones-induccion-interruptor-guitarra-2019.md",
+      "paginas_revisadas": [
+        25
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 0,
+      "math_renderizada_github": 0,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/7895978/notes/2019/teoria/aplicaciones-induccion-interruptor-guitarra-2019.md",
+      "estado": "verificado en GitHub"
+    },
+    {
+      "original": "2019/2do Parcial/2019 UT VII Electromagnetismo.pdf",
+      "sha256": "eff3447774cadfcb2726a6caabbe8e257782276fce3e67dda465673d5ef67a6a",
+      "nota": "notes/2019/teoria/flujo-magnetico-weber-electromagnetismo-2019.md",
+      "paginas_revisadas": [
+        10,
+        11,
+        12
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 4,
+      "math_renderizada_github": 4,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/1422c43/notes/2019/teoria/flujo-magnetico-weber-electromagnetismo-2019.md",
+      "estado": "verificado en GitHub"
+    },
+    {
+      "original": "2019/2do Parcial/2019 UT VII Electromagnetismo.pdf",
+      "sha256": "eff3447774cadfcb2726a6caabbe8e257782276fce3e67dda465673d5ef67a6a",
+      "nota": "notes/2019/teoria/ley-faraday-biografia-electromagnetismo-2019.md",
+      "paginas_revisadas": [
+        13,
+        14
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 1,
+      "math_renderizada_github": 1,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/1422c43/notes/2019/teoria/ley-faraday-biografia-electromagnetismo-2019.md",
+      "estado": "verificado en GitHub"
+    },
+    {
+      "original": "2019/2do Parcial/2019 UT VII Electromagnetismo.pdf",
+      "sha256": "eff3447774cadfcb2726a6caabbe8e257782276fce3e67dda465673d5ef67a6a",
+      "nota": "notes/2019/teoria/ley-lenz-casos-electromagnetismo-2019.md",
+      "paginas_revisadas": [
+        15,
+        16,
+        17,
+        18
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 0,
+      "math_renderizada_github": 0,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/1422c43/notes/2019/teoria/ley-lenz-casos-electromagnetismo-2019.md",
+      "estado": "verificado en GitHub"
+    },
+    {
+      "original": "2019/2do Parcial/2019 UT VII Electromagnetismo.pdf",
+      "sha256": "eff3447774cadfcb2726a6caabbe8e257782276fce3e67dda465673d5ef67a6a",
+      "nota": "notes/2019/teoria/electromagnetismo-programa-introduccion-historica-2019.md",
+      "paginas_revisadas": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 0,
+      "math_renderizada_github": 0,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/electromagnetismo-programa-introduccion-historica-2019.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/2do Parcial/2019 UT VII Electromagnetismo.pdf",
+      "sha256": "eff3447774cadfcb2726a6caabbe8e257782276fce3e67dda465673d5ef67a6a",
+      "nota": "notes/2019/teoria/experiencias-faraday-electromagnetismo-2019.md",
+      "paginas_revisadas": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 0,
+      "math_renderizada_github": 0,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/experiencias-faraday-electromagnetismo-2019.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/2do Parcial/2019 UT VII - Fenómenos de Inducción Electromagnética.pdf",
+      "sha256": "cbefa338a0f56f56079880a84f05a963257a6473febd8da50f944a67f2210a8f",
+      "nota": "notes/2019/teoria/autoinduccion-bobina-henrio-2019.md",
+      "paginas_revisadas": [
+        41,
+        42,
+        43,
+        44
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 8,
+      "math_renderizada_github": 8,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/autoinduccion-bobina-henrio-2019.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/2do Parcial/2019 UT VII - Fenómenos de Inducción Electromagnética.pdf",
+      "sha256": "cbefa338a0f56f56079880a84f05a963257a6473febd8da50f944a67f2210a8f",
+      "nota": "notes/2019/teoria/autoinducciones-serie-paralelo-2019.md",
+      "paginas_revisadas": [
+        45,
+        46,
+        47
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 7,
+      "math_renderizada_github": 7,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/autoinducciones-serie-paralelo-2019.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/2do Parcial/2019 UT VII - Fenómenos de Inducción Electromagnética.pdf",
+      "sha256": "cbefa338a0f56f56079880a84f05a963257a6473febd8da50f944a67f2210a8f",
+      "nota": "notes/2019/teoria/energia-bobina-densidad-magnetica-2019.md",
+      "paginas_revisadas": [
+        48,
+        49
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 7,
+      "math_renderizada_github": 7,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/energia-bobina-densidad-magnetica-2019.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/2do Parcial/2019 UT VII - Fenómenos de Inducción Electromagnética.pdf",
+      "sha256": "cbefa338a0f56f56079880a84f05a963257a6473febd8da50f944a67f2210a8f",
+      "nota": "notes/2019/teoria/corrientes-transitorias-circuito-lr-2019.md",
+      "paginas_revisadas": [
+        50,
+        51,
+        52,
+        53,
+        54
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 10,
+      "math_renderizada_github": 10,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/corrientes-transitorias-circuito-lr-2019.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/2do Parcial/2019 UT VII - Fenómenos de Inducción Electromagnética.pdf",
+      "sha256": "cbefa338a0f56f56079880a84f05a963257a6473febd8da50f944a67f2210a8f",
+      "nota": "notes/2019/teoria/induccion-mutua-bobinas-2019.md",
+      "paginas_revisadas": [
+        55,
+        56,
+        57,
+        58
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 8,
+      "math_renderizada_github": 8,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/induccion-mutua-bobinas-2019.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/2do Parcial/2019 UT VII - Fenómenos de Inducción Electromagnética.pdf",
+      "sha256": "cbefa338a0f56f56079880a84f05a963257a6473febd8da50f944a67f2210a8f",
+      "nota": "notes/2019/teoria/transformadores-transmision-energia-2019.md",
+      "paginas_revisadas": [
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 8,
+      "math_renderizada_github": 8,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/transformadores-transmision-energia-2019.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/2do Parcial/2019 UT VII - Fenómenos de Inducción Electromagnética.pdf",
+      "sha256": "cbefa338a0f56f56079880a84f05a963257a6473febd8da50f944a67f2210a8f",
+      "nota": "notes/2019/teoria/campo-electrico-inducido-espira-2019.md",
+      "paginas_revisadas": [
+        31,
+        32,
+        33,
+        34
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 7,
+      "math_renderizada_github": 7,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/campo-electrico-inducido-espira-2019.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/2do Parcial/2019 UT VII - Fenómenos de Inducción Electromagnética.pdf",
+      "sha256": "cbefa338a0f56f56079880a84f05a963257a6473febd8da50f944a67f2210a8f",
+      "nota": "notes/2019/teoria/faraday-generalizacion-forma-diferencial-2019.md",
+      "paginas_revisadas": [
+        35,
+        36,
+        37,
+        38,
+        39,
+        40
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 13,
+      "math_renderizada_github": 13,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/faraday-generalizacion-forma-diferencial-2019.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/2do Parcial/2019 UT VII - Fenómenos de Inducción Electromagnética.pdf",
+      "sha256": "cbefa338a0f56f56079880a84f05a963257a6473febd8da50f944a67f2210a8f",
+      "nota": "notes/2019/teoria/ley-lenz-sentido-corriente-diagramas-2019.md",
+      "paginas_revisadas": [
+        17,
+        18,
+        19
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 0,
+      "math_renderizada_github": 0,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/ley-lenz-sentido-corriente-diagramas-2019.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/2do Parcial/2019 UT VII - Fenómenos de Inducción Electromagnética.pdf",
+      "sha256": "cbefa338a0f56f56079880a84f05a963257a6473febd8da50f944a67f2210a8f",
+      "nota": "notes/2019/teoria/generador-corriente-alterna-espira-2019.md",
+      "paginas_revisadas": [
+        20,
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 8,
+      "math_renderizada_github": 8,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/generador-corriente-alterna-espira-2019.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/2do Parcial/2019 UT VII - Fenómenos de Inducción Electromagnética.pdf",
+      "sha256": "cbefa338a0f56f56079880a84f05a963257a6473febd8da50f944a67f2210a8f",
+      "nota": "notes/2019/teoria/fem-movimiento-varilla-circuito-2019.md",
+      "paginas_revisadas": [
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 10,
+      "math_renderizada_github": 10,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/fem-movimiento-varilla-circuito-2019.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/2do Parcial/2019 UT VII - Fenómenos de Inducción Electromagnética.pdf",
+      "sha256": "cbefa338a0f56f56079880a84f05a963257a6473febd8da50f944a67f2210a8f",
+      "nota": "notes/2019/teoria/flujo-magnetico-induccion-weber-2019.md",
+      "paginas_revisadas": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 5,
+      "math_renderizada_github": 5,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/flujo-magnetico-induccion-weber-2019.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/2do Parcial/2019 UT VII - Fenómenos de Inducción Electromagnética.pdf",
+      "sha256": "cbefa338a0f56f56079880a84f05a963257a6473febd8da50f944a67f2210a8f",
+      "nota": "notes/2019/teoria/ley-faraday-lenz-induccion-2019.md",
+      "paginas_revisadas": [
+        13,
+        14,
+        15,
+        16
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 2,
+      "math_renderizada_github": 2,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/ley-faraday-lenz-induccion-2019.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/2do Parcial/2019 UT VII - Fenómenos de Inducción Electromagnética.pdf",
+      "sha256": "cbefa338a0f56f56079880a84f05a963257a6473febd8da50f944a67f2210a8f",
+      "nota": "notes/2019/teoria/induccion-electromagnetica-programa-introduccion-2019.md",
+      "paginas_revisadas": [
+        1,
+        2,
+        3
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 0,
+      "math_renderizada_github": 0,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/induccion-electromagnetica-programa-introduccion-2019.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/2do Parcial/2019 UT VII - Fenómenos de Inducción Electromagnética.pdf",
+      "sha256": "cbefa338a0f56f56079880a84f05a963257a6473febd8da50f944a67f2210a8f",
+      "nota": "notes/2019/teoria/experiencias-faraday-corrientes-imanes-2019.md",
+      "paginas_revisadas": [
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 0,
+      "math_renderizada_github": 0,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/experiencias-faraday-corrientes-imanes-2019.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/2do Parcial/2019 UT V - Fuerzas Magnéticas sobre cargas y elementos de corriente.pdf",
+      "sha256": "383fdb6f46e1627fbe65cf259b89a480bd4b4cc61821cbfc466fa3e4a63ceb29",
+      "nota": "notes/2019/teoria/selector-velocidades-espectrometro-masas-2019.md",
+      "paginas_revisadas": [
+        21,
+        22,
+        23
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 2,
+      "math_renderizada_github": 2,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/selector-velocidades-espectrometro-masas-2019.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/2do Parcial/2019 UT V - Fuerzas Magnéticas sobre cargas y elementos de corriente.pdf",
+      "sha256": "383fdb6f46e1627fbe65cf259b89a480bd4b4cc61821cbfc466fa3e4a63ceb29",
+      "nota": "notes/2019/teoria/efecto-hall-ciclotron-2019.md",
+      "paginas_revisadas": [
+        24,
+        25,
+        26
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 9,
+      "math_renderizada_github": 9,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/efecto-hall-ciclotron-2019.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/2do Parcial/2019 UT V - Fuerzas Magnéticas sobre cargas y elementos de corriente.pdf",
+      "sha256": "383fdb6f46e1627fbe65cf259b89a480bd4b4cc61821cbfc466fa3e4a63ceb29",
+      "nota": "notes/2019/teoria/fuerza-conductor-corriente-elemento-2019.md",
+      "paginas_revisadas": [
+        27,
+        28,
+        29,
+        30,
+        31
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 8,
+      "math_renderizada_github": 8,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/fuerza-conductor-corriente-elemento-2019.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/2do Parcial/2019 UT V - Fuerzas Magnéticas sobre cargas y elementos de corriente.pdf",
+      "sha256": "383fdb6f46e1627fbe65cf259b89a480bd4b4cc61821cbfc466fa3e4a63ceb29",
+      "nota": "notes/2019/teoria/torque-espira-momento-dipolar-2019.md",
+      "paginas_revisadas": [
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 9,
+      "math_renderizada_github": 9,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/torque-espira-momento-dipolar-2019.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/2do Parcial/2019 UT V - Fuerzas Magnéticas sobre cargas y elementos de corriente.pdf",
+      "sha256": "383fdb6f46e1627fbe65cf259b89a480bd4b4cc61821cbfc466fa3e4a63ceb29",
+      "nota": "notes/2019/teoria/demostracion-trayectoria-helicoidal-2019.md",
+      "paginas_revisadas": [
+        39,
+        40,
+        41,
+        42
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 17,
+      "math_renderizada_github": 17,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/demostracion-trayectoria-helicoidal-2019.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/2do Parcial/2019 UT V - Fuerzas Magnéticas sobre cargas y elementos de corriente.pdf",
+      "sha256": "383fdb6f46e1627fbe65cf259b89a480bd4b4cc61821cbfc466fa3e4a63ceb29",
+      "nota": "notes/2019/teoria/campo-magnetico-lineas-intensidad-2019.md",
+      "paginas_revisadas": [
+        9,
+        10,
+        11
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 0,
+      "math_renderizada_github": 0,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/campo-magnetico-lineas-intensidad-2019.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/2do Parcial/2019 UT V - Fuerzas Magnéticas sobre cargas y elementos de corriente.pdf",
+      "sha256": "383fdb6f46e1627fbe65cf259b89a480bd4b4cc61821cbfc466fa3e4a63ceb29",
+      "nota": "notes/2019/teoria/fuerza-magnetica-carga-unidades-regla-mano-2019.md",
+      "paginas_revisadas": [
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 6,
+      "math_renderizada_github": 6,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/fuerza-magnetica-carga-unidades-regla-mano-2019.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/2do Parcial/2019 UT V - Fuerzas Magnéticas sobre cargas y elementos de corriente.pdf",
+      "sha256": "383fdb6f46e1627fbe65cf259b89a480bd4b4cc61821cbfc466fa3e4a63ceb29",
+      "nota": "notes/2019/teoria/lorentz-movimiento-circular-helicoidal-2019.md",
+      "paginas_revisadas": [
+        17,
+        18,
+        19,
+        20
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 11,
+      "math_renderizada_github": 11,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/lorentz-movimiento-circular-helicoidal-2019.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/2do Parcial/2019 UT V - Fuerzas Magnéticas sobre cargas y elementos de corriente.pdf",
+      "sha256": "383fdb6f46e1627fbe65cf259b89a480bd4b4cc61821cbfc466fa3e4a63ceb29",
+      "nota": "notes/2019/teoria/fuerzas-magneticas-programa-historia-2019.md",
+      "paginas_revisadas": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 0,
+      "math_renderizada_github": 0,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/fuerzas-magneticas-programa-historia-2019.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/2do Parcial/2019 UT V - Fuerzas Magnéticas sobre cargas y elementos de corriente.pdf",
+      "sha256": "383fdb6f46e1627fbe65cf259b89a480bd4b4cc61821cbfc466fa3e4a63ceb29",
+      "nota": "notes/2019/teoria/imanes-caracteristicas-fuerzas-magneticas-2019.md",
+      "paginas_revisadas": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 1,
+      "math_renderizada_github": 1,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/imanes-caracteristicas-fuerzas-magneticas-2019.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/2do Parcial/2019 UT VI - Campo de Inducción Magnética. Propiedades.pdf",
+      "sha256": "b9bb8ec5e8acfa36814e15207ee532a00e566ff5ea72bd139eff27ae0b2d634f",
+      "nota": "notes/2019/teoria/biot-savart-corriente-rectilinea-circular-2019.md",
+      "paginas_revisadas": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 15,
+      "math_renderizada_github": 15,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/biot-savart-corriente-rectilinea-circular-2019.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/2do Parcial/2019 UT VI - Campo de Inducción Magnética. Propiedades.pdf",
+      "sha256": "b9bb8ec5e8acfa36814e15207ee532a00e566ff5ea72bd139eff27ae0b2d634f",
+      "nota": "notes/2019/teoria/ley-ampere-corrientes-distribuidas-2019.md",
+      "paginas_revisadas": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 7,
+      "math_renderizada_github": 7,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/ley-ampere-corrientes-distribuidas-2019.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/2do Parcial/2019 UT VI - Campo de Inducción Magnética. Propiedades.pdf",
+      "sha256": "b9bb8ec5e8acfa36814e15207ee532a00e566ff5ea72bd139eff27ae0b2d634f",
+      "nota": "notes/2019/teoria/solenoide-toroide-campo-magnetico-2019.md",
+      "paginas_revisadas": [
+        9,
+        10
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 12,
+      "math_renderizada_github": 12,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/solenoide-toroide-campo-magnetico-2019.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/2do Parcial/2019 UT VI - Campo de Inducción Magnética. Propiedades.pdf",
+      "sha256": "b9bb8ec5e8acfa36814e15207ee532a00e566ff5ea72bd139eff27ae0b2d634f",
+      "nota": "notes/2019/teoria/fuerzas-corrientes-definicion-ampere-2019.md",
+      "paginas_revisadas": [
+        11,
+        12
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 7,
+      "math_renderizada_github": 7,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/fuerzas-corrientes-definicion-ampere-2019.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/2do Parcial/2019 UT VI - Campo de Inducción Magnética. Propiedades.pdf",
+      "sha256": "b9bb8ec5e8acfa36814e15207ee532a00e566ff5ea72bd139eff27ae0b2d634f",
+      "nota": "notes/2019/teoria/flujo-magnetico-gauss-espira-2019.md",
+      "paginas_revisadas": [
+        12,
+        13,
+        14
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 8,
+      "math_renderizada_github": 8,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/flujo-magnetico-gauss-espira-2019.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/2do Parcial/2019 UT VI - Campo de Inducción Magnética. Propiedades.pdf",
+      "sha256": "b9bb8ec5e8acfa36814e15207ee532a00e566ff5ea72bd139eff27ae0b2d634f",
+      "nota": "notes/2019/teoria/corriente-desplazamiento-ampere-maxwell-2019.md",
+      "paginas_revisadas": [
+        14,
+        15,
+        16
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 11,
+      "math_renderizada_github": 11,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/corriente-desplazamiento-ampere-maxwell-2019.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/1er Parcial/Mapeo de Campo Electrico.pdf",
+      "sha256": "9967197aee682d3117c6553b04d6550e588cf48710ece7f08c137bbabacd2e94",
+      "nota": "notes/2019/practica/mapeo-campo-electrico-informe.md",
+      "paginas_revisadas": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 25,
+      "math_renderizada_github": 25,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/practica/mapeo-campo-electrico-informe.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/1er Parcial/Ley de Ohm.pdf",
+      "sha256": "2208a1c73fa18b49a8fb424a4338333358827fe17c2a0db62d57cd4bcf6e6f9c",
+      "nota": "notes/2019/practica/ley-ohm-asociacion-resistencias-informe.md",
+      "paginas_revisadas": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "paginacion": "PDF original; impresa4–11 y11",
+      "math_esperada": 64,
+      "math_renderizada_github": 64,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/practica/ley-ohm-asociacion-resistencias-informe.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/1er Parcial/Ecuacion de Laplace.pdf",
+      "sha256": "2bba95ad33085c6c4f4edfd88db4f90c720c117ef69dc2b1a6bb7e34f69a014f",
+      "nota": "notes/2019/practica/ecuacion-laplace-informe-experimental.md",
+      "paginas_revisadas": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 1,
+      "math_renderizada_github": 1,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/practica/ecuacion-laplace-informe-experimental.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/1er Parcial/Campo cero de dos cargas puntuales.pdf",
+      "sha256": "bcf5bdd3a530fea8b6921b4a6678c4e8e9e6aa2ca45006d2cf9bc537c989c378",
+      "nota": "notes/2019/practica/campo-cero-dos-cargas-puntuales.md",
+      "paginas_revisadas": [
+        1,
+        2,
+        3
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 30,
+      "math_renderizada_github": 30,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/practica/campo-cero-dos-cargas-puntuales.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/1er Parcial/Discretizando un sistema continuo.pdf",
+      "sha256": "b7013ac36095abfc6ab7699191fbe3c3d366a16edbb735008eb1624fe634be20",
+      "nota": "notes/2019/practica/discretizacion-sistema-continuo.md",
+      "paginas_revisadas": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 15,
+      "math_renderizada_github": 15,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/practica/discretizacion-sistema-continuo.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/1er Parcial/2018 UT I - Fuerza Eléctrica y Campo Elécrtico.pdf",
+      "sha256": "326bb078ddbf25b43f166e198c175106027b686dde0d0ea9688c025795f46ca7",
+      "nota": "notes/2019/teoria/campo-electrico-definicion-caracteristicas-2018.md",
+      "paginas_revisadas": [
+        18,
+        19,
+        20
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 4,
+      "math_renderizada_github": 4,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/campo-electrico-definicion-caracteristicas-2018.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/1er Parcial/2018 UT I - Fuerza Eléctrica y Campo Elécrtico.pdf",
+      "sha256": "326bb078ddbf25b43f166e198c175106027b686dde0d0ea9688c025795f46ca7",
+      "nota": "notes/2019/teoria/campo-discreto-componentes-dipolo-2018.md",
+      "paginas_revisadas": [
+        20,
+        21,
+        23,
+        24
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 14,
+      "math_renderizada_github": 14,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/campo-discreto-componentes-dipolo-2018.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/1er Parcial/2018 UT I - Fuerza Eléctrica y Campo Elécrtico.pdf",
+      "sha256": "326bb078ddbf25b43f166e198c175106027b686dde0d0ea9688c025795f46ca7",
+      "nota": "notes/2019/teoria/campo-continuo-linea-anillo-2018.md",
+      "paginas_revisadas": [
+        22,
+        24,
+        25,
+        26,
+        27
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 17,
+      "math_renderizada_github": 17,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/campo-continuo-linea-anillo-2018.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/1er Parcial/2018 UT I - Fuerza Eléctrica y Campo Elécrtico.pdf",
+      "sha256": "326bb078ddbf25b43f166e198c175106027b686dde0d0ea9688c025795f46ca7",
+      "nota": "notes/2019/teoria/campo-disco-placas-formulario-2018.md",
+      "paginas_revisadas": [
+        28,
+        29
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 25,
+      "math_renderizada_github": 25,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/campo-disco-placas-formulario-2018.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/1er Parcial/2018 UT I - Fuerza Eléctrica y Campo Elécrtico.pdf",
+      "sha256": "326bb078ddbf25b43f166e198c175106027b686dde0d0ea9688c025795f46ca7",
+      "nota": "notes/2019/teoria/lineas-campo-electrico-caracteristicas-2018.md",
+      "paginas_revisadas": [
+        30,
+        31
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 0,
+      "math_renderizada_github": 0,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/lineas-campo-electrico-caracteristicas-2018.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/1er Parcial/2018 UT I - Fuerza Eléctrica y Campo Elécrtico.pdf",
+      "sha256": "326bb078ddbf25b43f166e198c175106027b686dde0d0ea9688c025795f46ca7",
+      "nota": "notes/2019/teoria/movimiento-carga-campo-uniforme-2018.md",
+      "paginas_revisadas": [
+        32,
+        33
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 4,
+      "math_renderizada_github": 4,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/movimiento-carga-campo-uniforme-2018.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/1er Parcial/2018 UT I - Fuerza Eléctrica y Campo Elécrtico.pdf",
+      "sha256": "326bb078ddbf25b43f166e198c175106027b686dde0d0ea9688c025795f46ca7",
+      "nota": "notes/2019/teoria/flujo-campo-superficie-cubo-2018.md",
+      "paginas_revisadas": [
+        33,
+        34,
+        35
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 10,
+      "math_renderizada_github": 10,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/flujo-campo-superficie-cubo-2018.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/1er Parcial/2018 UT I - Fuerza Eléctrica y Campo Elécrtico.pdf",
+      "sha256": "326bb078ddbf25b43f166e198c175106027b686dde0d0ea9688c025795f46ca7",
+      "nota": "notes/2019/teoria/ley-gauss-superficies-procedimiento-2018.md",
+      "paginas_revisadas": [
+        36,
+        37,
+        38
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 13,
+      "math_renderizada_github": 13,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/ley-gauss-superficies-procedimiento-2018.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/1er Parcial/2018 UT I - Fuerza Eléctrica y Campo Elécrtico.pdf",
+      "sha256": "326bb078ddbf25b43f166e198c175106027b686dde0d0ea9688c025795f46ca7",
+      "nota": "notes/2019/teoria/gauss-plano-linea-esferas-2018.md",
+      "paginas_revisadas": [
+        39,
+        40,
+        41
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 12,
+      "math_renderizada_github": 12,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/gauss-plano-linea-esferas-2018.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/1er Parcial/2018 UT I - Fuerza Eléctrica y Campo Elécrtico.pdf",
+      "sha256": "326bb078ddbf25b43f166e198c175106027b686dde0d0ea9688c025795f46ca7",
+      "nota": "notes/2019/teoria/conductor-gauss-diferencial-2018.md",
+      "paginas_revisadas": [
+        41,
+        42
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 4,
+      "math_renderizada_github": 4,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/conductor-gauss-diferencial-2018.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/1er Parcial/2018 UT I - Fuerza Eléctrica y Campo Elécrtico.pdf",
+      "sha256": "326bb078ddbf25b43f166e198c175106027b686dde0d0ea9688c025795f46ca7",
+      "nota": "notes/2019/teoria/ley-coulomb-fuerza-constantes-2018.md",
+      "paginas_revisadas": [
+        11,
+        12,
+        13,
+        14
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 6,
+      "math_renderizada_github": 6,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/ley-coulomb-fuerza-constantes-2018.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/1er Parcial/2018 UT I - Fuerza Eléctrica y Campo Elécrtico.pdf",
+      "sha256": "326bb078ddbf25b43f166e198c175106027b686dde0d0ea9688c025795f46ca7",
+      "nota": "notes/2019/teoria/superposicion-componentes-fuerza-2018.md",
+      "paginas_revisadas": [
+        15,
+        16,
+        17
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 14,
+      "math_renderizada_github": 14,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/superposicion-componentes-fuerza-2018.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/1er Parcial/2018 UT I - Fuerza Eléctrica y Campo Elécrtico.pdf",
+      "sha256": "326bb078ddbf25b43f166e198c175106027b686dde0d0ea9688c025795f46ca7",
+      "nota": "notes/2019/teoria/electrostatica-introduccion-programa-2018.md",
+      "paginas_revisadas": [
+        1,
+        2,
+        3
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 0,
+      "math_renderizada_github": 0,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/electrostatica-introduccion-programa-2018.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/1er Parcial/2018 UT I - Fuerza Eléctrica y Campo Elécrtico.pdf",
+      "sha256": "326bb078ddbf25b43f166e198c175106027b686dde0d0ea9688c025795f46ca7",
+      "nota": "notes/2019/teoria/carga-electrica-cuantizacion-electrizacion-2018.md",
+      "paginas_revisadas": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 9,
+      "math_renderizada_github": 9,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/carga-electrica-cuantizacion-electrizacion-2018.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/1er Parcial/2018 PF UT III - Capacidad. Prop electr de la Materia.pptx.pdf",
+      "sha256": "ac23675b753c3d9349b89600ea349edcbc8dfe56058b3c78a09e873777616145",
+      "nota": "notes/2019/teoria/capacidad-condensadores-definicion-unidades.md",
+      "paginas_revisadas": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 7,
+      "math_renderizada_github": 7,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/capacidad-condensadores-definicion-unidades.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/1er Parcial/2018 PF UT III - Capacidad. Prop electr de la Materia.pptx.pdf",
+      "sha256": "ac23675b753c3d9349b89600ea349edcbc8dfe56058b3c78a09e873777616145",
+      "nota": "notes/2019/teoria/capacidad-placas-cilindrico-esferico.md",
+      "paginas_revisadas": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 5,
+      "math_renderizada_github": 5,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/capacidad-placas-cilindrico-esferico.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/1er Parcial/2018 PF UT III - Capacidad. Prop electr de la Materia.pptx.pdf",
+      "sha256": "ac23675b753c3d9349b89600ea349edcbc8dfe56058b3c78a09e873777616145",
+      "nota": "notes/2019/teoria/condensadores-serie-paralelo-capacidad-equivalente.md",
+      "paginas_revisadas": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 10,
+      "math_renderizada_github": 10,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/condensadores-serie-paralelo-capacidad-equivalente.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/1er Parcial/2018 PF UT III - Capacidad. Prop electr de la Materia.pptx.pdf",
+      "sha256": "ac23675b753c3d9349b89600ea349edcbc8dfe56058b3c78a09e873777616145",
+      "nota": "notes/2019/teoria/energia-condensador-densidad-fuerza-placas.md",
+      "paginas_revisadas": [
+        13,
+        14,
+        15
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 13,
+      "math_renderizada_github": 13,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/energia-condensador-densidad-fuerza-placas.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/1er Parcial/2018 PF UT III - Capacidad. Prop electr de la Materia.pptx.pdf",
+      "sha256": "ac23675b753c3d9349b89600ea349edcbc8dfe56058b3c78a09e873777616145",
+      "nota": "notes/2019/teoria/dielectricos-constante-capacidad-tabla.md",
+      "paginas_revisadas": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 13,
+      "math_renderizada_github": 13,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/dielectricos-constante-capacidad-tabla.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/1er Parcial/2018 PF UT III - Capacidad. Prop electr de la Materia.pptx.pdf",
+      "sha256": "ac23675b753c3d9349b89600ea349edcbc8dfe56058b3c78a09e873777616145",
+      "nota": "notes/2019/teoria/dipolo-dielectricos-torque-energia.md",
+      "paginas_revisadas": [
+        20,
+        21,
+        22
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 9,
+      "math_renderizada_github": 9,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/dipolo-dielectricos-torque-energia.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/1er Parcial/2018 PF UT III - Capacidad. Prop electr de la Materia.pptx.pdf",
+      "sha256": "ac23675b753c3d9349b89600ea349edcbc8dfe56058b3c78a09e873777616145",
+      "nota": "notes/2019/teoria/vector-polarizacion-cargas-superficiales.md",
+      "paginas_revisadas": [
+        23
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 5,
+      "math_renderizada_github": 5,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/vector-polarizacion-cargas-superficiales.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/1er Parcial/2018 PF UT III - Capacidad. Prop electr de la Materia.pptx.pdf",
+      "sha256": "ac23675b753c3d9349b89600ea349edcbc8dfe56058b3c78a09e873777616145",
+      "nota": "notes/2019/teoria/desplazamiento-permitividad-gauss-generalizada.md",
+      "paginas_revisadas": [
+        24,
+        25,
+        26
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 15,
+      "math_renderizada_github": 15,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/desplazamiento-permitividad-gauss-generalizada.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/1er Parcial/2017 UT IV - Electrocinética.ppt.pdf",
+      "sha256": "5593bcdeb59339b25f4dfee074beac1812300dcec491fb423777a4e776ba1399",
+      "nota": "notes/2019/teoria/resistividad-geometria-temperatura.md",
+      "paginas_revisadas": [
+        21,
+        22,
+        23,
+        24
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 38,
+      "math_renderizada_github": 38,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/resistividad-geometria-temperatura.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/1er Parcial/2017 UT IV - Electrocinética.ppt.pdf",
+      "sha256": "5593bcdeb59339b25f4dfee074beac1812300dcec491fb423777a4e776ba1399",
+      "nota": "notes/2019/teoria/resistencias-serie-paralelo-teoria.md",
+      "paginas_revisadas": [
+        25,
+        26
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 9,
+      "math_renderizada_github": 9,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/resistencias-serie-paralelo-teoria.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/1er Parcial/2017 UT IV - Electrocinética.ppt.pdf",
+      "sha256": "5593bcdeb59339b25f4dfee074beac1812300dcec491fb423777a4e776ba1399",
+      "nota": "notes/2019/teoria/potencia-transformacion-energia-ley-joule.md",
+      "paginas_revisadas": [
+        27,
+        28,
+        29
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 12,
+      "math_renderizada_github": 12,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/potencia-transformacion-energia-ley-joule.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/1er Parcial/2017 UT IV - Electrocinética.ppt.pdf",
+      "sha256": "5593bcdeb59339b25f4dfee074beac1812300dcec491fb423777a4e776ba1399",
+      "nota": "notes/2019/teoria/instrumentos-electricos-puente-wheatstone.md",
+      "paginas_revisadas": [
+        30,
+        31,
+        32,
+        33,
+        34
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 2,
+      "math_renderizada_github": 2,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/instrumentos-electricos-puente-wheatstone.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/1er Parcial/2017 UT IV - Electrocinética.ppt.pdf",
+      "sha256": "5593bcdeb59339b25f4dfee074beac1812300dcec491fb423777a4e776ba1399",
+      "nota": "notes/2019/teoria/fuentes-fem-resistencia-interna-bateria.md",
+      "paginas_revisadas": [
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 9,
+      "math_renderizada_github": 9,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/fuentes-fem-resistencia-interna-bateria.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/1er Parcial/2017 UT IV - Electrocinética.ppt.pdf",
+      "sha256": "5593bcdeb59339b25f4dfee074beac1812300dcec491fb423777a4e776ba1399",
+      "nota": "notes/2019/teoria/leyes-kirchhoff-mallas-nodos-teoria.md",
+      "paginas_revisadas": [
+        42,
+        43,
+        44,
+        45,
+        46,
+        47
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 12,
+      "math_renderizada_github": 12,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/leyes-kirchhoff-mallas-nodos-teoria.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/1er Parcial/2017 UT IV - Electrocinética.ppt.pdf",
+      "sha256": "5593bcdeb59339b25f4dfee074beac1812300dcec491fb423777a4e776ba1399",
+      "nota": "notes/2019/teoria/baterias-arranque-conexiones-ejemplo.md",
+      "paginas_revisadas": [
+        48,
+        49
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 4,
+      "math_renderizada_github": 4,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/baterias-arranque-conexiones-ejemplo.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/1er Parcial/2017 UT IV - Electrocinética.ppt.pdf",
+      "sha256": "5593bcdeb59339b25f4dfee074beac1812300dcec491fb423777a4e776ba1399",
+      "nota": "notes/2019/teoria/circuitos-rc-carga-descarga-teoria.md",
+      "paginas_revisadas": [
+        50,
+        51,
+        52,
+        53,
+        54,
+        55
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 16,
+      "math_renderizada_github": 16,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/circuitos-rc-carga-descarga-teoria.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/1er Parcial/2017 UT IV - Electrocinética.ppt.pdf",
+      "sha256": "5593bcdeb59339b25f4dfee074beac1812300dcec491fb423777a4e776ba1399",
+      "nota": "notes/2019/teoria/electrocinetica-corriente-sentido-convencional.md",
+      "paginas_revisadas": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 7,
+      "math_renderizada_github": 7,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/electrocinetica-corriente-sentido-convencional.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/1er Parcial/2017 UT IV - Electrocinética.ppt.pdf",
+      "sha256": "5593bcdeb59339b25f4dfee074beac1812300dcec491fb423777a4e776ba1399",
+      "nota": "notes/2019/teoria/densidad-corriente-ecuacion-continuidad.md",
+      "paginas_revisadas": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 16,
+      "math_renderizada_github": 16,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/densidad-corriente-ecuacion-continuidad.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/1er Parcial/2017 UT IV - Electrocinética.ppt.pdf",
+      "sha256": "5593bcdeb59339b25f4dfee074beac1812300dcec491fb423777a4e776ba1399",
+      "nota": "notes/2019/teoria/modelo-conductor-conductividad-resistividad.md",
+      "paginas_revisadas": [
+        12,
+        13,
+        14,
+        15
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 12,
+      "math_renderizada_github": 12,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/modelo-conductor-conductividad-resistividad.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/1er Parcial/2017 UT IV - Electrocinética.ppt.pdf",
+      "sha256": "5593bcdeb59339b25f4dfee074beac1812300dcec491fb423777a4e776ba1399",
+      "nota": "notes/2019/teoria/resistencia-ley-ohm-codigo-colores.md",
+      "paginas_revisadas": [
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 4,
+      "math_renderizada_github": 4,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/resistencia-ley-ohm-codigo-colores.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/1er Parcial/2017 UT II - Energía Electrostatica. Potencial electrico.pdf",
+      "sha256": "3e220eba27f223b646b95bb01387049e32d8a38191b146cb7d8e0bcb5eb7ece5",
+      "nota": "notes/2019/teoria/energia-potencial-fuerzas-conservativas.md",
+      "paginas_revisadas": [
+        1,
+        2,
+        3
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 8,
+      "math_renderizada_github": 8,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/energia-potencial-fuerzas-conservativas.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/1er Parcial/2017 UT II - Energía Electrostatica. Potencial electrico.pdf",
+      "sha256": "3e220eba27f223b646b95bb01387049e32d8a38191b146cb7d8e0bcb5eb7ece5",
+      "nota": "notes/2019/teoria/energia-potencial-electrica-trabajo.md",
+      "paginas_revisadas": [
+        4,
+        5,
+        6
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 17,
+      "math_renderizada_github": 17,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/energia-potencial-electrica-trabajo.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/1er Parcial/2017 UT II - Energía Electrostatica. Potencial electrico.pdf",
+      "sha256": "3e220eba27f223b646b95bb01387049e32d8a38191b146cb7d8e0bcb5eb7ece5",
+      "nota": "notes/2019/teoria/potencial-electrico-definicion-diferencia.md",
+      "paginas_revisadas": [
+        7,
+        8
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 12,
+      "math_renderizada_github": 12,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/potencial-electrico-definicion-diferencia.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/1er Parcial/2017 UT II - Energía Electrostatica. Potencial electrico.pdf",
+      "sha256": "3e220eba27f223b646b95bb01387049e32d8a38191b146cb7d8e0bcb5eb7ece5",
+      "nota": "notes/2019/teoria/potencial-electrico-anillo-disco.md",
+      "paginas_revisadas": [
+        9
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 10,
+      "math_renderizada_github": 10,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/potencial-electrico-anillo-disco.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/1er Parcial/2017 UT II - Energía Electrostatica. Potencial electrico.pdf",
+      "sha256": "3e220eba27f223b646b95bb01387049e32d8a38191b146cb7d8e0bcb5eb7ece5",
+      "nota": "notes/2019/teoria/potencial-esfera-cargada-electronvoltio.md",
+      "paginas_revisadas": [
+        10,
+        11
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 7,
+      "math_renderizada_github": 7,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/potencial-esfera-cargada-electronvoltio.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/1er Parcial/2017 UT II - Energía Electrostatica. Potencial electrico.pdf",
+      "sha256": "3e220eba27f223b646b95bb01387049e32d8a38191b146cb7d8e0bcb5eb7ece5",
+      "nota": "notes/2019/teoria/campo-electrico-gradiente-potencial.md",
+      "paginas_revisadas": [
+        12,
+        13
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 10,
+      "math_renderizada_github": 10,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/campo-electrico-gradiente-potencial.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/1er Parcial/2017 UT II - Energía Electrostatica. Potencial electrico.pdf",
+      "sha256": "3e220eba27f223b646b95bb01387049e32d8a38191b146cb7d8e0bcb5eb7ece5",
+      "nota": "notes/2019/teoria/superficies-equipotenciales-campo-homogeneo.md",
+      "paginas_revisadas": [
+        14,
+        15
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 7,
+      "math_renderizada_github": 7,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/superficies-equipotenciales-campo-homogeneo.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/1er Parcial/2017 UT II - Energía Electrostatica. Potencial electrico.pdf",
+      "sha256": "3e220eba27f223b646b95bb01387049e32d8a38191b146cb7d8e0bcb5eb7ece5",
+      "nota": "notes/2019/teoria/potencial-dipolo-punto-plano.md",
+      "paginas_revisadas": [
+        15
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 5,
+      "math_renderizada_github": 5,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/potencial-dipolo-punto-plano.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/1er Parcial/2017 UT II - Energía Electrostatica. Potencial electrico.pdf",
+      "sha256": "3e220eba27f223b646b95bb01387049e32d8a38191b146cb7d8e0bcb5eb7ece5",
+      "nota": "notes/2019/teoria/ecuaciones-poisson-laplace-teoria.md",
+      "paginas_revisadas": [
+        16
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 6,
+      "math_renderizada_github": 6,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/ecuaciones-poisson-laplace-teoria.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/UNIDAD 1 Fuerza electrica y campo electrico-1.pdf",
+      "sha256": "1130cc5160c8a6f87578f071f70595c679fb1535a8899aa02e13c9b0d093da07",
+      "nota": "notes/2015/teoria/flujo-campo-electrico.md",
+      "paginas_revisadas": [
+        26,
+        27,
+        28,
+        29
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 11,
+      "math_renderizada_github": 11,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/teoria/flujo-campo-electrico.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/UNIDAD 1 Fuerza electrica y campo electrico-1.pdf",
+      "sha256": "1130cc5160c8a6f87578f071f70595c679fb1535a8899aa02e13c9b0d093da07",
+      "nota": "notes/2015/teoria/ley-gauss-demostracion.md",
+      "paginas_revisadas": [
+        30,
+        31
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 7,
+      "math_renderizada_github": 7,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/teoria/ley-gauss-demostracion.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/UNIDAD 1 Fuerza electrica y campo electrico-1.pdf",
+      "sha256": "1130cc5160c8a6f87578f071f70595c679fb1535a8899aa02e13c9b0d093da07",
+      "nota": "notes/2015/teoria/ley-gauss-aplicaciones-simetrias.md",
+      "paginas_revisadas": [
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        41
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 1,
+      "math_renderizada_github": 1,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/teoria/ley-gauss-aplicaciones-simetrias.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/UNIDAD 1 Fuerza electrica y campo electrico-1.pdf",
+      "sha256": "1130cc5160c8a6f87578f071f70595c679fb1535a8899aa02e13c9b0d093da07",
+      "nota": "notes/2015/teoria/ley-gauss-forma-diferencial.md",
+      "paginas_revisadas": [
+        39,
+        40
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 13,
+      "math_renderizada_github": 13,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/teoria/ley-gauss-forma-diferencial.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/UNIDAD 1 Fuerza electrica y campo electrico-1.pdf",
+      "sha256": "1130cc5160c8a6f87578f071f70595c679fb1535a8899aa02e13c9b0d093da07",
+      "nota": "notes/2015/teoria/lineas-campo-electrico.md",
+      "paginas_revisadas": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 0,
+      "math_renderizada_github": 0,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/teoria/lineas-campo-electrico.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/UNIDAD 1 Fuerza electrica y campo electrico-1.pdf",
+      "sha256": "1130cc5160c8a6f87578f071f70595c679fb1535a8899aa02e13c9b0d093da07",
+      "nota": "notes/2015/teoria/particula-cargada-campo-uniforme.md",
+      "paginas_revisadas": [
+        23
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 6,
+      "math_renderizada_github": 6,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/teoria/particula-cargada-campo-uniforme.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/UNIDAD 1 Fuerza electrica y campo electrico-1.pdf",
+      "sha256": "1130cc5160c8a6f87578f071f70595c679fb1535a8899aa02e13c9b0d093da07",
+      "nota": "notes/2015/teoria/angulo-solido.md",
+      "paginas_revisadas": [
+        24,
+        25
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 2,
+      "math_renderizada_github": 2,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/teoria/angulo-solido.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/UNIDAD 1 Fuerza electrica y campo electrico-1.pdf",
+      "sha256": "1130cc5160c8a6f87578f071f70595c679fb1535a8899aa02e13c9b0d093da07",
+      "nota": "notes/2015/teoria/campo-electrico-cargas-puntuales-componentes.md",
+      "paginas_revisadas": [
+        11,
+        12,
+        13
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 12,
+      "math_renderizada_github": 12,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/teoria/campo-electrico-cargas-puntuales-componentes.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/UNIDAD 1 Fuerza electrica y campo electrico-1.pdf",
+      "sha256": "1130cc5160c8a6f87578f071f70595c679fb1535a8899aa02e13c9b0d093da07",
+      "nota": "notes/2015/teoria/campo-electrico-hilo-plano-infinitos.md",
+      "paginas_revisadas": [
+        14,
+        15
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 0,
+      "math_renderizada_github": 0,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/teoria/campo-electrico-hilo-plano-infinitos.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/UNIDAD 1 Fuerza electrica y campo electrico-1.pdf",
+      "sha256": "1130cc5160c8a6f87578f071f70595c679fb1535a8899aa02e13c9b0d093da07",
+      "nota": "notes/2015/teoria/fuerza-electrica-principio-superposicion.md",
+      "paginas_revisadas": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 20,
+      "math_renderizada_github": 20,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/teoria/fuerza-electrica-principio-superposicion.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/UNIDAD 1 Fuerza electrica y campo electrico-1.pdf",
+      "sha256": "1130cc5160c8a6f87578f071f70595c679fb1535a8899aa02e13c9b0d093da07",
+      "nota": "notes/2015/teoria/campo-electrico-definicion-carga-prueba.md",
+      "paginas_revisadas": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 6,
+      "math_renderizada_github": 6,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/teoria/campo-electrico-definicion-carga-prueba.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/480938-Modelos de parcial FISICA II actualizado 060813(0).pdf",
+      "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+      "nota": "notes/2015/practica/modelos-examenes-parciales-finales-version-1-1.md",
+      "paginas_revisadas": [
+        1,
+        2,
+        13,
+        24
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 0,
+      "math_renderizada_github": 0,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/modelos-examenes-parciales-finales-version-1-1.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
+      "fuentes_adicionales": [
+        {
+          "original": "2015/Extras/DOC-20160612-WA0011.pdf",
+          "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+          "paginas_verificadas_identidad_render": [
+            1,
+            2,
+            13,
+            24
+          ],
+          "estado": "píxeles idénticos a páginas de referencia ya cotejadas; evidencia en duplicados-render.json"
+        }
+      ]
+    },
+    {
+      "original": "2015/480938-Modelos de parcial FISICA II actualizado 060813(0).pdf",
+      "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+      "nota": "notes/2015/practica/recuperatorio-2008-tema-1-problemas-5-8.md",
+      "paginas_revisadas": [
+        6
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 5,
+      "math_renderizada_github": 5,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/recuperatorio-2008-tema-1-problemas-5-8.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
+      "fuentes_adicionales": [
+        {
+          "original": "2015/Extras/DOC-20160612-WA0011.pdf",
+          "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+          "paginas_verificadas_identidad_render": [
+            6
+          ],
+          "estado": "píxeles idénticos a páginas de referencia ya cotejadas; evidencia en duplicados-render.json"
+        }
+      ]
+    },
+    {
+      "original": "2015/480938-Modelos de parcial FISICA II actualizado 060813(0).pdf",
+      "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+      "nota": "notes/2015/practica/iq-recuperatorio-primer-parcial-tema-a.md",
+      "paginas_revisadas": [
+        5
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 2,
+      "math_renderizada_github": 2,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/iq-recuperatorio-primer-parcial-tema-a.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
+      "fuentes_adicionales": [
+        {
+          "original": "2015/Extras/DOC-20160612-WA0011.pdf",
+          "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+          "paginas_verificadas_identidad_render": [
+            5
+          ],
+          "estado": "píxeles idénticos a páginas de referencia ya cotejadas; evidencia en duplicados-render.json"
+        }
+      ]
+    },
+    {
+      "original": "2015/480938-Modelos de parcial FISICA II actualizado 060813(0).pdf",
+      "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+      "nota": "notes/2015/practica/primer-parcial-2010-tema-1-calor-cargas.md",
+      "paginas_revisadas": [
+        8
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 5,
+      "math_renderizada_github": 5,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/primer-parcial-2010-tema-1-calor-cargas.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
+      "fuentes_adicionales": [
+        {
+          "original": "2015/Extras/DOC-20160612-WA0011.pdf",
+          "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+          "paginas_verificadas_identidad_render": [
+            8
+          ],
+          "estado": "píxeles idénticos a páginas de referencia ya cotejadas; evidencia en duplicados-render.json"
+        }
+      ]
+    },
+    {
+      "original": "2015/480938-Modelos de parcial FISICA II actualizado 060813(0).pdf",
+      "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+      "nota": "notes/2015/practica/primer-parcial-2010-tema-2-calor-cargas.md",
+      "paginas_revisadas": [
+        9
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 5,
+      "math_renderizada_github": 5,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/primer-parcial-2010-tema-2-calor-cargas.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
+      "fuentes_adicionales": [
+        {
+          "original": "2015/Extras/DOC-20160612-WA0011.pdf",
+          "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+          "paginas_verificadas_identidad_render": [
+            9
+          ],
+          "estado": "píxeles idénticos a páginas de referencia ya cotejadas; evidencia en duplicados-render.json"
+        }
+      ]
+    },
+    {
+      "original": "2015/480938-Modelos de parcial FISICA II actualizado 060813(0).pdf",
+      "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+      "nota": "notes/2015/practica/iem-2010-recuperatorio-extraordinario-cargas-calor.md",
+      "paginas_revisadas": [
+        9
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 4,
+      "math_renderizada_github": 4,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/iem-2010-recuperatorio-extraordinario-cargas-calor.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
+      "fuentes_adicionales": [
+        {
+          "original": "2015/Extras/DOC-20160612-WA0011.pdf",
+          "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+          "paginas_verificadas_identidad_render": [
+            9
+          ],
+          "estado": "píxeles idénticos a páginas de referencia ya cotejadas; evidencia en duplicados-render.json"
+        }
+      ]
+    },
+    {
+      "original": "2015/480938-Modelos de parcial FISICA II actualizado 060813(0).pdf",
+      "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+      "nota": "notes/2015/practica/iem-2009-recuperatorio-primer-parcial-calor-molar-cinco-medios.md",
+      "paginas_revisadas": [
+        7
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 6,
+      "math_renderizada_github": 6,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/iem-2009-recuperatorio-primer-parcial-calor-molar-cinco-medios.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
+      "fuentes_adicionales": [
+        {
+          "original": "2015/Extras/DOC-20160612-WA0011.pdf",
+          "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+          "paginas_verificadas_identidad_render": [
+            7
+          ],
+          "estado": "píxeles idénticos a páginas de referencia ya cotejadas; evidencia en duplicados-render.json"
+        }
+      ]
+    },
+    {
+      "original": "2015/480938-Modelos de parcial FISICA II actualizado 060813(0).pdf",
+      "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+      "nota": "notes/2015/practica/iem-2009-recuperatorio-primer-parcial-calor-molar-tres-medios.md",
+      "paginas_revisadas": [
+        8
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 3,
+      "math_renderizada_github": 3,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/iem-2009-recuperatorio-primer-parcial-calor-molar-tres-medios.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
+      "fuentes_adicionales": [
+        {
+          "original": "2015/Extras/DOC-20160612-WA0011.pdf",
+          "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+          "paginas_verificadas_identidad_render": [
+            8
+          ],
+          "estado": "píxeles idénticos a páginas de referencia ya cotejadas; evidencia en duplicados-render.json"
+        }
+      ]
+    },
+    {
+      "original": "2015/480938-Modelos de parcial FISICA II actualizado 060813(0).pdf",
+      "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+      "nota": "notes/2015/practica/isi-recuperatorio-segundo-parcial-tema-a.md",
+      "paginas_revisadas": [
+        14
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 1,
+      "math_renderizada_github": 1,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/isi-recuperatorio-segundo-parcial-tema-a.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
+      "pendientes_lectura": [
+        "Unidad de anotación manuscrita de R; imagen original conservada"
+      ],
+      "fuentes_adicionales": [
+        {
+          "original": "2015/Extras/DOC-20160612-WA0011.pdf",
+          "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+          "paginas_verificadas_identidad_render": [
+            14
+          ],
+          "estado": "píxeles idénticos a páginas de referencia ya cotejadas; evidencia en duplicados-render.json"
+        }
+      ]
+    },
+    {
+      "original": "2015/480938-Modelos de parcial FISICA II actualizado 060813(0).pdf",
+      "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+      "nota": "notes/2015/practica/parcial-corrientes-circuito-onda-em.md",
+      "paginas_revisadas": [
+        21
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 2,
+      "math_renderizada_github": 2,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/parcial-corrientes-circuito-onda-em.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
+      "fuentes_adicionales": [
+        {
+          "original": "2015/Extras/DOC-20160612-WA0011.pdf",
+          "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+          "paginas_verificadas_identidad_render": [
+            21
+          ],
+          "estado": "píxeles idénticos a páginas de referencia ya cotejadas; evidencia en duplicados-render.json"
+        }
+      ]
+    },
+    {
+      "original": "2015/480938-Modelos de parcial FISICA II actualizado 060813(0).pdf",
+      "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+      "nota": "notes/2015/practica/iq-2009-segundo-parcial-tema-1-version-sin-velocidad.md",
+      "paginas_revisadas": [
+        21
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 0,
+      "math_renderizada_github": 0,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/iq-2009-segundo-parcial-tema-1-version-sin-velocidad.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
+      "fuentes_adicionales": [
+        {
+          "original": "2015/Extras/DOC-20160612-WA0011.pdf",
+          "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+          "paginas_verificadas_identidad_render": [
+            21
+          ],
+          "estado": "píxeles idénticos a páginas de referencia ya cotejadas; evidencia en duplicados-render.json"
+        }
+      ]
+    },
+    {
+      "original": "2015/480938-Modelos de parcial FISICA II actualizado 060813(0).pdf",
+      "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+      "nota": "notes/2015/practica/segundo-parcial-2008-tema-1-instrumentos-espectrografo.md",
+      "paginas_revisadas": [
+        20
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 2,
+      "math_renderizada_github": 2,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/segundo-parcial-2008-tema-1-instrumentos-espectrografo.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
+      "fuentes_adicionales": [
+        {
+          "original": "2015/Extras/DOC-20160612-WA0011.pdf",
+          "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+          "paginas_verificadas_identidad_render": [
+            20
+          ],
+          "estado": "píxeles idénticos a páginas de referencia ya cotejadas; evidencia en duplicados-render.json"
+        }
+      ]
+    },
+    {
+      "original": "2015/480938-Modelos de parcial FISICA II actualizado 060813(0).pdf",
+      "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+      "nota": "notes/2015/practica/segundo-parcial-2008-tema-2-instrumentos-espectrografo.md",
+      "paginas_revisadas": [
+        20
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 0,
+      "math_renderizada_github": 0,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/segundo-parcial-2008-tema-2-instrumentos-espectrografo.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
+      "fuentes_adicionales": [
+        {
+          "original": "2015/Extras/DOC-20160612-WA0011.pdf",
+          "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+          "paginas_verificadas_identidad_render": [
+            20
+          ],
+          "estado": "píxeles idénticos a páginas de referencia ya cotejadas; evidencia en duplicados-render.json"
+        }
+      ]
+    },
+    {
+      "original": "2015/480938-Modelos de parcial FISICA II actualizado 060813(0).pdf",
+      "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+      "nota": "notes/2015/practica/recuperatorio-segundo-parcial-tema-1-espectrografo.md",
+      "paginas_revisadas": [
+        15
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 2,
+      "math_renderizada_github": 2,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/recuperatorio-segundo-parcial-tema-1-espectrografo.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
+      "fuentes_adicionales": [
+        {
+          "original": "2015/Extras/DOC-20160612-WA0011.pdf",
+          "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+          "paginas_verificadas_identidad_render": [
+            15
+          ],
+          "estado": "píxeles idénticos a páginas de referencia ya cotejadas; evidencia en duplicados-render.json"
+        }
+      ]
+    },
+    {
+      "original": "2015/480938-Modelos de parcial FISICA II actualizado 060813(0).pdf",
+      "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+      "nota": "notes/2015/practica/recuperatorio-segundo-parcial-tema-2-espectrografo.md",
+      "paginas_revisadas": [
+        15
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 2,
+      "math_renderizada_github": 2,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/recuperatorio-segundo-parcial-tema-2-espectrografo.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
+      "fuentes_adicionales": [
+        {
+          "original": "2015/Extras/DOC-20160612-WA0011.pdf",
+          "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+          "paginas_verificadas_identidad_render": [
+            15
+          ],
+          "estado": "píxeles idénticos a páginas de referencia ya cotejadas; evidencia en duplicados-render.json"
+        }
+      ]
+    },
+    {
+      "original": "2015/480938-Modelos de parcial FISICA II actualizado 060813(0).pdf",
+      "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+      "nota": "notes/2015/practica/iq-recuperatorio-segundo-parcial-instrumentos-coaxial-barra.md",
+      "paginas_revisadas": [
+        19
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 0,
+      "math_renderizada_github": 0,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/iq-recuperatorio-segundo-parcial-instrumentos-coaxial-barra.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
+      "fuentes_adicionales": [
+        {
+          "original": "2015/Extras/DOC-20160612-WA0011.pdf",
+          "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+          "paginas_verificadas_identidad_render": [
+            19
+          ],
+          "estado": "píxeles idénticos a páginas de referencia ya cotejadas; evidencia en duplicados-render.json"
+        }
+      ]
+    },
+    {
+      "original": "2015/480938-Modelos de parcial FISICA II actualizado 060813(0).pdf",
+      "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+      "nota": "notes/2015/practica/recuperatorio-2008-primer-parcial-tema-1.md",
+      "paginas_revisadas": [
+        19
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 0,
+      "math_renderizada_github": 0,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/recuperatorio-2008-primer-parcial-tema-1.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
+      "fuentes_adicionales": [
+        {
+          "original": "2015/Extras/DOC-20160612-WA0011.pdf",
+          "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+          "paginas_verificadas_identidad_render": [
+            19
+          ],
+          "estado": "píxeles idénticos a páginas de referencia ya cotejadas; evidencia en duplicados-render.json"
+        }
+      ]
+    },
+    {
+      "original": "2015/480938-Modelos de parcial FISICA II actualizado 060813(0).pdf",
+      "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+      "nota": "notes/2015/practica/isi-recuperatorio-primer-parcial-alambres-resortes-rc.md",
+      "paginas_revisadas": [
+        17
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 0,
+      "math_renderizada_github": 0,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/isi-recuperatorio-primer-parcial-alambres-resortes-rc.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
+      "fuentes_adicionales": [
+        {
+          "original": "2015/Extras/DOC-20160612-WA0011.pdf",
+          "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+          "paginas_verificadas_identidad_render": [
+            17
+          ],
+          "estado": "píxeles idénticos a páginas de referencia ya cotejadas; evidencia en duplicados-render.json"
+        }
+      ]
+    },
+    {
+      "original": "2015/480938-Modelos de parcial FISICA II actualizado 060813(0).pdf",
+      "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+      "nota": "notes/2015/practica/recuperatorio-segundo-parcial-t2-espira-conductores-rl.md",
+      "paginas_revisadas": [
+        17
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 0,
+      "math_renderizada_github": 0,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/recuperatorio-segundo-parcial-t2-espira-conductores-rl.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
+      "fuentes_adicionales": [
+        {
+          "original": "2015/Extras/DOC-20160612-WA0011.pdf",
+          "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+          "paginas_verificadas_identidad_render": [
+            17
+          ],
+          "estado": "píxeles idénticos a páginas de referencia ya cotejadas; evidencia en duplicados-render.json"
+        }
+      ]
+    },
+    {
+      "original": "2015/480938-Modelos de parcial FISICA II actualizado 060813(0).pdf",
+      "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+      "nota": "notes/2015/practica/segundo-parcial-2007-tema-b.md",
+      "paginas_revisadas": [
+        18
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 2,
+      "math_renderizada_github": 2,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/segundo-parcial-2007-tema-b.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
+      "fuentes_adicionales": [
+        {
+          "original": "2015/Extras/DOC-20160612-WA0011.pdf",
+          "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+          "paginas_verificadas_identidad_render": [
+            18
+          ],
+          "estado": "píxeles idénticos a páginas de referencia ya cotejadas; evidencia en duplicados-render.json"
+        }
+      ]
+    },
+    {
+      "original": "2015/480938-Modelos de parcial FISICA II actualizado 060813(0).pdf",
+      "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+      "nota": "notes/2015/practica/segundo-parcial-tema-1-circuito-alambre-espira.md",
+      "paginas_revisadas": [
+        16
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 0,
+      "math_renderizada_github": 0,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/segundo-parcial-tema-1-circuito-alambre-espira.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
+      "fuentes_adicionales": [
+        {
+          "original": "2015/Extras/DOC-20160612-WA0011.pdf",
+          "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+          "paginas_verificadas_identidad_render": [
+            16
+          ],
+          "estado": "píxeles idénticos a páginas de referencia ya cotejadas; evidencia en duplicados-render.json"
+        }
+      ]
+    },
+    {
+      "original": "2015/480938-Modelos de parcial FISICA II actualizado 060813(0).pdf",
+      "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+      "nota": "notes/2015/practica/segundo-parcial-tema-b-capacitores-corrientes-induccion.md",
+      "paginas_revisadas": [
+        14
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 3,
+      "math_renderizada_github": 3,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/segundo-parcial-tema-b-capacitores-corrientes-induccion.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
+      "fuentes_adicionales": [
+        {
+          "original": "2015/Extras/DOC-20160612-WA0011.pdf",
+          "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+          "paginas_verificadas_identidad_render": [
+            14
+          ],
+          "estado": "píxeles idénticos a páginas de referencia ya cotejadas; evidencia en duplicados-render.json"
+        }
+      ]
+    },
+    {
+      "original": "2015/480938-Modelos de parcial FISICA II actualizado 060813(0).pdf",
+      "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+      "nota": "notes/2015/practica/segundo-parcial-tema-a-capacitores-corrientes-induccion.md",
+      "paginas_revisadas": [
+        16
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 3,
+      "math_renderizada_github": 3,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/segundo-parcial-tema-a-capacitores-corrientes-induccion.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
+      "fuentes_adicionales": [
+        {
+          "original": "2015/Extras/DOC-20160612-WA0011.pdf",
+          "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+          "paginas_verificadas_identidad_render": [
+            16
+          ],
+          "estado": "píxeles idénticos a páginas de referencia ya cotejadas; evidencia en duplicados-render.json"
+        }
+      ]
+    },
+    {
+      "original": "2015/480938-Modelos de parcial FISICA II actualizado 060813(0).pdf",
+      "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+      "nota": "notes/2015/practica/final-2010-marzo.md",
+      "paginas_revisadas": [
+        25
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 4,
+      "math_renderizada_github": 4,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/final-2010-marzo.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
+      "fuentes_adicionales": [
+        {
+          "original": "2015/Extras/DOC-20160612-WA0011.pdf",
+          "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+          "paginas_verificadas_identidad_render": [
+            25
+          ],
+          "estado": "píxeles idénticos a páginas de referencia ya cotejadas; evidencia en duplicados-render.json"
+        }
+      ]
+    },
+    {
+      "original": "2015/480938-Modelos de parcial FISICA II actualizado 060813(0).pdf",
+      "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+      "nota": "notes/2015/practica/final-2009-12-17.md",
+      "paginas_revisadas": [
+        25
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 4,
+      "math_renderizada_github": 4,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/final-2009-12-17.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
+      "fuentes_adicionales": [
+        {
+          "original": "2015/Extras/DOC-20160612-WA0011.pdf",
+          "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+          "paginas_verificadas_identidad_render": [
+            25
+          ],
+          "estado": "píxeles idénticos a páginas de referencia ya cotejadas; evidencia en duplicados-render.json"
+        }
+      ]
+    },
+    {
+      "original": "2015/480938-Modelos de parcial FISICA II actualizado 060813(0).pdf",
+      "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+      "nota": "notes/2015/practica/iq-2009-segundo-parcial-tema-1.md",
+      "paginas_revisadas": [
+        26
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 0,
+      "math_renderizada_github": 0,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/iq-2009-segundo-parcial-tema-1.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
+      "fuentes_adicionales": [
+        {
+          "original": "2015/Extras/DOC-20160612-WA0011.pdf",
+          "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+          "paginas_verificadas_identidad_render": [
+            26
+          ],
+          "estado": "píxeles idénticos a páginas de referencia ya cotejadas; evidencia en duplicados-render.json"
+        }
+      ]
+    },
+    {
+      "original": "2015/480938-Modelos de parcial FISICA II actualizado 060813(0).pdf",
+      "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+      "nota": "notes/2015/practica/iq-2009-segundo-parcial-tema-2.md",
+      "paginas_revisadas": [
+        26,
+        27
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 1,
+      "math_renderizada_github": 1,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/iq-2009-segundo-parcial-tema-2.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
+      "fuentes_adicionales": [
+        {
+          "original": "2015/Extras/DOC-20160612-WA0011.pdf",
+          "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+          "paginas_verificadas_identidad_render": [
+            26,
+            27
+          ],
+          "estado": "píxeles idénticos a páginas de referencia ya cotejadas; evidencia en duplicados-render.json"
+        }
+      ]
+    },
+    {
+      "original": "2015/480938-Modelos de parcial FISICA II actualizado 060813(0).pdf",
+      "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+      "nota": "notes/2015/practica/iem-2010-recuperatorio-extraordinario-segundo-parcial.md",
+      "paginas_revisadas": [
+        22
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 1,
+      "math_renderizada_github": 1,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/iem-2010-recuperatorio-extraordinario-segundo-parcial.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
+      "fuentes_adicionales": [
+        {
+          "original": "2015/Extras/DOC-20160612-WA0011.pdf",
+          "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+          "paginas_verificadas_identidad_render": [
+            22
+          ],
+          "estado": "píxeles idénticos a páginas de referencia ya cotejadas; evidencia en duplicados-render.json"
+        }
+      ]
+    },
+    {
+      "original": "2015/480938-Modelos de parcial FISICA II actualizado 060813(0).pdf",
+      "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+      "nota": "notes/2015/practica/segundo-parcial-2010-tema-1.md",
+      "paginas_revisadas": [
+        22
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 1,
+      "math_renderizada_github": 1,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/segundo-parcial-2010-tema-1.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
+      "fuentes_adicionales": [
+        {
+          "original": "2015/Extras/DOC-20160612-WA0011.pdf",
+          "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+          "paginas_verificadas_identidad_render": [
+            22
+          ],
+          "estado": "píxeles idénticos a páginas de referencia ya cotejadas; evidencia en duplicados-render.json"
+        }
+      ]
+    },
+    {
+      "original": "2015/480938-Modelos de parcial FISICA II actualizado 060813(0).pdf",
+      "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+      "nota": "notes/2015/practica/segundo-parcial-2010-tema-2.md",
+      "paginas_revisadas": [
+        22,
+        23
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 2,
+      "math_renderizada_github": 2,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/segundo-parcial-2010-tema-2.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
+      "fuentes_adicionales": [
+        {
+          "original": "2015/Extras/DOC-20160612-WA0011.pdf",
+          "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+          "paginas_verificadas_identidad_render": [
+            22,
+            23
+          ],
+          "estado": "píxeles idénticos a páginas de referencia ya cotejadas; evidencia en duplicados-render.json"
+        }
+      ]
+    },
+    {
+      "original": "2015/480938-Modelos de parcial FISICA II actualizado 060813(0).pdf",
+      "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+      "nota": "notes/2015/practica/primer-parcial-tema-2-varilla-cargas-cilindro.md",
+      "paginas_revisadas": [
+        7
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 3,
+      "math_renderizada_github": 3,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/primer-parcial-tema-2-varilla-cargas-cilindro.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
+      "fuentes_adicionales": [
+        {
+          "original": "2015/Extras/DOC-20160612-WA0011.pdf",
+          "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+          "paginas_verificadas_identidad_render": [
+            7
+          ],
+          "estado": "píxeles idénticos a páginas de referencia ya cotejadas; evidencia en duplicados-render.json"
+        }
+      ]
+    },
+    {
+      "original": "2015/480938-Modelos de parcial FISICA II actualizado 060813(0).pdf",
+      "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+      "nota": "notes/2015/practica/recuperatorio-2008-primer-parcial-tema-2.md",
+      "paginas_revisadas": [
+        6
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 4,
+      "math_renderizada_github": 4,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/recuperatorio-2008-primer-parcial-tema-2.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
+      "fuentes_adicionales": [
+        {
+          "original": "2015/Extras/DOC-20160612-WA0011.pdf",
+          "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+          "paginas_verificadas_identidad_render": [
+            6
+          ],
+          "estado": "píxeles idénticos a páginas de referencia ya cotejadas; evidencia en duplicados-render.json"
+        }
+      ]
+    },
+    {
+      "original": "2015/480938-Modelos de parcial FISICA II actualizado 060813(0).pdf",
+      "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+      "nota": "notes/2015/practica/primer-parcial-f2-calor-cargas-esfera.md",
+      "paginas_revisadas": [
+        4
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 5,
+      "math_renderizada_github": 5,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/primer-parcial-f2-calor-cargas-esfera.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
+      "fuentes_adicionales": [
+        {
+          "original": "2015/Extras/DOC-20160612-WA0011.pdf",
+          "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+          "paginas_verificadas_identidad_render": [
+            4
+          ],
+          "estado": "píxeles idénticos a páginas de referencia ya cotejadas; evidencia en duplicados-render.json"
+        }
+      ]
+    },
+    {
+      "original": "2015/480938-Modelos de parcial FISICA II actualizado 060813(0).pdf",
+      "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+      "nota": "notes/2015/practica/primer-parcial-tema-1-campo-esfera-capacitores.md",
+      "paginas_revisadas": [
+        4
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 5,
+      "math_renderizada_github": 5,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/primer-parcial-tema-1-campo-esfera-capacitores.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
+      "fuentes_adicionales": [
+        {
+          "original": "2015/Extras/DOC-20160612-WA0011.pdf",
+          "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+          "paginas_verificadas_identidad_render": [
+            4
+          ],
+          "estado": "píxeles idénticos a páginas de referencia ya cotejadas; evidencia en duplicados-render.json"
+        }
+      ]
+    },
+    {
+      "original": "2015/480938-Modelos de parcial FISICA II actualizado 060813(0).pdf",
+      "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+      "nota": "notes/2015/practica/primer-parcial-2007-tema-a.md",
+      "paginas_revisadas": [
+        5
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 8,
+      "math_renderizada_github": 8,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/primer-parcial-2007-tema-a.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
+      "fuentes_adicionales": [
+        {
+          "original": "2015/Extras/DOC-20160612-WA0011.pdf",
+          "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+          "paginas_verificadas_identidad_render": [
+            5
+          ],
+          "estado": "píxeles idénticos a páginas de referencia ya cotejadas; evidencia en duplicados-render.json"
+        }
+      ]
+    },
+    {
+      "original": "2015/480938-Modelos de parcial FISICA II actualizado 060813(0).pdf",
+      "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+      "nota": "notes/2015/practica/primer-parcial-tema-1-cargas-pelota-esfera-capacitores.md",
+      "paginas_revisadas": [
+        3
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 0,
+      "math_renderizada_github": 0,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/primer-parcial-tema-1-cargas-pelota-esfera-capacitores.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
+      "fuentes_adicionales": [
+        {
+          "original": "2015/Extras/DOC-20160612-WA0011.pdf",
+          "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+          "paginas_verificadas_identidad_render": [
+            3
+          ],
+          "estado": "píxeles idénticos a páginas de referencia ya cotejadas; evidencia en duplicados-render.json"
+        }
+      ]
+    },
+    {
+      "original": "2015/480938-Modelos de parcial FISICA II actualizado 060813(0).pdf",
+      "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+      "nota": "notes/2015/practica/iq-recuperatorio-primer-parcial-tema-b.md",
+      "paginas_revisadas": [
+        3
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 4,
+      "math_renderizada_github": 4,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/iq-recuperatorio-primer-parcial-tema-b.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
+      "fuentes_adicionales": [
+        {
+          "original": "2015/Extras/DOC-20160612-WA0011.pdf",
+          "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+          "paginas_verificadas_identidad_render": [
+            3
+          ],
+          "estado": "píxeles idénticos a páginas de referencia ya cotejadas; evidencia en duplicados-render.json"
+        }
+      ]
+    },
+    {
+      "original": "2015/480938-Modelos de parcial FISICA II actualizado 060813(0).pdf",
+      "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+      "nota": "notes/2015/practica/iem-2010-recuperatorio-primer-parcial-tema-1.md",
+      "paginas_revisadas": [
+        10,
+        11
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 16,
+      "math_renderizada_github": 16,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/iem-2010-recuperatorio-primer-parcial-tema-1.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
+      "fuentes_adicionales": [
+        {
+          "original": "2015/Extras/DOC-20160612-WA0011.pdf",
+          "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+          "paginas_verificadas_identidad_render": [
+            10,
+            11
+          ],
+          "estado": "píxeles idénticos a páginas de referencia ya cotejadas; evidencia en duplicados-render.json"
+        }
+      ]
+    },
+    {
+      "original": "2015/480938-Modelos de parcial FISICA II actualizado 060813(0).pdf",
+      "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+      "nota": "notes/2015/practica/iem-2010-recuperatorio-primer-parcial-tema-2.md",
+      "paginas_revisadas": [
+        11,
+        12
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 17,
+      "math_renderizada_github": 17,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/iem-2010-recuperatorio-primer-parcial-tema-2.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
+      "fuentes_adicionales": [
+        {
+          "original": "2015/Extras/DOC-20160612-WA0011.pdf",
+          "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+          "paginas_verificadas_identidad_render": [
+            11,
+            12
+          ],
+          "estado": "píxeles idénticos a páginas de referencia ya cotejadas; evidencia en duplicados-render.json"
+        }
+      ]
+    },
+    {
+      "original": "2015/480938-Modelos de parcial FISICA II actualizado 060813(0).pdf",
+      "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+      "nota": "notes/2015/practica/primer-parcial-2008-09-16-tema-1.md",
+      "paginas_revisadas": [
+        12
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 7,
+      "math_renderizada_github": 7,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/primer-parcial-2008-09-16-tema-1.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
+      "fuentes_adicionales": [
+        {
+          "original": "2015/Extras/DOC-20160612-WA0011.pdf",
+          "sha256": "1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e",
+          "paginas_verificadas_identidad_render": [
+            12
+          ],
+          "estado": "píxeles idénticos a páginas de referencia ya cotejadas; evidencia en duplicados-render.json"
+        }
+      ]
+    },
+    {
+      "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS 2015 - TP N° 1.docx",
+      "sha256": "0dcfa5e1bb140927a5baed3ccd1428d37f72a2885d53f701c2c9fff1d6822fd0",
+      "nota": "notes/2015/practica/potencial-electrico-mapeo-laboratorio-1.md",
+      "paginas_revisadas": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "paginacion": "PDF normalizado desde DOCX; depende del renderizador",
+      "math_esperada": 26,
+      "math_renderizada_github": 26,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/potencial-electrico-mapeo-laboratorio-1.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS 2015 - TP N° 2.docx",
+      "sha256": "35b51f553950e81434b4cb0db5645a32954ef68d785ae7d163c80187fd3c8c1d",
+      "nota": "notes/2015/practica/ecuacion-de-laplace-laboratorio-2.md",
+      "paginas_revisadas": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "paginacion": "PDF normalizado desde DOCX; depende del renderizador",
+      "math_esperada": 9,
+      "math_renderizada_github": 9,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/ecuacion-de-laplace-laboratorio-2.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/TRABAJO DE LABORATORIO Nº 9 BIS_ Ley de faraday.pdf",
+      "sha256": "59381e5d6ed9b15751e0a12bbe7a8bf55d2772300390ce3a85cb5b78911b96b7",
+      "nota": "notes/2015/practica/ley-de-faraday-laboratorio-9-bis.md",
+      "paginas_revisadas": [
+        1,
+        2
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 17,
+      "math_renderizada_github": 17,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/ley-de-faraday-laboratorio-9-bis.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
+      "fuentes_adicionales": [
+        {
+          "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS.pdf",
+          "sha256": "70e9fa9786e0061c255e9800e559dff99013cc033105f4d23e064053d5d506f9",
+          "paginas_revisadas": [
+            57
+          ],
+          "estado": "anuncio del laboratorio cotejado; solo objeto y resumen compartidos, con aviso adicional registrado"
+        }
+      ]
+    },
+    {
+      "original": "2015/TRABAJO DE LABORATORIO Nº 9 BIS.docx",
+      "sha256": "6dcbaa1c194d0fdb1386d7616b497a0bdd9b4513047f6a1e44c8ffaad3298f2b",
+      "nota": "notes/2015/practica/ley-de-faraday-laboratorio-9-bis-version-docx.md",
+      "paginas_revisadas": [
+        1,
+        2
+      ],
+      "paginacion": "PDF normalizado desde DOCX; depende del renderizador",
+      "math_esperada": 16,
+      "math_renderizada_github": 16,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/ley-de-faraday-laboratorio-9-bis-version-docx.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/GUIA DE PROBLEMAS POLARIZACION-1.pdf",
+      "sha256": "6c3101fdb606626b5d46125b8bbcd59bbd75cfa8ffafc69f990cf6b26f3286f6",
+      "nota": "notes/2015/practica/polarizacion-problemas.md",
+      "paginas_revisadas": [
+        1
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 6,
+      "math_renderizada_github": 6,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/polarizacion-problemas.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/HOJA DE DATOS - TP N° 7.pdf",
+      "sha256": "cb0aedf6129d5ba3237da419ad337fc8dbf3a72c886f95821ff7ac7a1654e1f3",
+      "nota": "notes/2015/practica/campo-magnetico-terrestre-hoja-de-datos.md",
+      "paginas_revisadas": [
+        1
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 6,
+      "math_renderizada_github": 6,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/campo-magnetico-terrestre-hoja-de-datos.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/HOJA DE DATOS - TP N° 8.pdf",
+      "sha256": "24233365951bd907d32436ec4512ac6016f8b21dc42754c2054d57a8acd9a101",
+      "nota": "notes/2015/practica/fuerza-magnetica-hoja-de-datos.md",
+      "paginas_revisadas": [
+        1
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 1,
+      "math_renderizada_github": 1,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/fuerza-magnetica-hoja-de-datos.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/KIRCHOFF - GUIA.docx",
+      "sha256": "79897fe2bab6e028f2649cf08906e5bf720e890c85ba3b91b2f20435d84b0f11",
+      "nota": "notes/2015/practica/leyes-de-kirchhoff-laboratorio-6.md",
+      "paginas_revisadas": [
+        1,
+        2,
+        3
+      ],
+      "paginacion": "PDF normalizado desde DOCX; depende del renderizador",
+      "math_esperada": 2,
+      "math_renderizada_github": 2,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/leyes-de-kirchhoff-laboratorio-6.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/Puente de hilo- GUIA.docx",
+      "sha256": "2f47e1a9ae0574962ee6f76766127f6d1afb19511eebdec7a93cffd199f03d0c",
+      "nota": "notes/2015/practica/medicion-fem-potenciometro-laboratorio-5.md",
+      "paginas_revisadas": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "paginacion": "PDF normalizado desde DOCX; depende del renderizador",
+      "math_esperada": 14,
+      "math_renderizada_github": 14,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/medicion-fem-potenciometro-laboratorio-5.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/1er Parcial/2018 1C Guia 01.1.pdf",
+      "sha256": "8f24ca9e1443b2e6dd153ca862c916da877dcf633b6ddc5e87b4bd27ba9f7197",
+      "nota": "notes/2019/practica/ley-de-coulomb-guia-1-1.md",
+      "paginas_revisadas": [
+        1,
+        2,
+        3
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 28,
+      "math_renderizada_github": 28,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/practica/ley-de-coulomb-guia-1-1.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/1er Parcial/2018 1C Guia 01.2.pdf",
+      "sha256": "3ba373f8d702aa1016ae4b000504b893904110182791193eb919ae336949f20a",
+      "nota": "notes/2019/practica/campo-electrico-guia-1-2.md",
+      "paginas_revisadas": [
+        1,
+        2,
+        3
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 18,
+      "math_renderizada_github": 18,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/practica/campo-electrico-guia-1-2.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2019/1er Parcial/2018 1C Guia 01.3.pdf",
+      "sha256": "3aa48c34e63a8ea1155b39ba28f273552e92987848b4ea071c054ebb0beb6775",
+      "nota": "notes/2019/practica/ley-de-gauss-guia-1-3.md",
+      "paginas_revisadas": [
+        1,
+        2,
+        3
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 12,
+      "math_renderizada_github": 12,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/practica/ley-de-gauss-guia-1-3.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS 2015 - TP N° 4.pdf",
+      "sha256": "fb19b1707932e8874ad5ae05977a83f9eebca246d80f4202518fb80722361ae5",
+      "nota": "notes/2015/practica/ley-de-ohm-asociaciones-laboratorio-4.md",
+      "paginas_revisadas": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 33,
+      "math_renderizada_github": 33,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/ley-de-ohm-asociaciones-laboratorio-4.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS 2015 - tp N° 3.pdf",
+      "sha256": "a7e46cb22afe66acb29dd101476d0f38f8d6234347fcb0849363105086fdd645",
+      "nota": "notes/2015/practica/circuito-rc-capacidad-laboratorio-3.md",
+      "paginas_revisadas": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 43,
+      "math_renderizada_github": 43,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/circuito-rc-capacidad-laboratorio-3.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS 2015- TP N° 8.pdf",
+      "sha256": "074092b8c212861c17089b76c061d3b2245fb57f503fc77b02a3077fdbd09e62",
+      "nota": "notes/2015/practica/fuerza-magnetica-laboratorio-8.md",
+      "paginas_revisadas": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 19,
+      "math_renderizada_github": 19,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/fuerza-magnetica-laboratorio-8.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
+      "fuentes_adicionales": [
+        {
+          "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS 2015- TP N° 8.pdf.pdf",
+          "sha256": "cbac3a9dab0d0636f768bb54d5cdc44e68f87a622e7c43c55d074e81dd04ecf7",
+          "paginas_verificadas_identidad_render": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "estado": "píxeles idénticos a páginas de referencia ya cotejadas; evidencia en duplicados-render.json"
+        }
+      ]
+    },
+    {
+      "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS 2015- TP N° 7-1.pdf",
+      "sha256": "53d7c28ab3daca9c606a3d49f4ad273d2591e9dcde2f3fe9fd9960b81b5811d6",
+      "nota": "notes/2015/practica/campo-induccion-magnetica-laboratorio-7.md",
+      "paginas_revisadas": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 35,
+      "math_renderizada_github": 35,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/campo-induccion-magnetica-laboratorio-7.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
+      "fuentes_adicionales": [
+        {
+          "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS 2015- TP N° 7.pdf.pdf",
+          "sha256": "0e5f0f3572b24911f39be3d34cd5eebba656b6e0420b4dc51dc954711f50c433",
+          "paginas_verificadas_identidad_render": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "estado": "píxeles idénticos a páginas de referencia ya cotejadas; evidencia en duplicados-render.json"
+        }
+      ]
+    },
+    {
+      "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS 2015- TP N° 7-1.pdf",
+      "sha256": "53d7c28ab3daca9c606a3d49f4ad273d2591e9dcde2f3fe9fd9960b81b5811d6",
+      "nota": "notes/2015/practica/fuerza-magnetica-laboratorio-8-version-2.md",
+      "paginas_revisadas": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 20,
+      "math_renderizada_github": 20,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/fuerza-magnetica-laboratorio-8-version-2.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
+      "fuentes_adicionales": [
+        {
+          "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS 2015- TP N° 7.pdf.pdf",
+          "sha256": "0e5f0f3572b24911f39be3d34cd5eebba656b6e0420b4dc51dc954711f50c433",
+          "paginas_verificadas_identidad_render": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "estado": "píxeles idénticos a páginas de referencia ya cotejadas; evidencia en duplicados-render.json"
+        }
+      ]
+    },
+    {
+      "original": "2015/HOJA DE DATOS  TP Nº 1.docx",
+      "sha256": "5c2b24178f07925e46ac3050f3f2e4962a1d1446472595ab56969b0e0497ba2b",
+      "nota": "notes/2015/practica/potencial-electrico-hoja-de-datos.md",
+      "paginas_revisadas": [
+        1
+      ],
+      "paginacion": "PDF normalizado desde DOCX; depende del renderizador",
+      "math_esperada": 0,
+      "math_renderizada_github": 0,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/potencial-electrico-hoja-de-datos.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/HOJA DE DATOS  TP Nº 2.docx",
+      "sha256": "947b2c1a219539da47f56bcf75dd9b995228f32e5c5f6f059cb0ffab733324a0",
+      "nota": "notes/2015/practica/ecuacion-laplace-hoja-de-datos.md",
+      "paginas_revisadas": [
+        1
+      ],
+      "paginacion": "PDF normalizado desde DOCX; depende del renderizador",
+      "math_esperada": 0,
+      "math_renderizada_github": 0,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/ecuacion-laplace-hoja-de-datos.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/HOJA DE DATOS  TP Nº 4.docx",
+      "sha256": "6127bfd8b2de324f0069e215c8628d195ffc0414bfde9d3a7ecfa31975c31a6d",
+      "nota": "notes/2015/practica/ley-de-ohm-hoja-de-datos.md",
+      "paginas_revisadas": [
+        1
+      ],
+      "paginacion": "PDF normalizado desde DOCX; depende del renderizador",
+      "math_esperada": 10,
+      "math_renderizada_github": 10,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/ley-de-ohm-hoja-de-datos.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/HOJA DE DATOS  TP Nº3.docx",
+      "sha256": "1f425e49b1d9a1f0d49d842636e4fca8ad1dbda4d6c8cb889334e7ab9f043129",
+      "nota": "notes/2015/practica/circuito-rc-hoja-de-datos.md",
+      "paginas_revisadas": [
+        1
+      ],
+      "paginacion": "PDF normalizado desde DOCX; depende del renderizador",
+      "math_esperada": 0,
+      "math_renderizada_github": 0,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/circuito-rc-hoja-de-datos.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/GUIA DE PROBLEMAS PROPUESTOS  3ra parte.pdf",
+      "sha256": "9e435dc4dcfe136f2d31bf379dec734d46dec3dc10e330ada029d54b92a038b1",
+      "nota": "notes/2015/practica/interferencia-calor-termodinamica-problemas.md",
+      "paginas_revisadas": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 33,
+      "math_renderizada_github": 33,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/interferencia-calor-termodinamica-problemas.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
+      "fuentes_adicionales": [
+        {
+          "original": "2015/GUIA DE PROBLEMAS PROPUESTOS 1ra parte.pdf",
+          "sha256": "efac01b619f48d06286a725a5a7ccc8de7b6baffb2a931515c9dba28ae7e5e5b",
+          "paginas_revisadas": [
+            19,
+            20,
+            21,
+            22,
+            23
+          ],
+          "estado": "contenido cotejado; comparte nota con fuente50; no suma matemática duplicada"
+        }
+      ]
+    },
+    {
+      "original": "2015/GUIA DE PROBLEMAS PROPUESTOS 1ra parte.pdf",
+      "sha256": "efac01b619f48d06286a725a5a7ccc8de7b6baffb2a931515c9dba28ae7e5e5b",
+      "nota": "notes/2015/practica/repaso-analisis-vectorial.md",
+      "paginas_revisadas": [
+        3,
+        4
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 25,
+      "math_renderizada_github": 25,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/repaso-analisis-vectorial.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/GUIA DE PROBLEMAS PROPUESTOS 1ra parte.pdf",
+      "sha256": "efac01b619f48d06286a725a5a7ccc8de7b6baffb2a931515c9dba28ae7e5e5b",
+      "nota": "notes/2015/practica/ley-de-coulomb-guia-1.md",
+      "paginas_revisadas": [
+        5,
+        6
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 11,
+      "math_renderizada_github": 11,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/ley-de-coulomb-guia-1.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/GUIA DE PROBLEMAS PROPUESTOS 1ra parte.pdf",
+      "sha256": "efac01b619f48d06286a725a5a7ccc8de7b6baffb2a931515c9dba28ae7e5e5b",
+      "nota": "notes/2015/practica/campo-electrico-guia.md",
+      "paginas_revisadas": [
+        7,
+        8,
+        9
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 8,
+      "math_renderizada_github": 8,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/campo-electrico-guia.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/GUIA DE PROBLEMAS PROPUESTOS 1ra parte.pdf",
+      "sha256": "efac01b619f48d06286a725a5a7ccc8de7b6baffb2a931515c9dba28ae7e5e5b",
+      "nota": "notes/2015/practica/ley-de-gauss-guia.md",
+      "paginas_revisadas": [
+        9,
+        10,
+        11
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 8,
+      "math_renderizada_github": 8,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/ley-de-gauss-guia.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/GUIA DE PROBLEMAS PROPUESTOS 1ra parte.pdf",
+      "sha256": "efac01b619f48d06286a725a5a7ccc8de7b6baffb2a931515c9dba28ae7e5e5b",
+      "nota": "notes/2015/practica/potencial-electrico-guia.md",
+      "paginas_revisadas": [
+        11,
+        12,
+        13
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 16,
+      "math_renderizada_github": 16,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/potencial-electrico-guia.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/GUIA DE PROBLEMAS PROPUESTOS 1ra parte.pdf",
+      "sha256": "efac01b619f48d06286a725a5a7ccc8de7b6baffb2a931515c9dba28ae7e5e5b",
+      "nota": "notes/2015/practica/capacidad-dielectrico-guia.md",
+      "paginas_revisadas": [
+        13,
+        14,
+        15
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 26,
+      "math_renderizada_github": 26,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/capacidad-dielectrico-guia.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/GUIA DE PROBLEMAS PROPUESTOS 1ra parte.pdf",
+      "sha256": "efac01b619f48d06286a725a5a7ccc8de7b6baffb2a931515c9dba28ae7e5e5b",
+      "nota": "notes/2015/practica/circuitos-electricos-guia.md",
+      "paginas_revisadas": [
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 13,
+      "math_renderizada_github": 13,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/circuitos-electricos-guia.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/GUIA DE PROBLEMAS PROPUESTOS 2da parte.pdf",
+      "sha256": "e2452f4b287c4401d9902c425f82a9caaab0bb7dd7c877c724934eb2bed5a9fa",
+      "nota": "notes/2015/practica/fuerzas-magneticas-cargas-guia.md",
+      "paginas_revisadas": [
+        1,
+        2,
+        3
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 32,
+      "math_renderizada_github": 32,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/fuerzas-magneticas-cargas-guia.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
+      "fuentes_adicionales": [
+        {
+          "original": "2015/Extras/DOC-20160609-WA0004.pdf",
+          "sha256": "e2452f4b287c4401d9902c425f82a9caaab0bb7dd7c877c724934eb2bed5a9fa",
+          "paginas_verificadas_identidad_render": [
+            1,
+            2,
+            3
+          ],
+          "estado": "píxeles idénticos a páginas de referencia ya cotejadas; evidencia en duplicados-render.json"
+        }
+      ]
+    },
+    {
+      "original": "2015/GUIA DE PROBLEMAS PROPUESTOS 2da parte.pdf",
+      "sha256": "e2452f4b287c4401d9902c425f82a9caaab0bb7dd7c877c724934eb2bed5a9fa",
+      "nota": "notes/2015/practica/campo-induccion-biot-savart-guia.md",
+      "paginas_revisadas": [
+        4,
+        5,
+        6
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 20,
+      "math_renderizada_github": 20,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/campo-induccion-biot-savart-guia.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
+      "fuentes_adicionales": [
+        {
+          "original": "2015/Extras/DOC-20160609-WA0004.pdf",
+          "sha256": "e2452f4b287c4401d9902c425f82a9caaab0bb7dd7c877c724934eb2bed5a9fa",
+          "paginas_verificadas_identidad_render": [
+            4,
+            5,
+            6
+          ],
+          "estado": "píxeles idénticos a páginas de referencia ya cotejadas; evidencia en duplicados-render.json"
+        }
+      ]
+    },
+    {
+      "original": "2015/GUIA DE PROBLEMAS PROPUESTOS 2da parte.pdf",
+      "sha256": "e2452f4b287c4401d9902c425f82a9caaab0bb7dd7c877c724934eb2bed5a9fa",
+      "nota": "notes/2015/practica/induccion-electromagnetica-guia.md",
+      "paginas_revisadas": [
+        6,
+        7,
+        8
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 8,
+      "math_renderizada_github": 8,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/induccion-electromagnetica-guia.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
+      "fuentes_adicionales": [
+        {
+          "original": "2015/Extras/DOC-20160609-WA0004.pdf",
+          "sha256": "e2452f4b287c4401d9902c425f82a9caaab0bb7dd7c877c724934eb2bed5a9fa",
+          "paginas_verificadas_identidad_render": [
+            6,
+            7,
+            8
+          ],
+          "estado": "píxeles idénticos a páginas de referencia ya cotejadas; evidencia en duplicados-render.json"
+        }
+      ]
+    },
+    {
+      "original": "2015/GUIA DE PROBLEMAS PROPUESTOS 2da parte.pdf",
+      "sha256": "e2452f4b287c4401d9902c425f82a9caaab0bb7dd7c877c724934eb2bed5a9fa",
+      "nota": "notes/2015/practica/magnetismo-medios-materiales-guia.md",
+      "paginas_revisadas": [
+        8,
+        9,
+        10
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 14,
+      "math_renderizada_github": 14,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/magnetismo-medios-materiales-guia.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
+      "fuentes_adicionales": [
+        {
+          "original": "2015/guia de problemas 2011.pdf",
+          "sha256": "5a5ae8ac33a7a3d14d854623015ef14bc0af3dae1651c013aed06567e28a8bca",
+          "paginas_revisadas": [
+            26,
+            27
+          ],
+          "estado": "contenido cotejado; comparte nota con fuente52; no suma matemática duplicada"
+        },
+        {
+          "original": "2015/Extras/DOC-20160609-WA0004.pdf",
+          "sha256": "e2452f4b287c4401d9902c425f82a9caaab0bb7dd7c877c724934eb2bed5a9fa",
+          "paginas_verificadas_identidad_render": [
+            8,
+            9,
+            10
+          ],
+          "estado": "píxeles idénticos a páginas de referencia ya cotejadas; evidencia en duplicados-render.json"
+        }
+      ]
+    },
+    {
+      "original": "2015/GUIA DE PROBLEMAS PROPUESTOS 2da parte.pdf",
+      "sha256": "e2452f4b287c4401d9902c425f82a9caaab0bb7dd7c877c724934eb2bed5a9fa",
+      "nota": "notes/2015/practica/corriente-alterna-guia.md",
+      "paginas_revisadas": [
+        10,
+        11
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 28,
+      "math_renderizada_github": 28,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/corriente-alterna-guia.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
+      "fuentes_adicionales": [
+        {
+          "original": "2015/guia de problemas 2011.pdf",
+          "sha256": "5a5ae8ac33a7a3d14d854623015ef14bc0af3dae1651c013aed06567e28a8bca",
+          "paginas_revisadas": [
+            28,
+            29
+          ],
+          "estado": "contenido cotejado; comparte nota con fuente52; no suma matemática duplicada"
+        },
+        {
+          "original": "2015/Extras/DOC-20160609-WA0004.pdf",
+          "sha256": "e2452f4b287c4401d9902c425f82a9caaab0bb7dd7c877c724934eb2bed5a9fa",
+          "paginas_verificadas_identidad_render": [
+            10,
+            11
+          ],
+          "estado": "píxeles idénticos a páginas de referencia ya cotejadas; evidencia en duplicados-render.json"
+        }
+      ]
+    },
+    {
+      "original": "2015/GUIA DE PROBLEMAS PROPUESTOS 2da parte.pdf",
+      "sha256": "e2452f4b287c4401d9902c425f82a9caaab0bb7dd7c877c724934eb2bed5a9fa",
+      "nota": "notes/2015/practica/maxwell-ondas-electromagneticas-guia.md",
+      "paginas_revisadas": [
+        12,
+        13
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 18,
+      "math_renderizada_github": 18,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/maxwell-ondas-electromagneticas-guia.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
+      "fuentes_adicionales": [
+        {
+          "original": "2015/guia de problemas 2011.pdf",
+          "sha256": "5a5ae8ac33a7a3d14d854623015ef14bc0af3dae1651c013aed06567e28a8bca",
+          "paginas_revisadas": [
+            30,
+            31
+          ],
+          "estado": "contenido cotejado; comparte nota con fuente52; no suma matemática duplicada; defecto gráfico documentado"
+        },
+        {
+          "original": "2015/Extras/DOC-20160609-WA0004.pdf",
+          "sha256": "e2452f4b287c4401d9902c425f82a9caaab0bb7dd7c877c724934eb2bed5a9fa",
+          "paginas_verificadas_identidad_render": [
+            12,
+            13
+          ],
+          "estado": "píxeles idénticos a páginas de referencia ya cotejadas; evidencia en duplicados-render.json"
+        }
+      ]
+    },
+    {
+      "original": "2015/guia de problemas 2011.pdf",
+      "sha256": "5a5ae8ac33a7a3d14d854623015ef14bc0af3dae1651c013aed06567e28a8bca",
+      "nota": "notes/2015/practica/ley-coulomb-guia-2011.md",
+      "paginas_revisadas": [
+        3,
+        4
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 34,
+      "math_renderizada_github": 34,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/ley-coulomb-guia-2011.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/guia de problemas 2011.pdf",
+      "sha256": "5a5ae8ac33a7a3d14d854623015ef14bc0af3dae1651c013aed06567e28a8bca",
+      "nota": "notes/2015/practica/campo-electrico-guia-2011.md",
+      "paginas_revisadas": [
+        5,
+        6
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 35,
+      "math_renderizada_github": 35,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/campo-electrico-guia-2011.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/guia de problemas 2011.pdf",
+      "sha256": "5a5ae8ac33a7a3d14d854623015ef14bc0af3dae1651c013aed06567e28a8bca",
+      "nota": "notes/2015/practica/ley-gauss-guia-2011.md",
+      "paginas_revisadas": [
+        7,
+        8,
+        9
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 32,
+      "math_renderizada_github": 32,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/ley-gauss-guia-2011.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/guia de problemas 2011.pdf",
+      "sha256": "5a5ae8ac33a7a3d14d854623015ef14bc0af3dae1651c013aed06567e28a8bca",
+      "nota": "notes/2015/practica/potencial-electrico-guia-2011.md",
+      "paginas_revisadas": [
+        10,
+        11
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 23,
+      "math_renderizada_github": 23,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/potencial-electrico-guia-2011.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/guia de problemas 2011.pdf",
+      "sha256": "5a5ae8ac33a7a3d14d854623015ef14bc0af3dae1651c013aed06567e28a8bca",
+      "nota": "notes/2015/practica/capacidad-guia-2011.md",
+      "paginas_revisadas": [
+        12,
+        13
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 4,
+      "math_renderizada_github": 4,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/capacidad-guia-2011.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/guia de problemas 2011.pdf",
+      "sha256": "5a5ae8ac33a7a3d14d854623015ef14bc0af3dae1651c013aed06567e28a8bca",
+      "nota": "notes/2015/practica/dielectricos-guia-2011.md",
+      "paginas_revisadas": [
+        14,
+        15
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 29,
+      "math_renderizada_github": 29,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/dielectricos-guia-2011.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/guia de problemas 2011.pdf",
+      "sha256": "5a5ae8ac33a7a3d14d854623015ef14bc0af3dae1651c013aed06567e28a8bca",
+      "nota": "notes/2015/practica/circuitos-electricos-guia-2011.md",
+      "paginas_revisadas": [
+        16,
+        17,
+        18,
+        19
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 20,
+      "math_renderizada_github": 20,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/circuitos-electricos-guia-2011.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/guia de problemas 2011.pdf",
+      "sha256": "5a5ae8ac33a7a3d14d854623015ef14bc0af3dae1651c013aed06567e28a8bca",
+      "nota": "notes/2015/practica/fuerzas-magneticas-guia-2011.md",
+      "paginas_revisadas": [
+        20,
+        21
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 21,
+      "math_renderizada_github": 21,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/fuerzas-magneticas-guia-2011.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/guia de problemas 2011.pdf",
+      "sha256": "5a5ae8ac33a7a3d14d854623015ef14bc0af3dae1651c013aed06567e28a8bca",
+      "nota": "notes/2015/practica/campo-induccion-biot-guia-2011.md",
+      "paginas_revisadas": [
+        22,
+        23
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 10,
+      "math_renderizada_github": 10,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/campo-induccion-biot-guia-2011.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/guia de problemas 2011.pdf",
+      "sha256": "5a5ae8ac33a7a3d14d854623015ef14bc0af3dae1651c013aed06567e28a8bca",
+      "nota": "notes/2015/practica/induccion-electromagnetica-guia-2011.md",
+      "paginas_revisadas": [
+        24,
+        25,
+        26
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 15,
+      "math_renderizada_github": 15,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/induccion-electromagnetica-guia-2011.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS.pdf",
+      "sha256": "70e9fa9786e0061c255e9800e559dff99013cc033105f4d23e064053d5d506f9",
+      "nota": "notes/2015/practica/medicion-fem-hoja-de-datos.md",
+      "paginas_revisadas": [
+        35
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 8,
+      "math_renderizada_github": 8,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/medicion-fem-hoja-de-datos.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS.pdf",
+      "sha256": "70e9fa9786e0061c255e9800e559dff99013cc033105f4d23e064053d5d506f9",
+      "nota": "notes/2015/practica/kirchoff-hoja-de-datos.md",
+      "paginas_revisadas": [
+        39
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 4,
+      "math_renderizada_github": 4,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/kirchoff-hoja-de-datos.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS.pdf",
+      "sha256": "70e9fa9786e0061c255e9800e559dff99013cc033105f4d23e064053d5d506f9",
+      "nota": "notes/2015/practica/xplorer-glx-anexo.md",
+      "paginas_revisadas": [
+        98
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 0,
+      "math_renderizada_github": 0,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/xplorer-glx-anexo.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS.pdf",
+      "sha256": "70e9fa9786e0061c255e9800e559dff99013cc033105f4d23e064053d5d506f9",
+      "nota": "notes/2015/practica/faraday-induccion-toroide-laboratorio-9.md",
+      "paginas_revisadas": [
+        52,
+        53,
+        54,
+        55,
+        56
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 34,
+      "math_renderizada_github": 34,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/faraday-induccion-toroide-laboratorio-9.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS.pdf",
+      "sha256": "70e9fa9786e0061c255e9800e559dff99013cc033105f4d23e064053d5d506f9",
+      "nota": "notes/2015/practica/corriente-alterna-serie-laboratorio-10.md",
+      "paginas_revisadas": [
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 75,
+      "math_renderizada_github": 75,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/corriente-alterna-serie-laboratorio-10.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS.pdf",
+      "sha256": "70e9fa9786e0061c255e9800e559dff99013cc033105f4d23e064053d5d506f9",
+      "nota": "notes/2015/practica/fotometria-laboratorio-11.md",
+      "paginas_revisadas": [
+        65,
+        66,
+        67,
+        68,
+        69
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 15,
+      "math_renderizada_github": 15,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/fotometria-laboratorio-11.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS.pdf",
+      "sha256": "70e9fa9786e0061c255e9800e559dff99013cc033105f4d23e064053d5d506f9",
+      "nota": "notes/2015/practica/interferencia-laboratorio-12.md",
+      "paginas_revisadas": [
+        70,
+        71,
+        72,
+        73
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 21,
+      "math_renderizada_github": 21,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/interferencia-laboratorio-12.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS.pdf",
+      "sha256": "70e9fa9786e0061c255e9800e559dff99013cc033105f4d23e064053d5d506f9",
+      "nota": "notes/2015/practica/difraccion-laboratorio-13.md",
+      "paginas_revisadas": [
+        74,
+        75,
+        76,
+        77
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 22,
+      "math_renderizada_github": 22,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/difraccion-laboratorio-13.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS.pdf",
+      "sha256": "70e9fa9786e0061c255e9800e559dff99013cc033105f4d23e064053d5d506f9",
+      "nota": "notes/2015/practica/espectrometro-laboratorio-14.md",
+      "paginas_revisadas": [
+        78,
+        79,
+        80
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 11,
+      "math_renderizada_github": 11,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/espectrometro-laboratorio-14.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS.pdf",
+      "sha256": "70e9fa9786e0061c255e9800e559dff99013cc033105f4d23e064053d5d506f9",
+      "nota": "notes/2015/practica/polarizacion-laboratorio-15.md",
+      "paginas_revisadas": [
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 47,
+      "math_renderizada_github": 47,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/polarizacion-laboratorio-15.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS.pdf",
+      "sha256": "70e9fa9786e0061c255e9800e559dff99013cc033105f4d23e064053d5d506f9",
+      "nota": "notes/2015/practica/termometria-laboratorio-16.md",
+      "paginas_revisadas": [
+        90,
+        91,
+        92,
+        93
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 9,
+      "math_renderizada_github": 9,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/termometria-laboratorio-16.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS.pdf",
+      "sha256": "70e9fa9786e0061c255e9800e559dff99013cc033105f4d23e064053d5d506f9",
+      "nota": "notes/2015/practica/calorimetria-laboratorio-17.md",
+      "paginas_revisadas": [
+        94,
+        95,
+        96,
+        97
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 29,
+      "math_renderizada_github": 29,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/calorimetria-laboratorio-17.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS.pdf",
+      "sha256": "70e9fa9786e0061c255e9800e559dff99013cc033105f4d23e064053d5d506f9",
+      "nota": "notes/2015/practica/kirchoff-laboratorio-6-compilado.md",
+      "paginas_revisadas": [
+        36,
+        37,
+        38
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 6,
+      "math_renderizada_github": 6,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/kirchoff-laboratorio-6-compilado.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS.pdf",
+      "sha256": "70e9fa9786e0061c255e9800e559dff99013cc033105f4d23e064053d5d506f9",
+      "nota": "notes/2015/practica/medicion-fem-laboratorio-5-compilado.md",
+      "paginas_revisadas": [
+        31,
+        32,
+        33,
+        34
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 15,
+      "math_renderizada_github": 15,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/medicion-fem-laboratorio-5-compilado.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS.pdf",
+      "sha256": "70e9fa9786e0061c255e9800e559dff99013cc033105f4d23e064053d5d506f9",
+      "nota": "notes/2015/practica/campo-induccion-laboratorio-7-compilado.md",
+      "paginas_revisadas": [
+        40,
+        41,
+        42,
+        43,
+        44,
+        45
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 35,
+      "math_renderizada_github": 35,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/campo-induccion-laboratorio-7-compilado.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS.pdf",
+      "sha256": "70e9fa9786e0061c255e9800e559dff99013cc033105f4d23e064053d5d506f9",
+      "nota": "notes/2015/practica/fuerza-magnetica-laboratorio-8-compilado.md",
+      "paginas_revisadas": [
+        46,
+        47,
+        48,
+        49,
+        50,
+        51
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 21,
+      "math_renderizada_github": 21,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/fuerza-magnetica-laboratorio-8-compilado.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS.pdf",
+      "sha256": "70e9fa9786e0061c255e9800e559dff99013cc033105f4d23e064053d5d506f9",
+      "nota": "notes/2015/practica/ley-ohm-laboratorio-4-compilado.md",
+      "paginas_revisadas": [
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 43,
+      "math_renderizada_github": 43,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/ley-ohm-laboratorio-4-compilado.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS.pdf",
+      "sha256": "70e9fa9786e0061c255e9800e559dff99013cc033105f4d23e064053d5d506f9",
+      "nota": "notes/2015/practica/circuito-rc-laboratorio-3-compilado.md",
+      "paginas_revisadas": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 43,
+      "math_renderizada_github": 43,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/circuito-rc-laboratorio-3-compilado.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS.pdf",
+      "sha256": "70e9fa9786e0061c255e9800e559dff99013cc033105f4d23e064053d5d506f9",
+      "nota": "notes/2015/practica/laplace-laboratorio-2-compilado.md",
+      "paginas_revisadas": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 9,
+      "math_renderizada_github": 9,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/laplace-laboratorio-2-compilado.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    },
+    {
+      "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS.pdf",
+      "sha256": "70e9fa9786e0061c255e9800e559dff99013cc033105f4d23e064053d5d506f9",
+      "nota": "notes/2015/practica/potencial-laboratorio-1-compilado.md",
+      "paginas_revisadas": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 26,
+      "math_renderizada_github": 26,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/potencial-laboratorio-1-compilado.md",
+      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+    }
+  ]
+}
