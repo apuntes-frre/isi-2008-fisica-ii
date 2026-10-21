@@ -145,8 +145,10 @@ originales de las normalizadas y registra conteos matemáticos.
 - `2019/3er Parcial/2017 UT XIV - Polarización (1).pptx`: no PDF páginas;
   pendiente. SHA-256:
   `cdbb4a10bd2ae311654780d7928425abe5fad492cc8b8600f298f0a7ace6fc4f`.
-- `2019/3er Parcial/2018 UT XI - Fotometria.pdf`: 32 páginas; pendiente.
-  SHA-256: `b8cd5a2b645f5d301f347d8191d41cd87469e75a7595a0388a7d8ef460d669b2`.
+- `2019/3er Parcial/2018 UT XI - Fotometria.pdf`: 32 páginas completas
+  transcritas en once notas,19figuras y tablas de32,6,6y4filas. Se conservan
+  recortes y celda vacía. Render GitHub pendiente. SHA-256:
+  `b8cd5a2b645f5d301f347d8191d41cd87469e75a7595a0388a7d8ef460d669b2`.
 - `2019/3er Parcial/2018 UT XV Introducción a la Termodinámica.pdf`: 60
   páginas; pendiente. SHA-256:
   `0c255d1c462cf23cf43e89eb6031d28084ef096c4512689fc85322d752c7b15c`.
@@ -166,8 +168,9 @@ originales de las normalizadas y registra conteos matemáticos.
   `resources/common/imposiciones.json`, sin duplicar apuntes ni declarar
   identidad de render. SHA-256:
   `e01eb7f935efffe562f16d41e625a0bcf0f0f3a257126a6299f46b2e69e79665`.
-- `2019/3er Parcial/2019 UT XI - Fotometria..pdf`: 32 páginas; identidad de
-  render verificada; transcripción pendiente junto a referencia. SHA-256:
+- `2019/3er Parcial/2019 UT XI - Fotometria..pdf`: 32 páginas completas;
+  transcripción compartida con fuente127 por identidad binaria verificada,
+  registrada en cobertura por nota. Render GitHub pendiente. SHA-256:
   `b8cd5a2b645f5d301f347d8191d41cd87469e75a7595a0388a7d8ef460d669b2`. Duplicado
   exacto de `2019/3er Parcial/2018 UT XI - Fotometria.pdf`.
 - `2019/3er Parcial/Apuntes de Fotometria.pdf`: 73 páginas; referencia; no

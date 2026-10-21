@@ -1624,3 +1624,17 @@ verificadas también por sus tablas.
 - Total258notas/2743expresiones verificadas. CI de10e833a aprobado.
 - Próximo:127Fotometría32páginas, duplicado exacto132; luego resto de óptica
   y termodinámica. Checkpoint vigente superior actualizado con estado y rutas.
+
+## Checkpoint 95: Fotometría completa, versión2018/2019
+
+- Fuentes127y132:32páginas completas cotejadas; identidad binaria comprobada
+  contra fuente canónica132. Una transcripción compartida en once notas,
+  46expresiones,19figuras y tablas de32,6,6y4filas.
+- Se preservan la celda vacía y recorte inferior de la carta de lámparas, la
+  orientación/recorte de conos y bastones, las cifras33cd y K1699 y la línea de
+  Angstrom sin igual. Los símbolos privados Ω y α se repararon con evidencia.
+- Total269notas/2789expresiones. Las258anteriores/2743están verificadas en
+  GitHub. Las once notas nuevas requieren publicación y revisión de render.
+- Caché persistente ~/.cache/fisica-ii-transcripcion/20261021-fotometria.
+- Próximo:verificar este lote en GitHub; luego134interferencias,135difracción,
+  126polarización,128–129termodinámica y demás pendientes del inventario.

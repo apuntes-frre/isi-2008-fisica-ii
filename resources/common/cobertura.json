@@ -4983,6 +4983,301 @@
       "math_renderizada_github": 9,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/10e833a/notes/2019/teoria/corriente-alterna-resonancia-2019.md",
       "estado": "verificado en GitHub"
+    },
+    {
+      "original": "2019/3er Parcial/2018 UT XI - Fotometria.pdf",
+      "sha256": "b8cd5a2b645f5d301f347d8191d41cd87469e75a7595a0388a7d8ef460d669b2",
+      "nota": "notes/2019/teoria/fotometria-programa-optica-2018.md",
+      "paginas_revisadas": [
+        1,
+        2,
+        3
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 0,
+      "math_renderizada_github": null,
+      "url_github": null,
+      "estado": "pendiente verificar en GitHub",
+      "fuentes_adicionales": [
+        {
+          "original": "2019/3er Parcial/2019 UT XI - Fotometria..pdf",
+          "sha256": "b8cd5a2b645f5d301f347d8191d41cd87469e75a7595a0388a7d8ef460d669b2",
+          "paginas_revisadas": [
+            1,
+            2,
+            3
+          ],
+          "estado": "duplicado binario exacto; mismo contenido y paginación"
+        }
+      ]
+    },
+    {
+      "original": "2019/3er Parcial/2018 UT XI - Fotometria.pdf",
+      "sha256": "b8cd5a2b645f5d301f347d8191d41cd87469e75a7595a0388a7d8ef460d669b2",
+      "nota": "notes/2019/teoria/fotometria-espectro-visible-2018.md",
+      "paginas_revisadas": [
+        4,
+        5
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 5,
+      "math_renderizada_github": null,
+      "url_github": null,
+      "estado": "pendiente verificar en GitHub",
+      "fuentes_adicionales": [
+        {
+          "original": "2019/3er Parcial/2019 UT XI - Fotometria..pdf",
+          "sha256": "b8cd5a2b645f5d301f347d8191d41cd87469e75a7595a0388a7d8ef460d669b2",
+          "paginas_revisadas": [
+            4,
+            5
+          ],
+          "estado": "duplicado binario exacto; mismo contenido y paginación"
+        }
+      ]
+    },
+    {
+      "original": "2019/3er Parcial/2018 UT XI - Fotometria.pdf",
+      "sha256": "b8cd5a2b645f5d301f347d8191d41cd87469e75a7595a0388a7d8ef460d669b2",
+      "nota": "notes/2019/teoria/fotometria-luz-color-percepcion-2018.md",
+      "paginas_revisadas": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 0,
+      "math_renderizada_github": null,
+      "url_github": null,
+      "estado": "pendiente verificar en GitHub",
+      "fuentes_adicionales": [
+        {
+          "original": "2019/3er Parcial/2019 UT XI - Fotometria..pdf",
+          "sha256": "b8cd5a2b645f5d301f347d8191d41cd87469e75a7595a0388a7d8ef460d669b2",
+          "paginas_revisadas": [
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "estado": "duplicado binario exacto; mismo contenido y paginación"
+        }
+      ]
+    },
+    {
+      "original": "2019/3er Parcial/2018 UT XI - Fotometria.pdf",
+      "sha256": "b8cd5a2b645f5d301f347d8191d41cd87469e75a7595a0388a7d8ef460d669b2",
+      "nota": "notes/2019/teoria/fotometria-flujos-radiante-luminoso-2018.md",
+      "paginas_revisadas": [
+        11,
+        13,
+        14
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 9,
+      "math_renderizada_github": null,
+      "url_github": null,
+      "estado": "pendiente verificar en GitHub",
+      "fuentes_adicionales": [
+        {
+          "original": "2019/3er Parcial/2019 UT XI - Fotometria..pdf",
+          "sha256": "b8cd5a2b645f5d301f347d8191d41cd87469e75a7595a0388a7d8ef460d669b2",
+          "paginas_revisadas": [
+            11,
+            13,
+            14
+          ],
+          "estado": "duplicado binario exacto; mismo contenido y paginación"
+        }
+      ]
+    },
+    {
+      "original": "2019/3er Parcial/2018 UT XI - Fotometria.pdf",
+      "sha256": "b8cd5a2b645f5d301f347d8191d41cd87469e75a7595a0388a7d8ef460d669b2",
+      "nota": "notes/2019/teoria/fotometria-equivalencias-lamparas-2018.md",
+      "paginas_revisadas": [
+        12
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 0,
+      "math_renderizada_github": null,
+      "url_github": null,
+      "estado": "pendiente verificar en GitHub",
+      "fuentes_adicionales": [
+        {
+          "original": "2019/3er Parcial/2019 UT XI - Fotometria..pdf",
+          "sha256": "b8cd5a2b645f5d301f347d8191d41cd87469e75a7595a0388a7d8ef460d669b2",
+          "paginas_revisadas": [
+            12
+          ],
+          "estado": "duplicado binario exacto; mismo contenido y paginación"
+        }
+      ]
+    },
+    {
+      "original": "2019/3er Parcial/2018 UT XI - Fotometria.pdf",
+      "sha256": "b8cd5a2b645f5d301f347d8191d41cd87469e75a7595a0388a7d8ef460d669b2",
+      "nota": "notes/2019/teoria/fotometria-rendimiento-luminoso-2018.md",
+      "paginas_revisadas": [
+        15
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 1,
+      "math_renderizada_github": null,
+      "url_github": null,
+      "estado": "pendiente verificar en GitHub",
+      "fuentes_adicionales": [
+        {
+          "original": "2019/3er Parcial/2019 UT XI - Fotometria..pdf",
+          "sha256": "b8cd5a2b645f5d301f347d8191d41cd87469e75a7595a0388a7d8ef460d669b2",
+          "paginas_revisadas": [
+            15
+          ],
+          "estado": "duplicado binario exacto; mismo contenido y paginación"
+        }
+      ]
+    },
+    {
+      "original": "2019/3er Parcial/2018 UT XI - Fotometria.pdf",
+      "sha256": "b8cd5a2b645f5d301f347d8191d41cd87469e75a7595a0388a7d8ef460d669b2",
+      "nota": "notes/2019/teoria/fotometria-sensibilidad-ojo-2018.md",
+      "paginas_revisadas": [
+        16,
+        17,
+        18,
+        19
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 9,
+      "math_renderizada_github": null,
+      "url_github": null,
+      "estado": "pendiente verificar en GitHub",
+      "fuentes_adicionales": [
+        {
+          "original": "2019/3er Parcial/2019 UT XI - Fotometria..pdf",
+          "sha256": "b8cd5a2b645f5d301f347d8191d41cd87469e75a7595a0388a7d8ef460d669b2",
+          "paginas_revisadas": [
+            16,
+            17,
+            18,
+            19
+          ],
+          "estado": "duplicado binario exacto; mismo contenido y paginación"
+        }
+      ]
+    },
+    {
+      "original": "2019/3er Parcial/2018 UT XI - Fotometria.pdf",
+      "sha256": "b8cd5a2b645f5d301f347d8191d41cd87469e75a7595a0388a7d8ef460d669b2",
+      "nota": "notes/2019/teoria/fotometria-intensidad-angulo-solido-2018.md",
+      "paginas_revisadas": [
+        20,
+        21,
+        22,
+        23
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 8,
+      "math_renderizada_github": null,
+      "url_github": null,
+      "estado": "pendiente verificar en GitHub",
+      "fuentes_adicionales": [
+        {
+          "original": "2019/3er Parcial/2019 UT XI - Fotometria..pdf",
+          "sha256": "b8cd5a2b645f5d301f347d8191d41cd87469e75a7595a0388a7d8ef460d669b2",
+          "paginas_revisadas": [
+            20,
+            21,
+            22,
+            23
+          ],
+          "estado": "duplicado binario exacto; mismo contenido y paginación"
+        }
+      ]
+    },
+    {
+      "original": "2019/3er Parcial/2018 UT XI - Fotometria.pdf",
+      "sha256": "b8cd5a2b645f5d301f347d8191d41cd87469e75a7595a0388a7d8ef460d669b2",
+      "nota": "notes/2019/teoria/fotometria-iluminancia-leyes-2018.md",
+      "paginas_revisadas": [
+        24,
+        25,
+        26,
+        27
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 7,
+      "math_renderizada_github": null,
+      "url_github": null,
+      "estado": "pendiente verificar en GitHub",
+      "fuentes_adicionales": [
+        {
+          "original": "2019/3er Parcial/2019 UT XI - Fotometria..pdf",
+          "sha256": "b8cd5a2b645f5d301f347d8191d41cd87469e75a7595a0388a7d8ef460d669b2",
+          "paginas_revisadas": [
+            24,
+            25,
+            26,
+            27
+          ],
+          "estado": "duplicado binario exacto; mismo contenido y paginación"
+        }
+      ]
+    },
+    {
+      "original": "2019/3er Parcial/2018 UT XI - Fotometria.pdf",
+      "sha256": "b8cd5a2b645f5d301f347d8191d41cd87469e75a7595a0388a7d8ef460d669b2",
+      "nota": "notes/2019/teoria/fotometria-luminancia-lambert-2018.md",
+      "paginas_revisadas": [
+        28,
+        29,
+        30,
+        31
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 3,
+      "math_renderizada_github": null,
+      "url_github": null,
+      "estado": "pendiente verificar en GitHub",
+      "fuentes_adicionales": [
+        {
+          "original": "2019/3er Parcial/2019 UT XI - Fotometria..pdf",
+          "sha256": "b8cd5a2b645f5d301f347d8191d41cd87469e75a7595a0388a7d8ef460d669b2",
+          "paginas_revisadas": [
+            28,
+            29,
+            30,
+            31
+          ],
+          "estado": "duplicado binario exacto; mismo contenido y paginación"
+        }
+      ]
+    },
+    {
+      "original": "2019/3er Parcial/2018 UT XI - Fotometria.pdf",
+      "sha256": "b8cd5a2b645f5d301f347d8191d41cd87469e75a7595a0388a7d8ef460d669b2",
+      "nota": "notes/2019/teoria/fotometria-tabla-magnitudes-2018.md",
+      "paginas_revisadas": [
+        32
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 4,
+      "math_renderizada_github": null,
+      "url_github": null,
+      "estado": "pendiente verificar en GitHub",
+      "fuentes_adicionales": [
+        {
+          "original": "2019/3er Parcial/2019 UT XI - Fotometria..pdf",
+          "sha256": "b8cd5a2b645f5d301f347d8191d41cd87469e75a7595a0388a7d8ef460d669b2",
+          "paginas_revisadas": [
+            32
+          ],
+          "estado": "duplicado binario exacto; mismo contenido y paginación"
+        }
+      ]
     }
   ]
 }
