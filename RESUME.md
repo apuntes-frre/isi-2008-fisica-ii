@@ -1425,3 +1425,18 @@ verificadas también por sus tablas.
 - Próximo: verificar la publicación de este lote y continuar fuentes124–140,
   incluidas versiones de corriente alterna, Maxwell, óptica y termodinámica.
   Fuentes117–121 y demás pendientes del inventario siguen sin declararse completas.
+
+## Checkpoint 89: corriente alterna y variante PPTX
+
+- Las trece notas de fuente123 se verificaron en GitHub en b1a7e73:
+  101/101 expresiones, 23/23 imágenes cargadas, sin errores MathJax.
+  CI del PR #2 aprobado (run39560695009). PR #2 en borrador y adjunto al chat.
+- Fuente124 cotejada completa:35diapositivas. Contiene un problema adicional
+  de impedancias en diapositiva24, ausente del PDF; transcrito sin resolver en
+  corriente-alterna-impedancias-serie-paralelo.md. Render GitHub pendiente.
+- Diapositivas1–23 corresponden a PDF1–23;25–35 a PDF24–34. Correspondencia
+  registrada por nota en cobertura.json; sin notas del presentador adicionales.
+  La normalización LibreOffice cambia ajuste/posición y no prueba render idéntico.
+- Total232notas y2529expresiones;231/2528ya verificadas en GitHub.
+- Próximo: publicar/verificar el problema adicional y continuar fuente125
+  (Ecuaciones de Maxwell44p.), versión2019 y resto de fuentes pendientes.

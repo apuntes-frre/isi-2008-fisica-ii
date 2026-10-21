@@ -128,10 +128,13 @@ originales de las normalizadas y registra conteos matemáticos.
 - `2019/3er Parcial/2017 UT IX Corriente Alterna.pdf`: 34 páginas cotejadas y
   transcritas en trece notas (doce teóricas y una de problemas). Fecha impresa
   13/06/2018; se conservan el cierre y el anexo con inconsistencias, sin
-  resolver ejercicios. Render GitHub pendiente. SHA-256:
+  resolver ejercicios. Las 101 expresiones y 23 figuras se verificaron en
+  GitHub. SHA-256:
   `9e7ec2ad4e867b5dc688982d6b052f2b16e926ee1adcfc55f7007697c05cf263`.
-- `2019/3er Parcial/2017 UT IX Corriente Alterna.pptx`: no PDF páginas;
-  pendiente. SHA-256:
+- `2019/3er Parcial/2017 UT IX Corriente Alterna.pptx`: 35 diapositivas
+  cotejadas; 34 corresponden al PDF homónimo y la 24 agrega un problema de
+  impedancias, transcrito por separado sin solución. No se declara identidad de
+  render. SHA-256:
   `4642d02dd308180ca235fbb34bb0e99b9f8ea0f422c6a860bae65b6071494a3a`.
 - `2019/3er Parcial/2017 UT X - Ecuaciones de Maxwell.pdf`: 44 páginas;
   pendiente. SHA-256:

@@ -4037,9 +4037,23 @@
       ],
       "paginacion": "PDF original; fecha impresa 13/06/2018",
       "math_esperada": 0,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "pendiente verificar en GitHub"
+      "math_renderizada_github": 0,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/b1a7e73/notes/2019/teoria/corriente-alterna-programa-tipos-2018-06-13.md",
+      "estado": "verificado en GitHub",
+      "fuentes_adicionales": [
+        {
+          "original": "2019/3er Parcial/2017 UT IX Corriente Alterna.pptx",
+          "sha256": "4642d02dd308180ca235fbb34bb0e99b9f8ea0f422c6a860bae65b6071494a3a",
+          "paginas_revisadas": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "paginacion": "diapositivas PPTX, incluidas las no presentes en PDF",
+          "estado": "cotejadas con PDF; correspondencia temática y de expresiones, sin identidad de render"
+        }
+      ]
     },
     {
       "original": "2019/3er Parcial/2017 UT IX Corriente Alterna.pdf",
@@ -4052,9 +4066,22 @@
       ],
       "paginacion": "PDF original; fecha impresa 13/06/2018",
       "math_esperada": 6,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "pendiente verificar en GitHub"
+      "math_renderizada_github": 6,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/b1a7e73/notes/2019/teoria/generador-fem-corriente-alterna-2018-06-13.md",
+      "estado": "verificado en GitHub",
+      "fuentes_adicionales": [
+        {
+          "original": "2019/3er Parcial/2017 UT IX Corriente Alterna.pptx",
+          "sha256": "4642d02dd308180ca235fbb34bb0e99b9f8ea0f422c6a860bae65b6071494a3a",
+          "paginas_revisadas": [
+            5,
+            6,
+            7
+          ],
+          "paginacion": "diapositivas PPTX, incluidas las no presentes en PDF",
+          "estado": "cotejadas con PDF; correspondencia temática y de expresiones, sin identidad de render"
+        }
+      ]
     },
     {
       "original": "2019/3er Parcial/2017 UT IX Corriente Alterna.pdf",
@@ -4066,9 +4093,21 @@
       ],
       "paginacion": "PDF original; fecha impresa 13/06/2018",
       "math_esperada": 2,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "pendiente verificar en GitHub"
+      "math_renderizada_github": 2,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/b1a7e73/notes/2019/teoria/corriente-alterna-ecuacion-rlc-fasores-2018-06-13.md",
+      "estado": "verificado en GitHub",
+      "fuentes_adicionales": [
+        {
+          "original": "2019/3er Parcial/2017 UT IX Corriente Alterna.pptx",
+          "sha256": "4642d02dd308180ca235fbb34bb0e99b9f8ea0f422c6a860bae65b6071494a3a",
+          "paginas_revisadas": [
+            8,
+            9
+          ],
+          "paginacion": "diapositivas PPTX, incluidas las no presentes en PDF",
+          "estado": "cotejadas con PDF; correspondencia temática y de expresiones, sin identidad de render"
+        }
+      ]
     },
     {
       "original": "2019/3er Parcial/2017 UT IX Corriente Alterna.pdf",
@@ -4080,9 +4119,21 @@
       ],
       "paginacion": "PDF original; fecha impresa 13/06/2018",
       "math_esperada": 4,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "pendiente verificar en GitHub"
+      "math_renderizada_github": 4,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/b1a7e73/notes/2019/teoria/corriente-alterna-circuito-resistivo-2018-06-13.md",
+      "estado": "verificado en GitHub",
+      "fuentes_adicionales": [
+        {
+          "original": "2019/3er Parcial/2017 UT IX Corriente Alterna.pptx",
+          "sha256": "4642d02dd308180ca235fbb34bb0e99b9f8ea0f422c6a860bae65b6071494a3a",
+          "paginas_revisadas": [
+            10,
+            11
+          ],
+          "paginacion": "diapositivas PPTX, incluidas las no presentes en PDF",
+          "estado": "cotejadas con PDF; correspondencia temática y de expresiones, sin identidad de render"
+        }
+      ]
     },
     {
       "original": "2019/3er Parcial/2017 UT IX Corriente Alterna.pdf",
@@ -4094,9 +4145,21 @@
       ],
       "paginacion": "PDF original; fecha impresa 13/06/2018",
       "math_esperada": 5,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "pendiente verificar en GitHub"
+      "math_renderizada_github": 5,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/b1a7e73/notes/2019/teoria/corriente-alterna-circuito-capacitivo-2018-06-13.md",
+      "estado": "verificado en GitHub",
+      "fuentes_adicionales": [
+        {
+          "original": "2019/3er Parcial/2017 UT IX Corriente Alterna.pptx",
+          "sha256": "4642d02dd308180ca235fbb34bb0e99b9f8ea0f422c6a860bae65b6071494a3a",
+          "paginas_revisadas": [
+            12,
+            13
+          ],
+          "paginacion": "diapositivas PPTX, incluidas las no presentes en PDF",
+          "estado": "cotejadas con PDF; correspondencia temática y de expresiones, sin identidad de render"
+        }
+      ]
     },
     {
       "original": "2019/3er Parcial/2017 UT IX Corriente Alterna.pdf",
@@ -4108,9 +4171,21 @@
       ],
       "paginacion": "PDF original; fecha impresa 13/06/2018",
       "math_esperada": 6,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "pendiente verificar en GitHub"
+      "math_renderizada_github": 6,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/b1a7e73/notes/2019/teoria/corriente-alterna-circuito-inductivo-2018-06-13.md",
+      "estado": "verificado en GitHub",
+      "fuentes_adicionales": [
+        {
+          "original": "2019/3er Parcial/2017 UT IX Corriente Alterna.pptx",
+          "sha256": "4642d02dd308180ca235fbb34bb0e99b9f8ea0f422c6a860bae65b6071494a3a",
+          "paginas_revisadas": [
+            14,
+            15
+          ],
+          "paginacion": "diapositivas PPTX, incluidas las no presentes en PDF",
+          "estado": "cotejadas con PDF; correspondencia temática y de expresiones, sin identidad de render"
+        }
+      ]
     },
     {
       "original": "2019/3er Parcial/2017 UT IX Corriente Alterna.pdf",
@@ -4124,9 +4199,23 @@
       ],
       "paginacion": "PDF original; fecha impresa 13/06/2018",
       "math_esperada": 30,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "pendiente verificar en GitHub"
+      "math_renderizada_github": 30,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/b1a7e73/notes/2019/teoria/corriente-alterna-rlc-impedancia-desfasaje-2018-06-13.md",
+      "estado": "verificado en GitHub",
+      "fuentes_adicionales": [
+        {
+          "original": "2019/3er Parcial/2017 UT IX Corriente Alterna.pptx",
+          "sha256": "4642d02dd308180ca235fbb34bb0e99b9f8ea0f422c6a860bae65b6071494a3a",
+          "paginas_revisadas": [
+            16,
+            17,
+            18,
+            19
+          ],
+          "paginacion": "diapositivas PPTX, incluidas las no presentes en PDF",
+          "estado": "cotejadas con PDF; correspondencia temática y de expresiones, sin identidad de render"
+        }
+      ]
     },
     {
       "original": "2019/3er Parcial/2017 UT IX Corriente Alterna.pdf",
@@ -4139,9 +4228,22 @@
       ],
       "paginacion": "PDF original; fecha impresa 13/06/2018",
       "math_esperada": 8,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "pendiente verificar en GitHub"
+      "math_renderizada_github": 8,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/b1a7e73/notes/2019/teoria/corriente-alterna-valores-eficaces-2018-06-13.md",
+      "estado": "verificado en GitHub",
+      "fuentes_adicionales": [
+        {
+          "original": "2019/3er Parcial/2017 UT IX Corriente Alterna.pptx",
+          "sha256": "4642d02dd308180ca235fbb34bb0e99b9f8ea0f422c6a860bae65b6071494a3a",
+          "paginas_revisadas": [
+            20,
+            21,
+            22
+          ],
+          "paginacion": "diapositivas PPTX, incluidas las no presentes en PDF",
+          "estado": "cotejadas con PDF; correspondencia temática y de expresiones, sin identidad de render"
+        }
+      ]
     },
     {
       "original": "2019/3er Parcial/2017 UT IX Corriente Alterna.pdf",
@@ -4153,9 +4255,21 @@
       ],
       "paginacion": "PDF original; fecha impresa 13/06/2018",
       "math_esperada": 9,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "pendiente verificar en GitHub"
+      "math_renderizada_github": 9,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/b1a7e73/notes/2019/practica/corriente-alterna-problemas-2018-06-13.md",
+      "estado": "verificado en GitHub",
+      "fuentes_adicionales": [
+        {
+          "original": "2019/3er Parcial/2017 UT IX Corriente Alterna.pptx",
+          "sha256": "4642d02dd308180ca235fbb34bb0e99b9f8ea0f422c6a860bae65b6071494a3a",
+          "paginas_revisadas": [
+            23,
+            25
+          ],
+          "paginacion": "diapositivas PPTX, incluidas las no presentes en PDF",
+          "estado": "cotejadas con PDF; correspondencia temática y de expresiones, sin identidad de render"
+        }
+      ]
     },
     {
       "original": "2019/3er Parcial/2017 UT IX Corriente Alterna.pdf",
@@ -4169,9 +4283,23 @@
       ],
       "paginacion": "PDF original; fecha impresa 13/06/2018",
       "math_esperada": 16,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "pendiente verificar en GitHub"
+      "math_renderizada_github": 16,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/b1a7e73/notes/2019/teoria/corriente-alterna-potencia-factor-2018-06-13.md",
+      "estado": "verificado en GitHub",
+      "fuentes_adicionales": [
+        {
+          "original": "2019/3er Parcial/2017 UT IX Corriente Alterna.pptx",
+          "sha256": "4642d02dd308180ca235fbb34bb0e99b9f8ea0f422c6a860bae65b6071494a3a",
+          "paginas_revisadas": [
+            26,
+            27,
+            28,
+            29
+          ],
+          "paginacion": "diapositivas PPTX, incluidas las no presentes en PDF",
+          "estado": "cotejadas con PDF; correspondencia temática y de expresiones, sin identidad de render"
+        }
+      ]
     },
     {
       "original": "2019/3er Parcial/2017 UT IX Corriente Alterna.pdf",
@@ -4182,9 +4310,20 @@
       ],
       "paginacion": "PDF original; fecha impresa 13/06/2018",
       "math_esperada": 1,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "pendiente verificar en GitHub"
+      "math_renderizada_github": 1,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/b1a7e73/notes/2019/teoria/corriente-alterna-potencias-activa-reactiva-aparente-2018-06-13.md",
+      "estado": "verificado en GitHub",
+      "fuentes_adicionales": [
+        {
+          "original": "2019/3er Parcial/2017 UT IX Corriente Alterna.pptx",
+          "sha256": "4642d02dd308180ca235fbb34bb0e99b9f8ea0f422c6a860bae65b6071494a3a",
+          "paginas_revisadas": [
+            30
+          ],
+          "paginacion": "diapositivas PPTX, incluidas las no presentes en PDF",
+          "estado": "cotejadas con PDF; correspondencia temática y de expresiones, sin identidad de render"
+        }
+      ]
     },
     {
       "original": "2019/3er Parcial/2017 UT IX Corriente Alterna.pdf",
@@ -4198,9 +4337,23 @@
       ],
       "paginacion": "PDF original; fecha impresa 13/06/2018",
       "math_esperada": 9,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "pendiente verificar en GitHub"
+      "math_renderizada_github": 9,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/b1a7e73/notes/2019/teoria/corriente-alterna-resonancia-2018-06-13.md",
+      "estado": "verificado en GitHub",
+      "fuentes_adicionales": [
+        {
+          "original": "2019/3er Parcial/2017 UT IX Corriente Alterna.pptx",
+          "sha256": "4642d02dd308180ca235fbb34bb0e99b9f8ea0f422c6a860bae65b6071494a3a",
+          "paginas_revisadas": [
+            31,
+            32,
+            33,
+            34
+          ],
+          "paginacion": "diapositivas PPTX, incluidas las no presentes en PDF",
+          "estado": "cotejadas con PDF; correspondencia temática y de expresiones, sin identidad de render"
+        }
+      ]
     },
     {
       "original": "2019/3er Parcial/2017 UT IX Corriente Alterna.pdf",
@@ -4211,6 +4364,30 @@
       ],
       "paginacion": "PDF original; fecha impresa 13/06/2018",
       "math_esperada": 5,
+      "math_renderizada_github": 5,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/b1a7e73/notes/2019/teoria/corriente-alterna-corrientes-potencias-anexo-2018-06-13.md",
+      "estado": "verificado en GitHub",
+      "fuentes_adicionales": [
+        {
+          "original": "2019/3er Parcial/2017 UT IX Corriente Alterna.pptx",
+          "sha256": "4642d02dd308180ca235fbb34bb0e99b9f8ea0f422c6a860bae65b6071494a3a",
+          "paginas_revisadas": [
+            35
+          ],
+          "paginacion": "diapositivas PPTX, incluidas las no presentes en PDF",
+          "estado": "cotejadas con PDF; correspondencia temática y de expresiones, sin identidad de render"
+        }
+      ]
+    },
+    {
+      "original": "2019/3er Parcial/2017 UT IX Corriente Alterna.pptx",
+      "sha256": "4642d02dd308180ca235fbb34bb0e99b9f8ea0f422c6a860bae65b6071494a3a",
+      "nota": "notes/2019/practica/corriente-alterna-impedancias-serie-paralelo.md",
+      "paginas_revisadas": [
+        24
+      ],
+      "paginacion": "diapositiva PPTX",
+      "math_esperada": 1,
       "math_renderizada_github": null,
       "url_github": null,
       "estado": "pendiente verificar en GitHub"
