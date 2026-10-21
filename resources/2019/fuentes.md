@@ -125,8 +125,11 @@ originales de las normalizadas y registra conteos matemáticos.
   diapositivas de Magnetismo en Medios materiales, cotejadas con la versión
   individual; correspondencia en `resources/common/imposiciones.json`. SHA-256:
   `d2d2d0f25fb3fdf3e79399ff0127bd753745d6368a9511122ae7f7076e1f09b2`.
-- `2019/3er Parcial/2017 UT IX Corriente Alterna.pdf`: 34 páginas; pendiente.
-  SHA-256: `9e7ec2ad4e867b5dc688982d6b052f2b16e926ee1adcfc55f7007697c05cf263`.
+- `2019/3er Parcial/2017 UT IX Corriente Alterna.pdf`: 34 páginas cotejadas y
+  transcritas en trece notas (doce teóricas y una de problemas). Fecha impresa
+  13/06/2018; se conservan el cierre y el anexo con inconsistencias, sin
+  resolver ejercicios. Render GitHub pendiente. SHA-256:
+  `9e7ec2ad4e867b5dc688982d6b052f2b16e926ee1adcfc55f7007697c05cf263`.
 - `2019/3er Parcial/2017 UT IX Corriente Alterna.pptx`: no PDF páginas;
   pendiente. SHA-256:
   `4642d02dd308180ca235fbb34bb0e99b9f8ea0f422c6a860bae65b6071494a3a`.

@@ -1408,3 +1408,20 @@ verificadas también por sus tablas.
 - Tras la fusión: continuar fuentes pendientes en una nueva rama desde main;
   prioridad a teoría IX–XVI. Las fuentes123–140 y2020 también siguen pendientes
   según inventario. No modificar originales ni README autogenerado.
+
+## Checkpoint 88: merge autorizado y corriente alterna
+
+- PR #1 fusionado por autorización expresa del usuario. Main local y remoto
+  coinciden en 9bbc536286298de11b3d1f2a3ad59f92df05734f; push confirmado.
+  CI posterior al merge aprobado (run 39558981584).
+- Continuación en codex/transcribir-fisica-ii-continuacion desde main.
+- Fuente123 completa: 34 páginas cotejadas, trece notas (doce de teoría y
+  una de problemas), 101 expresiones y 23 figuras. Fecha impresa13/06/2018,
+  distinta del nombre2017 y carpeta2019. Se conserva el anexo posterior al
+  cierre con inconsistencias señaladas, sin resolver ejercicios.
+- Total: 231 apuntes y 2528 expresiones esperadas. Nuevas notas pendientes de
+  verificar en GitHub. Las218anteriores/2427expresiones ya están verificadas.
+- Caché persistente: ~/.cache/fisica-ii-transcripcion/20261021-corriente-alterna.
+- Próximo: verificar la publicación de este lote y continuar fuentes124–140,
+  incluidas versiones de corriente alterna, Maxwell, óptica y termodinámica.
+  Fuentes117–121 y demás pendientes del inventario siguen sin declararse completas.
