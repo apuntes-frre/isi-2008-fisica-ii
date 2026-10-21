@@ -3686,8 +3686,8 @@
       "paginas_pdf": 36,
       "duplicado_sha256_de": null,
       "clasificacion": "material docente de Física II: Principios de la Termodinámica",
-      "evidencia": "36páginas completas cotejadas;13notas (11teoría/2práctica),22figuras. Trabajo,primer principio,conducción,máquinas,segundo principio,refrigeración,reversibilidad,Carnot ycierres. Se conservan ejemplos resueltos, cuatro páginas gráficas9–12,atribuciónClausius–Clapeyron,ireversible ydoble convención de subíndices deCarnot. Entropía solo anunciada en programa,sin desarrollo en fuente.",
-      "estado": "transcrito; pendiente verificar render en GitHub",
+      "evidencia": "36páginas completas cotejadas;13notas (11teoría/2práctica),22figuras. Trabajo,primer principio,conducción,máquinas,segundo principio,refrigeración,reversibilidad,Carnot ycierres. Se conservan ejemplos resueltos, cuatro páginas gráficas9–12,atribuciónClausius–Clapeyron,ireversible ydoble convención de subíndices deCarnot. Entropía solo anunciada en programa,sin desarrollo en fuente. GitHubbf59b38:34/34expresiones,22figuras cargadas,tabla de una fila,sin errores ni comandos residuales. CI39584059603aprobado.",
+      "estado": "transcrito y verificado en GitHub",
       "paginas_revisadas": [
         1,
         2,
