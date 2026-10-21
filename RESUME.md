@@ -1720,3 +1720,14 @@ verificadas también por sus tablas.
   Sin errores MathJax ni comandos residuales. CI39583115054aprobado.
 - Total317notas/3029expresiones verificadas. PR2sigue en borrador.
 - Próximo129Principios:36páginas,1–21cotejadas visualmente;22–36pendientes.
+
+## Checkpoint 105 — Principios de Termodinámica transcritos
+
+- Fuente129:36páginas completas,13notas (11teoría/2práctica),34expresiones
+  y22figuras. Cuatro páginas gráficas, ejemplos resueltos ycierres conservados.
+- Entropía solo anunciada en el programa; no hay desarrollo en esta fuente.
+- Cotejo visual de todas las páginas, Poppler yPyMuPDF4LLM; caché persistente
+  20261021-termodinamica-principios con originales,36renders ynotas-paginas.json.
+- Total330notas/3063expresiones; lote129pendiente GitHub.
+- Próximo:verificar render yseguir inventario136–143/imposiciones117–121
+  yrestantes2015, sin declarar completa la materia.

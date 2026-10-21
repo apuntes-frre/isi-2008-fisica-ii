@@ -6002,6 +6002,198 @@
       "math_renderizada_github": 5,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/190f6d6/notes/2019/practica/termodinamica-hielo-vapor-ejemplo-2018.md",
       "estado": "verificado en GitHub"
+    },
+    {
+      "original": "2019/3er Parcial/2018 UT XVI - Principios de la Termodinámica.pdf",
+      "sha256": "dc2644f583b907ef2bdf7d3841e6e39009b5e41d2b9f8fdf64d02a47287f5df4",
+      "nota": "notes/2019/teoria/termodinamica-principios-programa-2018.md",
+      "paginas_revisadas": [
+        1,
+        2
+      ],
+      "paginacion": "PDF original36páginas",
+      "math_esperada": 0,
+      "math_renderizada_github": null,
+      "url_github": null,
+      "estado": "pendiente verificar en GitHub"
+    },
+    {
+      "original": "2019/3er Parcial/2018 UT XVI - Principios de la Termodinámica.pdf",
+      "sha256": "dc2644f583b907ef2bdf7d3841e6e39009b5e41d2b9f8fdf64d02a47287f5df4",
+      "nota": "notes/2019/teoria/termodinamica-trabajo-trayectoria-2018.md",
+      "paginas_revisadas": [
+        3,
+        4,
+        5,
+        6,
+        8
+      ],
+      "paginacion": "PDF original36páginas",
+      "math_esperada": 10,
+      "math_renderizada_github": null,
+      "url_github": null,
+      "estado": "pendiente verificar en GitHub"
+    },
+    {
+      "original": "2019/3er Parcial/2018 UT XVI - Principios de la Termodinámica.pdf",
+      "sha256": "dc2644f583b907ef2bdf7d3841e6e39009b5e41d2b9f8fdf64d02a47287f5df4",
+      "nota": "notes/2019/practica/termodinamica-trabajo-cilindro-ejemplo-2018.md",
+      "paginas_revisadas": [
+        7
+      ],
+      "paginacion": "PDF original36páginas",
+      "math_esperada": 2,
+      "math_renderizada_github": null,
+      "url_github": null,
+      "estado": "pendiente verificar en GitHub"
+    },
+    {
+      "original": "2019/3er Parcial/2018 UT XVI - Principios de la Termodinámica.pdf",
+      "sha256": "dc2644f583b907ef2bdf7d3841e6e39009b5e41d2b9f8fdf64d02a47287f5df4",
+      "nota": "notes/2019/teoria/termodinamica-transformaciones-ilustraciones-2018.md",
+      "paginas_revisadas": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "paginacion": "PDF original36páginas",
+      "math_esperada": 0,
+      "math_renderizada_github": null,
+      "url_github": null,
+      "estado": "pendiente verificar en GitHub"
+    },
+    {
+      "original": "2019/3er Parcial/2018 UT XVI - Principios de la Termodinámica.pdf",
+      "sha256": "dc2644f583b907ef2bdf7d3841e6e39009b5e41d2b9f8fdf64d02a47287f5df4",
+      "nota": "notes/2019/teoria/termodinamica-primer-principio-2018.md",
+      "paginas_revisadas": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "paginacion": "PDF original36páginas",
+      "math_esperada": 10,
+      "math_renderizada_github": null,
+      "url_github": null,
+      "estado": "pendiente verificar en GitHub"
+    },
+    {
+      "original": "2019/3er Parcial/2018 UT XVI - Principios de la Termodinámica.pdf",
+      "sha256": "dc2644f583b907ef2bdf7d3841e6e39009b5e41d2b9f8fdf64d02a47287f5df4",
+      "nota": "notes/2019/teoria/termodinamica-conduccion-termica-2018.md",
+      "paginas_revisadas": [
+        19
+      ],
+      "paginacion": "PDF original36páginas",
+      "math_esperada": 4,
+      "math_renderizada_github": null,
+      "url_github": null,
+      "estado": "pendiente verificar en GitHub"
+    },
+    {
+      "original": "2019/3er Parcial/2018 UT XVI - Principios de la Termodinámica.pdf",
+      "sha256": "dc2644f583b907ef2bdf7d3841e6e39009b5e41d2b9f8fdf64d02a47287f5df4",
+      "nota": "notes/2019/teoria/termodinamica-maquinas-termicas-2018.md",
+      "paginas_revisadas": [
+        20,
+        21,
+        22
+      ],
+      "paginacion": "PDF original36páginas",
+      "math_esperada": 3,
+      "math_renderizada_github": null,
+      "url_github": null,
+      "estado": "pendiente verificar en GitHub"
+    },
+    {
+      "original": "2019/3er Parcial/2018 UT XVI - Principios de la Termodinámica.pdf",
+      "sha256": "dc2644f583b907ef2bdf7d3841e6e39009b5e41d2b9f8fdf64d02a47287f5df4",
+      "nota": "notes/2019/practica/termodinamica-eficiencia-ejemplo-2018.md",
+      "paginas_revisadas": [
+        23
+      ],
+      "paginacion": "PDF original36páginas",
+      "math_esperada": 1,
+      "math_renderizada_github": null,
+      "url_github": null,
+      "estado": "pendiente verificar en GitHub"
+    },
+    {
+      "original": "2019/3er Parcial/2018 UT XVI - Principios de la Termodinámica.pdf",
+      "sha256": "dc2644f583b907ef2bdf7d3841e6e39009b5e41d2b9f8fdf64d02a47287f5df4",
+      "nota": "notes/2019/teoria/termodinamica-segundo-principio-2018.md",
+      "paginas_revisadas": [
+        24,
+        25,
+        26,
+        27
+      ],
+      "paginacion": "PDF original36páginas",
+      "math_esperada": 1,
+      "math_renderizada_github": null,
+      "url_github": null,
+      "estado": "pendiente verificar en GitHub"
+    },
+    {
+      "original": "2019/3er Parcial/2018 UT XVI - Principios de la Termodinámica.pdf",
+      "sha256": "dc2644f583b907ef2bdf7d3841e6e39009b5e41d2b9f8fdf64d02a47287f5df4",
+      "nota": "notes/2019/teoria/termodinamica-frigorificas-clausius-2018.md",
+      "paginas_revisadas": [
+        28,
+        29,
+        30,
+        31
+      ],
+      "paginacion": "PDF original36páginas",
+      "math_esperada": 0,
+      "math_renderizada_github": null,
+      "url_github": null,
+      "estado": "pendiente verificar en GitHub"
+    },
+    {
+      "original": "2019/3er Parcial/2018 UT XVI - Principios de la Termodinámica.pdf",
+      "sha256": "dc2644f583b907ef2bdf7d3841e6e39009b5e41d2b9f8fdf64d02a47287f5df4",
+      "nota": "notes/2019/teoria/termodinamica-procesos-reversibles-2018.md",
+      "paginas_revisadas": [
+        32
+      ],
+      "paginacion": "PDF original36páginas",
+      "math_esperada": 0,
+      "math_renderizada_github": null,
+      "url_github": null,
+      "estado": "pendiente verificar en GitHub"
+    },
+    {
+      "original": "2019/3er Parcial/2018 UT XVI - Principios de la Termodinámica.pdf",
+      "sha256": "dc2644f583b907ef2bdf7d3841e6e39009b5e41d2b9f8fdf64d02a47287f5df4",
+      "nota": "notes/2019/teoria/termodinamica-carnot-2018.md",
+      "paginas_revisadas": [
+        33,
+        34
+      ],
+      "paginacion": "PDF original36páginas",
+      "math_esperada": 3,
+      "math_renderizada_github": null,
+      "url_github": null,
+      "estado": "pendiente verificar en GitHub"
+    },
+    {
+      "original": "2019/3er Parcial/2018 UT XVI - Principios de la Termodinámica.pdf",
+      "sha256": "dc2644f583b907ef2bdf7d3841e6e39009b5e41d2b9f8fdf64d02a47287f5df4",
+      "nota": "notes/2019/teoria/termodinamica-cierre-curso-2018.md",
+      "paginas_revisadas": [
+        35,
+        36
+      ],
+      "paginacion": "PDF original36páginas",
+      "math_esperada": 0,
+      "math_renderizada_github": null,
+      "url_github": null,
+      "estado": "pendiente verificar en GitHub"
     }
   ]
 }
