@@ -2,6 +2,45 @@
   "alcance": "Parcial; no declara completa Física II. El cuadernillo de laboratorios 7 y 8 se conserva en dos notas por sus páginas 1-7 y 8-13.",
   "documentos": [
     {
+      "original": "2019/2do Parcial/Laboratorios/Fza Magnetica sobre elementos de corriente.pdf",
+      "sha256": "774d656816c33c843a4066a34a82d7e25b1562a37a5921a0ec38e35dd7792bb6",
+      "nota": "notes/2019/practica/fuerza-magnetica-elementos-corriente-informe.md",
+      "paginas_revisadas": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 15,
+      "math_renderizada_github": null,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/practica/fuerza-magnetica-elementos-corriente-informe.md",
+      "estado": "pendiente render GitHub",
+      "fuentes_adicionales": [
+        {
+          "original": "2019/2do Parcial/Laboratorios/Fza Magnetica sobre elementos de corriente_apto_busquedas.pdf",
+          "sha256": "b7c6ad28eccedebbac43e01c2fefa96d20763c7b06bd705559aee0a27cef5a2a",
+          "paginas_revisadas": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "estado": "revisión completa:derivación OCR deteriorada; referencia legible transcrita en fuente115"
+        }
+      ]
+    },
+    {
       "original": "2019/2do Parcial/Laboratorios/Campo de Induccion Magnetica (1).pdf",
       "sha256": "fe381f45db3f41d4505d241c796b942090c3f8d12582b62bd52d56c26c34aa68",
       "nota": "notes/2019/practica/campo-induccion-magnetica-informe.md",
@@ -22,9 +61,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 20,
-      "math_renderizada_github": null,
-      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/practica/campo-induccion-magnetica-informe.md",
-      "estado": "pendiente render GitHub",
+      "math_renderizada_github": 20,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/e0fcf82/notes/2019/practica/campo-induccion-magnetica-informe.md",
+      "estado": "verificado en GitHub",
       "fuentes_adicionales": [
         {
           "original": "2019/2do Parcial/Laboratorios/Campo de Induccion Magnetica.pdf",

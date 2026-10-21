@@ -1379,3 +1379,17 @@ verificadas también por sus tablas.
   páginas) y116 (derivación apto búsquedas); luego117–122 y resto del inventario.
 - Trabajo persistente en ~/.cache/fisica-ii-transcripcion/20261020-laboratorios.
   Materia incompleta; PR en borrador.
+
+## Checkpoint 86: informe de fuerza magnética
+
+- Fuente115 completa: nueve páginas cotejadas, quince expresiones, tabla de
+  cinco mediciones, formulario de cuatro filas vacías y diez figuras académicas.
+  Se conserva repetición de(7), fórmula B del ajuste y expresión de página6.
+- Fuente116: nueve páginas cotejadas; derivación OCR deteriorada del mismo
+  informe con daños visibles en formas, fórmulas, circuitos y gráfico. Se remite
+  al escaneo legible y se documentan pérdidas, sin declarar identidad de render.
+- Total: 218 apuntes, 2427 expresiones esperadas. Hasta los 217 anteriores
+  (2412 expresiones) están comprobados en GitHub, incluidas las tablas e imágenes
+  del informe de campo magnético. El nuevo informe requiere comprobación publicada.
+- Próximo: fuentes117–122 (UT5/6/7/8), luego corriente alterna, Maxwell, óptica,
+  termodinámica y demás pendientes del inventario. Materia incompleta; PR borrador.

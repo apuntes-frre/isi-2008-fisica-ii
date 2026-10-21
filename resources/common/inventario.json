@@ -3224,12 +3224,25 @@
       "bytes": 2038790,
       "paginas_pdf": 9,
       "duplicado_sha256_de": null,
-      "clasificacion": "pendiente de revisión documental",
-      "evidencia": "",
-      "estado": "pendiente",
-      "paginas_revisadas": [],
-      "copia_local": "/tmp/fisica-ii-20261017-fuentes/115-Fza Magnetica sobre elementos de corriente.pdf",
-      "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/115-Fza Magnetica sobre elementos de corriente.txt"
+      "clasificacion": "informe experimental",
+      "evidencia": "Encabezado Ingeniería Química; cinco mediciones, gráfico, tabla vacía y aclaración de inversión de campo no realizada; se omiten datos personales enmascarados.",
+      "estado": "completo:9páginas cotejadas; informe con marco teórico, procedimiento, datos y conclusión",
+      "paginas_revisadas": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "copia_local": "/Users/carlosferreyra/.cache/fisica-ii-transcripcion/20261020-laboratorios/fuente-115.pdf",
+      "texto_poppler_local": "/Users/carlosferreyra/.cache/fisica-ii-transcripcion/20261020-laboratorios/fuente-115.txt",
+      "notas": [
+        "notes/2019/practica/fuerza-magnetica-elementos-corriente-informe.md"
+      ]
     },
     {
       "original": "2019/2do Parcial/Laboratorios/Fza Magnetica sobre elementos de corriente_apto_busquedas.pdf",
@@ -3237,12 +3250,26 @@
       "bytes": 2065215,
       "paginas_pdf": 9,
       "duplicado_sha256_de": null,
-      "clasificacion": "pendiente de revisión documental",
-      "evidencia": "",
-      "estado": "pendiente",
-      "paginas_revisadas": [],
-      "copia_local": "/tmp/fisica-ii-20261017-fuentes/116-Fza Magnetica sobre elementos de corriente_apto_busquedas.pdf",
-      "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/116-Fza Magnetica sobre elementos de corriente_apto_busquedas.txt"
+      "clasificacion": "derivación OCR con símbolos y diagramas deteriorados",
+      "evidencia": "9páginas cotejadas: misma estructura y datos; sustituciones de forma de espira p1–2,4, fórmulas p2–3,5–6, circuitos p4 y gráfico p8. No identidad de render.",
+      "estado": "revisión completa:derivación OCR deteriorada; referencia legible transcrita en fuente115",
+      "paginas_revisadas": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "copia_local": "/Users/carlosferreyra/.cache/fisica-ii-transcripcion/20261020-laboratorios/fuente-116.pdf",
+      "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/116-Fza Magnetica sobre elementos de corriente_apto_busquedas.txt",
+      "notas": [
+        "notes/2019/practica/fuerza-magnetica-elementos-corriente-informe.md"
+      ],
+      "derivacion_de": "2019/2do Parcial/Laboratorios/Fza Magnetica sobre elementos de corriente.pdf"
     },
     {
       "original": "2019/2do Parcial/UT 5 4 pag.pdf",

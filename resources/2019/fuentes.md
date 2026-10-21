@@ -105,10 +105,11 @@ originales de las normalizadas y registra conteos matemáticos.
   informe anterior; no identidad de render. SHA-256:
   `efd60fb6f541ddde38129ccd1ea38c4fa50d9885b4325e2fa77f1e5b64b3e236`.
 - `2019/2do Parcial/Laboratorios/Fza Magnetica sobre elementos de corriente.pdf`:
-  9 páginas; pendiente. SHA-256:
+  9 páginas; completo: informe, datos y figuras cotejados. SHA-256:
   `774d656816c33c843a4066a34a82d7e25b1562a37a5921a0ec38e35dd7792bb6`.
 - `2019/2do Parcial/Laboratorios/Fza Magnetica sobre elementos de corriente_apto_busquedas.pdf`:
-  9 páginas; pendiente. SHA-256:
+  9 páginas cotejadas; derivación OCR deteriorada, referencia legible en el
+  informe anterior; no identidad de render. SHA-256:
   `b7c6ad28eccedebbac43e01c2fefa96d20763c7b06bd705559aee0a27cef5a2a`.
 - `2019/2do Parcial/UT 5 4 pag.pdf`: 11 páginas; pendiente. SHA-256:
   `134d9de661dcefd039d315a0e669b89c38bf02859d1d2d0806f15569b5006764`.
