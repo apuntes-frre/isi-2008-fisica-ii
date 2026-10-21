@@ -10,8 +10,11 @@ originales, SHA-256, páginas PDF, duplicados exactos, copias recuperables y
 estado. La [cobertura verificada](../common/cobertura.json) distingue páginas
 originales de las normalizadas y registra conteos matemáticos.
 
-- `2020/Modelo Finales/Examen final 10_12_2020.pdf`: 10 páginas; pendiente.
-  SHA-256: `467d1310b934d25292edbcc0b239e7acac771579a31bb81a3787ac9cfc4d7464`.
+- `2020/Modelo Finales/Examen final 10_12_2020.pdf`: Diez páginas cotejadas y 20
+  preguntas transcritas, 23 expresiones y 13 figuras; grafías originales del
+  anillo preservadas. Calificaciones, puntajes y marcas del intento omitidos.
+  Render GitHub pendiente. SHA-256:
+  `467d1310b934d25292edbcc0b239e7acac771579a31bb81a3787ac9cfc4d7464`.
 - `2020/Modelo Finales/Examen final 17_12_2020 - 17_00 horas_ Revisión del intento.pdf`:
   Una página larga, 16 preguntas cotejadas y transcritas, 19 expresiones y nueve
   figuras. Calificaciones y marcas del intento omitidas. Render GitHub

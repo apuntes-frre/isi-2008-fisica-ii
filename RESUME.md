@@ -68,23 +68,23 @@ La transcripción está activa. La materia sigue incompleta.
 2. Fuente142: final17/12/2020, una página larga,16preguntas cotejadas completas;
    nota notes/2020/practica/examen-final-diciembre-17.md,19math y9figuras.
    Se omiten puntajes, calificación y respuestas seleccionadas del intento.
-3. **Verificación GitHub pendiente para estas tres notas.** CUA devuelve
+3. **Verificación GitHub pendiente para estas cuatro notas.** CUA devuelve
    «No browser is available»; no atribuirles render verificado hasta cotejar
-   conteos esperados0/10/19, tabla36filas y todas las imágenes.
+   conteos esperados0/10/19/23, tabla36filas y todas las imágenes.
 4. Cachés:
    /Users/carlosferreyra/.cache/fisica-ii-transcripcion/20261021-arduino-presentaciones
    /Users/carlosferreyra/.cache/fisica-ii-transcripcion/20261021-finales-2020
    La segunda contiene originales141/142 con SHA cotejado, extracción142,
    crops pregunta01..16, figuras y script de autoría. No regenerar notas.
-5. Continuar141(final10/12/2020,10p) y137(planificación31p); después checklist.
+5. Continuar137(planificación31p) y143(parcial2,39p); después checklist.
    No detener trabajo documental por la falta de navegador.
 
 ### Totales después de reanudar
 
-336notas /3207expresiones:333notas/3178expresiones verificadas enGitHub
-más3notas/29expresiones pendientes de ese control. 210teoría/126práctica;
-113notas2015,222notas2019 y1nota2020.
-La continuación agrega118notas/780expresiones y228medios (220imágenes y8GIF).
+337notas /3230expresiones:333notas/3178expresiones verificadas enGitHub
+más4notas/52expresiones pendientes de ese control. 210teoría/127práctica;
+113notas2015,222notas2019 y2notas2020.
+La continuación agrega119notas/803expresiones y241medios (233imágenes y8GIF).
 Los totales anteriores describen el checkpoint8511554.
 
 ### Checklist restante del inventario
@@ -92,7 +92,8 @@ Los totales anteriores describen el checkpoint8511554.
 - [ ] 139/140: transcripción completa; solo resta verificar render GitHub.
 - [ ] 137: planificación2019,31páginas; inventariar/cotejar y transcribir o
   clasificar con evidencia, sin darla por terminada por su nombre.
-- [ ] 141: examen final10/12/2020,10páginas.
+- [ ] 141: examen final10/12/2020,10páginas completas,20preguntas,23math y13figuras.
+  Transcrito y cotejado; solo resta verificar render GitHub. Tabla anillo usa Π y ξo.
 - [ ] 142: 16preguntas transcritas y cotejadas; solo resta verificar render GitHub.
 - [ ] 143: parcial2de2020,39páginas.
   En exámenes omitir identificadores/calificaciones personales de estudiantes

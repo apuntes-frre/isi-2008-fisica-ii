@@ -6290,6 +6290,29 @@
       "url_github": null,
       "estado": "cotejado completo; pendiente render GitHub",
       "fuentes_adicionales": []
+    },
+    {
+      "original": "2020/Modelo Finales/Examen final 10_12_2020.pdf",
+      "sha256": "467d1310b934d25292edbcc0b239e7acac771579a31bb81a3787ac9cfc4d7464",
+      "nota": "notes/2020/practica/examen-final-diciembre-10.md",
+      "paginas_revisadas": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "paginacion": "PDF original",
+      "math_esperada": 23,
+      "math_renderizada_github": null,
+      "url_github": null,
+      "estado": "cotejado completo; pendiente render GitHub",
+      "fuentes_adicionales": []
     }
   ]
 }
