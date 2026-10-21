@@ -136,8 +136,11 @@ originales de las normalizadas y registra conteos matemáticos.
   impedancias, transcrito por separado sin solución. No se declara identidad de
   render. SHA-256:
   `4642d02dd308180ca235fbb34bb0e99b9f8ea0f422c6a860bae65b6071494a3a`.
-- `2019/3er Parcial/2017 UT X - Ecuaciones de Maxwell.pdf`: 44 páginas;
-  pendiente. SHA-256:
+- `2019/3er Parcial/2017 UT X - Ecuaciones de Maxwell.pdf`: 44 páginas cotejadas
+  y transcritas en trece notas. Fecha impresa22/06/2018. Se conservan las
+  demostraciones, figuras, tabla de seis intervalos, video enlazado, problema
+  sin resolver, referencias locales externas como texto y variaciones de
+  notación. Render GitHub pendiente. SHA-256:
   `a3fbcbd2a058fabe49a11845b069458b60cb348b3497ce7097a46a131603a856`.
 - `2019/3er Parcial/2017 UT XIV - Polarización (1).pptx`: no PDF páginas;
   pendiente. SHA-256:

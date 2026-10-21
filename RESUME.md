@@ -1440,3 +1440,19 @@ verificadas también por sus tablas.
 - Total232notas y2529expresiones;231/2528ya verificadas en GitHub.
 - Próximo: publicar/verificar el problema adicional y continuar fuente125
   (Ecuaciones de Maxwell44p.), versión2019 y resto de fuentes pendientes.
+
+## Checkpoint 90: Maxwell y ondas, versión fechada22/06/2018
+
+- Fuente125 completa:44páginas cotejadas, trece notas,113expresiones,
+  diecisiete figuras originales (una reiterada). Incluye demostraciones,
+  seis intervalos de luz visible y problema sin resolver. Se conservan cierre,
+  imágenes estáticas, enlace YouTube, referencias locales Schaum como texto,
+  variación U/W, εo=8.89·10⁻¹² y «Pointing» del original.
+- El nombre2017/carpeta2019 difiere de fecha impresa22/06/2018 y queda registrado.
+- Total245apuntes/2642expresiones. Las232notas anteriores/2529expresiones
+  están comprobadas en GitHub. El problema exclusivo PPTX124 se verificó en
+  967d77d:1/1expresión y figura cargada, sin error MathJax.
+- Maxwell requiere publicación y comprobación en GitHub. Caché persistente
+  ~/.cache/fisica-ii-transcripcion/20261021-maxwell.
+- PR #2 permanece borrador. Materia incompleta:seguir versiones2019 y fuentes
+  de óptica, termodinámica y demás pendientes; no declarar completas por nombre.
