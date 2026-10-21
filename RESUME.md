@@ -26,11 +26,11 @@ restableció y autorizó continuar. La materia sigue incompleta.
 
 ### Todo lo transcrito y comprobado
 
-- Total: **330 notas**, **3063 expresiones**. Las 330 tienen URL de evidencia
+- Total: **332 notas**, **3162 expresiones**. Las 332 tienen URL de evidencia
   y conteo MathJax igual al esperado en `resources/common/cobertura.json`.
-- Distribución: 208teoría y122práctica;113notas bajo2015 y217bajo2019.
-- En main: 218 notas / 2427 expresiones. En la continuación: 112notas nuevas /
-  636expresiones y202medios originales (194imágenes y8GIF) (hay dos referencias reiteradas).
+- Distribución: 210teoría y122práctica;113notas bajo2015 y219bajo2019.
+- En main: 218 notas / 2427 expresiones. En la continuación: 114notas nuevas /
+  735expresiones y206medios originales (198imágenes y8GIF) (hay dos referencias reiteradas).
 - Fuente123: `2019/3er Parcial/2017 UT IX Corriente Alterna.pdf`, 34 páginas
   completas; fecha impresa13/06/2018. Trece notas,101expresiones,23figuras.
   Evidencia GitHub `b1a7e73`; sin errores y todas las figuras cargadas.
@@ -82,11 +82,11 @@ restableció y autorizó continuar. La materia sigue incompleta.
 
 1. Leer este bloque, AGENTS.md y la skill local document-to-markdown antes de
    convertir; inspeccionar `git status`, rama, remoto y estado de PR #2.
-2. Continuar **fuente136**, Hoja de Fórmulas2019, dos páginas.
-   Caché20261021-formulas-2019: preflight, originalSHAverificado,Poppler ydosrenders.
-   Ambas páginas cotejadas visualmente; transcripción todavía pendiente.
-3. Fuentes123–132y134–135cubiertas;133esbibliografía. La materia sigue incompleta.
-4. Quedan136hoja de fórmulas,137planificación,138–140calorimetría/Arduino,
+2. Continuar **fuente138**, Calorimetria.docx de lab arduino.
+   Caché20261021-arduino-calorimetria:preflight,Pandoc conmedios yPDFLibreOffice.
+   Texto extraído; todavía pendiente cotejo de todas las páginas normalizadas.
+3. Fuentes123–132y134–136cubiertas;133esbibliografía. La materia sigue incompleta.
+4. Quedan137planificación,138–140calorimetría/Arduino,
    141–143exámenes2020; excluir datos personales de estudiantes al publicar.
 5. Fuentes117–121: imposiciones pendientes. De117 solo se cotejaron
    diapositivas1–24 en caché; hay variantes de símbolos q/p/w respecto de103
@@ -1749,3 +1749,13 @@ verificadas también por sus tablas.
   ynotas-paginas.json. No rerun delgenerador:recorte fuentes-derecha reparado.
 - Próximo:verificar grillas enGitHub yseguir137planificación,138–140Arduino,
   exámenes2020 yrestantes del inventario.
+
+## Checkpoint 108 — Hoja de Fórmulas verificada
+
+- Primera página f0b2ec9:39expresiones,16filas de3celdas,cuatro diagramas y
+  cuatro operadores∯renderizados; segunda c687a05:60expresiones,18filas.
+  Sin errores MathJax ni comandos residuales.
+- Se detectaron yrepararon barras de módulo que habían truncado tres filas:
+  usar lvert/rvert en tablas, nunca barrasASCII. Conteo definitivo99,no89.
+- Total332notas/3162expresiones verificadas. Próximo138DOCXArduino.
+- Estado deCI delcommit de reparación consultar en vivo; anteriorc687a05aprobado.

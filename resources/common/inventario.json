@@ -4022,8 +4022,8 @@
       "paginas_pdf": 2,
       "duplicado_sha256_de": null,
       "clasificacion": "material docente de Física II: Hoja de Fórmulas2019",
-      "evidencia": "Dos páginas completas cotejadas; dos notas con grillas originales16y18filas ycuatro diagramas de signos. Se conservan filas/celdas vacías,instrucciones de calculadora,subíndices,símbolos yexpresiones ambiguasRH=1/n.q yM=L=dPhi/di,sin corregir silenciosamente.",
-      "estado": "transcrito; pendiente verificar render en GitHub",
+      "evidencia": "Dos páginas completas cotejadas; dos notas con grillas originales16y18filas ycuatro diagramas de signos. Se conservan filas/celdas vacías,instrucciones de calculadora,subíndices,símbolos yexpresiones ambiguasRH=1/n.q yM=L=dPhi/di,sin corregir silenciosamente. GitHub:39/39expresiones en f0b2ec9 y60/60en c687a05,cuatro diagramas cargados,16/18filas de3celdas,cuatro operadores∯renderizados,sin errores ni comandos residuales. Se reparó pérdida de celdas por barras de módulo enMarkdown.",
+      "estado": "transcrito y verificado en GitHub",
       "paginas_revisadas": [
         1,
         2
