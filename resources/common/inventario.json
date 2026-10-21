@@ -3342,12 +3342,25 @@
       "bytes": 2382235,
       "paginas_pdf": 4,
       "duplicado_sha256_de": null,
-      "clasificacion": "pendiente de revisión documental",
-      "evidencia": "",
-      "estado": "pendiente",
-      "paginas_revisadas": [],
-      "copia_local": "/tmp/fisica-ii-20261017-fuentes/122-UT 8 6 pag.pdf",
-      "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/122-UT 8 6 pag.txt"
+      "clasificacion": "impresión de seis diapositivas por página",
+      "evidencia": "Cotejo de las21diapositivas en orden tras rotación antihoraria: texto, fórmulas, figuras y erratas coinciden con la versión individual; tres casilleros finales vacíos. No se declara identidad de píxeles.",
+      "estado": "completo por cotejo visual:4páginas con las21diapositivas de fuente107",
+      "paginas_revisadas": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "copia_local": "/Users/carlosferreyra/.cache/fisica-ii-transcripcion/20261020-ut/fuente-122.pdf",
+      "texto_poppler_local": "/Users/carlosferreyra/.cache/fisica-ii-transcripcion/20261020-ut/fuente-122.txt",
+      "notas": [
+        "notes/2019/teoria/magnetizacion-dipolos-corrientes-superficiales-2019.md",
+        "notes/2019/teoria/intensidad-magnetica-permeabilidad-susceptibilidad-2019.md",
+        "notes/2019/teoria/materiales-magneticos-paramagnetismo-curie-2019.md",
+        "notes/2019/teoria/diamagnetismo-modelo-clasico-2019.md",
+        "notes/2019/teoria/ferromagnetismo-dominios-histeresis-2019.md"
+      ],
+      "imposicion_de": "2019/2do Parcial/2019 UT VIII - Magnetismo en Medios materiales.pdf"
     },
     {
       "original": "2019/3er Parcial/2017 UT IX Corriente Alterna.pdf",

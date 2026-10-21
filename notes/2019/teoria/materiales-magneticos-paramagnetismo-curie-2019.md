@@ -100,3 +100,12 @@ paramagnética. Esa temperatura critica se denomina Temperatura de Curie.
 - Se conserva «suficiente par», «positiva.,», «campo magnético externos»,
   «Boltzman» y la unidad ºK del original. Las relaciones matemáticas fueron
   reconstruidas contra las páginas, no inferidas del texto extraído.
+
+## Versión impresa de seis diapositivas
+
+El archivo `2019/2do Parcial/UT 8 6 pag.pdf` (SHA-256
+`d2d2d0f25fb3fdf3e79399ff0127bd753745d6368a9511122ae7f7076e1f09b2`) reproduce
+estas diapositivas en las páginas 2, 3 de cuatro. Se cotejaron texto,
+expresiones y figuras contra la versión individual; no contiene contenido
+adicional en este tramo. La correspondencia por diapositiva está en
+[el registro de imposiciones](../../../resources/common/imposiciones.json).

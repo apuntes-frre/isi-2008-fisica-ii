@@ -121,7 +121,9 @@ originales de las normalizadas y registra conteos matemáticos.
   `edd00d2a1e1339d7a650ae412805418d759df4e3d5959019004489da7f1c3476`.
 - `2019/2do Parcial/UT 7 6 pag.pdf`: 12 páginas; pendiente. SHA-256:
   `e9078c66ef7a4749ab7f5bc7a6119e2b413e562967c4c9bf964963a8bc4f613b`.
-- `2019/2do Parcial/UT 8 6 pag.pdf`: 4 páginas; pendiente. SHA-256:
+- `2019/2do Parcial/UT 8 6 pag.pdf`: 4 páginas; completo: impresión de las21
+  diapositivas de Magnetismo en Medios materiales, cotejadas con la versión
+  individual; correspondencia en `resources/common/imposiciones.json`. SHA-256:
   `d2d2d0f25fb3fdf3e79399ff0127bd753745d6368a9511122ae7f7076e1f09b2`.
 - `2019/3er Parcial/2017 UT IX Corriente Alterna.pdf`: 34 páginas; pendiente.
   SHA-256: `9e7ec2ad4e867b5dc688982d6b052f2b16e926ee1adcfc55f7007697c05cf263`.

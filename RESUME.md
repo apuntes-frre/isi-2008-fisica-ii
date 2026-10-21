@@ -1393,3 +1393,18 @@ verificadas también por sus tablas.
   del informe de campo magnético. El nuevo informe requiere comprobación publicada.
 - Próximo: fuentes117–122 (UT5/6/7/8), luego corriente alterna, Maxwell, óptica,
   termodinámica y demás pendientes del inventario. Materia incompleta; PR borrador.
+
+## Checkpoint 87: entrega parcial autorizada a main
+
+- El usuario autorizó fusionar lo transcrito hasta ahora y continuar después
+  en una nueva rama de revisión. La autorización de esta entrega parcial no
+  declara completa la materia ni las fuentes todavía pendientes.
+- 218 apuntes, 2427 expresiones; todos comprobados en GitHub con sus imágenes
+  y tablas. Fuente122 cotejada: cuatro hojas con las21diapositivas de fuente107;
+  registro en resources/common/imposiciones.json, sin duplicar apuntes.
+- Fuentes117–121 siguen pendientes. De117 se revisaron diapositivas1–24;
+  se observaron sustituciones de símbolos respecto de103 (q/p/w en fórmulas y
+  flecha visible en introducción). No se declaró duplicado ni cobertura completa.
+- Tras la fusión: continuar fuentes pendientes en una nueva rama desde main;
+  prioridad a teoría IX–XVI. Las fuentes123–140 y2020 también siguen pendientes
+  según inventario. No modificar originales ni README autogenerado.

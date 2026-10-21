@@ -107,3 +107,12 @@ de la magnetización al campo magnético total es Bm
 - La página1 contiene el título de la unidad. Se conserva «los dipolo» y la
   fórmula Bm=μ0Im/L tal como aparece; no se agrega un número de espiras ni una
   corrección.
+
+## Versión impresa de seis diapositivas
+
+El archivo `2019/2do Parcial/UT 8 6 pag.pdf` (SHA-256
+`d2d2d0f25fb3fdf3e79399ff0127bd753745d6368a9511122ae7f7076e1f09b2`) reproduce
+estas diapositivas en las páginas 1 de cuatro. Se cotejaron texto, expresiones y
+figuras contra la versión individual; no contiene contenido adicional en este
+tramo. La correspondencia por diapositiva está en
+[el registro de imposiciones](../../../resources/common/imposiciones.json).

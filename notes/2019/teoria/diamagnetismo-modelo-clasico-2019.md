@@ -33,3 +33,12 @@ orientado en dirección opuesta al campo.
   figuras del tramo cotejadas visualmente.
 - Se conserva el modelo clásico y su redacción original, incluidos «orbitas»,
   «entre si» y «momentos antiparalelo».
+
+## Versión impresa de seis diapositivas
+
+El archivo `2019/2do Parcial/UT 8 6 pag.pdf` (SHA-256
+`d2d2d0f25fb3fdf3e79399ff0127bd753745d6368a9511122ae7f7076e1f09b2`) reproduce
+estas diapositivas en las páginas 3 de cuatro. Se cotejaron texto, expresiones y
+figuras contra la versión individual; no contiene contenido adicional en este
+tramo. La correspondencia por diapositiva está en
+[el registro de imposiciones](../../../resources/common/imposiciones.json).
