@@ -150,9 +150,10 @@ originales de las normalizadas y registra conteos matemáticos.
   transcritas en once notas,19figuras y tablas de32,6,6y4filas. Se conservan
   recortes y celda vacía. Render GitHub verificado en c7c8ba9. SHA-256:
   `b8cd5a2b645f5d301f347d8191d41cd87469e75a7595a0388a7d8ef460d669b2`.
-- `2019/3er Parcial/2018 UT XV Introducción a la Termodinámica.pdf`: 60
-  páginas; pendiente. SHA-256:
-  `0c255d1c462cf23cf43e89eb6031d28084ef096c4512689fc85322d752c7b15c`.
+- `2019/3er Parcial/2018 UT XV Introducción a la Termodinámica.pdf`:60páginas
+  completas transcritas en17notas y24figuras. Seis tablas conservadas, preguntas
+  yproblemas sin resolver ydesarrollo finalA–E. Render GitHub pendiente.
+  SHA-256: `0c255d1c462cf23cf43e89eb6031d28084ef096c4512689fc85322d752c7b15c`.
 - `2019/3er Parcial/2018 UT XVI - Principios de la Termodinámica.pdf`: 36
   páginas; pendiente. SHA-256:
   `dc2644f583b907ef2bdf7d3841e6e39009b5e41d2b9f8fdf64d02a47287f5df4`.

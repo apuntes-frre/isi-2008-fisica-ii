@@ -1701,3 +1701,16 @@ verificadas también por sus tablas.
   residuales. Todas las13notas revisadas en GitHub.
 - Total300notas/2938expresiones verificadas; la materia sigue incompleta.
 - Próximo128Introducción a Termodinámica,60páginas, caché persistente nueva.
+
+## Checkpoint 103 — Introducción a Termodinámica transcrita
+
+- Fuente128:60páginas completas,17notas (14teoría/3práctica),91expresiones
+  y24figuras; seis tablas cotejadas contra el original.
+- Se conservan preguntas conceptuales, cuatro problemas sin resolver yel ejemplo
+  resuelto por partesA–E. Diferencias273/273,15 yerratas de unidades/cifras
+  registradas sin corrección silenciosa.
+- Caché20261021-termodinamica-introduccion con60renders, originalSHAverificado,
+  Poppler, PyMuPDF4LLM,notas-paginas.json yscripts. No rerun deescribir.py tras
+  reparar formato:reparar.py conserva las últimas reparaciones.
+- Total317notas/3029expresiones;17nuevas pendientes de GitHub.
+- Próximo:verificar render de128 yseguir129Principios de Termodinámica36páginas.
