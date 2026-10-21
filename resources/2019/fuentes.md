@@ -157,10 +157,14 @@ originales de las normalizadas y registra conteos matemáticos.
   trece notas nuevas y dos diapositivas registradas como procedencia adicional
   de notas existentes. Se conservan convención coseno/proyección horizontal,
   bibliografía, filtros, tabla de tres filas y corrección del factor de
-  potencia. Render GitHub pendiente. SHA-256:
-  `f133b469afdff28ace1fe5e90db8e5fd4a8e3c166e4d987cc3f3f31166dff3e1`.
-- `2019/3er Parcial/2019 UT X - Ecuaciones de Maxwell.pdf`: 22 páginas;
-  pendiente. SHA-256:
+  potencia. Las 101 expresiones, 23 figuras y tabla se verificaron en GitHub.
+  SHA-256: `f133b469afdff28ace1fe5e90db8e5fd4a8e3c166e4d987cc3f3f31166dff3e1`.
+- `2019/3er Parcial/2019 UT X - Ecuaciones de Maxwell.pdf`: 22 hojas cotejadas
+  completas; fecha12/06/2019. Contienen dos diapositivas por hoja, equivalentes
+  a las páginas2–44 de la versión fechada22/06/2018, ya transcritas. Sin portada
+  inicial; cierre rasterizado y medio casillero final vacío. Correspondencia en
+  `resources/common/imposiciones.json`, sin duplicar apuntes ni declarar
+  identidad de render. SHA-256:
   `e01eb7f935efffe562f16d41e625a0bcf0f0f3a257126a6299f46b2e69e79665`.
 - `2019/3er Parcial/2019 UT XI - Fotometria..pdf`: 32 páginas; identidad de
   render verificada; transcripción pendiente junto a referencia. SHA-256:

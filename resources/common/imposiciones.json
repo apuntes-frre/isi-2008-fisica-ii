@@ -54,6 +54,192 @@
           "casilleros_vacios": 3
         }
       ]
+    },
+    {
+      "original": "2019/3er Parcial/2019 UT X - Ecuaciones de Maxwell.pdf",
+      "sha256": "e01eb7f935efffe562f16d41e625a0bcf0f0f3a257126a6299f46b2e69e79665",
+      "referencia": "2019/3er Parcial/2017 UT X - Ecuaciones de Maxwell.pdf",
+      "sha256_referencia": "a3fbcbd2a058fabe49a11845b069458b60cb348b3497ce7097a46a131603a856",
+      "fecha_impresa": "12/06/2019",
+      "fecha_impresa_referencia": "22/06/2018",
+      "metodo": "Cotejo visual de las22hojas y comparación de texto sin espacios/cabecera/pie de1–21. Contenido transcrito equivalente a referencia2–44, sin portada1; cierre22rasterizado revisado visualmente. Sin identidad binaria ni de render.",
+      "paginas": [
+        {
+          "pagina_pdf": 1,
+          "diapositivas_referencia": [
+            2,
+            3
+          ],
+          "casilleros_vacios": 0
+        },
+        {
+          "pagina_pdf": 2,
+          "diapositivas_referencia": [
+            4,
+            5
+          ],
+          "casilleros_vacios": 0
+        },
+        {
+          "pagina_pdf": 3,
+          "diapositivas_referencia": [
+            6,
+            7
+          ],
+          "casilleros_vacios": 0
+        },
+        {
+          "pagina_pdf": 4,
+          "diapositivas_referencia": [
+            8,
+            9
+          ],
+          "casilleros_vacios": 0
+        },
+        {
+          "pagina_pdf": 5,
+          "diapositivas_referencia": [
+            10,
+            11
+          ],
+          "casilleros_vacios": 0
+        },
+        {
+          "pagina_pdf": 6,
+          "diapositivas_referencia": [
+            12,
+            13
+          ],
+          "casilleros_vacios": 0
+        },
+        {
+          "pagina_pdf": 7,
+          "diapositivas_referencia": [
+            14,
+            15
+          ],
+          "casilleros_vacios": 0
+        },
+        {
+          "pagina_pdf": 8,
+          "diapositivas_referencia": [
+            16,
+            17
+          ],
+          "casilleros_vacios": 0
+        },
+        {
+          "pagina_pdf": 9,
+          "diapositivas_referencia": [
+            18,
+            19
+          ],
+          "casilleros_vacios": 0
+        },
+        {
+          "pagina_pdf": 10,
+          "diapositivas_referencia": [
+            20,
+            21
+          ],
+          "casilleros_vacios": 0
+        },
+        {
+          "pagina_pdf": 11,
+          "diapositivas_referencia": [
+            22,
+            23
+          ],
+          "casilleros_vacios": 0
+        },
+        {
+          "pagina_pdf": 12,
+          "diapositivas_referencia": [
+            24,
+            25
+          ],
+          "casilleros_vacios": 0
+        },
+        {
+          "pagina_pdf": 13,
+          "diapositivas_referencia": [
+            26,
+            27
+          ],
+          "casilleros_vacios": 0
+        },
+        {
+          "pagina_pdf": 14,
+          "diapositivas_referencia": [
+            28,
+            29
+          ],
+          "casilleros_vacios": 0
+        },
+        {
+          "pagina_pdf": 15,
+          "diapositivas_referencia": [
+            30,
+            31
+          ],
+          "casilleros_vacios": 0
+        },
+        {
+          "pagina_pdf": 16,
+          "diapositivas_referencia": [
+            32,
+            33
+          ],
+          "casilleros_vacios": 0
+        },
+        {
+          "pagina_pdf": 17,
+          "diapositivas_referencia": [
+            34,
+            35
+          ],
+          "casilleros_vacios": 0
+        },
+        {
+          "pagina_pdf": 18,
+          "diapositivas_referencia": [
+            36,
+            37
+          ],
+          "casilleros_vacios": 0
+        },
+        {
+          "pagina_pdf": 19,
+          "diapositivas_referencia": [
+            38,
+            39
+          ],
+          "casilleros_vacios": 0
+        },
+        {
+          "pagina_pdf": 20,
+          "diapositivas_referencia": [
+            40,
+            41
+          ],
+          "casilleros_vacios": 0
+        },
+        {
+          "pagina_pdf": 21,
+          "diapositivas_referencia": [
+            42,
+            43
+          ],
+          "casilleros_vacios": 0
+        },
+        {
+          "pagina_pdf": 22,
+          "diapositivas_referencia": [
+            44
+          ],
+          "casilleros_vacios": 1
+        }
+      ]
     }
   ]
 }

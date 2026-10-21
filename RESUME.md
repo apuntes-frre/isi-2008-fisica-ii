@@ -2,9 +2,9 @@
 
 ## Checkpoint vigente — 21/10/2026 — reanudación tras límite de sesión
 
-Este bloque prevalece sobre los estados históricos que siguen. El usuario pidió
-checkpoint y push; no hay conversiones ni ediciones de transcripción en curso.
-La materia sigue incompleta.
+Este bloque prevalece sobre los estados históricos que siguen. El checkpoint
+solicitado quedó subido en110a442; luego el usuario informó que el límite se
+restableció y autorizó continuar. La materia sigue incompleta.
 
 ### Git y publicación
 
@@ -26,11 +26,11 @@ La materia sigue incompleta.
 
 ### Todo lo transcrito y comprobado
 
-- Total: **245 notas**, **2642 expresiones**. Las 245 tienen URL de evidencia
+- Total: **258 notas**, **2743 expresiones**. Las 258 tienen URL de evidencia
   y conteo MathJax igual al esperado en `resources/common/cobertura.json`.
-- Distribución: 130 teoría y 115 práctica; 113 notas bajo 2015 y 132 bajo 2019.
-- En main: 218 notas / 2427 expresiones. En la continuación: 27 notas nuevas /
-  215 expresiones y 41 imágenes originales (una se referencia dos veces).
+- Distribución: 143 teoría y 115 práctica; 113 notas bajo 2015 y 145 bajo 2019.
+- En main: 218 notas / 2427 expresiones. En la continuación: 40 notas nuevas /
+  316 expresiones y 64 imágenes originales (hay dos referencias reiteradas).
 - Fuente123: `2019/3er Parcial/2017 UT IX Corriente Alterna.pdf`, 34 páginas
   completas; fecha impresa13/06/2018. Trece notas,101expresiones,23figuras.
   Evidencia GitHub `b1a7e73`; sin errores y todas las figuras cargadas.
@@ -44,7 +44,16 @@ La materia sigue incompleta.
   todos los conteos coinciden, sin errores ni comandos residuales, imágenes
   cargadas y tabla de seis filas. Se conservan demostraciones, cierres, enlace
   del video, figuras estáticas, referencias locales externas como texto y erratas.
-- CI de contenido de `5806892` aprobado: run `39562565380`.
+- Fuente130: versión2019 de corriente alterna,49páginas completas. Trece notas,
+  101expresiones,23figuras,tabla3filas; verificadas en GitHub `10e833a` sin errores.
+  Se preservan diferencias de convención, figuras, filtros y factor de potencia.
+  Páginas44–45 agregadas como procedencia adicional de notas existentes.
+- Fuente131: Maxwell2019,22hojas completas con fecha12/06/2019. Reproduce las
+  páginas2–44 de125, dos diapositivas por hoja; omite portada1 y conserva el cierre
+  rasterizado con medio casillero vacío. Texto1–21comparado y todas las fórmulas,
+  figuras y cierre cotejados; correspondencia en imposiciones.json. Sin duplicar
+  apuntes ni declarar identidad de render.
+- CI de contenido de `10e833a` aprobado: run `39575724296`.
 - El inventario es la fuente para el alcance:143originales,124SHA únicos,
   2217páginas PDF brutas, incluyendo duplicados, bibliografía y otras materias.
   No equiparar esos números con páginas transcritas.
@@ -60,7 +69,8 @@ La materia sigue incompleta.
   con las21diapositivas de107; no duplicar las notas.
 - Caché persistente bajo `/Users/carlosferreyra/.cache/fisica-ii-transcripcion/`:
   `20261021-corriente-alterna/` (123 y subdirectorio `pptx/` para124),
-  `20261021-maxwell/` (125), `20261020-ut/`, `20261020-medios/`,
+  `20261021-maxwell/` (125), `20261021-corriente-alterna-2019/` (130),
+  `20261021-maxwell-2019/` (131), `20261020-ut/`, `20261020-medios/`,
   `20261020-laboratorios/`. Contienen copias, extracciones, texto Poppler,
   renders e imágenes de comparación. No depender de `/tmp`, que desapareció.
 - Los scripts de escritura de caché son auxiliares, no idempotentes. No
@@ -72,14 +82,13 @@ La materia sigue incompleta.
 
 1. Leer este bloque, AGENTS.md y la skill local document-to-markdown antes de
    convertir; inspeccionar `git status`, rama, remoto y estado de PR #2.
-2. Seguir con **fuente130**, `2019/3er Parcial/2019 UT IX Corriente Alterna.pdf`
-   (49páginas, SHA `f133b469afdff28ace1fe5e90db8e5fd4a8e3c166e4d987cc3f3f31166dff3e1`).
-   Ejecutar preflight en una caché persistente nueva y cotejar con123/124;
-   registrar diferencias, no inferir que repite el PDF por el título.
-3. Fuente131, versión2019 de Maxwell (22páginas), también requiere cotejo
-   independiente con125. Luego127/132 Fotometría (32páginas; duplicado ya
-   identificado),134interferencias PPT,135difracción PPT,126polarización PPTX,
+2. Seguir con **fuente127**, `2019/3er Parcial/2018 UT XI - Fotometria.pdf`
+   (32páginas, SHA `b8cd5a2b645f5d301f347d8191d41cd87469e75a7595a0388a7d8ef460d669b2`).
+   La fuente132 es duplicado binario exacto ya identificado; registrar ambos
+   originales con una única transcripción. Ejecutar preflight en caché nueva.
+3. Luego134interferencias PPT,135difracción PPT,126polarización PPTX,
    128introducción termodinámica60p.,129principios termodinámica36p.
+   Fuentes123–125 y130–131 ya están cubiertas; revisar inventario antes de repetir.
 4. Quedan136hoja de fórmulas,137planificación,138–140calorimetría/Arduino,
    141–143exámenes2020; excluir datos personales de estudiantes al publicar.
 5. Fuentes117–121: imposiciones pendientes. De117 solo se cotejaron
@@ -1591,3 +1600,27 @@ verificadas también por sus tablas.
   en GitHub. Las trece de esta versión requieren publicación y revisión.
 - Caché persistente ~/.cache/fisica-ii-transcripcion/20261021-corriente-alterna-2019.
 - Próximo:verificar lote130 publicado, luego versión131deMaxwell22páginas.
+
+## Checkpoint 93: corriente alterna2019 verificada
+
+- Las trece notas de130 se verificaron en10e833a:101/101expresiones,
+  23figuras cargadas (24apariciones por reiteración de fasores) y tabla3filas,
+  sin errores MathJax ni comandos residuales. Las258notas/2743expresiones
+  están comprobadas en GitHub.
+- Siguiente activo:fuente131, Maxwell2019,22páginas. Preflight y extracción
+  iniciados en ~/.cache/fisica-ii-transcripcion/20261021-maxwell-2019.
+- Los números del checkpoint consolidado de245notas son históricos; este
+  checkpoint actualiza a258 (143teoría/115práctica;113de2015/145de2019).
+
+
+## Checkpoint 94: Maxwell2019 cotejado completo
+
+- Fuente131:22hojas/43diapositivas equivalentes a fuente125páginas2–44.
+  Texto de1–21coincide tras quitar espacios/cabeceras/pies; todas las páginas,
+  fórmulas y figuras cotejadas. La22contiene cierre rasterizado, inferior vacío.
+- Fecha12/06/2019, distinta de22/06/2018 en125. Mapeo durable en
+  resources/common/imposiciones.json y procedencia adicional en las trece notas.
+  No se declara identidad binaria/render ni se duplican apuntes.
+- Total258notas/2743expresiones verificadas. CI de10e833a aprobado.
+- Próximo:127Fotometría32páginas, duplicado exacto132; luego resto de óptica
+  y termodinámica. Checkpoint vigente superior actualizado con estado y rutas.

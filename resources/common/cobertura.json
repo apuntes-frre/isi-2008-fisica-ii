@@ -4426,7 +4426,21 @@
       "math_esperada": 0,
       "math_renderizada_github": 0,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/5806892/notes/2019/teoria/maxwell-contenidos-introduccion-2018-06-22.md",
-      "estado": "verificado en GitHub"
+      "estado": "verificado en GitHub",
+      "fuentes_adicionales": [
+        {
+          "original": "2019/3er Parcial/2019 UT X - Ecuaciones de Maxwell.pdf",
+          "sha256": "e01eb7f935efffe562f16d41e625a0bcf0f0f3a257126a6299f46b2e69e79665",
+          "paginas_revisadas": [
+            1,
+            2,
+            3
+          ],
+          "paginacion": "hojas PDF con dos diapositivas; correspondencia en imposiciones.json",
+          "fecha_impresa": "12/06/2019",
+          "estado": "cotejadas completas; mismo contenido transcrito que las páginas de referencia, sin identidad de render"
+        }
+      ]
     },
     {
       "original": "2019/3er Parcial/2017 UT X - Ecuaciones de Maxwell.pdf",
@@ -4441,7 +4455,20 @@
       "math_esperada": 8,
       "math_renderizada_github": 8,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/5806892/notes/2019/teoria/maxwell-leyes-gauss-2018-06-22.md",
-      "estado": "verificado en GitHub"
+      "estado": "verificado en GitHub",
+      "fuentes_adicionales": [
+        {
+          "original": "2019/3er Parcial/2019 UT X - Ecuaciones de Maxwell.pdf",
+          "sha256": "e01eb7f935efffe562f16d41e625a0bcf0f0f3a257126a6299f46b2e69e79665",
+          "paginas_revisadas": [
+            3,
+            4
+          ],
+          "paginacion": "hojas PDF con dos diapositivas; correspondencia en imposiciones.json",
+          "fecha_impresa": "12/06/2019",
+          "estado": "cotejadas completas; mismo contenido transcrito que las páginas de referencia, sin identidad de render"
+        }
+      ]
     },
     {
       "original": "2019/3er Parcial/2017 UT X - Ecuaciones de Maxwell.pdf",
@@ -4457,7 +4484,20 @@
       "math_esperada": 12,
       "math_renderizada_github": 12,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/5806892/notes/2019/teoria/maxwell-faraday-campo-inducido-2018-06-22.md",
-      "estado": "verificado en GitHub"
+      "estado": "verificado en GitHub",
+      "fuentes_adicionales": [
+        {
+          "original": "2019/3er Parcial/2019 UT X - Ecuaciones de Maxwell.pdf",
+          "sha256": "e01eb7f935efffe562f16d41e625a0bcf0f0f3a257126a6299f46b2e69e79665",
+          "paginas_revisadas": [
+            5,
+            6
+          ],
+          "paginacion": "hojas PDF con dos diapositivas; correspondencia en imposiciones.json",
+          "fecha_impresa": "12/06/2019",
+          "estado": "cotejadas completas; mismo contenido transcrito que las páginas de referencia, sin identidad de render"
+        }
+      ]
     },
     {
       "original": "2019/3er Parcial/2017 UT X - Ecuaciones de Maxwell.pdf",
@@ -4473,7 +4513,20 @@
       "math_esperada": 11,
       "math_renderizada_github": 11,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/5806892/notes/2019/teoria/maxwell-corriente-desplazamiento-2018-06-22.md",
-      "estado": "verificado en GitHub"
+      "estado": "verificado en GitHub",
+      "fuentes_adicionales": [
+        {
+          "original": "2019/3er Parcial/2019 UT X - Ecuaciones de Maxwell.pdf",
+          "sha256": "e01eb7f935efffe562f16d41e625a0bcf0f0f3a257126a6299f46b2e69e79665",
+          "paginas_revisadas": [
+            7,
+            8
+          ],
+          "paginacion": "hojas PDF con dos diapositivas; correspondencia en imposiciones.json",
+          "fecha_impresa": "12/06/2019",
+          "estado": "cotejadas completas; mismo contenido transcrito que las páginas de referencia, sin identidad de render"
+        }
+      ]
     },
     {
       "original": "2019/3er Parcial/2017 UT X - Ecuaciones de Maxwell.pdf",
@@ -4488,7 +4541,20 @@
       "math_esperada": 13,
       "math_renderizada_github": 13,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/5806892/notes/2019/teoria/maxwell-ecuaciones-integrales-diferenciales-2018-06-22.md",
-      "estado": "verificado en GitHub"
+      "estado": "verificado en GitHub",
+      "fuentes_adicionales": [
+        {
+          "original": "2019/3er Parcial/2019 UT X - Ecuaciones de Maxwell.pdf",
+          "sha256": "e01eb7f935efffe562f16d41e625a0bcf0f0f3a257126a6299f46b2e69e79665",
+          "paginas_revisadas": [
+            9,
+            10
+          ],
+          "paginacion": "hojas PDF con dos diapositivas; correspondencia en imposiciones.json",
+          "fecha_impresa": "12/06/2019",
+          "estado": "cotejadas completas; mismo contenido transcrito que las páginas de referencia, sin identidad de render"
+        }
+      ]
     },
     {
       "original": "2019/3er Parcial/2017 UT X - Ecuaciones de Maxwell.pdf",
@@ -4502,7 +4568,20 @@
       "math_esperada": 9,
       "math_renderizada_github": 9,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/5806892/notes/2019/teoria/maxwell-deduccion-ecuacion-ondas-2018-06-22.md",
-      "estado": "verificado en GitHub"
+      "estado": "verificado en GitHub",
+      "fuentes_adicionales": [
+        {
+          "original": "2019/3er Parcial/2019 UT X - Ecuaciones de Maxwell.pdf",
+          "sha256": "e01eb7f935efffe562f16d41e625a0bcf0f0f3a257126a6299f46b2e69e79665",
+          "paginas_revisadas": [
+            10,
+            11
+          ],
+          "paginacion": "hojas PDF con dos diapositivas; correspondencia en imposiciones.json",
+          "fecha_impresa": "12/06/2019",
+          "estado": "cotejadas completas; mismo contenido transcrito que las páginas de referencia, sin identidad de render"
+        }
+      ]
     },
     {
       "original": "2019/3er Parcial/2017 UT X - Ecuaciones de Maxwell.pdf",
@@ -4517,7 +4596,20 @@
       "math_esperada": 0,
       "math_renderizada_github": 0,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/5806892/notes/2019/teoria/maxwell-ilustraciones-ondas-2018-06-22.md",
-      "estado": "verificado en GitHub"
+      "estado": "verificado en GitHub",
+      "fuentes_adicionales": [
+        {
+          "original": "2019/3er Parcial/2019 UT X - Ecuaciones de Maxwell.pdf",
+          "sha256": "e01eb7f935efffe562f16d41e625a0bcf0f0f3a257126a6299f46b2e69e79665",
+          "paginas_revisadas": [
+            11,
+            12
+          ],
+          "paginacion": "hojas PDF con dos diapositivas; correspondencia en imposiciones.json",
+          "fecha_impresa": "12/06/2019",
+          "estado": "cotejadas completas; mismo contenido transcrito que las páginas de referencia, sin identidad de render"
+        }
+      ]
     },
     {
       "original": "2019/3er Parcial/2017 UT X - Ecuaciones de Maxwell.pdf",
@@ -4535,7 +4627,21 @@
       "math_esperada": 20,
       "math_renderizada_github": 20,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/5806892/notes/2019/teoria/maxwell-ondas-electromagneticas-propiedades-2018-06-22.md",
-      "estado": "verificado en GitHub"
+      "estado": "verificado en GitHub",
+      "fuentes_adicionales": [
+        {
+          "original": "2019/3er Parcial/2019 UT X - Ecuaciones de Maxwell.pdf",
+          "sha256": "e01eb7f935efffe562f16d41e625a0bcf0f0f3a257126a6299f46b2e69e79665",
+          "paginas_revisadas": [
+            13,
+            14,
+            15
+          ],
+          "paginacion": "hojas PDF con dos diapositivas; correspondencia en imposiciones.json",
+          "fecha_impresa": "12/06/2019",
+          "estado": "cotejadas completas; mismo contenido transcrito que las páginas de referencia, sin identidad de render"
+        }
+      ]
     },
     {
       "original": "2019/3er Parcial/2017 UT X - Ecuaciones de Maxwell.pdf",
@@ -4549,7 +4655,19 @@
       "math_esperada": 2,
       "math_renderizada_github": 2,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/5806892/notes/2019/teoria/maxwell-espectro-electromagnetico-2018-06-22.md",
-      "estado": "verificado en GitHub"
+      "estado": "verificado en GitHub",
+      "fuentes_adicionales": [
+        {
+          "original": "2019/3er Parcial/2019 UT X - Ecuaciones de Maxwell.pdf",
+          "sha256": "e01eb7f935efffe562f16d41e625a0bcf0f0f3a257126a6299f46b2e69e79665",
+          "paginas_revisadas": [
+            16
+          ],
+          "paginacion": "hojas PDF con dos diapositivas; correspondencia en imposiciones.json",
+          "fecha_impresa": "12/06/2019",
+          "estado": "cotejadas completas; mismo contenido transcrito que las páginas de referencia, sin identidad de render"
+        }
+      ]
     },
     {
       "original": "2019/3er Parcial/2017 UT X - Ecuaciones de Maxwell.pdf",
@@ -4562,7 +4680,19 @@
       "math_esperada": 3,
       "math_renderizada_github": 3,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/5806892/notes/2019/practica/maxwell-problema-onda-plana-2018-06-22.md",
-      "estado": "verificado en GitHub"
+      "estado": "verificado en GitHub",
+      "fuentes_adicionales": [
+        {
+          "original": "2019/3er Parcial/2019 UT X - Ecuaciones de Maxwell.pdf",
+          "sha256": "e01eb7f935efffe562f16d41e625a0bcf0f0f3a257126a6299f46b2e69e79665",
+          "paginas_revisadas": [
+            17
+          ],
+          "paginacion": "hojas PDF con dos diapositivas; correspondencia en imposiciones.json",
+          "fecha_impresa": "12/06/2019",
+          "estado": "cotejadas completas; mismo contenido transcrito que las páginas de referencia, sin identidad de render"
+        }
+      ]
     },
     {
       "original": "2019/3er Parcial/2017 UT X - Ecuaciones de Maxwell.pdf",
@@ -4579,7 +4709,21 @@
       "math_esperada": 20,
       "math_renderizada_github": 20,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/5806892/notes/2019/teoria/maxwell-energia-balance-poynting-2018-06-22.md",
-      "estado": "verificado en GitHub"
+      "estado": "verificado en GitHub",
+      "fuentes_adicionales": [
+        {
+          "original": "2019/3er Parcial/2019 UT X - Ecuaciones de Maxwell.pdf",
+          "sha256": "e01eb7f935efffe562f16d41e625a0bcf0f0f3a257126a6299f46b2e69e79665",
+          "paginas_revisadas": [
+            17,
+            18,
+            19
+          ],
+          "paginacion": "hojas PDF con dos diapositivas; correspondencia en imposiciones.json",
+          "fecha_impresa": "12/06/2019",
+          "estado": "cotejadas completas; mismo contenido transcrito que las páginas de referencia, sin identidad de render"
+        }
+      ]
     },
     {
       "original": "2019/3er Parcial/2017 UT X - Ecuaciones de Maxwell.pdf",
@@ -4593,7 +4737,19 @@
       "math_esperada": 8,
       "math_renderizada_github": 8,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/5806892/notes/2019/teoria/maxwell-intensidad-irradiancia-2018-06-22.md",
-      "estado": "verificado en GitHub"
+      "estado": "verificado en GitHub",
+      "fuentes_adicionales": [
+        {
+          "original": "2019/3er Parcial/2019 UT X - Ecuaciones de Maxwell.pdf",
+          "sha256": "e01eb7f935efffe562f16d41e625a0bcf0f0f3a257126a6299f46b2e69e79665",
+          "paginas_revisadas": [
+            20
+          ],
+          "paginacion": "hojas PDF con dos diapositivas; correspondencia en imposiciones.json",
+          "fecha_impresa": "12/06/2019",
+          "estado": "cotejadas completas; mismo contenido transcrito que las páginas de referencia, sin identidad de render"
+        }
+      ]
     },
     {
       "original": "2019/3er Parcial/2017 UT X - Ecuaciones de Maxwell.pdf",
@@ -4608,7 +4764,20 @@
       "math_esperada": 7,
       "math_renderizada_github": 7,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/5806892/notes/2019/teoria/maxwell-presion-radiacion-2018-06-22.md",
-      "estado": "verificado en GitHub"
+      "estado": "verificado en GitHub",
+      "fuentes_adicionales": [
+        {
+          "original": "2019/3er Parcial/2019 UT X - Ecuaciones de Maxwell.pdf",
+          "sha256": "e01eb7f935efffe562f16d41e625a0bcf0f0f3a257126a6299f46b2e69e79665",
+          "paginas_revisadas": [
+            21,
+            22
+          ],
+          "paginacion": "hojas PDF con dos diapositivas; correspondencia en imposiciones.json",
+          "fecha_impresa": "12/06/2019",
+          "estado": "cotejadas completas; mismo contenido transcrito que las páginas de referencia, sin identidad de render"
+        }
+      ]
     },
     {
       "original": "2019/3er Parcial/2019 UT IX Corriente Alterna.pdf",
@@ -4624,9 +4793,9 @@
       ],
       "paginacion": "PDF original; versión2019 según nombre/carpeta",
       "math_esperada": 0,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "pendiente verificar en GitHub"
+      "math_renderizada_github": 0,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/10e833a/notes/2019/teoria/corriente-alterna-introduccion-2019.md",
+      "estado": "verificado en GitHub"
     },
     {
       "original": "2019/3er Parcial/2019 UT IX Corriente Alterna.pdf",
@@ -4640,9 +4809,9 @@
       ],
       "paginacion": "PDF original; versión2019 según nombre/carpeta",
       "math_esperada": 5,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "pendiente verificar en GitHub"
+      "math_renderizada_github": 5,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/10e833a/notes/2019/teoria/corriente-alterna-generador-fem-2019.md",
+      "estado": "verificado en GitHub"
     },
     {
       "original": "2019/3er Parcial/2019 UT IX Corriente Alterna.pdf",
@@ -4653,9 +4822,9 @@
       ],
       "paginacion": "PDF original; versión2019 según nombre/carpeta",
       "math_esperada": 1,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "pendiente verificar en GitHub"
+      "math_renderizada_github": 1,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/10e833a/notes/2019/teoria/corriente-alterna-fasores-2019.md",
+      "estado": "verificado en GitHub"
     },
     {
       "original": "2019/3er Parcial/2019 UT IX Corriente Alterna.pdf",
@@ -4667,9 +4836,9 @@
       ],
       "paginacion": "PDF original; versión2019 según nombre/carpeta",
       "math_esperada": 2,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "pendiente verificar en GitHub"
+      "math_renderizada_github": 2,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/10e833a/notes/2019/teoria/corriente-alterna-resistencia-2019.md",
+      "estado": "verificado en GitHub"
     },
     {
       "original": "2019/3er Parcial/2019 UT IX Corriente Alterna.pdf",
@@ -4684,9 +4853,9 @@
       ],
       "paginacion": "PDF original; versión2019 según nombre/carpeta",
       "math_esperada": 12,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "pendiente verificar en GitHub"
+      "math_renderizada_github": 12,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/10e833a/notes/2019/teoria/corriente-alterna-capacidad-reactancia-2019.md",
+      "estado": "verificado en GitHub"
     },
     {
       "original": "2019/3er Parcial/2019 UT IX Corriente Alterna.pdf",
@@ -4701,9 +4870,9 @@
       ],
       "paginacion": "PDF original; versión2019 según nombre/carpeta",
       "math_esperada": 12,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "pendiente verificar en GitHub"
+      "math_renderizada_github": 12,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/10e833a/notes/2019/teoria/corriente-alterna-inductancia-reactancia-2019.md",
+      "estado": "verificado en GitHub"
     },
     {
       "original": "2019/3er Parcial/2019 UT IX Corriente Alterna.pdf",
@@ -4716,9 +4885,9 @@
       ],
       "paginacion": "PDF original; versión2019 según nombre/carpeta",
       "math_esperada": 5,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "pendiente verificar en GitHub"
+      "math_renderizada_github": 5,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/10e833a/notes/2019/teoria/corriente-alterna-elementos-filtros-2019.md",
+      "estado": "verificado en GitHub"
     },
     {
       "original": "2019/3er Parcial/2019 UT IX Corriente Alterna.pdf",
@@ -4732,9 +4901,9 @@
       ],
       "paginacion": "PDF original; versión2019 según nombre/carpeta",
       "math_esperada": 16,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "pendiente verificar en GitHub"
+      "math_renderizada_github": 16,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/10e833a/notes/2019/teoria/corriente-alterna-impedancia-fase-2019.md",
+      "estado": "verificado en GitHub"
     },
     {
       "original": "2019/3er Parcial/2019 UT IX Corriente Alterna.pdf",
@@ -4748,9 +4917,9 @@
       ],
       "paginacion": "PDF original; versión2019 según nombre/carpeta",
       "math_esperada": 10,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "pendiente verificar en GitHub"
+      "math_renderizada_github": 10,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/10e833a/notes/2019/teoria/corriente-alterna-valores-rms-2019.md",
+      "estado": "verificado en GitHub"
     },
     {
       "original": "2019/3er Parcial/2019 UT IX Corriente Alterna.pdf",
@@ -4763,9 +4932,9 @@
       ],
       "paginacion": "PDF original; versión2019 según nombre/carpeta",
       "math_esperada": 9,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "pendiente verificar en GitHub"
+      "math_renderizada_github": 9,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/10e833a/notes/2019/teoria/corriente-alterna-potencia-resistencia-2019.md",
+      "estado": "verificado en GitHub"
     },
     {
       "original": "2019/3er Parcial/2019 UT IX Corriente Alterna.pdf",
@@ -4777,9 +4946,9 @@
       ],
       "paginacion": "PDF original; versión2019 según nombre/carpeta",
       "math_esperada": 2,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "pendiente verificar en GitHub"
+      "math_renderizada_github": 2,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/10e833a/notes/2019/teoria/corriente-alterna-potencia-inductor-capacitor-2019.md",
+      "estado": "verificado en GitHub"
     },
     {
       "original": "2019/3er Parcial/2019 UT IX Corriente Alterna.pdf",
@@ -4795,9 +4964,9 @@
       ],
       "paginacion": "PDF original; versión2019 según nombre/carpeta",
       "math_esperada": 18,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "pendiente verificar en GitHub"
+      "math_renderizada_github": 18,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/10e833a/notes/2019/teoria/corriente-alterna-factor-potencia-2019.md",
+      "estado": "verificado en GitHub"
     },
     {
       "original": "2019/3er Parcial/2019 UT IX Corriente Alterna.pdf",
@@ -4811,9 +4980,9 @@
       ],
       "paginacion": "PDF original; versión2019 según nombre/carpeta",
       "math_esperada": 9,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "pendiente verificar en GitHub"
+      "math_renderizada_github": 9,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/10e833a/notes/2019/teoria/corriente-alterna-resonancia-2019.md",
+      "estado": "verificado en GitHub"
     }
   ]
 }
