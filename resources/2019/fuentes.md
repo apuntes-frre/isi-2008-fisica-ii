@@ -140,8 +140,8 @@ originales de las normalizadas y registra conteos matemáticos.
   y transcritas en trece notas. Fecha impresa22/06/2018. Se conservan las
   demostraciones, figuras, tabla de seis intervalos, video enlazado, problema
   sin resolver, referencias locales externas como texto y variaciones de
-  notación. Render GitHub pendiente. SHA-256:
-  `a3fbcbd2a058fabe49a11845b069458b60cb348b3497ce7097a46a131603a856`.
+  notación. Las 113 expresiones, 17 figuras y la tabla se verificaron en GitHub.
+  SHA-256: `a3fbcbd2a058fabe49a11845b069458b60cb348b3497ce7097a46a131603a856`.
 - `2019/3er Parcial/2017 UT XIV - Polarización (1).pptx`: no PDF páginas;
   pendiente. SHA-256:
   `cdbb4a10bd2ae311654780d7928425abe5fad492cc8b8600f298f0a7ace6fc4f`.

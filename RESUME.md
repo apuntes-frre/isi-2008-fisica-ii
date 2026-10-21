@@ -1,6 +1,113 @@
 # Reanudación de Física II
 
-## Estado
+## Checkpoint vigente — 21/10/2026 — reanudación tras límite de sesión
+
+Este bloque prevalece sobre los estados históricos que siguen. El usuario pidió
+checkpoint y push; no hay conversiones ni ediciones de transcripción en curso.
+La materia sigue incompleta.
+
+### Git y publicación
+
+- Repo: `/Users/carlosferreyra/Development/apuntes-frre/isi-2008-fisica-ii`.
+- Remoto: `https://github.com/apuntes-frre/isi-2008-fisica-ii`.
+- PR #1 fusionado por autorización expresa del usuario:
+  <https://github.com/apuntes-frre/isi-2008-fisica-ii/pull/1>.
+- Main local y remoto en `9bbc536286298de11b3d1f2a3ad59f92df05734f`.
+  Push confirmado; CI posterior al merge aprobado, run `39558981584`.
+- Rama activa: `codex/transcribir-fisica-ii-continuacion`, desde ese main.
+- PR #2 abierto en borrador, adjunto al chat:
+  <https://github.com/apuntes-frre/isi-2008-fisica-ii/pull/2>.
+- Commits de contenido nuevos: `b1a7e73` (corriente alterna PDF), `967d77d`
+  (variante PPTX), `5806892` (Maxwell). El commit posterior contiene este
+  checkpoint y los registros finales; obtener su SHA con `git log -1`.
+- No fusionar automáticamente la continuación: la autorización anterior fue
+  para lo que estaba hecho al solicitar el merge. Mantener rama de revisión.
+- No modificar el README raíz autogenerado ni originales de OneDrive.
+
+### Todo lo transcrito y comprobado
+
+- Total: **245 notas**, **2642 expresiones**. Las 245 tienen URL de evidencia
+  y conteo MathJax igual al esperado en `resources/common/cobertura.json`.
+- Distribución: 130 teoría y 115 práctica; 113 notas bajo 2015 y 132 bajo 2019.
+- En main: 218 notas / 2427 expresiones. En la continuación: 27 notas nuevas /
+  215 expresiones y 41 imágenes originales (una se referencia dos veces).
+- Fuente123: `2019/3er Parcial/2017 UT IX Corriente Alterna.pdf`, 34 páginas
+  completas; fecha impresa13/06/2018. Trece notas,101expresiones,23figuras.
+  Evidencia GitHub `b1a7e73`; sin errores y todas las figuras cargadas.
+- Fuente124: PPTX homónimo,35diapositivas cotejadas.1–23 corresponden a PDF1–23,
+  25–35 a PDF24–34. La24 agrega un problema de impedancias, transcrito aparte
+  sin resolver;1expresión/1figura verificadas en `967d77d`. No es duplicado
+  binario ni se declara identidad de render. Sin notas adicionales del presentador.
+- Fuente125: `2019/3er Parcial/2017 UT X - Ecuaciones de Maxwell.pdf`,44páginas
+  completas; fecha impresa22/06/2018. Trece notas,113expresiones,17figuras;
+  tabla de seis intervalos y problema sin resolver. Evidencia GitHub `5806892`:
+  todos los conteos coinciden, sin errores ni comandos residuales, imágenes
+  cargadas y tabla de seis filas. Se conservan demostraciones, cierres, enlace
+  del video, figuras estáticas, referencias locales externas como texto y erratas.
+- CI de contenido de `5806892` aprobado: run `39562565380`.
+- El inventario es la fuente para el alcance:143originales,124SHA únicos,
+  2217páginas PDF brutas, incluyendo duplicados, bibliografía y otras materias.
+  No equiparar esos números con páginas transcritas.
+
+### Archivos y copias recuperables
+
+- Canónica: `~/Library/CloudStorage/OneDrive-FacultadRegionalResistencia/Facultad/Materias Homogeneas/Fisica II`.
+- `resources/common/inventario.json`: originales, SHA-256, clasificación y estado.
+- `resources/common/cobertura.json`: nota, páginas, conteos y commit/URL verificado;
+  incluye correspondencia del PPTX124 como fuente adicional por nota.
+- `resources/{2015,2019,2020}/fuentes.md`: índice de procedencia.
+- `resources/common/imposiciones.json`: correspondencia completa de fuente122
+  con las21diapositivas de107; no duplicar las notas.
+- Caché persistente bajo `/Users/carlosferreyra/.cache/fisica-ii-transcripcion/`:
+  `20261021-corriente-alterna/` (123 y subdirectorio `pptx/` para124),
+  `20261021-maxwell/` (125), `20261020-ut/`, `20261020-medios/`,
+  `20261020-laboratorios/`. Contienen copias, extracciones, texto Poppler,
+  renders e imágenes de comparación. No depender de `/tmp`, que desapareció.
+- Los scripts de escritura de caché son auxiliares, no idempotentes. No
+  ejecutarlos de nuevo sobre las notas formateadas: podrían revertir reparaciones,
+  duplicar cobertura o reemplazar metadatos ya verificados. La salida revisada
+  en Git es la referencia; conservar todos los cambios existentes.
+
+### Próximo paso exacto y pendientes
+
+1. Leer este bloque, AGENTS.md y la skill local document-to-markdown antes de
+   convertir; inspeccionar `git status`, rama, remoto y estado de PR #2.
+2. Seguir con **fuente130**, `2019/3er Parcial/2019 UT IX Corriente Alterna.pdf`
+   (49páginas, SHA `f133b469afdff28ace1fe5e90db8e5fd4a8e3c166e4d987cc3f3f31166dff3e1`).
+   Ejecutar preflight en una caché persistente nueva y cotejar con123/124;
+   registrar diferencias, no inferir que repite el PDF por el título.
+3. Fuente131, versión2019 de Maxwell (22páginas), también requiere cotejo
+   independiente con125. Luego127/132 Fotometría (32páginas; duplicado ya
+   identificado),134interferencias PPT,135difracción PPT,126polarización PPTX,
+   128introducción termodinámica60p.,129principios termodinámica36p.
+4. Quedan136hoja de fórmulas,137planificación,138–140calorimetría/Arduino,
+   141–143exámenes2020; excluir datos personales de estudiantes al publicar.
+5. Fuentes117–121: imposiciones pendientes. De117 solo se cotejaron
+   diapositivas1–24 en caché; hay variantes de símbolos q/p/w respecto de103
+   y una flecha visible en introducción. No declarar identidad ni revisión total.
+6. Pendientes2015: informes61–65, multímetro67, planificación68, Biot-Sabat70,
+   resumen71, enlaces76;37escaneo Sampallo, contenedor3 con11319miembros,
+   Excel9/11 y cualquier clasificación inconclusa del inventario. Conservar
+   límites de bibliografía/otras materias y no ejecutar binarios108–111.
+7. Trabajar por lotes cotejando todas las páginas, preservar erratas y ejercicios
+   vacíos, registrar procedencia y SHA; aplicar formato/lint/KaTeX/enlaces,
+   push y verificar en GitHub cada nota modificada, contando expresiones e imágenes.
+
+Herramientas con mise: `/Users/carlosferreyra/.local/bin/mise exec -- ...`.
+Los conversores Python están fijados a3.14.8; no enlazar a python/latest.
+Para comprobaciones de la continuación:
+
+```sh
+/Users/carlosferreyra/.local/bin/mise -C .github/transcription exec -- uv run check.py --self-test
+/Users/carlosferreyra/.local/bin/mise -C .github/transcription exec -- uv run check.py --base origin/main
+git diff --check
+git status --short
+git log -1 --oneline
+```
+
+## Historial de checkpoints
+
+## Estado inicial (histórico; ver checkpoint vigente arriba)
 
 - Rama: `codex/transcribir-fisica-ii`, creada desde `origin/main` actualizado.
 - Clon: `/Users/carlosferreyra/Development/apuntes-frre/isi-2008-fisica-ii`.
@@ -1456,3 +1563,15 @@ verificadas también por sus tablas.
   ~/.cache/fisica-ii-transcripcion/20261021-maxwell.
 - PR #2 permanece borrador. Materia incompleta:seguir versiones2019 y fuentes
   de óptica, termodinámica y demás pendientes; no declarar completas por nombre.
+
+## Checkpoint 91: Maxwell verificado en GitHub
+
+- Trece notas de fuente125 verificadas en5806892:113/113expresiones,
+  diecisiete figuras originales cargadas (dieciocho apariciones por repetición),
+  tabla de seis filas, sin errores MathJax ni comandos desconocidos.
+- Las245notas/2642expresiones registradas están verificadas en GitHub.
+- Main conserva la entrega parcial del PR #1 (9bbc536). La continuación de
+  veintisiete notas está publicada en PR #2 borrador; no se declara completa
+  la materia ni se fusiona esta nueva entrega sin indicación.
+- Próximo:fuentes126–140, versiones2019 de corriente alterna/Maxwell y demás
+  pendientes del inventario. Fuentes117–121 siguen pendientes de cotejo completo.
