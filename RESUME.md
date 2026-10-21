@@ -1669,3 +1669,13 @@ verificadas también por sus tablas.
 - Registros completos por nota y fuente;282notas/2889expresiones en total.
 - Corrección del conteo preliminar97: son100expresiones, no102.
 - Próximo135Difracción: preflight y copia persistente listos, transcripción pendiente.
+
+## Checkpoint 99 — Difracción transcrita
+
+- Fuente135:20diapositivas completas, cinco notas de teoría,31expresiones,
+  15PNG y1GIF incrustado. Se conservan cierre18y material19–20.
+- Extracción MarkItDown/Poppler, todas las páginas cotejadas, sin notas del
+  presentador. Formato, lint, KaTeX y enlaces aprobados (seis archivos).
+- Total287notas/2920expresiones; render de las cinco nuevas pendiente.
+- Caché persistente20261021-difraccion con originales, conversiones, renders
+  ynotas-paginas.json. Próximo:verificar GitHub y seguir126Polarización.

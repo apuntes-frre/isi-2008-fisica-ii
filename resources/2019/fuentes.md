@@ -181,9 +181,10 @@ originales de las normalizadas y registra conteos matemáticos.
   (incluidos dosGIF originales). Se conservan siete diapositivas posteriores al
   cierre y erratas de N rendijas. Render GitHub verificado en599f068. SHA-256:
   `1aedc0734c24e71c0cbae9ecc29b034fe9e22575940fc895559579ce1326b91e`.
-- `2019/3er Parcial/UT XIII - Interferencia y Difraccion 290616.ppt`: no PDF
-  páginas; pendiente. SHA-256:
-  `12c4947f897a58508ce3794255b164f41d4356b0bb4bbad0e9d8314ef6eaf137`.
+- `2019/3er Parcial/UT XIII - Interferencia y Difraccion 290616.ppt`: veinte
+  diapositivas completas transcritas en cinco notas,15PNG y1GIF; incluye dos
+  diapositivas posteriores al cierre, sin ejercicios. Render GitHub pendiente.
+  SHA-256: `12c4947f897a58508ce3794255b164f41d4356b0bb4bbad0e9d8314ef6eaf137`.
 - `2019/Hoja de Fórmulas 2019.pdf`: 2 páginas; pendiente. SHA-256:
   `08334993bbf390cc9959ca35446c5c1de7274de09029385c6801a5188d306499`.
 - `2019/Planificación 2019_e86a2f40b7c92c86772a2b980a78a58f.pdf`: 31 páginas;
