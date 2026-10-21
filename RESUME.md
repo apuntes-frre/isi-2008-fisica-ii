@@ -1575,3 +1575,19 @@ verificadas también por sus tablas.
   la materia ni se fusiona esta nueva entrega sin indicación.
 - Próximo:fuentes126–140, versiones2019 de corriente alterna/Maxwell y demás
   pendientes del inventario. Fuentes117–121 siguen pendientes de cotejo completo.
+
+## Checkpoint 92: versión2019 de corriente alterna
+
+- El usuario indicó que el límite se restableció y autorizó continuar.
+- Checkpoint consolidado previo subido en110a442; CI aprobado, run39574560847.
+- Fuente130:49páginas completas cotejadas, trece notas nuevas,101expresiones,
+  23figuras y tabla de3filas. Se conservan coseno/proyección horizontal,
+  introducción, bibliografía, filtros, explicaciones de potencia y corrección
+  del factor. Las páginas44–45 rasterizadas se cotejaron con123p29/p34 y se
+  registraron como procedencia adicional, sin duplicar notas ni corregir erratas.
+- Se conservaron desfases/gráficos con distinto origen temporal, paréntesis
+  sin cerrar, ω_d y εm/im en resonancia. Sin fecha de clase impresa verificable.
+- Total258notas/2743expresiones; las245anteriores/2642ya están verificadas
+  en GitHub. Las trece de esta versión requieren publicación y revisión.
+- Caché persistente ~/.cache/fisica-ii-transcripcion/20261021-corriente-alterna-2019.
+- Próximo:verificar lote130 publicado, luego versión131deMaxwell22páginas.

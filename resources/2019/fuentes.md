@@ -153,8 +153,12 @@ originales de las normalizadas y registra conteos matemáticos.
 - `2019/3er Parcial/2018 UT XVI - Principios de la Termodinámica.pdf`: 36
   páginas; pendiente. SHA-256:
   `dc2644f583b907ef2bdf7d3841e6e39009b5e41d2b9f8fdf64d02a47287f5df4`.
-- `2019/3er Parcial/2019 UT IX Corriente Alterna.pdf`: 49 páginas; pendiente.
-  SHA-256: `f133b469afdff28ace1fe5e90db8e5fd4a8e3c166e4d987cc3f3f31166dff3e1`.
+- `2019/3er Parcial/2019 UT IX Corriente Alterna.pdf`: 49 páginas cotejadas,
+  trece notas nuevas y dos diapositivas registradas como procedencia adicional
+  de notas existentes. Se conservan convención coseno/proyección horizontal,
+  bibliografía, filtros, tabla de tres filas y corrección del factor de
+  potencia. Render GitHub pendiente. SHA-256:
+  `f133b469afdff28ace1fe5e90db8e5fd4a8e3c166e4d987cc3f3f31166dff3e1`.
 - `2019/3er Parcial/2019 UT X - Ecuaciones de Maxwell.pdf`: 22 páginas;
   pendiente. SHA-256:
   `e01eb7f935efffe562f16d41e625a0bcf0f0f3a257126a6299f46b2e69e79665`.
