@@ -1,115 +1,159 @@
 # Reanudación de Física II
 
-## Checkpoint vigente — 21/10/2026 — reanudación tras límite de sesión
+## Checkpoint vigente — 21/10/2026 — PAUSA SOLICITADA POR EL USUARIO
 
-Este bloque prevalece sobre los estados históricos que siguen. El checkpoint
-solicitado quedó subido en110a442; luego el usuario informó que el límite se
-restableció y autorizó continuar. La materia sigue incompleta.
+Este bloque prevalece sobre todos los estados históricos inferiores.
+El usuario pidió pausar por proximidad al límite, guardar y dejar un checklist.
+No continuar transcribiendo hasta que indique reanudar. La materia sigue incompleta.
 
-### Git y publicación
+### Git, publicación y resultado verificado
 
-- Repo: `/Users/carlosferreyra/Development/apuntes-frre/isi-2008-fisica-ii`.
-- Remoto: `https://github.com/apuntes-frre/isi-2008-fisica-ii`.
-- PR #1 fusionado por autorización expresa del usuario:
+- Repo: /Users/carlosferreyra/Development/apuntes-frre/isi-2008-fisica-ii.
+- Rama: codex/transcribir-fisica-ii-continuacion, publicada en origin.
+- Main local/remoto: 9bbc536286298de11b3d1f2a3ad59f92df05734f.
+- PR1 fusionado y main pusheado por autorización previa:
   <https://github.com/apuntes-frre/isi-2008-fisica-ii/pull/1>.
-- Main local y remoto en `9bbc536286298de11b3d1f2a3ad59f92df05734f`.
-  Push confirmado; CI posterior al merge aprobado, run `39558981584`.
-- Rama activa: `codex/transcribir-fisica-ii-continuacion`, desde ese main.
-- PR #2 abierto en borrador, adjunto al chat:
+- PR2 OPEN/DRAFT, adjunto al chat:
   <https://github.com/apuntes-frre/isi-2008-fisica-ii/pull/2>.
-- Commits de contenido nuevos: `b1a7e73` (corriente alterna PDF), `967d77d`
-  (variante PPTX), `5806892` (Maxwell). El commit posterior contiene este
-  checkpoint y los registros finales; obtener su SHA con `git log -1`.
-- No fusionar automáticamente la continuación: la autorización anterior fue
-  para lo que estaba hecho al solicitar el merge. Mantener rama de revisión.
-- No modificar el README raíz autogenerado ni originales de OneDrive.
+- No fusionar automáticamente la continuación. No editar README raíz autogenerado.
+- Último contenido: fc150ad (propuesta DOCX de calorimetría). CI aprobado,
+  run39585995105. El commit posterior guarda este checkpoint y los registros;
+  obtener su SHA con git log -1, sin depender de una autorreferencia.
+- Total: **333 notas y3178expresiones**, todas con URL de evidencia y conteo
+  MathJax igual al esperado. Distribución:210teoría/123práctica;
+  113notas2015 y220notas2019.
+- En main:218notas/2427expresiones. Continuación:115notas nuevas/751expresiones,
+  206medios originales (198imágenes y8GIF; algunas referencias se repiten).
+- No declarar finalizada Física II ni equiparar inventario con páginas transcritas.
 
-### Todo lo transcrito y comprobado
+### Fuentes cerradas en esta continuación
 
-- Total: **332 notas**, **3162 expresiones**. Las 332 tienen URL de evidencia
-  y conteo MathJax igual al esperado en `resources/common/cobertura.json`.
-- Distribución: 210teoría y122práctica;113notas bajo2015 y219bajo2019.
-- En main: 218 notas / 2427 expresiones. En la continuación: 114notas nuevas /
-  735expresiones y206medios originales (198imágenes y8GIF) (hay dos referencias reiteradas).
-- Fuente123: `2019/3er Parcial/2017 UT IX Corriente Alterna.pdf`, 34 páginas
-  completas; fecha impresa13/06/2018. Trece notas,101expresiones,23figuras.
-  Evidencia GitHub `b1a7e73`; sin errores y todas las figuras cargadas.
-- Fuente124: PPTX homónimo,35diapositivas cotejadas.1–23 corresponden a PDF1–23,
-  25–35 a PDF24–34. La24 agrega un problema de impedancias, transcrito aparte
-  sin resolver;1expresión/1figura verificadas en `967d77d`. No es duplicado
-  binario ni se declara identidad de render. Sin notas adicionales del presentador.
-- Fuente125: `2019/3er Parcial/2017 UT X - Ecuaciones de Maxwell.pdf`,44páginas
-  completas; fecha impresa22/06/2018. Trece notas,113expresiones,17figuras;
-  tabla de seis intervalos y problema sin resolver. Evidencia GitHub `5806892`:
-  todos los conteos coinciden, sin errores ni comandos residuales, imágenes
-  cargadas y tabla de seis filas. Se conservan demostraciones, cierres, enlace
-  del video, figuras estáticas, referencias locales externas como texto y erratas.
-- Fuente130: versión2019 de corriente alterna,49páginas completas. Trece notas,
-  101expresiones,23figuras,tabla3filas; verificadas en GitHub `10e833a` sin errores.
-  Se preservan diferencias de convención, figuras, filtros y factor de potencia.
-  Páginas44–45 agregadas como procedencia adicional de notas existentes.
-- Fuente131: Maxwell2019,22hojas completas con fecha12/06/2019. Reproduce las
-  páginas2–44 de125, dos diapositivas por hoja; omite portada1 y conserva el cierre
-  rasterizado con medio casillero vacío. Texto1–21comparado y todas las fórmulas,
-  figuras y cierre cotejados; correspondencia en imposiciones.json. Sin duplicar
-  apuntes ni declarar identidad de render.
-- CI de contenido de `10e833a` aprobado: run `39575724296`.
-- El inventario es la fuente para el alcance:143originales,124SHA únicos,
-  2217páginas PDF brutas, incluyendo duplicados, bibliografía y otras materias.
-  No equiparar esos números con páginas transcritas.
+- 123: CA PDF34p, fecha impresa13/06/2018,13notas/101math/23figuras;
+  evidencia b1a7e73. Nombre2017, carpeta2019.
+- 124: CA PPTX35diapositivas; cotejo completo, adicional24 de impedancias
+  sin resolver:1nota/1math/1figura,967d77d. Correspondencias en cobertura.
+- 125: Maxwell44p, fecha22/06/2018,13notas/113math/17figuras,5806892.
+- 130: CA2019,49p,13notas/101math/23figuras,10e833a. P44–45 como procedencia
+  adicional de notas previas, sin duplicación.
+- 131: Maxwell2019,22hojas fechadas12/06/2019, equivalentes a125p2–44;
+  texto/figuras cotejados, cierre rasterizado y casillero vacío conservados.
+  Correspondencias en imposiciones.json; sin notas duplicadas.
+- 127/132: Fotometría32p, duplicados binarios exactos verificados;
+  11notas/46math/19figuras,c7c8ba9; tablas6/32/6/4filas.
+- 134: Interferencias42diapositivas,13notas/100math/32medios,
+  599f068; incluye siete diapositivas tras el cierre35, tres ejercicios sin resolver,
+  dosGIF originales y erratas37/38.
+- 135: Difracción20diapositivas,5notas/31math/16medios,ae470bf;
+  GIF Huygens y páginas19–20 posteriores al cierre.
+- 126: Polarización26diapositivas,13notas/18math/25medios,03acf0b;
+  cincoGIF, deducciones completas y ejemplo sin resolver.
+- 128: Introducción a Termodinámica60p,17notas/91math/24figuras,
+  190f6d6; seis tablas3/4/6/4/8/11filas, preguntas, cuatro problemas sin resolver
+  y ejemplo finalA–E resuelto. Cifras y unidades originales conservadas.
+- 129: Principios de Termodinámica36p,13notas/34math/22figuras,bf59b38;
+  ejemplos resueltos, ilustraciones9–12 y cierres. Entropía solo anunciada en
+  programa, sin desarrollo en esta fuente. Convenciones Carnot preservadas.
+- 136: Hoja de Fórmulas2019,2notas/99math/4diagramas:
+  página1 f0b2ec9 (39math,16filas de3celdas,cuatro operadores∯);
+  página2 c687a05 (60math,18filas). Casilleros vacíos e instrucciones conservados.
+- 138: Calorimetria.docx,4p delPDFLibreOffice,1nota/16math,fc150ad;
+  siete pasos con doble numeración, tachadura y tres enlaces conservados.
+  No tiene medios; propuesta sin resultados añadidos.
 
-### Archivos y copias recuperables
+### Próximo paso exacto al reanudar
 
-- Canónica: `~/Library/CloudStorage/OneDrive-FacultadRegionalResistencia/Facultad/Materias Homogeneas/Fisica II`.
-- `resources/common/inventario.json`: originales, SHA-256, clasificación y estado.
-- `resources/common/cobertura.json`: nota, páginas, conteos y commit/URL verificado;
-  incluye correspondencia del PPTX124 como fuente adicional por nota.
-- `resources/{2015,2019,2020}/fuentes.md`: índice de procedencia.
-- `resources/common/imposiciones.json`: correspondencia completa de fuente122
-  con las21diapositivas de107; no duplicar las notas.
-- Caché persistente bajo `/Users/carlosferreyra/.cache/fisica-ii-transcripcion/`:
-  `20261021-corriente-alterna/` (123 y subdirectorio `pptx/` para124),
-  `20261021-maxwell/` (125), `20261021-corriente-alterna-2019/` (130),
-  `20261021-maxwell-2019/` (131), `20261020-ut/`, `20261020-medios/`,
-  `20261020-laboratorios/`. Contienen copias, extracciones, texto Poppler,
-  renders e imágenes de comparación. No depender de `/tmp`, que desapareció.
-- Los scripts de escritura de caché son auxiliares, no idempotentes. No
-  ejecutarlos de nuevo sobre las notas formateadas: podrían revertir reparaciones,
-  duplicar cobertura o reemplazar metadatos ya verificados. La salida revisada
-  en Git es la referencia; conservar todos los cambios existentes.
+1. Leer este bloque, AGENTS.md y document-to-markdown/SKILL.md; inspeccionar
+   git status, rama y PR2. Conservar cualquier cambio existente.
+2. **Fuentes139 y140: transcribir dos PPTX distintos de calorimetría.**
+   Ambas ya copiadas con preflight/SHA y cotejadas visualmente completas:
+   - 139: LaboratorioCalorimetria - Primer Entrega.pptx,6diapositivas,
+     grupo9, INTEGRANTES vacío; pregunta de variable4 sin respuesta y esquema6
+     vacío. No inventar contenido para completarlas.
+   - 140: LaboratorioCalorimetria-Primer-Entrega(1).pptx,8diapositivas,
+     grupo8 con nombres de autoría, objetivo70–80grados, materiales,
+     teoría5, equivalente6, calor específico7 y conexión8.
+   - Son versiones distintas, no duplicados. No hay notas de presentador
+     adicionales: el «7» de notesSlide1 de140 es un campo XML slidenum.
+   - **Ninguna de las dos tiene notas Markdown nuevas todavía.**
+3. Caché exacta: /Users/carlosferreyra/.cache/fisica-ii-transcripcion/20261021-arduino-presentaciones.
+   Tiene ambosPPTX, primera.md,segunda.md, normalizado/ con ambosPDF,
+   primera-01..06.png ysegunda-01..08.png; tabla.png es ampliación ya inspeccionada
+   de la tabla de140diapositiva7. No repetir la revisión desde cero.
+4. Extraer/conservar los medios originales; transcribir fórmulas5–7 por cotejo
+   visual, porque MarkItDown las omite. Tabla7: **36filas**, columnas Material,
+   EspecíficoCe(Kcal/kg.°C ykJ/kg.K), Fusiónlf(kJ/kg), Vaporizaciónlv(kJ/kg).
+   Conservar guiones, cifras originales, unidades, erratas y posibles recortes.
+   El esquema8 tiene resistencia4,7kΩ y dos imágenes de conexión.
+5. Después completar el checklist inferior. Validar archivos concretos con
+   mdformat GFM+MyST, markdownlint, KaTeX, enlaces y git diff --check; push y
+   revisión de todas las notas en GitHub (conteos, comandos residuales, imágenes,
+   tablas), registrar evidencia por nota y actualizar PR/checkpoint.
 
-### Próximo paso exacto y pendientes
+### Checklist restante del inventario
 
-1. Leer este bloque, AGENTS.md y la skill local document-to-markdown antes de
-   convertir; inspeccionar `git status`, rama, remoto y estado de PR #2.
-2. Continuar **fuente138**, Calorimetria.docx de lab arduino.
-   Caché20261021-arduino-calorimetria:preflight,Pandoc conmedios yPDFLibreOffice.
-   Texto extraído; todavía pendiente cotejo de todas las páginas normalizadas.
-3. Fuentes123–132y134–136cubiertas;133esbibliografía. La materia sigue incompleta.
-4. Quedan137planificación,138–140calorimetría/Arduino,
-   141–143exámenes2020; excluir datos personales de estudiantes al publicar.
-5. Fuentes117–121: imposiciones pendientes. De117 solo se cotejaron
-   diapositivas1–24 en caché; hay variantes de símbolos q/p/w respecto de103
-   y una flecha visible en introducción. No declarar identidad ni revisión total.
-6. Pendientes2015: informes61–65, multímetro67, planificación68, Biot-Sabat70,
-   resumen71, enlaces76;37escaneo Sampallo, contenedor3 con11319miembros,
-   Excel9/11 y cualquier clasificación inconclusa del inventario. Conservar
-   límites de bibliografía/otras materias y no ejecutar binarios108–111.
-7. Trabajar por lotes cotejando todas las páginas, preservar erratas y ejercicios
-   vacíos, registrar procedencia y SHA; aplicar formato/lint/KaTeX/enlaces,
-   push y verificar en GitHub cada nota modificada, contando expresiones e imágenes.
+- [ ] 139/140: redactar y verificar las dos presentaciones Arduino ya cotejadas.
+- [ ] 137: planificación2019,31páginas; inventariar/cotejar y transcribir o
+  clasificar con evidencia, sin darla por terminada por su nombre.
+- [ ] 141: examen final10/12/2020,10páginas.
+- [ ] 142: intento17/12/2020,1página.
+- [ ] 143: parcial2de2020,39páginas.
+  En exámenes omitir identificadores/calificaciones personales de estudiantes
+  como en la entrega previa; preservar enunciados y dejar constancia.
+- [ ] 117–121: imposiciones UT5/6/7. Solo117diapositivas1–24 cotejadas antes;
+  variantes q/p/w por θ/π/ω y flecha visible respecto103. No afirmar identidad.
+  118rotada−90°,119/120variantes de104,121posible variante de105:
+  revisar todas las hojas y registrar correspondencias.122 y131 cerradas.
+- [ ] 61–65: informes2015 de Capacidad,Kirchhoff,Brújula,fuerza sobre corriente,
+  incluidas versiones a corregir/aprobadas.
+- [ ] 67: multímetroPPSX.
+- [ ] 68: planificación2016,25páginas.
+- [ ] 70: Biot-Sabat de Anibal Kaseros,62páginas.
+- [ ] 71: Resumen-Fisca-2,80páginas.
+- [ ] 76: direcciones útilesDOC; normalizar en una copia.
+- [ ] 37: escaneo Sampallo137p; OCR español e identificación visual.
+- [ ] 3: RAR/CD2016,11319miembros extraídos previamente; inventario interno
+  pendiente. No ejecutar software del contenedor ni binarios108–111.
+- [ ] 9/11: XLSX legibles pero pertenencia sin identificar; clasificar con evidencia.
+- [ ] 1/5/66: contenido impreso de39exámenes/versiones completo; resta unidad
+  manuscrita de radio enp14. No inventarla ni declarar completa esa anotación.
+- [ ] Revisión final de inventario/cobertura: distinguir bibliografía (Sears,
+  Fotometría133), otras materias y material excluido. No transcribir bibliografía
+  entera por inferencia ni publicar datos personales.
+- [ ] Revisar PR2 y sus checks finales cuando el alcance esté completo;
+  dejar listo para merge según autorización, sin fusionar durante esta pausa.
 
-Herramientas con mise: `/Users/carlosferreyra/.local/bin/mise exec -- ...`.
-Los conversores Python están fijados a3.14.8; no enlazar a python/latest.
-Para comprobaciones de la continuación:
+### Cachés y comprobaciones de reanudación
 
-```sh
-/Users/carlosferreyra/.local/bin/mise -C .github/transcription exec -- uv run check.py --self-test
-/Users/carlosferreyra/.local/bin/mise -C .github/transcription exec -- uv run check.py --base origin/main
-git diff --check
-git status --short
-git log -1 --oneline
-```
+Base persistente: /Users/carlosferreyra/.cache/fisica-ii-transcripcion/.
+Directorios20261021-: corriente-alterna,maxwell,corriente-alterna-2019,
+maxwell-2019,fotometria,interferencias,difraccion,polarizacion,
+termodinamica-introduccion,termodinamica-principios,formulas-2019,
+arduino-calorimetria,arduino-presentaciones.
+Cachés previas20261020-ut,20261020-medios,20261020-laboratorios.
+No depender de/tmp: se perdió en turnos previos.
+
+Los scripts de autoría/registro no son idempotentes. No rerun sobre notas
+formateadas/verificadas: algunas fueron reparadas después y se duplicaría cobertura.
+Git contiene la salida revisada. Pandoc138 necesitó reparar un cierre de fence
+pegado a hardbreak; el archivo delrepo es el definitivo.
+
+Lecciones del lote: usar String.raw para comandos conLaTeX evitando backticks
+literales en la cadenaJS; no convertir barras de módulo a pipes en tablas
+(lvert/rvert), porque mdformat puede truncar celdas. GitHub no renderizó oiint:
+se usa mathop con el carácter∯ y se verificaron cuatro operadores. KaTeX ylint
+no prueban fidelidad ni conteos; comparar antes/después del formato.
+
+Canónica: ~/Library/CloudStorage/OneDrive-FacultadRegionalResistencia/Facultad/Materias Homogeneas/Fisica II.
+Registros: resources/common/inventario.json,cobertura.json,imposiciones.json;
+resources/{2015,2019,2020}/fuentes.md.
+PRbody persistente: /Users/carlosferreyra/.cache/fisica-ii-transcripcion/pr-continuacion.md.
+Mise: /Users/carlosferreyra/.local/bin/mise exec -- herramienta.
+Python de conversores fijado3.14.8; no enlazar venvs apython/latest.
+
+Comprobación enfocada al retomar: git status --short --branch; git log -1;
+gh pr view2; revisar últimos runs. El último contenidofc150ad pasó CI y todos
+los333registros tienen conteos renderizados. El checkpoint final de pausa solo
+cambia registros/RESUME; comprobar push y CI delcommit final en vivo.
 
 ## Historial de checkpoints
 
@@ -1768,3 +1812,10 @@ verificadas también por sus tablas.
 - Caché20261021-arduino-calorimetria:original,Pandoc,PDFnormalizado,cuatro renders.
 - Total333notas/3178expresiones; nota138pendiente GitHub.
 - Próximo:verificar la nota yseguir variantes139/140PPTX de laboratorio.
+
+## Checkpoint 110 — Pausa explícita del usuario
+
+- Pausa solicitada por límite cercano.333notas/3178expresiones verificadas.
+- Fuente138 cerrada:fc150ad,16expresiones,siete pasos,tachadura y tres enlaces,
+  CI39585995105aprobado. Fuentes139/140 cotejadas pero aún sin transcribir.
+- El bloque vigente superior contiene la recuperación exacta y el checklist.

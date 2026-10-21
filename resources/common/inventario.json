@@ -4051,8 +4051,8 @@
       "paginas_pdf": null,
       "duplicado_sha256_de": null,
       "clasificacion": "propuesta de laboratorio de Física II: calorimetría con Arduino yagua para mate",
-      "evidencia": "Cuatro páginas completas cotejadas conPandoc,XML yPDF deLibreOffice; una nota,sin medios. Se conservan propuestas,enlaces, siete pasos con doble numeración,tachadura desconocido/conocido ybalances originales sin resultados añadidos.",
-      "estado": "transcrito; pendiente verificar render en GitHub",
+      "evidencia": "Cuatro páginas completas cotejadas conPandoc,XML yPDF deLibreOffice; una nota,sin medios. Se conservan propuestas,enlaces, siete pasos con doble numeración,tachadura desconocido/conocido ybalances originales sin resultados añadidos. GitHubfc150ad:16/16expresiones,siete pasos,doble numeración,tachadura desconocido ylos tres enlacesWikipedia verificados;sin código matemático residual ni errores. CI39585995105aprobado.",
+      "estado": "transcrito y verificado en GitHub",
       "paginas_revisadas": [
         1,
         2,

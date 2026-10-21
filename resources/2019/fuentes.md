@@ -201,7 +201,7 @@ originales de las normalizadas y registra conteos matemáticos.
 - `2019/lab arduino/Calorimetria.docx`:DOCXcompleto cotejado
   (PDFnormalizado4páginas),una nota de propuesta de calorimetría, sin medios.
   Doble numeración,tachadura ybalances originales conservados. Render GitHub
-  pendiente. SHA-256:
+  verificado en fc150ad. SHA-256:
   `f0a31808cb7bd769b39d18184b3e2e22345672bb2f155f51f9417e8915fb4770`.
 - `2019/lab arduino/LaboratorioCalorimetria - Primer Entrega.pptx`: no PDF
   páginas; pendiente. SHA-256:
