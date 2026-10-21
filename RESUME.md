@@ -26,11 +26,11 @@ restableció y autorizó continuar. La materia sigue incompleta.
 
 ### Todo lo transcrito y comprobado
 
-- Total: **317 notas**, **3029 expresiones**. Las 317 tienen URL de evidencia
+- Total: **330 notas**, **3063 expresiones**. Las 330 tienen URL de evidencia
   y conteo MathJax igual al esperado en `resources/common/cobertura.json`.
-- Distribución: 197teoría y120práctica;113notas bajo2015 y204bajo2019.
-- En main: 218 notas / 2427 expresiones. En la continuación: 99notas nuevas /
-  602expresiones y180medios originales (172imágenes y8GIF) (hay dos referencias reiteradas).
+- Distribución: 208teoría y122práctica;113notas bajo2015 y217bajo2019.
+- En main: 218 notas / 2427 expresiones. En la continuación: 112notas nuevas /
+  636expresiones y202medios originales (194imágenes y8GIF) (hay dos referencias reiteradas).
 - Fuente123: `2019/3er Parcial/2017 UT IX Corriente Alterna.pdf`, 34 páginas
   completas; fecha impresa13/06/2018. Trece notas,101expresiones,23figuras.
   Evidencia GitHub `b1a7e73`; sin errores y todas las figuras cargadas.
@@ -82,10 +82,10 @@ restableció y autorizó continuar. La materia sigue incompleta.
 
 1. Leer este bloque, AGENTS.md y la skill local document-to-markdown antes de
    convertir; inspeccionar `git status`, rama, remoto y estado de PR #2.
-2. Continuar **fuente129**, Principios de la Termodinámica2018,36páginas.
-   Caché20261021-termodinamica-principios: preflight, originalSHAverificado,
-   extracción PyMuPDF4LLM yPoppler,36renders. Cotejadas1–21; restan22–36.
-3. Fuentes123–128,130–132y134–135cubiertas; todavía no declarar completa la materia.
+2. Continuar **fuente136**, Hoja de Fórmulas2019, dos páginas.
+   Caché20261021-formulas-2019: preflight, originalSHAverificado,Poppler ydosrenders.
+   Ambas páginas cotejadas visualmente; transcripción todavía pendiente.
+3. Fuentes123–132y134–135cubiertas;133esbibliografía. La materia sigue incompleta.
 4. Quedan136hoja de fórmulas,137planificación,138–140calorimetría/Arduino,
    141–143exámenes2020; excluir datos personales de estudiantes al publicar.
 5. Fuentes117–121: imposiciones pendientes. De117 solo se cotejaron
@@ -1731,3 +1731,10 @@ verificadas también por sus tablas.
 - Total330notas/3063expresiones; lote129pendiente GitHub.
 - Próximo:verificar render yseguir inventario136–143/imposiciones117–121
   yrestantes2015, sin declarar completa la materia.
+
+## Checkpoint 106 — Principios de Termodinámica verificados
+
+- bf59b38:34/34expresiones,22figuras cargadas ytabla de una fila.
+  Sin errores MathJax ni comandos residuales. CI39584059603aprobado.
+- Total330notas/3063expresiones verificadas. PR2sigue en borrador.
+- Próximo136Hoja de Fórmulas2019:dos páginas cotejadas, sin transcripción aún.

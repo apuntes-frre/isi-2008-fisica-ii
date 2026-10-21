@@ -158,7 +158,7 @@ originales de las normalizadas y registra conteos matemáticos.
 - `2019/3er Parcial/2018 UT XVI - Principios de la Termodinámica.pdf`:36páginas
   completas transcritas en13notas y22figuras, ejemplos originales resueltos
   ycierres. Entropía solo figura en el programa,sin desarrollo. Render GitHub
-  pendiente. SHA-256:
+  verificado enbf59b38. SHA-256:
   `dc2644f583b907ef2bdf7d3841e6e39009b5e41d2b9f8fdf64d02a47287f5df4`.
 - `2019/3er Parcial/2019 UT IX Corriente Alterna.pdf`: 49 páginas cotejadas,
   trece notas nuevas y dos diapositivas registradas como procedencia adicional
