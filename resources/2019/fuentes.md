@@ -179,7 +179,7 @@ originales de las normalizadas y registra conteos matemáticos.
 - `2019/3er Parcial/UT XII - Interferencias.ppt`: 42 diapositivas completas
   transcritas en trece notas, con tres problemas sin resolver y32medios
   (incluidos dosGIF originales). Se conservan siete diapositivas posteriores al
-  cierre y erratas de N rendijas. Render GitHub pendiente. SHA-256:
+  cierre y erratas de N rendijas. Render GitHub verificado en599f068. SHA-256:
   `1aedc0734c24e71c0cbae9ecc29b034fe9e22575940fc895559579ce1326b91e`.
 - `2019/3er Parcial/UT XIII - Interferencia y Difraccion 290616.ppt`: no PDF
   páginas; pendiente. SHA-256:

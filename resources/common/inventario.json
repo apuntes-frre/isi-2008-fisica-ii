@@ -3804,8 +3804,8 @@
       "paginas_pdf": null,
       "duplicado_sha256_de": null,
       "clasificacion": "material docente de Física II: Interferencia",
-      "evidencia": "42diapositivas cotejadas, incluidas siete posteriores al cierre35;13notas, tres problemas sin resolver,32medios (30PNG y2GIF incrustados),sin notas del presentador adicionales. Fórmulas WMF reparadas por cotejo visual; se conservan erratas37/38, recorte de artículo12 y fechas propias de fotografías.",
-      "estado": "transcrito; pendiente verificar render en GitHub",
+      "evidencia": "42diapositivas cotejadas, incluidas siete posteriores al cierre35;13notas, tres problemas sin resolver,32medios (30PNG y2GIF incrustados),sin notas del presentador adicionales. Fórmulas WMF reparadas por cotejo visual; se conservan erratas37/38, recorte de artículo12 y fechas propias de fotografías. GitHub599f068:100/100expresiones,32medios cargados, sin errores MathJax ni comandos residuales. CI39580366889aprobado.",
+      "estado": "transcrito y verificado en GitHub",
       "paginas_revisadas": [
         1,
         2,

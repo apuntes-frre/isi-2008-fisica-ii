@@ -26,11 +26,11 @@ restableció y autorizó continuar. La materia sigue incompleta.
 
 ### Todo lo transcrito y comprobado
 
-- Total: **269 notas**, **2789 expresiones**. Las 269 tienen URL de evidencia
+- Total: **282 notas**, **2889 expresiones**. Las 282 tienen URL de evidencia
   y conteo MathJax igual al esperado en `resources/common/cobertura.json`.
-- Distribución: 154 teoría y 115 práctica; 113 notas bajo 2015 y 156 bajo 2019.
-- En main: 218 notas / 2427 expresiones. En la continuación: 51 notas nuevas /
-  362 expresiones y 83 imágenes originales (hay dos referencias reiteradas).
+- Distribución: 166 teoría y 116 práctica; 113 notas bajo 2015 y 169 bajo 2019.
+- En main: 218 notas / 2427 expresiones. En la continuación: 64 notas nuevas /
+  462 expresiones y115medios originales (113imágenes y2GIF) (hay dos referencias reiteradas).
 - Fuente123: `2019/3er Parcial/2017 UT IX Corriente Alterna.pdf`, 34 páginas
   completas; fecha impresa13/06/2018. Trece notas,101expresiones,23figuras.
   Evidencia GitHub `b1a7e73`; sin errores y todas las figuras cargadas.
@@ -82,11 +82,11 @@ restableció y autorizó continuar. La materia sigue incompleta.
 
 1. Leer este bloque, AGENTS.md y la skill local document-to-markdown antes de
    convertir; inspeccionar `git status`, rama, remoto y estado de PR #2.
-2. Continuar **fuente134**, `2019/3er Parcial/UT XII - Interferencias.ppt`.
-   Caché persistente `20261021-interferencias/`: original copiado, PPTX normalizado,
-   MarkItDown extraído y PDF de LibreOffice. Todavía no hay páginas cotejadas.
-3. Luego135difracción PPT,126polarización PPTX,128introducción termodinámica60p.,
-   129principios termodinámica36p. Fuentes123–125,127,130–132 cubiertas.
+2. Continuar **fuente135**, UT XIII - Interferencia y Difraccion 290616.ppt.
+   Preflight terminado en caché persistente20261021-difraccion, originalSHAverificado.
+   Convertir una copia con LibreOffice/PPTX/PDF y revisar todas las diapositivas.
+3. Luego126polarización PPTX,128introducción termodinámica60p.,
+   129principios termodinámica36p. Fuentes123–125,127,130–132y134cubiertas.
 4. Quedan136hoja de fórmulas,137planificación,138–140calorimetría/Arduino,
    141–143exámenes2020; excluir datos personales de estudiantes al publicar.
 5. Fuentes117–121: imposiciones pendientes. De117 solo se cotejaron
@@ -1648,7 +1648,7 @@ verificadas también por sus tablas.
 ## Checkpoint 97 — Interferencias transcrita, render pendiente
 
 - Fuente134 completa:42diapositivas,13notas (12teoría/1práctica),
-  102expresiones y32medios (30PNG y2GIF originales). Tres ejercicios sin resolver.
+  100expresiones y32medios (30PNG y2GIF originales). Tres ejercicios sin resolver.
 - Comparación MarkItDown/Poppler y cotejo visual de todas las diapositivas;
   las fórmulas WMF se transcribieron con las erratas originales señaladas.
 - Se incluyen las siete diapositivas posteriores al «Fin tema12», repetición
@@ -1659,5 +1659,13 @@ verificadas también por sus tablas.
 - Caché20261021-interferencias: normalizado/PPTX/PDF, directo/PDF,42renders,
   texto.txt, extraido.md ynotas-paginas.json. El generador inicial requirió
   reparaciones posteriores: NOvolveraejecutarlo sobre notas verificadas.
-- Total282notas/2891expresiones;269/2789ya verificadas,13/102pendientes GitHub.
+- Total282notas/2889expresiones; todas verificadas en GitHub.
 - Próximo: publicar/verificar lote134, luego135Interferencia/difracción.
+
+## Checkpoint 98 — Interferencias verificada y subida
+
+- Evidencia599f068:100/100expresiones, todas las imágenes/GIF cargadas,
+  cero errores MathJax ni comandos residuales. CI39580366889aprobado.
+- Registros completos por nota y fuente;282notas/2889expresiones en total.
+- Corrección del conteo preliminar97: son100expresiones, no102.
+- Próximo135Difracción: preflight y copia persistente listos, transcripción pendiente.
