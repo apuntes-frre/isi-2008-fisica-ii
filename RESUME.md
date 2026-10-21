@@ -60,42 +60,40 @@ La transcripción está activa. La materia sigue incompleta.
   siete pasos con doble numeración, tachadura y tres enlaces conservados.
   No tiene medios; propuesta sin resultados añadidos.
 
-### Próximo paso exacto al reanudar
+### Próximo paso exacto
 
-1. Leer este bloque, AGENTS.md y document-to-markdown/SKILL.md; inspeccionar
-   git status, rama y PR2. Conservar cualquier cambio existente.
-2. **Fuentes139 y140: transcribir dos PPTX distintos de calorimetría.**
-   Ambas ya copiadas con preflight/SHA y cotejadas visualmente completas:
-   - 139: LaboratorioCalorimetria - Primer Entrega.pptx,6diapositivas,
-     grupo9, INTEGRANTES vacío; pregunta de variable4 sin respuesta y esquema6
-     vacío. No inventar contenido para completarlas.
-   - 140: LaboratorioCalorimetria-Primer-Entrega(1).pptx,8diapositivas,
-     grupo8 con nombres de autoría, objetivo70–80grados, materiales,
-     teoría5, equivalente6, calor específico7 y conexión8.
-   - Son versiones distintas, no duplicados. No hay notas de presentador
-     adicionales: el «7» de notesSlide1 de140 es un campo XML slidenum.
-   - **Ninguna de las dos tiene notas Markdown nuevas todavía.**
-3. Caché exacta: /Users/carlosferreyra/.cache/fisica-ii-transcripcion/20261021-arduino-presentaciones.
-   Tiene ambosPPTX, primera.md,segunda.md, normalizado/ con ambosPDF,
-   primera-01..06.png ysegunda-01..08.png; tabla.png es ampliación ya inspeccionada
-   de la tabla de140diapositiva7. No repetir la revisión desde cero.
-4. Extraer/conservar los medios originales; transcribir fórmulas5–7 por cotejo
-   visual, porque MarkItDown las omite. Tabla7: **36filas**, columnas Material,
-   EspecíficoCe(Kcal/kg.°C ykJ/kg.K), Fusiónlf(kJ/kg), Vaporizaciónlv(kJ/kg).
-   Conservar guiones, cifras originales, unidades, erratas y posibles recortes.
-   El esquema8 tiene resistencia4,7kΩ y dos imágenes de conexión.
-5. Después completar el checklist inferior. Validar archivos concretos con
-   mdformat GFM+MyST, markdownlint, KaTeX, enlaces y git diff --check; push y
-   revisión de todas las notas en GitHub (conteos, comandos residuales, imágenes,
-   tablas), registrar evidencia por nota y actualizar PR/checkpoint.
+1. Trabajo activo tras «Continuar». Último lote publicado: 0718d0b, fuentes139/140.
+   Dos notas completas y13medios; grupo9 conserva vacíos, grupo8 tiene10math
+   ytabla de36filas. Formato/lint/KaTeX/enlaces aprobados.
+2. Fuente142: final17/12/2020, una página larga,16preguntas cotejadas completas;
+   nota notes/2020/practica/examen-final-diciembre-17.md,19math y9figuras.
+   Se omiten puntajes, calificación y respuestas seleccionadas del intento.
+3. **Verificación GitHub pendiente para estas tres notas.** CUA devuelve
+   «No browser is available»; no atribuirles render verificado hasta cotejar
+   conteos esperados0/10/19, tabla36filas y todas las imágenes.
+4. Cachés:
+   /Users/carlosferreyra/.cache/fisica-ii-transcripcion/20261021-arduino-presentaciones
+   /Users/carlosferreyra/.cache/fisica-ii-transcripcion/20261021-finales-2020
+   La segunda contiene originales141/142 con SHA cotejado, extracción142,
+   crops pregunta01..16, figuras y script de autoría. No regenerar notas.
+5. Continuar141(final10/12/2020,10p) y137(planificación31p); después checklist.
+   No detener trabajo documental por la falta de navegador.
+
+### Totales después de reanudar
+
+336notas /3207expresiones:333notas/3178expresiones verificadas enGitHub
+más3notas/29expresiones pendientes de ese control. 210teoría/126práctica;
+113notas2015,222notas2019 y1nota2020.
+La continuación agrega118notas/780expresiones y228medios (220imágenes y8GIF).
+Los totales anteriores describen el checkpoint8511554.
 
 ### Checklist restante del inventario
 
-- [ ] 139/140: redactar y verificar las dos presentaciones Arduino ya cotejadas.
+- [ ] 139/140: transcripción completa; solo resta verificar render GitHub.
 - [ ] 137: planificación2019,31páginas; inventariar/cotejar y transcribir o
   clasificar con evidencia, sin darla por terminada por su nombre.
 - [ ] 141: examen final10/12/2020,10páginas.
-- [ ] 142: intento17/12/2020,1página.
+- [ ] 142: 16preguntas transcritas y cotejadas; solo resta verificar render GitHub.
 - [ ] 143: parcial2de2020,39páginas.
   En exámenes omitir identificadores/calificaciones personales de estudiantes
   como en la entrega previa; preservar enunciados y dejar constancia.

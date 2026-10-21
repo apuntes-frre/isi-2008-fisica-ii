@@ -6276,6 +6276,20 @@
       "url_github": null,
       "estado": "cotejado completo; pendiente render GitHub",
       "fuentes_adicionales": []
+    },
+    {
+      "original": "2020/Modelo Finales/Examen final 17_12_2020 - 17_00 horas_ Revisión del intento.pdf",
+      "sha256": "f642b1113819fe8ec70162e19871d641eeda54acd93dc3a3ff41fb1efca728a1",
+      "nota": "notes/2020/practica/examen-final-diciembre-17.md",
+      "paginas_revisadas": [
+        1
+      ],
+      "paginacion": "PDF original de una página larga; 16 preguntas",
+      "math_esperada": 19,
+      "math_renderizada_github": null,
+      "url_github": null,
+      "estado": "cotejado completo; pendiente render GitHub",
+      "fuentes_adicionales": []
     }
   ]
 }

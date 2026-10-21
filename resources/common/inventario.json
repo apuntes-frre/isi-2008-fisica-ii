@@ -4124,10 +4124,12 @@
       "bytes": 579749,
       "paginas_pdf": 1,
       "duplicado_sha256_de": null,
-      "clasificacion": "pendiente de revisión documental",
-      "evidencia": "",
-      "estado": "pendiente",
-      "paginas_revisadas": [],
+      "clasificacion": "examen final: 16 preguntas con todas las opciones, sin datos de evaluación del intento",
+      "evidencia": "notes/2020/practica/examen-final-diciembre-17.md; página larga cotejada en 16 regiones; 9 figuras y 19 expresiones.",
+      "estado": "transcrito; render GitHub pendiente",
+      "paginas_revisadas": [
+        1
+      ],
       "copia_local": "/tmp/fisica-ii-20261017-fuentes/142-Examen final 17_12_2020 - 17_00 horas_ Revisión del intento.pdf",
       "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/142-Examen final 17_12_2020 - 17_00 horas_ Revisión del intento.txt"
     },
