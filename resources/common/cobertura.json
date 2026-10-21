@@ -6313,6 +6313,22 @@
       "url_github": null,
       "estado": "cotejado completo; pendiente render GitHub",
       "fuentes_adicionales": []
+    },
+    {
+      "original": "2015/direcciones utiles de internet.doc",
+      "sha256": "2b53ce70d6b0d2d5d572c8ebe652a93f55d2397315993fe0694c2f95fad3f48c",
+      "nota": "notes/2015/teoria/direcciones-utiles-internet-simulaciones.md",
+      "paginas_revisadas": [
+        1,
+        2,
+        3
+      ],
+      "paginacion": "PDF normalizado de LibreOffice a partir del DOC original",
+      "math_esperada": 0,
+      "math_renderizada_github": null,
+      "url_github": null,
+      "estado": "cotejado completo; pendiente render GitHub",
+      "fuentes_adicionales": []
     }
   ]
 }

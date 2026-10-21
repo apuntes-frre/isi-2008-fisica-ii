@@ -301,7 +301,10 @@ originales de las normalizadas y registra conteos matemáticos.
   ángulo sólido, flujo y Gauss; animaciones superpuestas y erratas documentadas.
   SHA-256: `1130cc5160c8a6f87578f071f70595c679fb1535a8899aa02e13c9b0d093da07`.
   Duplicado exacto de `2015/UNIDAD 1 Fuerza electrica y campo electrico-1.pdf`.
-- `2015/direcciones utiles de internet.doc`: no PDF páginas; pendiente. SHA-256:
+- `2015/direcciones utiles de internet.doc`: tres páginas normalizadas cotejadas
+  completas; una nota con enlaces históricos y simulaciones, sin fórmulas ni
+  medios. Fecha interna31/10/2009; enlaces originales conservados sin comprobar
+  su disponibilidad actual. Render GitHub pendiente. SHA-256:
   `2b53ce70d6b0d2d5d572c8ebe652a93f55d2397315993fe0694c2f95fad3f48c`.
 - `2015/guia de problemas 2011.pdf`: 31 páginas; completo: 31 páginas cotejadas;
   diez notas propias y tres secciones compartidas; superposición gráfica de

@@ -2050,10 +2050,14 @@
       "bytes": 60416,
       "paginas_pdf": null,
       "duplicado_sha256_de": null,
-      "clasificacion": "pendiente de revisión documental",
-      "evidencia": "",
-      "estado": "pendiente",
-      "paginas_revisadas": [],
+      "clasificacion": "listado histórico de recursos y simulaciones; fecha interna 31/10/2009",
+      "evidencia": "notes/2015/teoria/direcciones-utiles-internet-simulaciones.md; tres páginas normalizadas cotejadas completas; enlaces originales preservados.",
+      "estado": "transcrito; render GitHub pendiente",
+      "paginas_revisadas": [
+        1,
+        2,
+        3
+      ],
       "copia_local": "/tmp/fisica-ii-20261017-fuentes/76-direcciones utiles de internet.doc",
       "texto_poppler_local": null
     },

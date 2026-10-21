@@ -6,7 +6,7 @@ Este bloque prevalece sobre todos los estados históricos inferiores.
 El usuario indicó «Continuar» después del checkpoint 8511554, publicado en origin.
 La transcripción está activa. La materia sigue incompleta.
 
-### Git, publicación y resultado verificado
+### Git y entrega base antes de reanudar (checkpoint8511554)
 
 - Repo: /Users/carlosferreyra/Development/apuntes-frre/isi-2008-fisica-ii.
 - Rama: codex/transcribir-fisica-ii-continuacion, publicada en origin.
@@ -17,11 +17,10 @@ La transcripción está activa. La materia sigue incompleta.
   <https://github.com/apuntes-frre/isi-2008-fisica-ii/pull/2>.
 - No fusionar automáticamente la continuación. No editar README raíz autogenerado.
 - Último contenido: fc150ad (propuesta DOCX de calorimetría). CI aprobado,
-  run39585995105. El commit posterior guarda este checkpoint y los registros;
-  obtener su SHA con git log -1, sin depender de una autorreferencia.
+  run39585995105. Los lotes posteriores se describen en «Próximo paso exacto» y «Totales después de reanudar».
 - Total: **333 notas y3178expresiones**, todas con URL de evidencia y conteo
   MathJax igual al esperado. Distribución:210teoría/123práctica;
-  113notas2015 y220notas2019.
+  114notas2015 y220notas2019.
 - En main:218notas/2427expresiones. Continuación:115notas nuevas/751expresiones,
   206medios originales (198imágenes y8GIF; algunas referencias se repiten).
 - No declarar finalizada Física II ni equiparar inventario con páginas transcritas.
@@ -62,15 +61,15 @@ La transcripción está activa. La materia sigue incompleta.
 
 ### Próximo paso exacto
 
-1. Trabajo activo tras «Continuar». Último lote publicado: 0718d0b, fuentes139/140.
+1. Trabajo activo tras «Continuar». Lote139/140 publicado en0718d0b; finales142/141 en694f299/a624ce8.
    Dos notas completas y13medios; grupo9 conserva vacíos, grupo8 tiene10math
    ytabla de36filas. Formato/lint/KaTeX/enlaces aprobados.
 2. Fuente142: final17/12/2020, una página larga,16preguntas cotejadas completas;
    nota notes/2020/practica/examen-final-diciembre-17.md,19math y9figuras.
    Se omiten puntajes, calificación y respuestas seleccionadas del intento.
-3. **Verificación GitHub pendiente para estas cuatro notas.** CUA devuelve
+3. **Verificación GitHub pendiente para estas cinco notas.** CUA devuelve
    «No browser is available»; no atribuirles render verificado hasta cotejar
-   conteos esperados0/10/19/23, tabla36filas y todas las imágenes.
+   conteos esperados0/10/19/23/0, tabla36filas y todas las imágenes.
 4. Cachés:
    /Users/carlosferreyra/.cache/fisica-ii-transcripcion/20261021-arduino-presentaciones
    /Users/carlosferreyra/.cache/fisica-ii-transcripcion/20261021-finales-2020
@@ -79,12 +78,16 @@ La transcripción está activa. La materia sigue incompleta.
 5. Continuar137(planificación31p) y143(parcial2,39p); después checklist.
    No detener trabajo documental por la falta de navegador.
 
+Fuente76 también transcrita: notes/2015/teoria/direcciones-utiles-internet-simulaciones.md.
+DOCnormalizado3p completas, enlaces históricos, fecha31/10/2009. Sin medios/math;
+render GitHub pendiente. Caché20261021-enlaces-2015.
+
 ### Totales después de reanudar
 
-337notas /3230expresiones:333notas/3178expresiones verificadas enGitHub
-más4notas/52expresiones pendientes de ese control. 210teoría/127práctica;
-113notas2015,222notas2019 y2notas2020.
-La continuación agrega119notas/803expresiones y241medios (233imágenes y8GIF).
+338notas /3230expresiones:333notas/3178expresiones verificadas enGitHub
+más5notas/52expresiones pendientes de ese control. 211teoría/127práctica;
+114notas2015,222notas2019 y2notas2020.
+La continuación agrega120notas/803expresiones y241medios (233imágenes y8GIF).
 Los totales anteriores describen el checkpoint8511554.
 
 ### Checklist restante del inventario
@@ -108,7 +111,7 @@ Los totales anteriores describen el checkpoint8511554.
 - [ ] 68: planificación2016,25páginas.
 - [ ] 70: Biot-Sabat de Anibal Kaseros,62páginas.
 - [ ] 71: Resumen-Fisca-2,80páginas.
-- [ ] 76: direcciones útilesDOC; normalizar en una copia.
+- [ ] 76: direcciones útilesDOC, tres páginas transcritas; render GitHub pendiente.
 - [ ] 37: escaneo Sampallo137p; OCR español e identificación visual.
 - [ ] 3: RAR/CD2016,11319miembros extraídos previamente; inventario interno
   pendiente. No ejecutar software del contenedor ni binarios108–111.
