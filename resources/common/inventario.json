@@ -4050,12 +4050,18 @@
       "bytes": 19112,
       "paginas_pdf": null,
       "duplicado_sha256_de": null,
-      "clasificacion": "pendiente de revisión documental",
-      "evidencia": "",
-      "estado": "pendiente",
-      "paginas_revisadas": [],
-      "copia_local": "/tmp/fisica-ii-20261017-fuentes/138-Calorimetria.docx",
-      "texto_poppler_local": null
+      "clasificacion": "propuesta de laboratorio de Física II: calorimetría con Arduino yagua para mate",
+      "evidencia": "Cuatro páginas completas cotejadas conPandoc,XML yPDF deLibreOffice; una nota,sin medios. Se conservan propuestas,enlaces, siete pasos con doble numeración,tachadura desconocido/conocido ybalances originales sin resultados añadidos.",
+      "estado": "transcrito; pendiente verificar render en GitHub",
+      "paginas_revisadas": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "copia_local": "/Users/carlosferreyra/.cache/fisica-ii-transcripcion/20261021-arduino-calorimetria/01-Calorimetria.docx",
+      "texto_poppler_local": null,
+      "paginacion_revisada": "PDF normalizado conLibreOffice; DOCXsin paginación impresa"
     },
     {
       "original": "2019/lab arduino/LaboratorioCalorimetria - Primer Entrega.pptx",

@@ -6220,6 +6220,22 @@
       "math_renderizada_github": 60,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/c687a05/notes/2019/teoria/hoja-formulas-2019-parte-2.md",
       "estado": "verificado en GitHub"
+    },
+    {
+      "original": "2019/lab arduino/Calorimetria.docx",
+      "sha256": "f0a31808cb7bd769b39d18184b3e2e22345672bb2f155f51f9417e8915fb4770",
+      "nota": "notes/2019/practica/calorimetria-agua-mate-propuesta.md",
+      "paginas_revisadas": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "paginacion": "PDF normalizado LibreOffice4páginas; DOCXoriginal sin paginación impresa",
+      "math_esperada": 16,
+      "math_renderizada_github": null,
+      "url_github": null,
+      "estado": "pendiente verificar en GitHub"
     }
   ]
 }

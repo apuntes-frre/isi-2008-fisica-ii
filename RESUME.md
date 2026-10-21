@@ -1759,3 +1759,12 @@ verificadas también por sus tablas.
   usar lvert/rvert en tablas, nunca barrasASCII. Conteo definitivo99,no89.
 - Total332notas/3162expresiones verificadas. Próximo138DOCXArduino.
 - Estado deCI delcommit de reparación consultar en vivo; anteriorc687a05aprobado.
+
+## Checkpoint 109 — Propuesta DOCX de calorimetría transcrita
+
+- Fuente138completa:cuatro páginas delPDFLibreOffice,una nota,16expresiones,
+  sin medios. Pandoc/XML/PDF cotejados,doble numeración ytachadura conservadas.
+- Propuesta sin resultados añadidos; se preservan signos ydespejes originales.
+- Caché20261021-arduino-calorimetria:original,Pandoc,PDFnormalizado,cuatro renders.
+- Total333notas/3178expresiones; nota138pendiente GitHub.
+- Próximo:verificar la nota yseguir variantes139/140PPTX de laboratorio.

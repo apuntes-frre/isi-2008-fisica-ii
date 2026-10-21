@@ -198,7 +198,10 @@ originales de las normalizadas y registra conteos matemáticos.
 - `2019/Planificación 2019_e86a2f40b7c92c86772a2b980a78a58f.pdf`: 31 páginas;
   pendiente. SHA-256:
   `ec751a4f7b47c178d3f0af097603901407094ba12eba9323ece588fa54aa130a`.
-- `2019/lab arduino/Calorimetria.docx`: no PDF páginas; pendiente. SHA-256:
+- `2019/lab arduino/Calorimetria.docx`:DOCXcompleto cotejado
+  (PDFnormalizado4páginas),una nota de propuesta de calorimetría, sin medios.
+  Doble numeración,tachadura ybalances originales conservados. Render GitHub
+  pendiente. SHA-256:
   `f0a31808cb7bd769b39d18184b3e2e22345672bb2f155f51f9417e8915fb4770`.
 - `2019/lab arduino/LaboratorioCalorimetria - Primer Entrega.pptx`: no PDF
   páginas; pendiente. SHA-256:
