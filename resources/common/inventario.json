@@ -3538,8 +3538,8 @@
       "paginas_pdf": 32,
       "duplicado_sha256_de": null,
       "clasificacion": "material docente de Física II: Fotometría",
-      "evidencia": "32páginas completas cotejadas; once notas,19figuras,tabla de32filas de equivalencias, dos tablas de6colores y tabla final4magnitudes. Se conservan recortes, celda vacía, cifras originales33cd/K1699 y signoigual ausente en Angstrom. Archivos127/132conSHAidéntico, verificado en fuente canónica.",
-      "estado": "transcrito; pendiente verificar render en GitHub",
+      "evidencia": "32páginas completas cotejadas; once notas,19figuras,tabla de32filas de equivalencias, dos tablas de6colores y tabla final4magnitudes. Se conservan recortes, celda vacía, cifras originales33cd/K1699 y signoigual ausente en Angstrom. Archivos127/132conSHAidéntico, verificado en fuente canónica. Render c7c8ba9:46/46 expresiones,19figuras cargadas,tablas6/32/6/4filas; sin errores MathJax ni comandos residuales.",
+      "estado": "transcrito y verificado en GitHub",
       "paginas_revisadas": [
         1,
         2,
@@ -3709,8 +3709,8 @@
       "paginas_pdf": 32,
       "duplicado_sha256_de": "2019/3er Parcial/2018 UT XI - Fotometria.pdf",
       "clasificacion": "material docente de Física II: Fotometría",
-      "evidencia": "32páginas completas cotejadas; once notas,19figuras,tabla de32filas de equivalencias, dos tablas de6colores y tabla final4magnitudes. Se conservan recortes, celda vacía, cifras originales33cd/K1699 y signoigual ausente en Angstrom. Archivos127/132conSHAidéntico, verificado en fuente canónica.",
-      "estado": "transcrito; pendiente verificar render en GitHub",
+      "evidencia": "32páginas completas cotejadas; once notas,19figuras,tabla de32filas de equivalencias, dos tablas de6colores y tabla final4magnitudes. Se conservan recortes, celda vacía, cifras originales33cd/K1699 y signoigual ausente en Angstrom. Archivos127/132conSHAidéntico, verificado en fuente canónica. Render c7c8ba9:46/46 expresiones,19figuras cargadas,tablas6/32/6/4filas; sin errores MathJax ni comandos residuales.",
+      "estado": "transcrito y verificado en GitHub",
       "paginas_revisadas": [
         1,
         2,

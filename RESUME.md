@@ -26,11 +26,11 @@ restableció y autorizó continuar. La materia sigue incompleta.
 
 ### Todo lo transcrito y comprobado
 
-- Total: **258 notas**, **2743 expresiones**. Las 258 tienen URL de evidencia
+- Total: **269 notas**, **2789 expresiones**. Las 269 tienen URL de evidencia
   y conteo MathJax igual al esperado en `resources/common/cobertura.json`.
-- Distribución: 143 teoría y 115 práctica; 113 notas bajo 2015 y 145 bajo 2019.
-- En main: 218 notas / 2427 expresiones. En la continuación: 40 notas nuevas /
-  316 expresiones y 64 imágenes originales (hay dos referencias reiteradas).
+- Distribución: 154 teoría y 115 práctica; 113 notas bajo 2015 y 156 bajo 2019.
+- En main: 218 notas / 2427 expresiones. En la continuación: 51 notas nuevas /
+  362 expresiones y 83 imágenes originales (hay dos referencias reiteradas).
 - Fuente123: `2019/3er Parcial/2017 UT IX Corriente Alterna.pdf`, 34 páginas
   completas; fecha impresa13/06/2018. Trece notas,101expresiones,23figuras.
   Evidencia GitHub `b1a7e73`; sin errores y todas las figuras cargadas.
@@ -82,13 +82,11 @@ restableció y autorizó continuar. La materia sigue incompleta.
 
 1. Leer este bloque, AGENTS.md y la skill local document-to-markdown antes de
    convertir; inspeccionar `git status`, rama, remoto y estado de PR #2.
-2. Seguir con **fuente127**, `2019/3er Parcial/2018 UT XI - Fotometria.pdf`
-   (32páginas, SHA `b8cd5a2b645f5d301f347d8191d41cd87469e75a7595a0388a7d8ef460d669b2`).
-   La fuente132 es duplicado binario exacto ya identificado; registrar ambos
-   originales con una única transcripción. Ejecutar preflight en caché nueva.
-3. Luego134interferencias PPT,135difracción PPT,126polarización PPTX,
-   128introducción termodinámica60p.,129principios termodinámica36p.
-   Fuentes123–125 y130–131 ya están cubiertas; revisar inventario antes de repetir.
+2. Continuar **fuente134**, `2019/3er Parcial/UT XII - Interferencias.ppt`.
+   Caché persistente `20261021-interferencias/`: original copiado, PPTX normalizado,
+   MarkItDown extraído y PDF de LibreOffice. Todavía no hay páginas cotejadas.
+3. Luego135difracción PPT,126polarización PPTX,128introducción termodinámica60p.,
+   129principios termodinámica36p. Fuentes123–125,127,130–132 cubiertas.
 4. Quedan136hoja de fórmulas,137planificación,138–140calorimetría/Arduino,
    141–143exámenes2020; excluir datos personales de estudiantes al publicar.
 5. Fuentes117–121: imposiciones pendientes. De117 solo se cotejaron
@@ -1638,3 +1636,11 @@ verificadas también por sus tablas.
 - Caché persistente ~/.cache/fisica-ii-transcripcion/20261021-fotometria.
 - Próximo:verificar este lote en GitHub; luego134interferencias,135difracción,
   126polarización,128–129termodinámica y demás pendientes del inventario.
+
+## Checkpoint 96 — Fotometría verificada en GitHub
+
+- Fuentes127/132 completas: once notas,46expresiones y19figuras originales.
+- Commit c7c8ba9: todos los conteos MathJax coinciden, sin errores ni comandos
+  residuales; imágenes cargadas y tablas6/32/6/4filas comprobadas.
+- Total269notas/2789expresiones. Continúa pendiente el resto del inventario.
+- Próximo:134Interferencias; caché persistente con conversión PPTX y PDF.
