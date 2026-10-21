@@ -6329,6 +6329,38 @@
       "url_github": null,
       "estado": "cotejado completo; pendiente render GitHub",
       "fuentes_adicionales": []
+    },
+    {
+      "original": "2015/PARTES Y FUNCIONES DE UN MULTÍMETRO DIGITAL.ppsx",
+      "sha256": "4375b5ba3260f92e29876aa7d402634bbe935cc55e776dba1f40c7bcad431c3d",
+      "nota": "notes/2015/practica/multimetro-digital-partes-funciones.md",
+      "paginas_revisadas": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "paginacion": "diapositivas del PPSX original; PDF normalizado de LibreOffice",
+      "math_esperada": 0,
+      "math_renderizada_github": null,
+      "url_github": null,
+      "estado": "cotejado completo; pendiente render GitHub",
+      "fuentes_adicionales": []
     }
   ]
 }

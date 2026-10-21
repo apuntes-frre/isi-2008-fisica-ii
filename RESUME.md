@@ -20,7 +20,7 @@ La transcripción está activa. La materia sigue incompleta.
   run39585995105. Los lotes posteriores se describen en «Próximo paso exacto» y «Totales después de reanudar».
 - Total: **333 notas y3178expresiones**, todas con URL de evidencia y conteo
   MathJax igual al esperado. Distribución:210teoría/123práctica;
-  114notas2015 y220notas2019.
+  115notas2015 y220notas2019.
 - En main:218notas/2427expresiones. Continuación:115notas nuevas/751expresiones,
   206medios originales (198imágenes y8GIF; algunas referencias se repiten).
 - No declarar finalizada Física II ni equiparar inventario con páginas transcritas.
@@ -67,9 +67,9 @@ La transcripción está activa. La materia sigue incompleta.
 2. Fuente142: final17/12/2020, una página larga,16preguntas cotejadas completas;
    nota notes/2020/practica/examen-final-diciembre-17.md,19math y9figuras.
    Se omiten puntajes, calificación y respuestas seleccionadas del intento.
-3. **Verificación GitHub pendiente para estas cinco notas.** CUA devuelve
+3. **Verificación GitHub pendiente para estas seis notas.** CUA devuelve
    «No browser is available»; no atribuirles render verificado hasta cotejar
-   conteos esperados0/10/19/23/0, tabla36filas y todas las imágenes.
+   conteos esperados0/10/19/23/0/0, tabla36filas y todas las imágenes.
 4. Cachés:
    /Users/carlosferreyra/.cache/fisica-ii-transcripcion/20261021-arduino-presentaciones
    /Users/carlosferreyra/.cache/fisica-ii-transcripcion/20261021-finales-2020
@@ -82,12 +82,17 @@ Fuente76 también transcrita: notes/2015/teoria/direcciones-utiles-internet-simu
 DOCnormalizado3p completas, enlaces históricos, fecha31/10/2009. Sin medios/math;
 render GitHub pendiente. Caché20261021-enlaces-2015.
 
+Fuente67 también transcrita: notes/2015/practica/multimetro-digital-partes-funciones.md.
+19diapositivas/17figuras; sin expresionesmath; render GitHub pendiente.
+Caché20261021-multimetro: originalesnormalizados,extracción,cotejos4porhoja.
+MarkItDown rechazaPPSX; usar conversión realLOaPPTX, no solo renombrar extensión.
+
 ### Totales después de reanudar
 
-338notas /3230expresiones:333notas/3178expresiones verificadas enGitHub
-más5notas/52expresiones pendientes de ese control. 211teoría/127práctica;
-114notas2015,222notas2019 y2notas2020.
-La continuación agrega120notas/803expresiones y241medios (233imágenes y8GIF).
+339notas /3230expresiones:333notas/3178expresiones verificadas enGitHub
+más6notas/52expresiones pendientes de ese control. 211teoría/128práctica;
+115notas2015,222notas2019 y2notas2020.
+La continuación agrega121notas/803expresiones y258medios (250imágenes y8GIF).
 Los totales anteriores describen el checkpoint8511554.
 
 ### Checklist restante del inventario

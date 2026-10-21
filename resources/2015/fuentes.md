@@ -273,8 +273,10 @@ originales de las normalizadas y registra conteos matemáticos.
   `1555e295ed06e6a3872614be84854c0e0af3e8455048ca7e5bcbc4383490653e`. Duplicado
   exacto de
   `2015/480938-Modelos de parcial FISICA II actualizado 060813(0).pdf`.
-- `2015/PARTES Y FUNCIONES DE UN MULTÍMETRO DIGITAL.ppsx`: no PDF páginas;
-  pendiente. SHA-256:
+- `2015/PARTES Y FUNCIONES DE UN MULTÍMETRO DIGITAL.ppsx`: 19 diapositivas
+  completas cotejadas; una nota y 17 figuras originales. PPSX normalizado a
+  PPTX/PDF para MarkItDown; campo de número de diapositiva como única nota XML,
+  sin texto adicional. Render GitHub pendiente. SHA-256:
   `4375b5ba3260f92e29876aa7d402634bbe935cc55e776dba1f40c7bcad431c3d`.
 - `2015/Planificacion 2016 de Física II.pdf`: 25 páginas; pendiente. SHA-256:
   `f67ab1339ec84db1060e8a58e558425ad1fbcfe7e38415996e8a3f624cc7fc52`.
