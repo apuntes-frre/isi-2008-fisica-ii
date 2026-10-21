@@ -6236,6 +6236,46 @@
       "math_renderizada_github": 16,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/fc150ad/notes/2019/practica/calorimetria-agua-mate-propuesta.md",
       "estado": "verificado en GitHub"
+    },
+    {
+      "original": "2019/lab arduino/LaboratorioCalorimetria - Primer Entrega.pptx",
+      "sha256": "3def53213b95ad72024351874cd374e873e89efa145b17b1f3125471e5ffd80a",
+      "nota": "notes/2019/practica/calorimetria-primer-entrega-grupo-9.md",
+      "paginas_revisadas": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "paginacion": "diapositivas del PPTX original",
+      "math_esperada": 0,
+      "math_renderizada_github": null,
+      "url_github": null,
+      "estado": "cotejado completo; pendiente render GitHub",
+      "fuentes_adicionales": []
+    },
+    {
+      "original": "2019/lab arduino/LaboratorioCalorimetria-Primer-Entrega(1).pptx",
+      "sha256": "67a8eae4524e36cfdf074eeeed67f689dfdbb0b67857a3c88d2560a7380c1aac",
+      "nota": "notes/2019/practica/calorimetria-primer-entrega-grupo-8.md",
+      "paginas_revisadas": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "paginacion": "diapositivas del PPTX original",
+      "math_esperada": 10,
+      "math_renderizada_github": null,
+      "url_github": null,
+      "estado": "cotejado completo; pendiente render GitHub",
+      "fuentes_adicionales": []
     }
   ]
 }

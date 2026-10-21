@@ -1,10 +1,10 @@
 # Reanudación de Física II
 
-## Checkpoint vigente — 21/10/2026 — PAUSA SOLICITADA POR EL USUARIO
+## Checkpoint vigente — 21/10/2026 — REANUDADO POR EL USUARIO
 
 Este bloque prevalece sobre todos los estados históricos inferiores.
-El usuario pidió pausar por proximidad al límite, guardar y dejar un checklist.
-No continuar transcribiendo hasta que indique reanudar. La materia sigue incompleta.
+El usuario indicó «Continuar» después del checkpoint 8511554, publicado en origin.
+La transcripción está activa. La materia sigue incompleta.
 
 ### Git, publicación y resultado verificado
 

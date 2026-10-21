@@ -203,11 +203,15 @@ originales de las normalizadas y registra conteos matemáticos.
   Doble numeración,tachadura ybalances originales conservados. Render GitHub
   verificado en fc150ad. SHA-256:
   `f0a31808cb7bd769b39d18184b3e2e22345672bb2f155f51f9417e8915fb4770`.
-- `2019/lab arduino/LaboratorioCalorimetria - Primer Entrega.pptx`: no PDF
-  páginas; pendiente. SHA-256:
+- `2019/lab arduino/LaboratorioCalorimetria - Primer Entrega.pptx`: presentación
+  del grupo 9, 6 diapositivas cotejadas completas. Una nota y figuras
+  originales; fórmulas y tabla de 36 materiales en la versión del grupo 8.
+  Render GitHub pendiente. SHA-256:
   `3def53213b95ad72024351874cd374e873e89efa145b17b1f3125471e5ffd80a`.
-- `2019/lab arduino/LaboratorioCalorimetria-Primer-Entrega(1).pptx`: no PDF
-  páginas; pendiente. SHA-256:
+- `2019/lab arduino/LaboratorioCalorimetria-Primer-Entrega(1).pptx`:
+  presentación del grupo 8, 8 diapositivas cotejadas completas. Una nota y
+  figuras originales; fórmulas y tabla de 36 materiales en la versión del grupo
+  8\. Render GitHub pendiente. SHA-256:
   `67a8eae4524e36cfdf074eeeed67f689dfdbb0b67857a3c88d2560a7380c1aac`.
 
 ## Ley de Coulomb, guía 1.1
