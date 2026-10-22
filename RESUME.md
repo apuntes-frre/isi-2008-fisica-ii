@@ -1,6 +1,6 @@
 # Reanudación de Física II
 
-## Checkpoint vigente — 21/10/2026 — REANUDADO POR EL USUARIO
+## Checkpoint vigente — 22/10/2026 — REANUDADO POR EL USUARIO
 
 Este bloque prevalece sobre todos los estados históricos inferiores.
 El usuario indicó «Continuar» después del checkpoint 8511554, publicado en origin.
@@ -75,12 +75,15 @@ La transcripción está activa. La materia sigue incompleta.
    /Users/carlosferreyra/.cache/fisica-ii-transcripcion/20261021-finales-2020
    La segunda contiene originales141/142 con SHA cotejado, extracción142,
    crops pregunta01..16, figuras y script de autoría. No regenerar notas.
-5. Continuar137(planificación31p) y143(parcial2,39p); después checklist.
+5. Fuente137 completada en nueve notas; continuar143(parcial2,39p) y checklist.
    No detener trabajo documental por la falta de navegador.
-   Fuente137: copia y Poppler persistentes en caché20261021-planificacion-2019;
-   PyMuPDF4LLM completo, Markdown+imágenes enpymupdf/planificacion-2019/.
-   Extrae horarios con filas agrupadas y encabezados gráficos: comparar con
-   Poppler y PDF; evaluar Docling antes de autoría. Aún NO cotejada ni transcrita.
+   Fuente137: caché20261021-planificacion-2019; fuentes, 31renders,
+   PyMuPDF4LLM, DoclingMD+JSON, Popplerbbox, tablas reconstruidas y auditoría.
+   notas-generadas.json registra los nueve archivos/páginas/tablas.
+   No regenerar los apuntes: se reparó formato, casillas y numeración después.
+   Se cotejaron las31páginas; 24fragmentos de tabla HTML, dos encabezados;
+   sin expresiones matemáticas. Render GitHub pendiente para estas nueve.
+
 
 Fuente76 también transcrita: notes/2015/teoria/direcciones-utiles-internet-simulaciones.md.
 DOCnormalizado3p completas, enlaces históricos, fecha31/10/2009. Sin medios/math;
@@ -96,17 +99,16 @@ Publicados además6806d7f(enlaces) y3ed1729(multímetro); CI aprobados6806d7f(39
 
 ### Totales después de reanudar
 
-339notas /3230expresiones:333notas/3178expresiones verificadas enGitHub
-más6notas/52expresiones pendientes de ese control. 211teoría/128práctica;
-115notas2015,222notas2019 y2notas2020.
-La continuación agrega121notas/803expresiones y258medios (250imágenes y8GIF).
+348notas /3230expresiones:333notas/3178expresiones verificadas enGitHub
+más15notas/52expresiones pendientes de ese control. 220teoría/128práctica;
+115notas2015,231notas2019 y2notas2020.
+La continuación agrega130notas/803expresiones y260medios (252imágenes y8GIF).
 Los totales anteriores describen el checkpoint8511554.
 
 ### Checklist restante del inventario
 
 - [ ] 139/140: transcripción completa; solo resta verificar render GitHub.
-- [ ] 137: planificación2019,31páginas; inventariar/cotejar y transcribir o
-  clasificar con evidencia, sin darla por terminada por su nombre.
+- [ ] 137: planificación2019,31p completas transcritas en9notas; render GitHub pendiente.
 - [ ] 141: examen final10/12/2020,10páginas completas,20preguntas,23math y13figuras.
   Transcrito y cotejado; solo resta verificar render GitHub. Tabla anillo usa Π y ξo.
 - [ ] 142: 16preguntas transcritas y cotejadas; solo resta verificar render GitHub.
@@ -1846,3 +1848,16 @@ verificadas también por sus tablas.
 - Inventario actualizado a copias persistentes, PR2 sigue borrador.
 - PR abiertos enapuntes-frre: FísicaII#2 y.github#13(correlativas); ninguna otra materia.
 - 137: extracción persistente preparada; no cotejo total todavía.
+
+## Checkpoint 112: planificación completa de 2019
+
+- Fuente137: 31p cotejadas completas; nueve notas, cero math, dos encabezados.
+- 24fragmentos HTML conservan rowspan/colspan/celdas vacías. Doce tablas lógicas:
+  dos horarios, competencias, metodología, cinco cronogramas, dos bibliografías
+  y propuesta semanal. Competencias y bibliografía continúan entre páginas.
+- Texto auditado contra Poppler: sin omisiones léxicas; ligaduras «fnales»
+  reparadas visualmente a «finales»; restaurada nota al pie1.
+- Se mantienen encabezado2018 con fechas2019, campos vacíos, marcador4 sin
+  nota desarrollada, lista L3 vacía y repetición del integrador.
+- Totales348notas/3230math; quince notas pendientes del render GitHub por falta
+  de navegador. Restan source143, imposiciones117–121, informes61–65 y checklist.

@@ -6361,6 +6361,162 @@
       "url_github": null,
       "estado": "cotejado completo; pendiente render GitHub",
       "fuentes_adicionales": []
+    },
+    {
+      "original": "2019/Planificación 2019_e86a2f40b7c92c86772a2b980a78a58f.pdf",
+      "sha256": "ec751a4f7b47c178d3f0af097603901407094ba12eba9323ece588fa54aa130a",
+      "nota": "notes/2019/teoria/planificacion-docentes-horarios-2019.md",
+      "paginas_revisadas": [
+        1,
+        2,
+        3
+      ],
+      "paginacion": "PDF original; apartados contiguos comparten algunas páginas",
+      "math_esperada": 0,
+      "math_renderizada_github": null,
+      "url_github": null,
+      "estado": "cotejado completo; pendiente render GitHub",
+      "fuentes_adicionales": []
+    },
+    {
+      "original": "2019/Planificación 2019_e86a2f40b7c92c86772a2b980a78a58f.pdf",
+      "sha256": "ec751a4f7b47c178d3f0af097603901407094ba12eba9323ece588fa54aa130a",
+      "nota": "notes/2019/teoria/planificacion-fundamentacion-programa-2019.md",
+      "paginas_revisadas": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "paginacion": "PDF original; apartados contiguos comparten algunas páginas",
+      "math_esperada": 0,
+      "math_renderizada_github": null,
+      "url_github": null,
+      "estado": "cotejado completo; pendiente render GitHub",
+      "fuentes_adicionales": []
+    },
+    {
+      "original": "2019/Planificación 2019_e86a2f40b7c92c86772a2b980a78a58f.pdf",
+      "sha256": "ec751a4f7b47c178d3f0af097603901407094ba12eba9323ece588fa54aa130a",
+      "nota": "notes/2019/teoria/planificacion-cronograma-electromecanica-2019.md",
+      "paginas_revisadas": [
+        10,
+        11,
+        12,
+        13
+      ],
+      "paginacion": "PDF original; apartados contiguos comparten algunas páginas",
+      "math_esperada": 0,
+      "math_renderizada_github": null,
+      "url_github": null,
+      "estado": "cotejado completo; pendiente render GitHub",
+      "fuentes_adicionales": []
+    },
+    {
+      "original": "2019/Planificación 2019_e86a2f40b7c92c86772a2b980a78a58f.pdf",
+      "sha256": "ec751a4f7b47c178d3f0af097603901407094ba12eba9323ece588fa54aa130a",
+      "nota": "notes/2019/teoria/planificacion-cronograma-sistemas-2a-2019.md",
+      "paginas_revisadas": [
+        13,
+        14,
+        15
+      ],
+      "paginacion": "PDF original; apartados contiguos comparten algunas páginas",
+      "math_esperada": 0,
+      "math_renderizada_github": null,
+      "url_github": null,
+      "estado": "cotejado completo; pendiente render GitHub",
+      "fuentes_adicionales": []
+    },
+    {
+      "original": "2019/Planificación 2019_e86a2f40b7c92c86772a2b980a78a58f.pdf",
+      "sha256": "ec751a4f7b47c178d3f0af097603901407094ba12eba9323ece588fa54aa130a",
+      "nota": "notes/2019/teoria/planificacion-cronograma-sistemas-2b-2019.md",
+      "paginas_revisadas": [
+        15,
+        16,
+        17
+      ],
+      "paginacion": "PDF original; apartados contiguos comparten algunas páginas",
+      "math_esperada": 0,
+      "math_renderizada_github": null,
+      "url_github": null,
+      "estado": "cotejado completo; pendiente render GitHub",
+      "fuentes_adicionales": []
+    },
+    {
+      "original": "2019/Planificación 2019_e86a2f40b7c92c86772a2b980a78a58f.pdf",
+      "sha256": "ec751a4f7b47c178d3f0af097603901407094ba12eba9323ece588fa54aa130a",
+      "nota": "notes/2019/teoria/planificacion-cronograma-quimica-2019.md",
+      "paginas_revisadas": [
+        17,
+        18,
+        19,
+        20
+      ],
+      "paginacion": "PDF original; apartados contiguos comparten algunas páginas",
+      "math_esperada": 0,
+      "math_renderizada_github": null,
+      "url_github": null,
+      "estado": "cotejado completo; pendiente render GitHub",
+      "fuentes_adicionales": []
+    },
+    {
+      "original": "2019/Planificación 2019_e86a2f40b7c92c86772a2b980a78a58f.pdf",
+      "sha256": "ec751a4f7b47c178d3f0af097603901407094ba12eba9323ece588fa54aa130a",
+      "nota": "notes/2019/teoria/planificacion-cronograma-intensivo-2019.md",
+      "paginas_revisadas": [
+        20,
+        21
+      ],
+      "paginacion": "PDF original; apartados contiguos comparten algunas páginas",
+      "math_esperada": 0,
+      "math_renderizada_github": null,
+      "url_github": null,
+      "estado": "cotejado completo; pendiente render GitHub",
+      "fuentes_adicionales": []
+    },
+    {
+      "original": "2019/Planificación 2019_e86a2f40b7c92c86772a2b980a78a58f.pdf",
+      "sha256": "ec751a4f7b47c178d3f0af097603901407094ba12eba9323ece588fa54aa130a",
+      "nota": "notes/2019/teoria/planificacion-formacion-evaluacion-bibliografia-2019.md",
+      "paginas_revisadas": [
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28
+      ],
+      "paginacion": "PDF original; apartados contiguos comparten algunas páginas",
+      "math_esperada": 0,
+      "math_renderizada_github": null,
+      "url_github": null,
+      "estado": "cotejado completo; pendiente render GitHub",
+      "fuentes_adicionales": []
+    },
+    {
+      "original": "2019/Planificación 2019_e86a2f40b7c92c86772a2b980a78a58f.pdf",
+      "sha256": "ec751a4f7b47c178d3f0af097603901407094ba12eba9323ece588fa54aa130a",
+      "nota": "notes/2019/teoria/planificacion-recursantes-presentacion-arduino-2019.md",
+      "paginas_revisadas": [
+        28,
+        29,
+        30,
+        31
+      ],
+      "paginacion": "PDF original; apartados contiguos comparten algunas páginas",
+      "math_esperada": 0,
+      "math_renderizada_github": null,
+      "url_github": null,
+      "estado": "cotejado completo; pendiente render GitHub",
+      "fuentes_adicionales": []
     }
   ]
 }

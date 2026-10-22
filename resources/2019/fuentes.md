@@ -195,8 +195,13 @@ originales de las normalizadas y registra conteos matemáticos.
   notas, grillas16y18filas, cuatro diagramas ycasilleros vacíos conservados.
   Render GitHub verificado en f0b2ec9/c687a05. SHA-256:
   `08334993bbf390cc9959ca35446c5c1de7274de09029385c6801a5188d306499`.
-- `2019/Planificación 2019_e86a2f40b7c92c86772a2b980a78a58f.pdf`: 31 páginas;
-  pendiente. SHA-256:
+- `2019/Planificación 2019_e86a2f40b7c92c86772a2b980a78a58f.pdf`: 31 páginas
+  completas cotejadas; nueve notas de planificación y dos encabezados
+  originales. Programa UT1–16, cinco cronogramas, 24 fragmentos de tablas con
+  celdas combinadas conservadas en HTML. Docling y PyMuPDF4LLM contrastados con
+  Poppler y todas las páginas; nota al pie recuperada. Se conservan título2018
+  del intensivo con fechas2019, doble exigencia del integrador y L3 vacío.
+  Render GitHub pendiente. SHA-256:
   `ec751a4f7b47c178d3f0af097603901407094ba12eba9323ece588fa54aa130a`.
 - `2019/lab arduino/Calorimetria.docx`:DOCXcompleto cotejado
   (PDFnormalizado4páginas),una nota de propuesta de calorimetría, sin medios.
