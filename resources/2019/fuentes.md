@@ -112,10 +112,10 @@ originales de las normalizadas y registra conteos matemáticos.
   informe anterior; no identidad de render. SHA-256:
   `b7c6ad28eccedebbac43e01c2fefa96d20763c7b06bd705559aee0a27cef5a2a`.
 - `2019/2do Parcial/UT 5 4 pag.pdf`: 11 páginas revisadas visualmente.
-  Páginas4–5 transcritas completas en dos notas de variante, 17expresiones;
-  q/p/w del original preservadas. Seis figuras reutilizadas tras cotejo. El
-  resto requiere registrar correspondencias y diferencias; hay glifos dañados en
-  las diapositivas26/40–42. Render GitHub pendiente. SHA-256:
+  Diapositivas13–20 y27–38 transcritas en cuatro notas de variante,
+  34expresiones; q/p/w/t/m/f del original preservadas. Figuras reutilizadas tras
+  cotejo. Faltan correspondencias de los tramos restantes y tratar glifos
+  dañados de26/40–42; render GitHub pendiente. SHA-256:
   `134d9de661dcefd039d315a0e669b89c38bf02859d1d2d0806f15569b5006764`.
 - `2019/2do Parcial/UT 5 6 pag.pdf`: 7 páginas; pendiente. SHA-256:
   `d80e499c858b45d8146a3e18152de704cefbb9d0009ea7f3717141f3543e7d9c`.

@@ -6649,6 +6649,37 @@
       "url_github": null,
       "estado": "cotejado completo este bloque; pendiente render GitHub",
       "fuentes_adicionales": []
+    },
+    {
+      "original": "2019/2do Parcial/UT 5 4 pag.pdf",
+      "sha256": "134d9de661dcefd039d315a0e669b89c38bf02859d1d2d0806f15569b5006764",
+      "nota": "notes/2019/teoria/fuerza-conductor-corriente-variante-impresa-2019.md",
+      "paginas_revisadas": [
+        7,
+        8
+      ],
+      "paginacion": "Diapositivas 27–31 del PDF original de once hojas; los extremos de las hojas contienen otros tramos",
+      "math_esperada": 8,
+      "math_renderizada_github": null,
+      "url_github": null,
+      "estado": "cotejado completo este bloque; pendiente render GitHub",
+      "fuentes_adicionales": []
+    },
+    {
+      "original": "2019/2do Parcial/UT 5 4 pag.pdf",
+      "sha256": "134d9de661dcefd039d315a0e669b89c38bf02859d1d2d0806f15569b5006764",
+      "nota": "notes/2019/teoria/torque-espira-momento-dipolar-variante-impresa-2019.md",
+      "paginas_revisadas": [
+        8,
+        9,
+        10
+      ],
+      "paginacion": "Diapositivas 32–38 del PDF original de once hojas; los extremos de las hojas contienen otros tramos",
+      "math_esperada": 9,
+      "math_renderizada_github": null,
+      "url_github": null,
+      "estado": "cotejado completo este bloque; pendiente render GitHub",
+      "fuentes_adicionales": []
     }
   ]
 }

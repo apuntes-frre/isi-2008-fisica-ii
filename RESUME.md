@@ -1,29 +1,20 @@
 # Reanudación de Física II
 
-## PAUSA SOLICITADA POR EL USUARIO — 22/10/2026
+## PAUSA VIGENTE — TODO EL AVANCE PUBLICADO EN EL PR
 
-No continuar hasta que el usuario lo indique. Este bloque prevalece sobre los
-estados activos históricos inferiores.
+El usuario autorizó completar commit/push del lote guardado y recibir un resumen.
+No iniciar nuevas transcripciones hasta que indique continuar.
 
-- Lote1 de variantes UT5 publicado en20a56e2: dos notas,17expresiones;
-  controles locales aprobados. Total publicado355notas/3479expresiones.
-- Lote2 NO publicado: conductor27–31 ytorque32–38, dos notas/17expresiones.
-  Guardado en stash2d228b6280d0b98ede72ec6f3312f09a82fdccff y copia persistente
-  /Users/carlosferreyra/.cache/fisica-ii-transcripcion/20261022-ut5-variantes/pausa-lote-2/.
-  archivos.json enumera los seis archivos. No perder ni regenerar este trabajo.
-- Al reanudar: copiar desde esa carpeta los dos apuntes ylos tres archivos de
-  resources; conservar este RESUME.md yactualizar sus totales al validar.
-  Alternativa: aplicar el stash, resolviendo únicamente su conflicto con RESUME.
-- Fallo local exacto del lote2: al sustituir letras griegas se concatenaron
-  comandos TeX en torque: backslash-vect, backslash-vecm ybackslash-qquadt.
-  Reparar separando el comando de la letra: vec{t},vec{m},qquad t;
-  conservar t/m/f del original. Revisar todas las expresiones tras el cambio.
-- Formatear solo las dos notas yfuentes2019; ejecutar check.py --base HEAD y
-  git diff --check. Log fallido:20261022-ut5-variantes/check-lote-2.log.
-- OCRspa yextracciones de páginas7–10 ya completados yconservados en esa caché.
-  Tras aprobar: actualizar totales a357/3496, commit/push del lote2 ycheckpoint.
-- Luego continuar correspondencias117diapositivas1–12,21–25,39 yglifos dañados
-  26/40–42. No declarar el original completo todavía. PR2 sigue borrador.
+- Lote1 UT5 publicado en20a56e2: dos notas/17expresiones.
+- Lote2 recuperado y corregido: conductor27–31 ytorque32–38, dos notas/17math.
+  Se repararon delimitadores TeX de vec{t},vec{m},qquad t conservando t/m/f.
+  Caché20261022-ut5-variantes; copia anterior enpausa-lote-2 ystash
+  2d228b6280d0b98ede72ec6f3312f09a82fdccff solo como respaldo histórico.
+  No volver a aplicar ese stash: el contenido ya está incorporado ycorregido.
+- Siguiente lote: correspondencias117diapositivas1–12,21–25,39 yglifos dañados
+  26/40–42; después118–121. No declarar el original completo.
+- Total357notas/3496expresiones;333/3178 verificadas enGitHub,
+  24notas/318expresiones pendientes de render. PR2 sigue borrador.
 
 ## Checkpoint vigente — 22/10/2026 — REANUDADO POR EL USUARIO
 
@@ -135,10 +126,10 @@ Publicados además6806d7f(enlaces) y3ed1729(multímetro); CI aprobados6806d7f(39
 
 ### Totales después de reanudar
 
-355notas /3479expresiones:333notas/3178expresiones verificadas enGitHub
-más22notas/301expresiones pendientes de ese control. 222teoría/133práctica;
-115notas2015,233notas2019 y7notas2020.
-La continuación agrega137notas/1052expresiones y280medios (272imágenes y8GIF).
+357notas /3496expresiones:333notas/3178expresiones verificadas enGitHub
+más24notas/318expresiones pendientes de ese control. 224teoría/133práctica;
+115notas2015,235notas2019 y7notas2020.
+La continuación agrega139notas/1069expresiones y280medios (272imágenes y8GIF).
 Los totales anteriores describen el checkpoint8511554.
 
 ### Checklist restante del inventario
