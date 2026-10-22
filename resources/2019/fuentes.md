@@ -134,7 +134,7 @@ originales de las normalizadas y registra conteos matemáticos.
   apuntes existentes. Dos casilleros finales vacíos; impresión sin enlaces
   interactivos. Correspondencias en imposiciones.json; no se duplican notas.
   SHA-256: `edd00d2a1e1339d7a650ae412805418d759df4e3d5959019004489da7f1c3476`.
-- `2019/2do Parcial/UT 7 6 pag.pdf`: parcial: 4 de12hojas y24 de67diapositivas
+- `2019/2do Parcial/UT 7 6 pag.pdf`: parcial: 8 de12hojas y48 de67diapositivas
   cotejadas. Fecha14/05/2019. Correspondencias registradas con la versión
   de67páginas, sin duplicar apuntes ni atribuir cobertura a tramos no revisados.
   SHA-256: `e9078c66ef7a4749ab7f5bc7a6119e2b413e562967c4c9bf964963a8bc4f613b`.

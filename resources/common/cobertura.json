@@ -493,7 +493,24 @@
       "math_esperada": 8,
       "math_renderizada_github": 8,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/autoinduccion-bobina-henrio-2019.md",
-      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
+      "fuentes_adicionales": [
+        {
+          "original": "2019/2do Parcial/UT 7 6 pag.pdf",
+          "sha256": "e9078c66ef7a4749ab7f5bc7a6119e2b413e562967c4c9bf964963a8bc4f613b",
+          "paginas_revisadas": [
+            7,
+            8
+          ],
+          "diapositivas_referencia": [
+            41,
+            42,
+            43,
+            44
+          ],
+          "estado": "cotejo visual de este tramo solamente; seis diapositivas por hoja; fecha14/05/2019; no atribuir otras páginas de la nota"
+        }
+      ]
     },
     {
       "original": "2019/2do Parcial/2019 UT VII - Fenómenos de Inducción Electromagnética.pdf",
@@ -508,7 +525,22 @@
       "math_esperada": 7,
       "math_renderizada_github": 7,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/autoinducciones-serie-paralelo-2019.md",
-      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
+      "fuentes_adicionales": [
+        {
+          "original": "2019/2do Parcial/UT 7 6 pag.pdf",
+          "sha256": "e9078c66ef7a4749ab7f5bc7a6119e2b413e562967c4c9bf964963a8bc4f613b",
+          "paginas_revisadas": [
+            8
+          ],
+          "diapositivas_referencia": [
+            45,
+            46,
+            47
+          ],
+          "estado": "cotejo visual de este tramo solamente; seis diapositivas por hoja; fecha14/05/2019; no atribuir otras páginas de la nota"
+        }
+      ]
     },
     {
       "original": "2019/2do Parcial/2019 UT VII - Fenómenos de Inducción Electromagnética.pdf",
@@ -522,7 +554,20 @@
       "math_esperada": 7,
       "math_renderizada_github": 7,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/energia-bobina-densidad-magnetica-2019.md",
-      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
+      "fuentes_adicionales": [
+        {
+          "original": "2019/2do Parcial/UT 7 6 pag.pdf",
+          "sha256": "e9078c66ef7a4749ab7f5bc7a6119e2b413e562967c4c9bf964963a8bc4f613b",
+          "paginas_revisadas": [
+            8
+          ],
+          "diapositivas_referencia": [
+            48
+          ],
+          "estado": "cotejo visual de este tramo solamente; seis diapositivas por hoja; fecha14/05/2019; no atribuir otras páginas de la nota"
+        }
+      ]
     },
     {
       "original": "2019/2do Parcial/2019 UT VII - Fenómenos de Inducción Electromagnética.pdf",
@@ -592,7 +637,23 @@
       "math_esperada": 7,
       "math_renderizada_github": 7,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/campo-electrico-inducido-espira-2019.md",
-      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
+      "fuentes_adicionales": [
+        {
+          "original": "2019/2do Parcial/UT 7 6 pag.pdf",
+          "sha256": "e9078c66ef7a4749ab7f5bc7a6119e2b413e562967c4c9bf964963a8bc4f613b",
+          "paginas_revisadas": [
+            6
+          ],
+          "diapositivas_referencia": [
+            31,
+            32,
+            33,
+            34
+          ],
+          "estado": "cotejo visual de este tramo solamente; seis diapositivas por hoja; fecha14/05/2019; no atribuir otras páginas de la nota"
+        }
+      ]
     },
     {
       "original": "2019/2do Parcial/2019 UT VII - Fenómenos de Inducción Electromagnética.pdf",
@@ -610,7 +671,26 @@
       "math_esperada": 13,
       "math_renderizada_github": 13,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/faraday-generalizacion-forma-diferencial-2019.md",
-      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
+      "fuentes_adicionales": [
+        {
+          "original": "2019/2do Parcial/UT 7 6 pag.pdf",
+          "sha256": "e9078c66ef7a4749ab7f5bc7a6119e2b413e562967c4c9bf964963a8bc4f613b",
+          "paginas_revisadas": [
+            6,
+            7
+          ],
+          "diapositivas_referencia": [
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "estado": "cotejo visual de este tramo solamente; seis diapositivas por hoja; fecha14/05/2019; no atribuir otras páginas de la nota"
+        }
+      ]
     },
     {
       "original": "2019/2do Parcial/2019 UT VII - Fenómenos de Inducción Electromagnética.pdf",
@@ -665,14 +745,16 @@
           "original": "2019/2do Parcial/UT 7 6 pag.pdf",
           "sha256": "e9078c66ef7a4749ab7f5bc7a6119e2b413e562967c4c9bf964963a8bc4f613b",
           "paginas_revisadas": [
-            4
+            4,
+            5
           ],
           "diapositivas_referencia": [
             20,
             21,
             22,
             23,
-            24
+            24,
+            25
           ],
           "estado": "cotejo visual de este tramo solamente; seis diapositivas por hoja; fecha14/05/2019; no atribuir otras páginas de la nota"
         }
@@ -693,7 +775,24 @@
       "math_esperada": 10,
       "math_renderizada_github": 10,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/fem-movimiento-varilla-circuito-2019.md",
-      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
+      "fuentes_adicionales": [
+        {
+          "original": "2019/2do Parcial/UT 7 6 pag.pdf",
+          "sha256": "e9078c66ef7a4749ab7f5bc7a6119e2b413e562967c4c9bf964963a8bc4f613b",
+          "paginas_revisadas": [
+            5
+          ],
+          "diapositivas_referencia": [
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "estado": "cotejo visual de este tramo solamente; seis diapositivas por hoja; fecha14/05/2019; no atribuir otras páginas de la nota"
+        }
+      ]
     },
     {
       "original": "2019/2do Parcial/2019 UT VII - Fenómenos de Inducción Electromagnética.pdf",

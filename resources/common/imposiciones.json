@@ -1028,7 +1028,7 @@
       "sha256_referencia": "cbefa338a0f56f56079880a84f05a963257a6473febd8da50f944a67f2210a8f",
       "fecha_impresa": "14/05/2019",
       "metodo": "Cotejo visual por lotes de hojas completas tras rotación antihoraria90grados. No se declara identidad binaria ni de píxeles. Las correspondencias solo cubren las hojas registradas.",
-      "estado": "parcial: 4 de12hojas y24 de67diapositivas cotejadas",
+      "estado": "parcial: 8 de12hojas y48 de67diapositivas cotejadas",
       "paginas": [
         {
           "pagina_pdf": 1,
@@ -1077,13 +1077,57 @@
             24
           ],
           "casilleros_vacios": 0
+        },
+        {
+          "pagina_pdf": 5,
+          "diapositivas_referencia": [
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "casilleros_vacios": 0
+        },
+        {
+          "pagina_pdf": 6,
+          "diapositivas_referencia": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36
+          ],
+          "casilleros_vacios": 0
+        },
+        {
+          "pagina_pdf": 7,
+          "diapositivas_referencia": [
+            37,
+            38,
+            39,
+            40,
+            41,
+            42
+          ],
+          "casilleros_vacios": 0
+        },
+        {
+          "pagina_pdf": 8,
+          "diapositivas_referencia": [
+            43,
+            44,
+            45,
+            46,
+            47,
+            48
+          ],
+          "casilleros_vacios": 0
         }
       ],
       "paginas_pendientes": [
-        5,
-        6,
-        7,
-        8,
         9,
         10,
         11,
