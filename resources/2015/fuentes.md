@@ -259,11 +259,13 @@ originales de las normalizadas y registra conteos matemáticos.
   SHA-256: `79897fe2bab6e028f2649cf08906e5bf720e890c85ba3b91b2f20435d84b0f11`.
 - `2015/L3 Capacidad G6 A corregir 2.docx`: no PDF páginas; pendiente. SHA-256:
   `a8e1063ebff8c151f9a7a2d6d5dcf798a13ef08c9282a61fdc5bd0985ab184ec`.
-- `2015/L3 Capacidad G6 Aprobado.pdf`:14páginas. Páginas1–5 transcritas
-  ycotejadas completas en dos notas: fundamentos,carga,semilogaritmo,descarga
-  ytécnica operatoria;36expresiones ynueve figuras. Salto9a11,+0de(17),q/Q,
-  repetición(19) ygráficas originales preservados. Faltan6–14, incluida hoja
-  manuscrita con fecha19/05/2016; no inferir año2015. Render GitHub pendiente.
+- `2015/L3 Capacidad G6 Aprobado.pdf`:14páginas. Páginas1–6 transcritas
+  ycotejadas completas en tres notas: fundamentos,carga,semilogaritmo,descarga
+  ytécnica operatoria yhoja manuscrita;36expresiones yonce figuras.
+  Salto9a11,+0de(17),q/Q, repetición(19) ygráficas originales preservados.
+  Hoja6:21filas/13columnas cotejadas, vacíos conservados yfecha19/05/2016;
+  nombres/firmas manuscritos omitidos. Faltan7–14; no inferir año2015. Render
+  GitHub pendiente.
   SHA-256:`586d5b26477b67b780929d52df3b218c54dca4ddfe6702e5f6e9d17b0ee5d320`.
 - `2015/L6 Kirchoff G6 Aprobado.pdf`: 20 páginas; pendiente. SHA-256:
   `534403fde9ec3209246d64553b98096c417d8f500a5a5cc4424914482ac9ac79`.

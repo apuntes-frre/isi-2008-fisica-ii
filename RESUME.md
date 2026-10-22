@@ -21,16 +21,16 @@ Este bloque prevalece sobre los estados históricos inferiores.
 - Fuentes119/120 cerradas documentalmente;119 publicado enae764b9.
 - Fuente121: 12/12hojas y67/67diapositivas cotejadas; mapa parcial
   enimposiciones.json. No regenerar notas ni duplicar cobertura.
-- Fuente62: páginas1–5 completas en dos notas,36math ynueve figuras.
-  Primer lote publicado ena158058; segundo conserva +0de(17),q/Q ynúmero19
-  repetido. Caché20261022-capacidad-informe: copia,SHA,Poppler,PyMuPDF4LLM,
-  renders1–6 ymedios. No regenerar las dos notas.
-- Siguiente lote pequeño: fuente62página6, hoja manuscrita con fecha19/05/2016.
-  Requiere OCRspa sobre copia ycotejo celda a celda; no publicar firmas.
-  Después7–14; restantes61/63–65. No inferir año2015 de la carpeta.
+- Fuente62: páginas1–6 completas en tres notas,36math yonce figuras.
+  Hoja6:21filas/13columnas cotejadas, seis columnas sin título yvacíos originales
+  conservados. Fecha19/05/2016; nombres/firmas manuscritos omitidos.
+  Caché20261022-capacidad-informe: OCRspa,hoja-datos-celdas.json yrecortes.
+  No regenerar las tres notas ni sus medios.
+- Siguiente lote pequeño: fuente62páginas7–8, cargaC1 ydeterminaciones gráficas;
+  luego9–14. Cotejar valores yerratas sin recalcular. Restan61/63–65.
 - Correspondencias117 publicadas en0cd5726; no regenerar ese mapa.
-- Total359notas/3532math, sin aumento por correspondencias;333/3178 verificadas
-  enGitHub y26notas/354math pendientes de render. PR2 sigue borrador.
+- Total360notas/3532math, sin aumento por correspondencias;333/3178 verificadas
+  enGitHub y27notas/354math pendientes de render. PR2 sigue borrador.
 - El stash2d228b6280d0b98ede72ec6f3312f09a82fdccff es respaldo histórico;
   contenido incorporado ycorregido en97ce5fe. No volver a aplicarlo.
 
@@ -144,10 +144,10 @@ Publicados además6806d7f(enlaces) y3ed1729(multímetro); CI aprobados6806d7f(39
 
 ### Totales después de reanudar
 
-359notas /3532expresiones:333notas/3178expresiones verificadas enGitHub
-más26notas/354expresiones pendientes de ese control. 224teoría/135práctica;
-117notas2015,235notas2019 y7notas2020.
-La continuación agrega141notas/1105expresiones y289medios (281imágenes y8GIF).
+360notas /3532expresiones:333notas/3178expresiones verificadas enGitHub
+más27notas/354expresiones pendientes de ese control. 224teoría/136práctica;
+118notas2015,235notas2019 y7notas2020.
+La continuación agrega142notas/1105expresiones y291medios (283imágenes y8GIF).
 Los totales anteriores describen el checkpoint8511554.
 
 ### Checklist restante del inventario
@@ -169,8 +169,8 @@ Los totales anteriores describen el checkpoint8511554.
   seis notas existentes; dos casilleros de páginas finales vacíos en120.
 - [x] 121: UT7 completa por cotejo en tres lotes,12hojas/67diapositivas,
   15notas existentes; cinco casilleros finales vacíos. Sin notas duplicadas.
-- [ ] 62: informeCapacidad aprobado,1–5 transcritas,36math/9figuras; faltan6–14.
-  Hoja6 manuscrita,fecha19/05/2016; OCRspa ycotejo de celdas, sin firmas.
+- [ ] 62: informeCapacidad aprobado,1–6 transcritas,36math/11figuras; faltan7–14.
+  Hoja6 manuscrita completa por cotejo,fecha19/05/2016; sin datos nominales/firmas.
 - [ ] 61/63–65: informes2015 de Capacidad,Kirchhoff,Brújula,fuerza sobre corriente,
   incluidas versiones a corregir/aprobadas.
 - [ ] 67: multímetroPPSX completo19diapositivas/17figuras; solo render GitHub pendiente.
