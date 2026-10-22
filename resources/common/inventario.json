@@ -3420,8 +3420,8 @@
       "paginas_pdf": 12,
       "duplicado_sha256_de": null,
       "clasificacion": "impresión de seis diapositivas por hoja de UT7; referencia105",
-      "evidencia": "Correspondencias parciales por diapositiva enimposiciones.json yfuentes_adicionales. Fecha14/05/2019. Sin duplicación de notas. Texto,fórmulas,figuras,ejercicios yerratas cotejados en las hojas registradas; no atribuir cobertura a las restantes.",
-      "estado": "parcial: 8 de12hojas y48 de67diapositivas cotejadas",
+      "evidencia": "Correspondencias parciales por diapositiva enimposiciones.json yfuentes_adicionales. Fecha14/05/2019. Sin duplicación de notas. Texto,fórmulas,figuras,ejercicios yerratas cotejados en las hojas registradas; no atribuir cobertura a las restantes. Las doce hojas y67diapositivas se cotejaron completas; cinco casilleros finales vacíos revisados. Cierre67 preservado, ejercicios39/40 sin respuestas yerratas de transformadores conservadas.",
+      "estado": "completo por cotejo documental:67diapositivas en doce hojas",
       "paginas_revisadas": [
         1,
         2,
@@ -3430,7 +3430,11 @@
         5,
         6,
         7,
-        8
+        8,
+        9,
+        10,
+        11,
+        12
       ],
       "copia_local": "/Users/carlosferreyra/.cache/fisica-ii-transcripcion/20261020-ut/fuente-121.pdf",
       "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/121-UT 7 6 pag.txt",
@@ -3438,6 +3442,9 @@
         "notes/2019/teoria/autoinduccion-bobina-henrio-2019.md",
         "notes/2019/teoria/autoinducciones-serie-paralelo-2019.md",
         "notes/2019/teoria/energia-bobina-densidad-magnetica-2019.md",
+        "notes/2019/teoria/corrientes-transitorias-circuito-lr-2019.md",
+        "notes/2019/teoria/induccion-mutua-bobinas-2019.md",
+        "notes/2019/teoria/transformadores-transmision-energia-2019.md",
         "notes/2019/teoria/campo-electrico-inducido-espira-2019.md",
         "notes/2019/teoria/faraday-generalizacion-forma-diferencial-2019.md",
         "notes/2019/teoria/ley-lenz-sentido-corriente-diagramas-2019.md",

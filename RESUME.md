@@ -19,9 +19,9 @@ Este bloque prevalece sobre los estados históricos inferiores.
 - Fuente120 completa por cotejo: tres hojas,16páginas de referencia,
   31diapositivas ydos casilleros finales vacíos. Sin notas duplicadas.
 - Fuentes119/120 cerradas documentalmente;119 publicado enae764b9.
-- Fuente121: 8/12hojas y48/67diapositivas cotejadas; mapa parcial
+- Fuente121: 12/12hojas y67/67diapositivas cotejadas; mapa parcial
   enimposiciones.json. No regenerar notas ni duplicar cobertura.
-- Siguiente lote: 121hojas9–12.
+- Siguiente lote: 61–65 informes2015.
 - Correspondencias117 publicadas en0cd5726; no regenerar ese mapa.
 - Total357notas/3496math, sin aumento por correspondencias;333/3178 verificadas
   enGitHub y24notas/318math pendientes de render. PR2 sigue borrador.
@@ -155,13 +155,14 @@ Los totales anteriores describen el checkpoint8511554.
   232math y20figuras; solo resta render GitHub. P24/39 de navegación omitidas.
   Caché20261022-parcial-2020: originales,Poppler,39renders,imágenes yscripts.
   No regenerar notas; scripts de autoría no idempotentes.
-- [ ] 117–121: imposiciones UT5/6/7. 117: once hojas revisadas completas (42diapositivas ydos casilleros vacíos);
-  páginas4–5 transcritas,17math; resto pendiente de correspondencias y variantes.
-  Diapo30 sen(q);35/36 sen(f),
-  t/m frente a torque/momento;26/40–42 contienen glifos dañados. No inferirlos.
-  Recortes117-diapo-1..44.png en caché20261020-ut. No afirmar identidad.
-  118rotada−90°,119/120variantes de104,121posible variante de105:
-  revisar todas las hojas y registrar correspondencias.122 y131 cerradas.
+- [ ] 117/118: ambas impresiones UT5 cotejadas completas;38/42diapositivas
+  documentadas en cada una. Cuatro notas nuevas conservan las variantes;
+  correspondencias compartidas registradas. Restan26/40–42 por glifos dañados.
+  No reconstruirlos por conjetura. Mapa por casillero enimposiciones.json.
+- [x] 119/120: UT6 completa por cotejo de ambas impresiones,31diapositivas,
+  seis notas existentes; dos casilleros de páginas finales vacíos en120.
+- [x] 121: UT7 completa por cotejo en tres lotes,12hojas/67diapositivas,
+  15notas existentes; cinco casilleros finales vacíos. Sin notas duplicadas.
 - [ ] 61–65: informes2015 de Capacidad,Kirchhoff,Brújula,fuerza sobre corriente,
   incluidas versiones a corregir/aprobadas.
 - [ ] 67: multímetroPPSX completo19diapositivas/17figuras; solo render GitHub pendiente.

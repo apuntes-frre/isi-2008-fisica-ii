@@ -560,10 +560,12 @@
           "original": "2019/2do Parcial/UT 7 6 pag.pdf",
           "sha256": "e9078c66ef7a4749ab7f5bc7a6119e2b413e562967c4c9bf964963a8bc4f613b",
           "paginas_revisadas": [
-            8
+            8,
+            9
           ],
           "diapositivas_referencia": [
-            48
+            48,
+            49
           ],
           "estado": "cotejo visual de este tramo solamente; seis diapositivas por hoja; fecha14/05/2019; no atribuir otras páginas de la nota"
         }
@@ -584,7 +586,24 @@
       "math_esperada": 10,
       "math_renderizada_github": 10,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/corrientes-transitorias-circuito-lr-2019.md",
-      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
+      "fuentes_adicionales": [
+        {
+          "original": "2019/2do Parcial/UT 7 6 pag.pdf",
+          "sha256": "e9078c66ef7a4749ab7f5bc7a6119e2b413e562967c4c9bf964963a8bc4f613b",
+          "paginas_revisadas": [
+            9
+          ],
+          "diapositivas_referencia": [
+            50,
+            51,
+            52,
+            53,
+            54
+          ],
+          "estado": "cotejo visual de este tramo solamente; seis diapositivas por hoja; fecha14/05/2019; no atribuir otras páginas de la nota"
+        }
+      ]
     },
     {
       "original": "2019/2do Parcial/2019 UT VII - Fenómenos de Inducción Electromagnética.pdf",
@@ -600,7 +619,23 @@
       "math_esperada": 8,
       "math_renderizada_github": 8,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/induccion-mutua-bobinas-2019.md",
-      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
+      "fuentes_adicionales": [
+        {
+          "original": "2019/2do Parcial/UT 7 6 pag.pdf",
+          "sha256": "e9078c66ef7a4749ab7f5bc7a6119e2b413e562967c4c9bf964963a8bc4f613b",
+          "paginas_revisadas": [
+            10
+          ],
+          "diapositivas_referencia": [
+            55,
+            56,
+            57,
+            58
+          ],
+          "estado": "cotejo visual de este tramo solamente; seis diapositivas por hoja; fecha14/05/2019; no atribuir otras páginas de la nota"
+        }
+      ]
     },
     {
       "original": "2019/2do Parcial/2019 UT VII - Fenómenos de Inducción Electromagnética.pdf",
@@ -621,7 +656,30 @@
       "math_esperada": 8,
       "math_renderizada_github": 8,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/transformadores-transmision-energia-2019.md",
-      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
+      "fuentes_adicionales": [
+        {
+          "original": "2019/2do Parcial/UT 7 6 pag.pdf",
+          "sha256": "e9078c66ef7a4749ab7f5bc7a6119e2b413e562967c4c9bf964963a8bc4f613b",
+          "paginas_revisadas": [
+            10,
+            11,
+            12
+          ],
+          "diapositivas_referencia": [
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67
+          ],
+          "estado": "cotejo visual de este tramo solamente; seis diapositivas por hoja; fecha14/05/2019; no atribuir otras páginas de la nota"
+        }
+      ]
     },
     {
       "original": "2019/2do Parcial/2019 UT VII - Fenómenos de Inducción Electromagnética.pdf",
