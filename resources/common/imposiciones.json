@@ -1020,6 +1020,75 @@
           "casilleros_paginas_vacios": 2
         }
       ]
+    },
+    {
+      "original": "2019/2do Parcial/UT 7 6 pag.pdf",
+      "sha256": "e9078c66ef7a4749ab7f5bc7a6119e2b413e562967c4c9bf964963a8bc4f613b",
+      "referencia": "2019/2do Parcial/2019 UT VII - Fenómenos de Inducción Electromagnética.pdf",
+      "sha256_referencia": "cbefa338a0f56f56079880a84f05a963257a6473febd8da50f944a67f2210a8f",
+      "fecha_impresa": "14/05/2019",
+      "metodo": "Cotejo visual por lotes de hojas completas tras rotación antihoraria90grados. No se declara identidad binaria ni de píxeles. Las correspondencias solo cubren las hojas registradas.",
+      "estado": "parcial: 4 de12hojas y24 de67diapositivas cotejadas",
+      "paginas": [
+        {
+          "pagina_pdf": 1,
+          "diapositivas_referencia": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "casilleros_vacios": 0
+        },
+        {
+          "pagina_pdf": 2,
+          "diapositivas_referencia": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ],
+          "casilleros_vacios": 0
+        },
+        {
+          "pagina_pdf": 3,
+          "diapositivas_referencia": [
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ],
+          "casilleros_vacios": 0
+        },
+        {
+          "pagina_pdf": 4,
+          "diapositivas_referencia": [
+            19,
+            20,
+            21,
+            22,
+            23,
+            24
+          ],
+          "casilleros_vacios": 0
+        }
+      ],
+      "paginas_pendientes": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
     }
   ]
 }

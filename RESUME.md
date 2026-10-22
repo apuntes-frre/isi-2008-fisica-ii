@@ -19,7 +19,9 @@ Este bloque prevalece sobre los estados históricos inferiores.
 - Fuente120 completa por cotejo: tres hojas,16páginas de referencia,
   31diapositivas ydos casilleros finales vacíos. Sin notas duplicadas.
 - Fuentes119/120 cerradas documentalmente;119 publicado enae764b9.
-- Siguiente lote121: UT7, doce hojas; después61–65 yel checklist.
+- Fuente121: 4/12hojas y24/67diapositivas cotejadas; mapa parcial
+  enimposiciones.json. No regenerar notas ni duplicar cobertura.
+- Siguiente lote: 121hojas5–8.
 - Correspondencias117 publicadas en0cd5726; no regenerar ese mapa.
 - Total357notas/3496math, sin aumento por correspondencias;333/3178 verificadas
   enGitHub y24notas/318math pendientes de render. PR2 sigue borrador.
