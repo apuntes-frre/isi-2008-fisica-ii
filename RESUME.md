@@ -13,7 +13,10 @@ Este bloque prevalece sobre los estados históricos inferiores.
   solo lo legible; no reparar por conjetura ni copiar fórmulas de103 como117.
 - Fuente118 cotejada completa:38/42diapositivas documentadas por correspondencia;
   mismos daños26/40–42 que117. Sin notas duplicadas. Ambas fuentes siguen parciales.
-- Siguiente lote independiente119/120: UT6,4/3hojas; luego121 yel checklist.
+- Fuente119 completa por cotejo: cuatro hojas,31diapositivas, seis apuntes
+  existentes sin duplicación. Fecha08/05/2019. Mapa de16páginas enimposiciones.json.
+  La impresión pierde enlaces interactivos; no atribuirle los destinos de104.
+- Siguiente lote120: UT6,tres hojas; luego121 yel checklist.
 - Correspondencias117 publicadas en0cd5726; no regenerar ese mapa.
 - Total357notas/3496math, sin aumento por correspondencias;333/3178 verificadas
   enGitHub y24notas/318math pendientes de render. PR2 sigue borrador.

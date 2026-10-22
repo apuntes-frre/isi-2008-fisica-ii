@@ -854,6 +854,91 @@
           ]
         }
       ]
+    },
+    {
+      "original": "2019/2do Parcial/UT 6 4 pag.pdf",
+      "sha256": "11b6b968cf12ac646e33b77cd95d6c6686f7d2be69d4e8ec7050c57ed7ec3d52",
+      "referencia": "2019/2do Parcial/2019 UT VI - Campo de Inducción Magnética. Propiedades.pdf",
+      "sha256_referencia": "b9bb8ec5e8acfa36814e15207ee532a00e566ff5ea72bd139eff27ae0b2d634f",
+      "fecha_impresa": "08/05/2019",
+      "metodo": "Cotejo visual de cuatro hojas completas:31diapositivas y16páginas de referencia. Se conservan erratas ysuperposiciones. No se duplican seis notas ni se declara identidad binaria/de píxeles. No hay enlaces interactivos en esta impresión.",
+      "paginas": [
+        {
+          "pagina_pdf": 1,
+          "paginas_referencia": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "diapositivas_referencia": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "pagina_pdf": 2,
+          "paginas_referencia": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "diapositivas_referencia": [
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        },
+        {
+          "pagina_pdf": 3,
+          "paginas_referencia": [
+            9,
+            10,
+            11,
+            12
+          ],
+          "diapositivas_referencia": [
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24
+          ]
+        },
+        {
+          "pagina_pdf": 4,
+          "paginas_referencia": [
+            13,
+            14,
+            15,
+            16
+          ],
+          "diapositivas_referencia": [
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31
+          ]
+        }
+      ]
     }
   ]
 }

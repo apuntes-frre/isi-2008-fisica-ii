@@ -3366,12 +3366,26 @@
       "bytes": 2555180,
       "paginas_pdf": 4,
       "duplicado_sha256_de": null,
-      "clasificacion": "pendiente de revisión documental",
-      "evidencia": "",
-      "estado": "pendiente",
-      "paginas_revisadas": [],
-      "copia_local": "/tmp/fisica-ii-20261017-fuentes/119-UT 6 4 pag.pdf",
-      "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/119-UT 6 4 pag.txt"
+      "clasificacion": "impresión de cuatro páginas por hoja de UT6;31diapositivas en16páginas de referencia",
+      "evidencia": "Texto,31diapositivas,fórmulas,figuras,erratas ysuperposición de la deducción rectilínea cotejados visualmente. Fecha08/05/2019. Cuatro casilleros por hoja corresponden a páginas1–16 de104; cada una contiene dos diapositivas excepto última31. No identidad binaria ni de píxeles. La impresión muestra VIDEO pero no conserva anotaciones de enlaces; el destino se conserva con procedencia en104.",
+      "estado": "completo por cotejo documental: cuatro hojas y31diapositivas cubiertas por seis notas existentes",
+      "paginas_revisadas": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "copia_local": "/Users/carlosferreyra/.cache/fisica-ii-transcripcion/20261020-ut/fuente-119.pdf",
+      "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/119-UT 6 4 pag.txt",
+      "notas": [
+        "notes/2019/teoria/biot-savart-corriente-rectilinea-circular-2019.md",
+        "notes/2019/teoria/ley-ampere-corrientes-distribuidas-2019.md",
+        "notes/2019/teoria/solenoide-toroide-campo-magnetico-2019.md",
+        "notes/2019/teoria/fuerzas-corrientes-definicion-ampere-2019.md",
+        "notes/2019/teoria/flujo-magnetico-gauss-espira-2019.md",
+        "notes/2019/teoria/corriente-desplazamiento-ampere-maxwell-2019.md"
+      ],
+      "imposicion_de": "2019/2do Parcial/2019 UT VI - Campo de Inducción Magnética. Propiedades.pdf"
     },
     {
       "original": "2019/2do Parcial/UT 6 6 pag.pdf",

@@ -123,7 +123,11 @@ originales de las normalizadas y registra conteos matemáticos.
   q/p/w/t/m/f ylos mismos glifos dañados26/40–42 de la impresión de cuatro. Esos
   cuatro tramos siguen pendientes. SHA-256:
   `d80e499c858b45d8146a3e18152de704cefbb9d0009ea7f3717141f3543e7d9c`.
-- `2019/2do Parcial/UT 6 4 pag.pdf`: 4 páginas; pendiente. SHA-256:
+- `2019/2do Parcial/UT 6 4 pag.pdf`: cuatro hojas completas cotejadas,
+  fecha08/05/2019;31diapositivas cubiertas por seis apuntes de la versión de16
+  páginas. Correspondencias en imposiciones.json. Erratas ysuperposición
+  conservadas; impresión sin enlaces interactivos, distintos de los del PDF de
+  referencia. No se duplican notas. SHA-256:
   `11b6b968cf12ac646e33b77cd95d6c6686f7d2be69d4e8ec7050c57ed7ec3d52`.
 - `2019/2do Parcial/UT 6 6 pag.pdf`: 3 páginas; pendiente. SHA-256:
   `edd00d2a1e1339d7a650ae412805418d759df4e3d5959019004489da7f1c3476`.
