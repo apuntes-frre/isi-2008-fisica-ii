@@ -3332,12 +3332,33 @@
       "bytes": 2869303,
       "paginas_pdf": 7,
       "duplicado_sha256_de": null,
-      "clasificacion": "pendiente de revisión documental",
-      "evidencia": "",
-      "estado": "pendiente",
-      "paginas_revisadas": [],
-      "copia_local": "/tmp/fisica-ii-20261017-fuentes/118-UT 5 6 pag.pdf",
-      "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/118-UT 5 6 pag.txt"
+      "clasificacion": "impresión de seis diapositivas por página, variante tipográfica de UT5",
+      "evidencia": "Siete hojas completas cotejadas con117 ylos apuntes enlazados; q/p/w/t/m/f preservados. La impresión conserva daños26/40–42, no aporta símbolos recuperados. No se duplican notas; mapa por casillero enimposiciones.json.",
+      "estado": "parcial:38 de42diapositivas documentadas por correspondencia; faltan26/40–42 por glifos dañados",
+      "paginas_revisadas": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "copia_local": "/Users/carlosferreyra/.cache/fisica-ii-transcripcion/20261020-ut/fuente-118.pdf",
+      "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/118-UT 5 6 pag.txt",
+      "notas": [
+        "notes/2019/teoria/fuerzas-magneticas-programa-historia-2019.md",
+        "notes/2019/teoria/imanes-caracteristicas-fuerzas-magneticas-2019.md",
+        "notes/2019/teoria/campo-magnetico-lineas-intensidad-2019.md",
+        "notes/2019/teoria/fuerza-magnetica-carga-unidades-regla-mano-2019.md",
+        "notes/2019/teoria/fuerza-magnetica-carga-unidades-variante-impresa-2019.md",
+        "notes/2019/teoria/lorentz-movimiento-circular-helicoidal-variante-impresa-2019.md",
+        "notes/2019/teoria/selector-velocidades-espectrometro-masas-2019.md",
+        "notes/2019/teoria/efecto-hall-ciclotron-2019.md",
+        "notes/2019/teoria/fuerza-conductor-corriente-variante-impresa-2019.md",
+        "notes/2019/teoria/torque-espira-momento-dipolar-variante-impresa-2019.md",
+        "notes/2019/teoria/demostracion-trayectoria-helicoidal-2019.md"
+      ]
     },
     {
       "original": "2019/2do Parcial/UT 6 4 pag.pdf",

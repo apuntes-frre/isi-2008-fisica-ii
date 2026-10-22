@@ -753,6 +753,19 @@
             23
           ],
           "estado": "cotejo de este tramo solamente; véase imposiciones.json; no incluye otras diapositivas de la nota"
+        },
+        {
+          "original": "2019/2do Parcial/UT 5 6 pag.pdf",
+          "sha256": "d80e499c858b45d8146a3e18152de704cefbb9d0009ea7f3717141f3543e7d9c",
+          "paginas_revisadas": [
+            4
+          ],
+          "diapositivas_referencia": [
+            21,
+            22,
+            23
+          ],
+          "estado": "cotejo visual de este tramo; impresión de seis diapositivas por hoja; correspondencias en imposiciones.json"
         }
       ]
     },
@@ -783,6 +796,19 @@
             25
           ],
           "estado": "cotejo de este tramo solamente; véase imposiciones.json; no incluye otras diapositivas de la nota"
+        },
+        {
+          "original": "2019/2do Parcial/UT 5 6 pag.pdf",
+          "sha256": "d80e499c858b45d8146a3e18152de704cefbb9d0009ea7f3717141f3543e7d9c",
+          "paginas_revisadas": [
+            4,
+            5
+          ],
+          "diapositivas_referencia": [
+            24,
+            25
+          ],
+          "estado": "cotejo visual de este tramo; impresión de seis diapositivas por hoja; correspondencias en imposiciones.json"
         }
       ]
     },
@@ -848,6 +874,17 @@
             39
           ],
           "estado": "cotejo de este tramo solamente; véase imposiciones.json; no incluye otras diapositivas de la nota"
+        },
+        {
+          "original": "2019/2do Parcial/UT 5 6 pag.pdf",
+          "sha256": "d80e499c858b45d8146a3e18152de704cefbb9d0009ea7f3717141f3543e7d9c",
+          "paginas_revisadas": [
+            7
+          ],
+          "diapositivas_referencia": [
+            39
+          ],
+          "estado": "cotejo visual de este tramo; impresión de seis diapositivas por hoja; correspondencias en imposiciones.json"
         }
       ]
     },
@@ -878,6 +915,19 @@
             11
           ],
           "estado": "cotejo de este tramo solamente; véase imposiciones.json; no incluye otras diapositivas de la nota"
+        },
+        {
+          "original": "2019/2do Parcial/UT 5 6 pag.pdf",
+          "sha256": "d80e499c858b45d8146a3e18152de704cefbb9d0009ea7f3717141f3543e7d9c",
+          "paginas_revisadas": [
+            2
+          ],
+          "diapositivas_referencia": [
+            9,
+            10,
+            11
+          ],
+          "estado": "cotejo visual de este tramo; impresión de seis diapositivas por hoja; correspondencias en imposiciones.json"
         }
       ]
     },
@@ -908,6 +958,17 @@
             12
           ],
           "estado": "cotejo de este tramo solamente; véase imposiciones.json; no incluye otras diapositivas de la nota"
+        },
+        {
+          "original": "2019/2do Parcial/UT 5 6 pag.pdf",
+          "sha256": "d80e499c858b45d8146a3e18152de704cefbb9d0009ea7f3717141f3543e7d9c",
+          "paginas_revisadas": [
+            2
+          ],
+          "diapositivas_referencia": [
+            12
+          ],
+          "estado": "cotejo visual de este tramo; impresión de seis diapositivas por hoja; correspondencias en imposiciones.json"
         }
       ]
     },
@@ -956,6 +1017,20 @@
             4
           ],
           "estado": "cotejo de este tramo solamente; véase imposiciones.json; no incluye otras diapositivas de la nota"
+        },
+        {
+          "original": "2019/2do Parcial/UT 5 6 pag.pdf",
+          "sha256": "d80e499c858b45d8146a3e18152de704cefbb9d0009ea7f3717141f3543e7d9c",
+          "paginas_revisadas": [
+            1
+          ],
+          "diapositivas_referencia": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "estado": "cotejo visual de este tramo; impresión de seis diapositivas por hoja; correspondencias en imposiciones.json"
         }
       ]
     },
@@ -988,6 +1063,21 @@
             8
           ],
           "estado": "cotejo de este tramo solamente; véase imposiciones.json; no incluye otras diapositivas de la nota"
+        },
+        {
+          "original": "2019/2do Parcial/UT 5 6 pag.pdf",
+          "sha256": "d80e499c858b45d8146a3e18152de704cefbb9d0009ea7f3717141f3543e7d9c",
+          "paginas_revisadas": [
+            1,
+            2
+          ],
+          "diapositivas_referencia": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "estado": "cotejo visual de este tramo; impresión de seis diapositivas por hoja; correspondencias en imposiciones.json"
         }
       ]
     },
@@ -6737,7 +6827,22 @@
       "math_renderizada_github": null,
       "url_github": null,
       "estado": "cotejado completo este bloque; pendiente render GitHub",
-      "fuentes_adicionales": []
+      "fuentes_adicionales": [
+        {
+          "original": "2019/2do Parcial/UT 5 6 pag.pdf",
+          "sha256": "d80e499c858b45d8146a3e18152de704cefbb9d0009ea7f3717141f3543e7d9c",
+          "paginas_revisadas": [
+            3
+          ],
+          "diapositivas_referencia": [
+            13,
+            14,
+            15,
+            16
+          ],
+          "estado": "cotejo visual de este tramo; impresión de seis diapositivas por hoja; correspondencias en imposiciones.json"
+        }
+      ]
     },
     {
       "original": "2019/2do Parcial/UT 5 4 pag.pdf",
@@ -6751,7 +6856,23 @@
       "math_renderizada_github": null,
       "url_github": null,
       "estado": "cotejado completo este bloque; pendiente render GitHub",
-      "fuentes_adicionales": []
+      "fuentes_adicionales": [
+        {
+          "original": "2019/2do Parcial/UT 5 6 pag.pdf",
+          "sha256": "d80e499c858b45d8146a3e18152de704cefbb9d0009ea7f3717141f3543e7d9c",
+          "paginas_revisadas": [
+            3,
+            4
+          ],
+          "diapositivas_referencia": [
+            17,
+            18,
+            19,
+            20
+          ],
+          "estado": "cotejo visual de este tramo; impresión de seis diapositivas por hoja; correspondencias en imposiciones.json"
+        }
+      ]
     },
     {
       "original": "2019/2do Parcial/UT 5 4 pag.pdf",
@@ -6766,7 +6887,24 @@
       "math_renderizada_github": null,
       "url_github": null,
       "estado": "cotejado completo este bloque; pendiente render GitHub",
-      "fuentes_adicionales": []
+      "fuentes_adicionales": [
+        {
+          "original": "2019/2do Parcial/UT 5 6 pag.pdf",
+          "sha256": "d80e499c858b45d8146a3e18152de704cefbb9d0009ea7f3717141f3543e7d9c",
+          "paginas_revisadas": [
+            5,
+            6
+          ],
+          "diapositivas_referencia": [
+            27,
+            28,
+            29,
+            30,
+            31
+          ],
+          "estado": "cotejo visual de este tramo; impresión de seis diapositivas por hoja; correspondencias en imposiciones.json"
+        }
+      ]
     },
     {
       "original": "2019/2do Parcial/UT 5 4 pag.pdf",
@@ -6782,7 +6920,26 @@
       "math_renderizada_github": null,
       "url_github": null,
       "estado": "cotejado completo este bloque; pendiente render GitHub",
-      "fuentes_adicionales": []
+      "fuentes_adicionales": [
+        {
+          "original": "2019/2do Parcial/UT 5 6 pag.pdf",
+          "sha256": "d80e499c858b45d8146a3e18152de704cefbb9d0009ea7f3717141f3543e7d9c",
+          "paginas_revisadas": [
+            6,
+            7
+          ],
+          "diapositivas_referencia": [
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38
+          ],
+          "estado": "cotejo visual de este tramo; impresión de seis diapositivas por hoja; correspondencias en imposiciones.json"
+        }
+      ]
     }
   ]
 }

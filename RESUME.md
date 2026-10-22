@@ -11,7 +11,10 @@ Este bloque prevalece sobre los estados históricos inferiores.
   correspondencia sin duplicar. Mapa por casillero enimposiciones.json.
 - Restan117diapositivas26/40–42: conservar los símbolos dañados ytranscribir
   solo lo legible; no reparar por conjetura ni copiar fórmulas de103 como117.
-- Después118–121 yel checklist inferior. Fuente117 sigue parcial.
+- Fuente118 cotejada completa:38/42diapositivas documentadas por correspondencia;
+  mismos daños26/40–42 que117. Sin notas duplicadas. Ambas fuentes siguen parciales.
+- Siguiente lote independiente119/120: UT6,4/3hojas; luego121 yel checklist.
+- Correspondencias117 publicadas en0cd5726; no regenerar ese mapa.
 - Total357notas/3496math, sin aumento por correspondencias;333/3178 verificadas
   enGitHub y24notas/318math pendientes de render. PR2 sigue borrador.
 - El stash2d228b6280d0b98ede72ec6f3312f09a82fdccff es respaldo histórico;

@@ -118,7 +118,10 @@ originales de las normalizadas y registra conteos matemáticos.
   de42 diapositivas documentadas. Faltan tratar glifos dañados de26/40–42;
   render GitHub pendiente. SHA-256:
   `134d9de661dcefd039d315a0e669b89c38bf02859d1d2d0806f15569b5006764`.
-- `2019/2do Parcial/UT 5 6 pag.pdf`: 7 páginas; pendiente. SHA-256:
+- `2019/2do Parcial/UT 5 6 pag.pdf`: siete páginas cotejadas, 42diapositivas.
+  Correspondencias registradas para38 sin duplicar notas; conserva variantes
+  q/p/w/t/m/f ylos mismos glifos dañados26/40–42 de la impresión de cuatro. Esos
+  cuatro tramos siguen pendientes. SHA-256:
   `d80e499c858b45d8146a3e18152de704cefbb9d0009ea7f3717141f3543e7d9c`.
 - `2019/2do Parcial/UT 6 4 pag.pdf`: 4 páginas; pendiente. SHA-256:
   `11b6b968cf12ac646e33b77cd95d6c6686f7d2be69d4e8ec7050c57ed7ec3d52`.
