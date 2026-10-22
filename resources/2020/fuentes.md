@@ -20,8 +20,9 @@ originales de las normalizadas y registra conteos matemáticos.
   figuras. Calificaciones y marcas del intento omitidas. Render GitHub
   pendiente. SHA-256:
   `f642b1113819fe8ec70162e19871d641eeda54acd93dc3a3ff41fb1efca728a1`.
-- `2020/Parciales/PARCIAL 2 FISICA 2020.pdf`: 39 páginas; compilado de cinco
-  versiones de14preguntas. Primera variante ISI B(p1–8) transcrita
-  completa,47expresiones ycuatro figuras. Faltan p9–39; 24/39 solo navegación.
+- `2020/Parciales/PARCIAL 2 FISICA 2020.pdf`: 39 páginas cotejadas; cinco
+  variantes completas en cinco notas, 70 preguntas, 232 expresiones y20figuras.
+  Páginas24/39 de navegación revisadas y omitidas. Se conservan todas las
+  opciones, incluidas las duplicadas y las erratas; se omiten datos del intento.
   Render GitHub pendiente. SHA-256:
   `e236a8b0f8b23c292ba97500fd4c252a25d021bd4adef0358ed816e845675b09`.

@@ -61,6 +61,11 @@ La transcripción está activa. La materia sigue incompleta.
 
 ### Próximo paso exacto
 
+Fuente143 terminada: B1=47math,A1=49,B2=53,A2=41,B3=42.
+Cuatro variantes añadidas después de0275cdb; controles locales aprobados.
+Siguiente lote documental: imposiciones117–121, cotejar variantes sin asumir duplicación.
+
+
 1. Trabajo activo tras «Continuar». Lote139/140 publicado en0718d0b; finales142/141 en694f299/a624ce8.
    Dos notas completas y13medios; grupo9 conserva vacíos, grupo8 tiene10math
    ytabla de36filas. Formato/lint/KaTeX/enlaces aprobados.
@@ -75,7 +80,7 @@ La transcripción está activa. La materia sigue incompleta.
    /Users/carlosferreyra/.cache/fisica-ii-transcripcion/20261021-finales-2020
    La segunda contiene originales141/142 con SHA cotejado, extracción142,
    crops pregunta01..16, figuras y script de autoría. No regenerar notas.
-5. Fuente137 completada en nueve notas; continuar143(parcial2,39p) y checklist.
+5. Fuentes137 y143 completas documentalmente; continuar117–121 y checklist.
    No detener trabajo documental por la falta de navegador.
    Fuente137: caché20261021-planificacion-2019; fuentes, 31renders,
    PyMuPDF4LLM, DoclingMD+JSON, Popplerbbox, tablas reconstruidas y auditoría.
@@ -99,10 +104,10 @@ Publicados además6806d7f(enlaces) y3ed1729(multímetro); CI aprobados6806d7f(39
 
 ### Totales después de reanudar
 
-349notas /3277expresiones:333notas/3178expresiones verificadas enGitHub
-más16notas/99expresiones pendientes de ese control. 220teoría/129práctica;
-115notas2015,231notas2019 y3notas2020.
-La continuación agrega131notas/850expresiones y264medios (256imágenes y8GIF).
+353notas /3462expresiones:333notas/3178expresiones verificadas enGitHub
+más20notas/284expresiones pendientes de ese control. 220teoría/133práctica;
+115notas2015,231notas2019 y7notas2020.
+La continuación agrega135notas/1035expresiones y280medios (272imágenes y8GIF).
 Los totales anteriores describen el checkpoint8511554.
 
 ### Checklist restante del inventario
@@ -112,11 +117,10 @@ Los totales anteriores describen el checkpoint8511554.
 - [ ] 141: examen final10/12/2020,10páginas completas,20preguntas,23math y13figuras.
   Transcrito y cotejado; solo resta verificar render GitHub. Tabla anillo usa Π y ξo.
 - [ ] 142: 16preguntas transcritas y cotejadas; solo resta verificar render GitHub.
-- [ ] 143: parcial2de2020,39páginas; cinco versiones de14preguntas.
-  B1(p1–8) transcrita47math/4figuras. FaltanA1(9–16),B2(17–24),A2(25–31),B3(32–39).
-  Lasp24/39 solo navegación; cotejar también antes de cerrar el original.
-  En exámenes omitir identificadores/calificaciones personales de estudiantes
-  como en la entrega previa; preservar enunciados y dejar constancia.
+- [ ] 143: las39páginas cotejadas; cinco variantes completas,70preguntas,
+  232math y20figuras; solo resta render GitHub. P24/39 de navegación omitidas.
+  Caché20261022-parcial-2020: originales,Poppler,39renders,imágenes yscripts.
+  No regenerar notas; scripts de autoría no idempotentes.
 - [ ] 117–121: imposiciones UT5/6/7. Solo117diapositivas1–24 cotejadas antes;
   variantes q/p/w por θ/π/ω y flecha visible respecto103. No afirmar identidad.
   118rotada−90°,119/120variantes de104,121posible variante de105:
