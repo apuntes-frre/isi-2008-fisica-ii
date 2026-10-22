@@ -26,8 +26,12 @@ Este bloque prevalece sobre los estados históricos inferiores.
   Tablas de21/20/20/11/20filas. Nombres/firmas manuscritos de6 ycalificación14
   omitidos de forma explícita; original preservado. Hoja6fecha19/05/2016.
   Enlaces entre las siete notas actualizados; no regenerar apuntes ni medios.
-- Commits79ebfa2,146227b,8441a01,f061539 yposteriores guardados localmente.
-  Push pendiente porDNSgithub.com. Reintentar push antes de publicar próximos lotes.
+- Informe62 cerrado en923121b. Cinco commits de contenido guardados localmente:
+  79ebfa2,146227b,8441a01,f061539,923121b. Push falló tres veces porDNSgithub.com.
+  Último remoto conocido95ad0ae; no afirmar que el PR contiene este avance.
+  Reintentar git push al recuperar conexión yactualizar cuerpo delPR con
+  /Users/carlosferreyra/.cache/fisica-ii-transcripcion/pr-continuacion.md.
+  CIremoto yrenderGitHub pendientes; todos los controles locales aprobados.
 - Siguiente lote: fuente61, DOCXdeCapacidad «A corregir2», comparar con62;
   no asumir identidad. Después63Kirchhoff,64Brújula,65fuerza.
   Caché20261022-capacidad-informe contiene OCRspa,tablas JSON,14renders,
