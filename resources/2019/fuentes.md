@@ -114,8 +114,9 @@ originales de las normalizadas y registra conteos matemáticos.
 - `2019/2do Parcial/UT 5 4 pag.pdf`: 11 páginas revisadas visualmente.
   Diapositivas13–20 y27–38 transcritas en cuatro notas de variante,
   34expresiones; q/p/w/t/m/f del original preservadas. Figuras reutilizadas tras
-  cotejo. Faltan correspondencias de los tramos restantes y tratar glifos
-  dañados de26/40–42; render GitHub pendiente. SHA-256:
+  cotejo. Correspondencias de1–12,21–25,39 registradas sin duplicar notas:38
+  de42 diapositivas documentadas. Faltan tratar glifos dañados de26/40–42;
+  render GitHub pendiente. SHA-256:
   `134d9de661dcefd039d315a0e669b89c38bf02859d1d2d0806f15569b5006764`.
 - `2019/2do Parcial/UT 5 6 pag.pdf`: 7 páginas; pendiente. SHA-256:
   `d80e499c858b45d8146a3e18152de704cefbb9d0009ea7f3717141f3543e7d9c`.

@@ -739,7 +739,22 @@
       "math_esperada": 2,
       "math_renderizada_github": 2,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/selector-velocidades-espectrometro-masas-2019.md",
-      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
+      "fuentes_adicionales": [
+        {
+          "original": "2019/2do Parcial/UT 5 4 pag.pdf",
+          "sha256": "134d9de661dcefd039d315a0e669b89c38bf02859d1d2d0806f15569b5006764",
+          "paginas_revisadas": [
+            6
+          ],
+          "diapositivas_referencia": [
+            21,
+            22,
+            23
+          ],
+          "estado": "cotejo de este tramo solamente; véase imposiciones.json; no incluye otras diapositivas de la nota"
+        }
+      ]
     },
     {
       "original": "2019/2do Parcial/2019 UT V - Fuerzas Magnéticas sobre cargas y elementos de corriente.pdf",
@@ -754,7 +769,22 @@
       "math_esperada": 9,
       "math_renderizada_github": 9,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/efecto-hall-ciclotron-2019.md",
-      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
+      "fuentes_adicionales": [
+        {
+          "original": "2019/2do Parcial/UT 5 4 pag.pdf",
+          "sha256": "134d9de661dcefd039d315a0e669b89c38bf02859d1d2d0806f15569b5006764",
+          "paginas_revisadas": [
+            6,
+            7
+          ],
+          "diapositivas_referencia": [
+            24,
+            25
+          ],
+          "estado": "cotejo de este tramo solamente; véase imposiciones.json; no incluye otras diapositivas de la nota"
+        }
+      ]
     },
     {
       "original": "2019/2do Parcial/2019 UT V - Fuerzas Magnéticas sobre cargas y elementos de corriente.pdf",
@@ -806,7 +836,20 @@
       "math_esperada": 17,
       "math_renderizada_github": 17,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/demostracion-trayectoria-helicoidal-2019.md",
-      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
+      "fuentes_adicionales": [
+        {
+          "original": "2019/2do Parcial/UT 5 4 pag.pdf",
+          "sha256": "134d9de661dcefd039d315a0e669b89c38bf02859d1d2d0806f15569b5006764",
+          "paginas_revisadas": [
+            10
+          ],
+          "diapositivas_referencia": [
+            39
+          ],
+          "estado": "cotejo de este tramo solamente; véase imposiciones.json; no incluye otras diapositivas de la nota"
+        }
+      ]
     },
     {
       "original": "2019/2do Parcial/2019 UT V - Fuerzas Magnéticas sobre cargas y elementos de corriente.pdf",
@@ -821,7 +864,22 @@
       "math_esperada": 0,
       "math_renderizada_github": 0,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/campo-magnetico-lineas-intensidad-2019.md",
-      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
+      "fuentes_adicionales": [
+        {
+          "original": "2019/2do Parcial/UT 5 4 pag.pdf",
+          "sha256": "134d9de661dcefd039d315a0e669b89c38bf02859d1d2d0806f15569b5006764",
+          "paginas_revisadas": [
+            3
+          ],
+          "diapositivas_referencia": [
+            9,
+            10,
+            11
+          ],
+          "estado": "cotejo de este tramo solamente; véase imposiciones.json; no incluye otras diapositivas de la nota"
+        }
+      ]
     },
     {
       "original": "2019/2do Parcial/2019 UT V - Fuerzas Magnéticas sobre cargas y elementos de corriente.pdf",
@@ -838,7 +896,20 @@
       "math_esperada": 6,
       "math_renderizada_github": 6,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/fuerza-magnetica-carga-unidades-regla-mano-2019.md",
-      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
+      "fuentes_adicionales": [
+        {
+          "original": "2019/2do Parcial/UT 5 4 pag.pdf",
+          "sha256": "134d9de661dcefd039d315a0e669b89c38bf02859d1d2d0806f15569b5006764",
+          "paginas_revisadas": [
+            3
+          ],
+          "diapositivas_referencia": [
+            12
+          ],
+          "estado": "cotejo de este tramo solamente; véase imposiciones.json; no incluye otras diapositivas de la nota"
+        }
+      ]
     },
     {
       "original": "2019/2do Parcial/2019 UT V - Fuerzas Magnéticas sobre cargas y elementos de corriente.pdf",
@@ -870,7 +941,23 @@
       "math_esperada": 0,
       "math_renderizada_github": 0,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/fuerzas-magneticas-programa-historia-2019.md",
-      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
+      "fuentes_adicionales": [
+        {
+          "original": "2019/2do Parcial/UT 5 4 pag.pdf",
+          "sha256": "134d9de661dcefd039d315a0e669b89c38bf02859d1d2d0806f15569b5006764",
+          "paginas_revisadas": [
+            1
+          ],
+          "diapositivas_referencia": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "estado": "cotejo de este tramo solamente; véase imposiciones.json; no incluye otras diapositivas de la nota"
+        }
+      ]
     },
     {
       "original": "2019/2do Parcial/2019 UT V - Fuerzas Magnéticas sobre cargas y elementos de corriente.pdf",
@@ -886,7 +973,23 @@
       "math_esperada": 1,
       "math_renderizada_github": 1,
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/imanes-caracteristicas-fuerzas-magneticas-2019.md",
-      "estado": "fuente cotejada; validación local y math GitHub verificadas"
+      "estado": "fuente cotejada; validación local y math GitHub verificadas",
+      "fuentes_adicionales": [
+        {
+          "original": "2019/2do Parcial/UT 5 4 pag.pdf",
+          "sha256": "134d9de661dcefd039d315a0e669b89c38bf02859d1d2d0806f15569b5006764",
+          "paginas_revisadas": [
+            2
+          ],
+          "diapositivas_referencia": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "estado": "cotejo de este tramo solamente; véase imposiciones.json; no incluye otras diapositivas de la nota"
+        }
+      ]
     },
     {
       "original": "2019/2do Parcial/2019 UT VI - Campo de Inducción Magnética. Propiedades.pdf",

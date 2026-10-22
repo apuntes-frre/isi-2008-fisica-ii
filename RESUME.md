@@ -1,20 +1,21 @@
 # Reanudación de Física II
 
-## PAUSA VIGENTE — TODO EL AVANCE PUBLICADO EN EL PR
+## CONTINUACIÓN ACTIVA — 22/10/2026
 
-El usuario autorizó completar commit/push del lote guardado y recibir un resumen.
-No iniciar nuevas transcripciones hasta que indique continuar.
+El usuario indicó continuar yguardar lotes pequeños con commit/push.
+Este bloque prevalece sobre los estados históricos inferiores.
 
-- Lote1 UT5 publicado en20a56e2: dos notas/17expresiones.
-- Lote2 recuperado y corregido: conductor27–31 ytorque32–38, dos notas/17math.
-  Se repararon delimitadores TeX de vec{t},vec{m},qquad t conservando t/m/f.
-  Caché20261022-ut5-variantes; copia anterior enpausa-lote-2 ystash
-  2d228b6280d0b98ede72ec6f3312f09a82fdccff solo como respaldo histórico.
-  No volver a aplicar ese stash: el contenido ya está incorporado ycorregido.
-- Siguiente lote: correspondencias117diapositivas1–12,21–25,39 yglifos dañados
-  26/40–42; después118–121. No declarar el original completo.
-- Total357notas/3496expresiones;333/3178 verificadas enGitHub,
-  24notas/318expresiones pendientes de render. PR2 sigue borrador.
+- Último lote de apuntes97ce5fe: CI39743059605 aprobado; dos notas/17math.
+- Fuente117:38 de42diapositivas documentadas. Cuatro notas de variante cubren
+  13–20 y27–38 (34math);18diapositivas1–12,21–25,39 se registran por
+  correspondencia sin duplicar. Mapa por casillero enimposiciones.json.
+- Restan117diapositivas26/40–42: conservar los símbolos dañados ytranscribir
+  solo lo legible; no reparar por conjetura ni copiar fórmulas de103 como117.
+- Después118–121 yel checklist inferior. Fuente117 sigue parcial.
+- Total357notas/3496math, sin aumento por correspondencias;333/3178 verificadas
+  enGitHub y24notas/318math pendientes de render. PR2 sigue borrador.
+- El stash2d228b6280d0b98ede72ec6f3312f09a82fdccff es respaldo histórico;
+  contenido incorporado ycorregido en97ce5fe. No volver a aplicarlo.
 
 ## Checkpoint vigente — 22/10/2026 — REANUDADO POR EL USUARIO
 
