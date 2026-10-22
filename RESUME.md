@@ -1,5 +1,30 @@
 # Reanudación de Física II
 
+## PAUSA SOLICITADA POR EL USUARIO — 22/10/2026
+
+No continuar hasta que el usuario lo indique. Este bloque prevalece sobre los
+estados activos históricos inferiores.
+
+- Lote1 de variantes UT5 publicado en20a56e2: dos notas,17expresiones;
+  controles locales aprobados. Total publicado355notas/3479expresiones.
+- Lote2 NO publicado: conductor27–31 ytorque32–38, dos notas/17expresiones.
+  Guardado en stash2d228b6280d0b98ede72ec6f3312f09a82fdccff y copia persistente
+  /Users/carlosferreyra/.cache/fisica-ii-transcripcion/20261022-ut5-variantes/pausa-lote-2/.
+  archivos.json enumera los seis archivos. No perder ni regenerar este trabajo.
+- Al reanudar: copiar desde esa carpeta los dos apuntes ylos tres archivos de
+  resources; conservar este RESUME.md yactualizar sus totales al validar.
+  Alternativa: aplicar el stash, resolviendo únicamente su conflicto con RESUME.
+- Fallo local exacto del lote2: al sustituir letras griegas se concatenaron
+  comandos TeX en torque: backslash-vect, backslash-vecm ybackslash-qquadt.
+  Reparar separando el comando de la letra: vec{t},vec{m},qquad t;
+  conservar t/m/f del original. Revisar todas las expresiones tras el cambio.
+- Formatear solo las dos notas yfuentes2019; ejecutar check.py --base HEAD y
+  git diff --check. Log fallido:20261022-ut5-variantes/check-lote-2.log.
+- OCRspa yextracciones de páginas7–10 ya completados yconservados en esa caché.
+  Tras aprobar: actualizar totales a357/3496, commit/push del lote2 ycheckpoint.
+- Luego continuar correspondencias117diapositivas1–12,21–25,39 yglifos dañados
+  26/40–42. No declarar el original completo todavía. PR2 sigue borrador.
+
 ## Checkpoint vigente — 22/10/2026 — REANUDADO POR EL USUARIO
 
 Este bloque prevalece sobre todos los estados históricos inferiores.
