@@ -7441,6 +7441,22 @@
       "url_github": null,
       "estado": "cotejado completo este bloque; pendiente render GitHub",
       "fuentes_adicionales": []
+    },
+    {
+      "original": "2015/L3 Capacidad G6 Aprobado.pdf",
+      "sha256": "586d5b26477b67b780929d52df3b218c54dca4ddfe6702e5f6e9d17b0ee5d320",
+      "nota": "notes/2015/practica/circuitos-rc-informe-grupo-6-resultados-serie.md",
+      "paginas_revisadas": [
+        10,
+        11,
+        12
+      ],
+      "paginacion": "PDF original,10 desde título de serie,11 completa yprimera fórmula12; excluye paralelo12",
+      "math_esperada": 15,
+      "math_renderizada_github": null,
+      "url_github": null,
+      "estado": "cotejado completo este bloque; pendiente render GitHub",
+      "fuentes_adicionales": []
     }
   ]
 }
