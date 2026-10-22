@@ -6517,6 +6517,27 @@
       "url_github": null,
       "estado": "cotejado completo; pendiente render GitHub",
       "fuentes_adicionales": []
+    },
+    {
+      "original": "2020/Parciales/PARCIAL 2 FISICA 2020.pdf",
+      "sha256": "e236a8b0f8b23c292ba97500fd4c252a25d021bd4adef0358ed816e845675b09",
+      "nota": "notes/2020/practica/segundo-parcial-sistemas-b-junio-2020-variante-1.md",
+      "paginas_revisadas": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "paginacion": "PDF compilado original, páginas 1–8 (primera variante ISI B)",
+      "math_esperada": 47,
+      "math_renderizada_github": null,
+      "url_github": null,
+      "estado": "cotejado completo este bloque; pendiente render GitHub",
+      "fuentes_adicionales": []
     }
   ]
 }

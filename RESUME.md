@@ -99,10 +99,10 @@ Publicados además6806d7f(enlaces) y3ed1729(multímetro); CI aprobados6806d7f(39
 
 ### Totales después de reanudar
 
-348notas /3230expresiones:333notas/3178expresiones verificadas enGitHub
-más15notas/52expresiones pendientes de ese control. 220teoría/128práctica;
-115notas2015,231notas2019 y2notas2020.
-La continuación agrega130notas/803expresiones y260medios (252imágenes y8GIF).
+349notas /3277expresiones:333notas/3178expresiones verificadas enGitHub
+más16notas/99expresiones pendientes de ese control. 220teoría/129práctica;
+115notas2015,231notas2019 y3notas2020.
+La continuación agrega131notas/850expresiones y264medios (256imágenes y8GIF).
 Los totales anteriores describen el checkpoint8511554.
 
 ### Checklist restante del inventario
@@ -112,7 +112,9 @@ Los totales anteriores describen el checkpoint8511554.
 - [ ] 141: examen final10/12/2020,10páginas completas,20preguntas,23math y13figuras.
   Transcrito y cotejado; solo resta verificar render GitHub. Tabla anillo usa Π y ξo.
 - [ ] 142: 16preguntas transcritas y cotejadas; solo resta verificar render GitHub.
-- [ ] 143: parcial2de2020,39páginas.
+- [ ] 143: parcial2de2020,39páginas; cinco versiones de14preguntas.
+  B1(p1–8) transcrita47math/4figuras. FaltanA1(9–16),B2(17–24),A2(25–31),B3(32–39).
+  Lasp24/39 solo navegación; cotejar también antes de cerrar el original.
   En exámenes omitir identificadores/calificaciones personales de estudiantes
   como en la entrega previa; preservar enunciados y dejar constancia.
 - [ ] 117–121: imposiciones UT5/6/7. Solo117diapositivas1–24 cotejadas antes;
@@ -1861,3 +1863,13 @@ verificadas también por sus tablas.
   nota desarrollada, lista L3 vacía y repetición del integrador.
 - Totales348notas/3230math; quince notas pendientes del render GitHub por falta
   de navegador. Restan source143, imposiciones117–121, informes61–65 y checklist.
+
+## Checkpoint 113: primer bloque del parcial compilado de 2020
+
+- Fuente143p1–8: B1completa14preguntas,47math,4figuras, sin datos del intento.
+- Cabecera de impresión17/6/2020; fecha de comienzo13/6/2020. No confundirlas.
+- Q11seconservan3480ohm/380ohm/2480ohm yvalores originalesP/Q/f; Q13b/c
+  repetidas yF/l dminúscula. No resolver ni corregir opciones.
+- Caché20261022-parcial-2020: originalverificado,Poppler,PyMuPDF4LLM,
+  39renderspagina01..39, imágenes yscript de autoríaB1.
+- ContinuarA1p9–16; luegoB2p17–24,A2p25–31,B3p32–39. No declarar143completa.

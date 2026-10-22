@@ -4206,12 +4206,21 @@
       "bytes": 2175182,
       "paginas_pdf": 39,
       "duplicado_sha256_de": null,
-      "clasificacion": "pendiente de revisión documental",
-      "evidencia": "",
-      "estado": "pendiente",
-      "paginas_revisadas": [],
-      "copia_local": "/tmp/fisica-ii-20261017-fuentes/143-PARCIAL 2 FISICA 2020.pdf",
-      "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/143-PARCIAL 2 FISICA 2020.txt"
+      "clasificacion": "compilado de cinco versiones del segundo parcial de 2020, 14 preguntas por versión",
+      "evidencia": "notes/2020/practica/segundo-parcial-sistemas-b-junio-2020-variante-1.md; primera variante de ISI B completa, 14 preguntas,47math y4figuras. Inventario de límites: B1=1–8,A1=9–16,B2=17–24,A2=25–31,B3=32–39; 24/39 solo navegación.",
+      "estado": "parcial: páginas 1–8 transcritas; faltan 9–39 y render GitHub",
+      "paginas_revisadas": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "copia_local": "/Users/carlosferreyra/.cache/fisica-ii-transcripcion/20261022-parcial-2020/parcial-2-2020.pdf",
+      "texto_poppler_local": "/Users/carlosferreyra/.cache/fisica-ii-transcripcion/20261022-parcial-2020/poppler.txt"
     }
   ]
 }
