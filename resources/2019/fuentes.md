@@ -129,8 +129,11 @@ originales de las normalizadas y registra conteos matemáticos.
   conservadas; impresión sin enlaces interactivos, distintos de los del PDF de
   referencia. No se duplican notas. SHA-256:
   `11b6b968cf12ac646e33b77cd95d6c6686f7d2be69d4e8ec7050c57ed7ec3d52`.
-- `2019/2do Parcial/UT 6 6 pag.pdf`: 3 páginas; pendiente. SHA-256:
-  `edd00d2a1e1339d7a650ae412805418d759df4e3d5959019004489da7f1c3476`.
+- `2019/2do Parcial/UT 6 6 pag.pdf`: tres hojas completas cotejadas,
+  fecha08/05/2019;31diapositivas y16páginas de referencia cubiertas por seis
+  apuntes existentes. Dos casilleros finales vacíos; impresión sin enlaces
+  interactivos. Correspondencias en imposiciones.json; no se duplican notas.
+  SHA-256: `edd00d2a1e1339d7a650ae412805418d759df4e3d5959019004489da7f1c3476`.
 - `2019/2do Parcial/UT 7 6 pag.pdf`: 12 páginas; pendiente. SHA-256:
   `e9078c66ef7a4749ab7f5bc7a6119e2b413e562967c4c9bf964963a8bc4f613b`.
 - `2019/2do Parcial/UT 8 6 pag.pdf`: 4 páginas; completo: impresión de las21

@@ -939,6 +939,87 @@
           ]
         }
       ]
+    },
+    {
+      "original": "2019/2do Parcial/UT 6 6 pag.pdf",
+      "sha256": "edd00d2a1e1339d7a650ae412805418d759df4e3d5959019004489da7f1c3476",
+      "referencia": "2019/2do Parcial/2019 UT VI - Campo de Inducción Magnética. Propiedades.pdf",
+      "sha256_referencia": "b9bb8ec5e8acfa36814e15207ee532a00e566ff5ea72bd139eff27ae0b2d634f",
+      "fecha_impresa": "08/05/2019",
+      "metodo": "Cotejo visual de las tres hojas tras rotación antihoraria90grados. Dieciséis páginas de referencia contienen31diapositivas. Texto, fórmulas,figuras,erratas ysuperposición cotejados; no se duplican notas. Seis páginas de referencia por hoja; dos casilleros finales vacíos. No hay enlaces interactivos ni identidad binaria/de píxeles.",
+      "paginas": [
+        {
+          "pagina_pdf": 1,
+          "paginas_referencia": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "diapositivas_referencia": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ],
+          "casilleros_paginas_vacios": 0
+        },
+        {
+          "pagina_pdf": 2,
+          "paginas_referencia": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ],
+          "diapositivas_referencia": [
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24
+          ],
+          "casilleros_paginas_vacios": 0
+        },
+        {
+          "pagina_pdf": 3,
+          "paginas_referencia": [
+            13,
+            14,
+            15,
+            16
+          ],
+          "diapositivas_referencia": [
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31
+          ],
+          "casilleros_paginas_vacios": 2
+        }
+      ]
     }
   ]
 }

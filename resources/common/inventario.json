@@ -3393,12 +3393,25 @@
       "bytes": 2346482,
       "paginas_pdf": 3,
       "duplicado_sha256_de": null,
-      "clasificacion": "pendiente de revisión documental",
-      "evidencia": "",
-      "estado": "pendiente",
-      "paginas_revisadas": [],
-      "copia_local": "/tmp/fisica-ii-20261017-fuentes/120-UT 6 6 pag.pdf",
-      "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/120-UT 6 6 pag.txt"
+      "clasificacion": "impresión de seis páginas por hoja de UT6;31diapositivas en16páginas de referencia",
+      "evidencia": "Tres hojas cotejadas visualmente con104 y119:16páginas y31diapositivas, fórmulas,figuras yerratas conservadas. Dos casilleros de páginas finales vacíos; página de referencia16 solo contiene diapositiva31. Fecha08/05/2019. No enlaces interactivos en esta impresión; no identidad binaria ni de píxeles.",
+      "estado": "completo por cotejo documental: tres hojas y31diapositivas cubiertas por seis notas existentes",
+      "paginas_revisadas": [
+        1,
+        2,
+        3
+      ],
+      "copia_local": "/Users/carlosferreyra/.cache/fisica-ii-transcripcion/20261020-ut/fuente-120.pdf",
+      "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/120-UT 6 6 pag.txt",
+      "notas": [
+        "notes/2019/teoria/biot-savart-corriente-rectilinea-circular-2019.md",
+        "notes/2019/teoria/ley-ampere-corrientes-distribuidas-2019.md",
+        "notes/2019/teoria/solenoide-toroide-campo-magnetico-2019.md",
+        "notes/2019/teoria/fuerzas-corrientes-definicion-ampere-2019.md",
+        "notes/2019/teoria/flujo-magnetico-gauss-espira-2019.md",
+        "notes/2019/teoria/corriente-desplazamiento-ampere-maxwell-2019.md"
+      ],
+      "imposicion_de": "2019/2do Parcial/2019 UT VI - Campo de Inducción Magnética. Propiedades.pdf"
     },
     {
       "original": "2019/2do Parcial/UT 7 6 pag.pdf",
