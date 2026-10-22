@@ -1674,22 +1674,25 @@
       "paginas_pdf": 14,
       "duplicado_sha256_de": null,
       "clasificacion": "informe de laboratorio3 de circuitosRC, grupo6, versión Aprobado",
-      "evidencia": "notes/2015/practica/circuitos-rc-informe-grupo-6-fundamentos-carga.md;20expresiones ycinco figuras originales. Salto9a11, erratas yrotulación de gráfica conservados. PyMuPDF4LLM,Poppler ycotejo visual de todas las páginas del tramo. Segundo lote4–5:16math ycuatro figuras, +0de(17),q/Q ynúmero(19) repetido conservados. Hoja manuscrita6 con fecha19/05/2016; no inferir año2015. Hoja6:21filas/13columnas, 273celdas, vacíos preservados. OCRspa ylectura visual ampliada; se omiten campos nominales yfirmas. Fecha19/05/2016; dos recortes originales sin firmas.",
-      "estado": "parcial: páginas1–6 transcritas; faltan7–14 yrender GitHub",
+      "evidencia": "notes/2015/practica/circuitos-rc-informe-grupo-6-fundamentos-carga.md;20expresiones ycinco figuras originales. Salto9a11, erratas yrotulación de gráfica conservados. PyMuPDF4LLM,Poppler ycotejo visual de todas las páginas del tramo. Segundo lote4–5:16math ycuatro figuras, +0de(17),q/Q ynúmero(19) repetido conservados. Hoja manuscrita6 con fecha19/05/2016; no inferir año2015. Hoja6:21filas/13columnas, 273celdas, vacíos preservados. OCRspa ylectura visual ampliada; se omiten campos nominales yfirmas. Fecha19/05/2016; dos recortes originales sin firmas. P7–8:tabla20filas/4columnas,15math ydos gráficas vectoriales. Se conservan redondeos, diferencias41/39s, pendientes0,184/0,1845, resultado1,38*10^-3F y10,1% sin recalcular.",
+      "estado": "parcial: páginas1–8 transcritas; faltan9–14 yrender GitHub",
       "paginas_revisadas": [
         1,
         2,
         3,
         4,
         5,
-        6
+        6,
+        7,
+        8
       ],
       "copia_local": "/Users/carlosferreyra/.cache/fisica-ii-transcripcion/20261022-capacidad-informe/01-L3 Capacidad G6 Aprobado.pdf",
       "texto_poppler_local": "/Users/carlosferreyra/.cache/fisica-ii-transcripcion/20261022-capacidad-informe/poppler.txt",
       "notas": [
         "notes/2015/practica/circuitos-rc-informe-grupo-6-fundamentos-carga.md",
         "notes/2015/practica/circuitos-rc-informe-grupo-6-descarga-tecnica.md",
-        "notes/2015/practica/circuitos-rc-informe-grupo-6-hoja-datos.md"
+        "notes/2015/practica/circuitos-rc-informe-grupo-6-hoja-datos.md",
+        "notes/2015/practica/circuitos-rc-informe-grupo-6-resultados-carga-c1.md"
       ]
     },
     {
