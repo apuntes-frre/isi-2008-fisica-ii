@@ -78,5 +78,10 @@ CAPACITOR C2: 470 µF
   declarados en la portada figuran en
   [el primer lote del informe](circuitos-rc-informe-grupo-6-fundamentos-carga.md).
   Los recortes publicados solo contienen encabezado institucional y tabla.
-- Las páginas 7–14 del informe continúan pendientes. Esta hoja no sustituye el
-  cotejo de las tablas y cálculos mecanografiados de esas páginas.
+- Las tablas y cálculos de páginas 7–14 están cotejados por separado en los
+  apuntes de resultados; esta hoja no los sustituye.
+
+## Navegación del informe
+
+[Anterior](circuitos-rc-informe-grupo-6-descarga-tecnica.md).
+[Siguiente](circuitos-rc-informe-grupo-6-resultados-carga-c1.md).

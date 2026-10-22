@@ -166,6 +166,9 @@ sobre (8) resulta
   interruptor». No se corrige la gráfica: su título dice «Carga de un
   condensador», su eje vertical «Diferencia de potencial (volt)» y la asíntota
   está rotulada Vo C.
-- Este lote termina en (12). Las páginas 4–14, incluida la continuación de la
-  representación semilogarítmica y los resultados experimentales, siguen
-  pendientes; no se presenta el informe como completo.
+- Este lote termina en (12); la continuación semilogarítmica y de descarga está
+  en el siguiente apunte.
+
+## Navegación del informe
+
+[Siguiente](circuitos-rc-informe-grupo-6-descarga-tecnica.md).

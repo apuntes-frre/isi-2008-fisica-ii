@@ -95,5 +95,10 @@ m=-1/(R*C)\Rightarrow C=-1/(R*m)=-1/(39000*-0{,}4597)=5{,}57*10^{-5}\mathrm F
 - Continúa
   [la descarga C1](circuitos-rc-informe-grupo-6-resultados-descarga-c1.md). La
   página 10 se comparte sin duplicar el bloque de descarga. El bloque paralelo
-  de página 12 y las páginas 13–14 continúan pendientes.
+  de página 12 y las páginas 13–14 están transcritos en el siguiente apunte.
 - El año 2015 corresponde a la carpeta; no consta fecha impresa en este tramo.
+
+## Navegación del informe
+
+[Anterior](circuitos-rc-informe-grupo-6-resultados-descarga-c1.md).
+[Siguiente](circuitos-rc-informe-grupo-6-resultados-paralelo-conclusion.md).

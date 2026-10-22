@@ -22,16 +22,19 @@ Este bloque prevalece sobre los estados históricos inferiores.
 - Fuentes119/120 cerradas documentalmente;119 publicado enae764b9.
 - Fuente121: 12/12hojas y67/67diapositivas cotejadas; mapa parcial
   enimposiciones.json. No regenerar notas ni duplicar cobertura.
-- Fuente62: páginas1–11 completas yprimera fórmula12 en seis notas,79math/16figuras.
-  Serie:11filas,15math ydos gráficas. Igual extraCeq,Ln(Vt),0,54/0.54 y
-  diferencias de pendiente conservados. Descarga guardada en8441a01.
-  Commits locales79ebfa2 y146227b con pushpendiente porDNSgithub.com.
-- Siguiente lote: paralelo,desde título12, página13 yconclusión14.
-  Al cerrar, actualizar enlaces de continuación de las seis notas anteriores.
-  Caché20261022-capacidad-informe: tablas JSON,extracciones,renders yrecortes.
+- Fuente62 completa documentalmente:14páginas, siete notas,94math y18medios.
+  Tablas de21/20/20/11/20filas. Nombres/firmas manuscritos de6 ycalificación14
+  omitidos de forma explícita; original preservado. Hoja6fecha19/05/2016.
+  Enlaces entre las siete notas actualizados; no regenerar apuntes ni medios.
+- Commits79ebfa2,146227b,8441a01,f061539 yposteriores guardados localmente.
+  Push pendiente porDNSgithub.com. Reintentar push antes de publicar próximos lotes.
+- Siguiente lote: fuente61, DOCXdeCapacidad «A corregir2», comparar con62;
+  no asumir identidad. Después63Kirchhoff,64Brújula,65fuerza.
+  Caché20261022-capacidad-informe contiene OCRspa,tablas JSON,14renders,
+  extracciones ymath-antes-cierre.json para comprobar preservación matemática.
 - Correspondencias117 publicadas en0cd5726; no regenerar ese mapa.
-- Total363notas/3575math, sin aumento por correspondencias;333/3178 verificadas
-  enGitHub y30notas/397math pendientes de render. PR2 sigue borrador.
+- Total364notas/3590math, sin aumento por correspondencias;333/3178 verificadas
+  enGitHub y31notas/412math pendientes de render. PR2 sigue borrador.
 - El stash2d228b6280d0b98ede72ec6f3312f09a82fdccff es respaldo histórico;
   contenido incorporado ycorregido en97ce5fe. No volver a aplicarlo.
 
@@ -145,10 +148,10 @@ Publicados además6806d7f(enlaces) y3ed1729(multímetro); CI aprobados6806d7f(39
 
 ### Totales después de reanudar
 
-363notas /3575expresiones:333notas/3178expresiones verificadas enGitHub
-más30notas/397expresiones pendientes de ese control. 224teoría/139práctica;
-121notas2015,235notas2019 y7notas2020.
-La continuación agrega145notas/1148expresiones y296medios (288imágenes y8GIF).
+364notas /3590expresiones:333notas/3178expresiones verificadas enGitHub
+más31notas/412expresiones pendientes de ese control. 224teoría/140práctica;
+122notas2015,235notas2019 y7notas2020.
+La continuación agrega146notas/1163expresiones y298medios (290imágenes y8GIF).
 Los totales anteriores describen el checkpoint8511554.
 
 ### Checklist restante del inventario
@@ -170,9 +173,8 @@ Los totales anteriores describen el checkpoint8511554.
   seis notas existentes; dos casilleros de páginas finales vacíos en120.
 - [x] 121: UT7 completa por cotejo en tres lotes,12hojas/67diapositivas,
   15notas existentes; cinco casilleros finales vacíos. Sin notas duplicadas.
-- [ ] 62: informeCapacidad aprobado,1–11 yprimera fórmula12 transcritos,79math/16figuras;
-  falta paralelo12–13 yconclusión14.
-  Hoja6 manuscrita completa por cotejo,fecha19/05/2016; sin datos nominales/firmas.
+- [ ] 62: contenido científico completo,14páginas/siete notas/94math/18medios;
+  solo render GitHub pendiente. Omisiones nominales,firmas ycalificación documentadas.
 - [ ] 61/63–65: informes2015 de Capacidad,Kirchhoff,Brújula,fuerza sobre corriente,
   incluidas versiones a corregir/aprobadas.
 - [ ] 67: multímetroPPSX completo19diapositivas/17figuras; solo render GitHub pendiente.

@@ -101,5 +101,11 @@ m=-1/(R.C)\Rightarrow C=-1/(R.M)=-1/(39000*-0{,}1845)=1{,}38*10^{-3}\mathrm F
   numeración de la gráfica por tiempos en segundos.
 - El año 2015 corresponde a la carpeta, no a una fecha impresa en estas páginas.
   La hoja manuscrita anterior está fechada 19/05/2016.
-- Continúa [la hoja de datos](circuitos-rc-informe-grupo-6-hoja-datos.md). Las
-  páginas 9–14 siguen pendientes.
+- Continúa [la hoja de datos](circuitos-rc-informe-grupo-6-hoja-datos.md). La
+  descarga, serie, paralelo y conclusión están transcritos en los apuntes
+  siguientes.
+
+## Navegación del informe
+
+[Anterior](circuitos-rc-informe-grupo-6-hoja-datos.md).
+[Siguiente](circuitos-rc-informe-grupo-6-resultados-descarga-c1.md).

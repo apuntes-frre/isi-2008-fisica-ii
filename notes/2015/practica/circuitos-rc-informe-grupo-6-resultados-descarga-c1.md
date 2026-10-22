@@ -86,6 +86,11 @@ E\%=\Delta C/C*100=0{,}00000757\%
   del PDF, ya que su signo es poco visible en el render reducido.
 - Continúa
   [el resultado de carga](circuitos-rc-informe-grupo-6-resultados-carga-c1.md).
-  El bloque «Proceso de Carga en Serie» que empieza en la página 10 se
-  transcribirá por separado; el resto de esa página no está incluido aquí.
+  El bloque «Proceso de Carga en Serie» de página 10 está transcrito por
+  separado; no se duplica en este apunte.
 - El año 2015 corresponde a la carpeta. No consta fecha impresa en este tramo.
+
+## Navegación del informe
+
+[Anterior](circuitos-rc-informe-grupo-6-resultados-carga-c1.md).
+[Siguiente](circuitos-rc-informe-grupo-6-resultados-serie.md).

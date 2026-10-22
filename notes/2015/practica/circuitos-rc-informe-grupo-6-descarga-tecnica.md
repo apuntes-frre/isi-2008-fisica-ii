@@ -138,5 +138,9 @@ C=\frac\tau R\qquad(19)
   resolver.
 - Continúa
   [el lote de fundamentos y carga](circuitos-rc-informe-grupo-6-fundamentos-carga.md).
-  Las páginas 6–14 siguen pendientes, incluida la hoja de datos manuscrita; este
-  informe todavía no está completo.
+  La hoja de datos y los resultados se transcriben en los apuntes siguientes.
+
+## Navegación del informe
+
+[Anterior](circuitos-rc-informe-grupo-6-fundamentos-carga.md).
+[Siguiente](circuitos-rc-informe-grupo-6-hoja-datos.md).
