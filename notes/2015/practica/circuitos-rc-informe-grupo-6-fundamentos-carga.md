@@ -76,8 +76,6 @@ C_e=C_1+C_2\qquad(3)
 
 ![Fig. 1: fuente Vo, interruptor, resistencia R y condensador C; puntos a, b y c](../../../resources/2015/circuitos-rc-informe-grupo-6/circuito-carga.png)
 
-Fig. 1
-
 En el circuito de la figura 1, cuando se cierra en interruptor, si inicialmente
 el condensador está descargado es decir $`Q(t=0)=0`$ se cumple la siguiente
 ecuación
@@ -112,8 +110,6 @@ Q(t)=V_o.C.\left(1-e^{-\frac{t}{R.C}}\right)\qquad(7)
 ```
 
 ![Fig. 2: carga de un condensador, diferencia de potencial en volt y tiempo en segundos; asíntota Vo C](../../../resources/2015/circuitos-rc-informe-grupo-6/grafica-carga.png)
-
-Fig. 2
 
 La representación gráfica de Q(t) durante el proceso de carga se muestra en la
 figura 2. En la gráfica se observa que el valor de la carga tiende
