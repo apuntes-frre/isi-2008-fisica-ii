@@ -63,7 +63,9 @@ La transcripción está activa. La materia sigue incompleta.
 
 Fuente143 terminada: B1=47math,A1=49,B2=53,A2=41,B3=42.
 Cuatro variantes añadidas después de0275cdb; controles locales aprobados.
-Siguiente lote documental: imposiciones117–121, cotejar variantes sin asumir duplicación.
+Siguiente lote documental: registrar variantes117, luego cotejar118–121.
+Parcial2020 publicado en a8fbeac; CI39740919468 aprobado.
+117: revisión visual terminada; faltan transcripción diferencial y correspondencias.
 
 
 1. Trabajo activo tras «Continuar». Lote139/140 publicado en0718d0b; finales142/141 en694f299/a624ce8.
@@ -121,8 +123,10 @@ Los totales anteriores describen el checkpoint8511554.
   232math y20figuras; solo resta render GitHub. P24/39 de navegación omitidas.
   Caché20261022-parcial-2020: originales,Poppler,39renders,imágenes yscripts.
   No regenerar notas; scripts de autoría no idempotentes.
-- [ ] 117–121: imposiciones UT5/6/7. Solo117diapositivas1–24 cotejadas antes;
-  variantes q/p/w por θ/π/ω y flecha visible respecto103. No afirmar identidad.
+- [ ] 117–121: imposiciones UT5/6/7. 117: once hojas revisadas completas (42diapositivas ydos casilleros vacíos);
+  pendiente transcribir diferencias respecto103. Diapo30 sen(q);35/36 sen(f),
+  t/m frente a torque/momento;26/40–42 contienen glifos dañados. No inferirlos.
+  Recortes117-diapo-1..44.png en caché20261020-ut. No afirmar identidad.
   118rotada−90°,119/120variantes de104,121posible variante de105:
   revisar todas las hojas y registrar correspondencias.122 y131 cerradas.
 - [ ] 61–65: informes2015 de Capacidad,Kirchhoff,Brújula,fuerza sobre corriente,

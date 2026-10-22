@@ -3301,11 +3301,23 @@
       "bytes": 2922224,
       "paginas_pdf": 11,
       "duplicado_sha256_de": null,
-      "clasificacion": "pendiente de revisión documental",
-      "evidencia": "",
-      "estado": "pendiente",
-      "paginas_revisadas": [],
-      "copia_local": "/tmp/fisica-ii-20261017-fuentes/117-UT 5 4 pag.pdf",
+      "clasificacion": "impresión rasterizada de cuatro diapositivas por página; variante tipográfica con símbolos dañados",
+      "evidencia": "11 hojas:42 diapositivas y2casilleros vacíos. Diapositivas1–24 revisadas antes;25–42 yvacíos43–44 revisados22/10. No es duplicado textual de103: diapo30 usa q en sen(q);35/36 usan f en sen(f), t y m para torque/momento; diapos26/40–42 muestran cuadros/glifos dañados. Cotejar variantes contra103 sin corregir silenciosamente. Recortes117-diapo-1..44.png en caché20261020-ut.",
+      "estado": "revisión visual completa; pendiente transcribir variantes y registrar correspondencias",
+      "paginas_revisadas": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "copia_local": "/Users/carlosferreyra/.cache/fisica-ii-transcripcion/20261020-ut/fuente-117.pdf",
       "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/117-UT 5 4 pag.txt"
     },
     {
