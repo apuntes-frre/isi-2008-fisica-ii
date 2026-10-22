@@ -65,7 +65,11 @@ Fuente143 terminada: B1=47math,A1=49,B2=53,A2=41,B3=42.
 Cuatro variantes añadidas después de0275cdb; controles locales aprobados.
 Siguiente lote documental: registrar variantes117, luego cotejar118–121.
 Parcial2020 publicado en a8fbeac; CI39740919468 aprobado.
-117: revisión visual terminada; faltan transcripción diferencial y correspondencias.
+117: páginas4–5 completas en dos notas de variante,17math; q/p/w conservadas.
+Caché20261022-ut5-variantes contiene copia parcial,OCRspa,Poppler yPyMuPDF4LLM.
+Siguiente lote pequeño:117diapositivas30/34–36, torque yconductor; luego registrar
+las correspondencias restantes ylos glifos dañados26/40–42 sin inventarlos.
+Cada lote se valida yse guarda con commit/push antes de ampliar el alcance.
 
 
 1. Trabajo activo tras «Continuar». Lote139/140 publicado en0718d0b; finales142/141 en694f299/a624ce8.
@@ -106,10 +110,10 @@ Publicados además6806d7f(enlaces) y3ed1729(multímetro); CI aprobados6806d7f(39
 
 ### Totales después de reanudar
 
-353notas /3462expresiones:333notas/3178expresiones verificadas enGitHub
-más20notas/284expresiones pendientes de ese control. 220teoría/133práctica;
-115notas2015,231notas2019 y7notas2020.
-La continuación agrega135notas/1035expresiones y280medios (272imágenes y8GIF).
+355notas /3479expresiones:333notas/3178expresiones verificadas enGitHub
+más22notas/301expresiones pendientes de ese control. 222teoría/133práctica;
+115notas2015,233notas2019 y7notas2020.
+La continuación agrega137notas/1052expresiones y280medios (272imágenes y8GIF).
 Los totales anteriores describen el checkpoint8511554.
 
 ### Checklist restante del inventario
@@ -124,7 +128,8 @@ Los totales anteriores describen el checkpoint8511554.
   Caché20261022-parcial-2020: originales,Poppler,39renders,imágenes yscripts.
   No regenerar notas; scripts de autoría no idempotentes.
 - [ ] 117–121: imposiciones UT5/6/7. 117: once hojas revisadas completas (42diapositivas ydos casilleros vacíos);
-  pendiente transcribir diferencias respecto103. Diapo30 sen(q);35/36 sen(f),
+  páginas4–5 transcritas,17math; resto pendiente de correspondencias y variantes.
+  Diapo30 sen(q);35/36 sen(f),
   t/m frente a torque/momento;26/40–42 contienen glifos dañados. No inferirlos.
   Recortes117-diapo-1..44.png en caché20261020-ut. No afirmar identidad.
   118rotada−90°,119/120variantes de104,121posible variante de105:

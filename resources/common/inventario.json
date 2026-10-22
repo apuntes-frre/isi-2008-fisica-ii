@@ -3302,8 +3302,8 @@
       "paginas_pdf": 11,
       "duplicado_sha256_de": null,
       "clasificacion": "impresión rasterizada de cuatro diapositivas por página; variante tipográfica con símbolos dañados",
-      "evidencia": "11 hojas:42 diapositivas y2casilleros vacíos. Diapositivas1–24 revisadas antes;25–42 yvacíos43–44 revisados22/10. No es duplicado textual de103: diapo30 usa q en sen(q);35/36 usan f en sen(f), t y m para torque/momento; diapos26/40–42 muestran cuadros/glifos dañados. Cotejar variantes contra103 sin corregir silenciosamente. Recortes117-diapo-1..44.png en caché20261020-ut.",
-      "estado": "revisión visual completa; pendiente transcribir variantes y registrar correspondencias",
+      "evidencia": "11 hojas:42 diapositivas y2casilleros vacíos. Diapositivas1–24 revisadas antes;25–42 yvacíos43–44 revisados22/10. No es duplicado textual de103: diapo30 usa q en sen(q);35/36 usan f en sen(f), t y m para torque/momento; diapos26/40–42 muestran cuadros/glifos dañados. Cotejar variantes contra103 sin corregir silenciosamente. Recortes117-diapo-1..44.png en caché20261020-ut. P4–5 transcritas completas con q/p/w literales; seis figuras reutilizadas tras cotejo. OCR español y PyMuPDF4LLM sobre copia en caché20261022-ut5-variantes. Render GitHub pendiente.",
+      "estado": "parcial: páginas4–5 transcritas en dos notas de variante,17expresiones; resto pendiente de correspondencias y transcripción diferencial",
       "paginas_revisadas": [
         1,
         2,
@@ -3318,7 +3318,11 @@
         11
       ],
       "copia_local": "/Users/carlosferreyra/.cache/fisica-ii-transcripcion/20261020-ut/fuente-117.pdf",
-      "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/117-UT 5 4 pag.txt"
+      "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/117-UT 5 4 pag.txt",
+      "notas": [
+        "notes/2019/teoria/fuerza-magnetica-carga-unidades-variante-impresa-2019.md",
+        "notes/2019/teoria/lorentz-movimiento-circular-helicoidal-variante-impresa-2019.md"
+      ]
     },
     {
       "original": "2019/2do Parcial/UT 5 6 pag.pdf",
