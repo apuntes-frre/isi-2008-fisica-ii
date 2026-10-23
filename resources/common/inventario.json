@@ -2129,16 +2129,18 @@
       "duplicado_sha256_de": null,
       "clasificacion": "resumen de teoría de FísicaII; autor y año no identificados en primeras páginas",
       "evidencia": "PyMuPDF4LLM y Poppler; renders1–3 cotejados. Fórmulas de imagen transcritas como LaTeX y diagrama conservado.",
-      "estado": "parcial:3/80páginas revisadas y transcritas; pendiente4–80",
+      "estado": "parcial:4/80páginas revisadas y transcritas; pendiente5–80",
       "paginas_revisadas": [
         1,
         2,
-        3
+        3,
+        4
       ],
       "copia_local": "/Users/carlosferreyra/.cache/fisica-ii-transcripcion/20261023-resumen-fisica/01-Resumen-Fisca-2.pdf",
       "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/71-Resumen-Fisca-2.txt",
       "notas": [
-        "notes/2015/teoria/resumen-fuerza-campo-electrico.md"
+        "notes/2015/teoria/resumen-fuerza-campo-electrico.md",
+        "notes/2015/teoria/resumen-flujo-electrico.md"
       ]
     },
     {
