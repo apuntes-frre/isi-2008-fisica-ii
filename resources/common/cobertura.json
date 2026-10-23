@@ -8299,6 +8299,20 @@
       "math_esperada": 9,
       "math_renderizada_github": null,
       "estado": "cotejo visual local; pendiente GitHub"
+    },
+    {
+      "original": "2015/Resumen-Fisca-2.pdf",
+      "sha256": "b9903f972224365c1a74b5d2732c9a34675c9b719da4c9c2d28e4a0f34e0b0cc",
+      "nota": "notes/2015/teoria/resumen-potencial-distribuciones.md",
+      "paginas_revisadas": [
+        8,
+        9,
+        10
+      ],
+      "paginacion": "PDF original;10hasta gradiente",
+      "math_esperada": 29,
+      "math_renderizada_github": null,
+      "estado": "cotejo visual local; pendiente GitHub"
     }
   ]
 }
