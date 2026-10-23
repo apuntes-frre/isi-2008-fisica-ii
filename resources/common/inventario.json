@@ -1662,12 +1662,15 @@
       "duplicado_sha256_de": null,
       "clasificacion": "versión DOCX del informe RC delgrupo6 con observación de corrección en rojo",
       "evidencia": "Pandocconmedios yLOconperfilaislado. Sin comentarios ni control de cambios XML; observación roja está en runs FF0000 del texto. AÑO2016 enportada yfigura3 verde/roja registrados por versión. WMFdeecuaciones cotejados visualmente. Seis gráficas nativas requieren revisar su XML/caché: LOregenera rótulos de ajustes General yno debe confundirse su precisión conla presentación original.",
-      "estado": "parcial: normalizado15páginas;1–4 cotejadas yregistradas; faltan5–15",
+      "estado": "parcial: páginas normalizadas 1–7 cotejadas y registradas; faltan resultados 8–15",
       "paginas_revisadas": [
         1,
         2,
         3,
-        4
+        4,
+        5,
+        6,
+        7
       ],
       "copia_local": "/Users/carlosferreyra/.cache/fisica-ii-transcripcion/20261022-capacidad-corregir/01-L3 Capacidad G6 A corregir 2.docx",
       "texto_poppler_local": "/Users/carlosferreyra/.cache/fisica-ii-transcripcion/20261022-capacidad-corregir/poppler.txt",
@@ -1675,7 +1678,8 @@
       "pdf_normalizado_local": "/Users/carlosferreyra/.cache/fisica-ii-transcripcion/20261022-capacidad-corregir/libreoffice/01-L3 Capacidad G6 A corregir 2.pdf",
       "notas": [
         "notes/2015/practica/circuitos-rc-informe-grupo-6-fundamentos-carga.md",
-        "notes/2015/practica/circuitos-rc-informe-grupo-6-descarga-tecnica.md"
+        "notes/2015/practica/circuitos-rc-informe-grupo-6-descarga-tecnica.md",
+        "notes/2015/practica/circuitos-rc-informe-grupo-6-hoja-datos.md"
       ]
     },
     {

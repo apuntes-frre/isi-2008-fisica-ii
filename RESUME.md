@@ -27,14 +27,14 @@ Este bloque prevalece sobre los estados históricos inferiores.
   omitidos de forma explícita; original preservado. Hoja6fecha19/05/2016.
   Enlaces entre las siete notas actualizados; no regenerar apuntes ni medios.
 - Informe62 cerrado en923121b, publicado con9363fec yCIaprobado.
-- Fuente61, DOCX «A corregir2»: normalizado a15páginas.1–4 cotejadas;
+- Fuente61, DOCX «A corregir2»: normalizado a15páginas.1–7 cotejadas;
   portadaAÑO2016,figura3verde/roja ynegrita registradas en dos notas existentes.
   Fuente61 sigue parcial; no atribuirle cobertura completa de esas dos notas.
-- Siguiente lote61: páginas4–7 dePDFLO, completarteoría dedescarga yhojadatos.
-  Después8–15,resultados: unidades usan glifoꭥ(U+AB65),no normalizar aΩ.
+- Teoría de descarga y hoja de datos cotejadas completas en tres notas.
+  Siguiente lote61: páginas8–15, resultados: unidades usan glifoꭥ(U+AB65),no normalizar aΩ.
   Correcciónroja de11 usa37% frente a63%; valores19s/110,26% distintos de62.
 - Caché20261022-capacidad-corregir: preflight,SHA,Pandocconmedios,XMLdegráficas,
-  textoDOCX,PDFLO15p,Poppler yprimeros4renders. No reexportar sobre salida previa.
+  textoDOCX,PDFLO15p,Poppler yprimeros7renders. No reexportar sobre salida previa.
   Gráficas nativas con trendline General: LOregenera precisión delrótulo;
   revisar XML/cachés yno atribuir esa diferencia al contenido científico.
 - Correspondencias117 publicadas en0cd5726; no regenerar ese mapa.

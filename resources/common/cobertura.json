@@ -7414,10 +7414,12 @@
           "original": "2015/L3 Capacidad G6 A corregir 2.docx",
           "sha256": "a8e1063ebff8c151f9a7a2d6d5dcf798a13ef08c9282a61fdc5bd0985ab184ec",
           "paginas_revisadas": [
-            4
+            4,
+            5,
+            6
           ],
-          "paginacion": "PDFLibreOffice de15páginas; semilogaritmo13–14 ydibujoFig4solamente",
-          "estado": "cotejo de este tramo; variantes de portada/color/énfasis registradas en nota; no atribuir resto delDOCX"
+          "paginacion": "PDF normalizado LibreOffice de 15 páginas; semilogaritmo, descarga, materiales y técnica completos",
+          "estado": "cotejo completo de este apunte; figura 3 en color y énfasis registrados; resultados del DOCX pendientes"
         }
       ]
     },
@@ -7433,7 +7435,17 @@
       "math_renderizada_github": null,
       "url_github": null,
       "estado": "tabla completa cotejada celda a celda; pendiente render GitHub",
-      "fuentes_adicionales": []
+      "fuentes_adicionales": [
+        {
+          "original": "2015/L3 Capacidad G6 A corregir 2.docx",
+          "sha256": "a8e1063ebff8c151f9a7a2d6d5dcf798a13ef08c9282a61fdc5bd0985ab184ec",
+          "paginas_revisadas": [
+            7
+          ],
+          "paginacion": "PDF normalizado LibreOffice de 15 páginas; hoja fotografiada completa",
+          "estado": "cotejo visual de encabezado y todas las celdas; omisiones nominales y firmas explícitas en nota"
+        }
+      ]
     },
     {
       "original": "2015/L3 Capacidad G6 Aprobado.pdf",

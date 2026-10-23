@@ -152,9 +152,14 @@ El original `2015/L3 Capacidad G6 A corregir 2.docx`, SHA-256
 también con Pandoc, sus objetos de ecuación y una copia PDF de LibreOffice de 15
 páginas. La paginación siguiente pertenece a esa copia normalizada, no al DOCX.
 
-En la página 4 se cotejaron el tramo semilogarítmico, las ecuaciones (13)–(14) y
-el dibujo de la figura 4. Este registro parcial no atribuye todavía cobertura al
-proceso de descarga ni al resto de esta nota en el DOCX.
+Las páginas 4–6 de la copia normalizada se cotejaron completas para este apunte:
+representación semilogarítmica, descarga, materiales y técnica operatoria.
+Coinciden las expresiones (13)–(21), incluido el «+0» sin igual de (17) y la
+repetición de (19) para C, además de las figuras 4–6 y sus etiquetas. El DOCX
+también destaca en negrita las condiciones iniciales y la frase «Las diferencias
+de potencial instantáneas sobre cada elemento de circuito son:». La figura 5
+aparece desplazada antes de (15); su contenido se conserva. Este cotejo no
+atribuye cobertura a los resultados posteriores del DOCX.
 
 La figura 3 de esta versión conserva cuadrícula verde y recta roja:
 

@@ -85,3 +85,15 @@ CAPACITOR C2: 470 µF
 
 [Anterior](circuitos-rc-informe-grupo-6-descarga-tecnica.md).
 [Siguiente](circuitos-rc-informe-grupo-6-resultados-carga-c1.md).
+
+## Versión DOCX «A corregir 2»
+
+La página 7 de la copia normalizada con LibreOffice del original
+`2015/L3 Capacidad G6 A corregir 2.docx`, SHA-256
+`a8e1063ebff8c151f9a7a2d6d5dcf798a13ef08c9282a61fdc5bd0985ab184ec`, contiene la
+misma hoja fotografiada. Se cotejaron visualmente el encabezado, los valores y
+las 21 filas con sus 13 columnas, incluidos los blancos y ceros finales.
+Coinciden la fecha 19/05/16 y la anotación docente 19/05/2016. Se conserva la
+transcripción anterior y el mismo criterio explícito de omitir nombres
+manuscritos y firmas; no se duplica la fotografía completa. Esta paginación
+corresponde al PDF normalizado de 15 páginas, no al DOCX.
