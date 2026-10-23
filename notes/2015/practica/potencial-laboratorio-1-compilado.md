@@ -37,20 +37,26 @@ una distancia dl, suponiendo que en esa región, el campo $`\vec E`$ puede ser
 considerado constante, entonces
 
 ```math
-dV=-\vec E\cdot\overrightarrow{dl} \tag{1}
+dV=-\vec E\cdot\overrightarrow{dl}
 ```
+
+(1)
 
 considerando el producto escalar se tiene
 
 ```math
-dV=-E\cos(\theta)\,dl \tag{2}
+dV=-E\cos(\theta)\,dl
 ```
+
+(2)
 
 haciendo
 
 ```math
-\frac{dV}{dl}=-E\cos(\theta) \tag{3}
+\frac{dV}{dl}=-E\cos(\theta)
 ```
+
+(3)
 
 Es posible interpretar mediante la figura 1,
 
@@ -74,33 +80,43 @@ Haciendo el desarrollo en coordenadas cartesianas de (1) el vector
 $`\overrightarrow{dl}`$ tiene como componentes (dx, dy, dz) entonces
 
 ```math
-dV=-(E_x\,dx+E_y\,dy+E_z\,dz) \tag{5}
+dV=-(E_x\,dx+E_y\,dy+E_z\,dz)
 ```
+
+(5)
 
 Puesto que V es una función de la posición, es decir, de x, y, z, el diferencial
 total puede expresarse
 
 ```math
-dV=\frac{\partial V}{\partial x}\,dx+\frac{\partial V}{\partial y}\,dy+\frac{\partial V}{\partial z}\,dz \tag{6}
+dV=\frac{\partial V}{\partial x}\,dx+\frac{\partial V}{\partial y}\,dy+\frac{\partial V}{\partial z}\,dz
 ```
+
+(6)
 
 Comparando la (5) y la (6) surge que
 
 ```math
-E_x=-\frac{\partial V}{\partial x}\qquad E_y=-\frac{\partial V}{\partial y}\qquad E_z=-\frac{\partial V}{\partial z} \tag{7}
+E_x=-\frac{\partial V}{\partial x}\qquad E_y=-\frac{\partial V}{\partial y}\qquad E_z=-\frac{\partial V}{\partial z}
 ```
+
+(7)
 
 Entonces el campo eléctrico puede indicarse como
 
 ```math
-\vec E=-\frac{\partial V}{\partial x}\vec i-\frac{\partial V}{\partial y}\vec j-\frac{\partial V}{\partial z}\vec k \tag{8}
+\vec E=-\frac{\partial V}{\partial x}\vec i-\frac{\partial V}{\partial y}\vec j-\frac{\partial V}{\partial z}\vec k
 ```
+
+(8)
 
 o bien
 
 ```math
-\vec E=-\nabla V(x,y,z) \tag{9}
+\vec E=-\nabla V(x,y,z)
 ```
+
+(9)
 
 donde ∇ representa el gradiente de V(x, y, z). El campo eléctrico está indicando
 la dirección y magnitud de la variación espacial máxima de la función escalar
@@ -128,21 +144,27 @@ Si una línea L es equipotencial, entonces satisface V(x, y) = C, si se calcula
 el diferencial resulta
 
 ```math
-dV=\frac{\partial V}{\partial x}\,dx+\frac{\partial V}{\partial y}\,dy=0 \tag{10}
+dV=\frac{\partial V}{\partial x}\,dx+\frac{\partial V}{\partial y}\,dy=0
 ```
+
+(10)
 
 y considerando la relación con las componentes del campo
 
 ```math
-dV=-E_x\,dx-E_y\,dy=0 \tag{11}
+dV=-E_x\,dx-E_y\,dy=0
 ```
+
+(11)
 
 entonces, es posible encontrar la expresión de la familia de líneas
 equipotenciales a partir de las componentes del campo eléctrico haciendo
 
 ```math
-\frac{dy}{dx}=-\frac{E_x}{E_y} \tag{12}
+\frac{dy}{dx}=-\frac{E_x}{E_y}
 ```
+
+(12)
 
 Como las líneas de fuerzas del campo eléctrico son tangentes a este, entonces
 siempre atraviesan las superficies equipotenciales en forma perpendicular y
@@ -153,8 +175,10 @@ Entonces a partir de esta condición es posible obtener la familia de líneas de
 fuerzas del campo eléctrico. Haciendo
 
 ```math
--\frac{1}{\frac{dy}{dx}}=-\frac{E_x}{E_y} \tag{13}
+-\frac{1}{\frac{dy}{dx}}=-\frac{E_x}{E_y}
 ```
+
+(13)
 
 Esto se desarrolló en coordenadas cartesianas, pero puede extenderse a otras
 coordenadas.

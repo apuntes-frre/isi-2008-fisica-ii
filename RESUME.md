@@ -14,7 +14,7 @@ Este bloque prevalece sobre todos los estados históricos inferiores.
   Caché20261023-planificacion-2016 con25renders,Poppler,PyMuPDF4LLM, tablas
   crudas y cotejadas; dos falsas celdas-marco duplicadas eliminadas. Scripts de
   autoría no idempotentes; no reejecutar. No duplicar notas de2019.
-- Total485notas/4866expresiones; pendientes render GitHub130notas/1377math.
+- Total485notas/4866expresiones; pendientes render GitHub161notas/2114math.
   Medios500 (491imágenes/9GIF). PR2 abierto/borrador, avances publicados en lotes.
 - Fuente70 completa documentalmente:62/62páginas cotejadas,18notas de teoría y
   ejercicios. Portada autor Anibal Kasero y título Biot-Savart, distintos del
@@ -23,6 +23,9 @@ Este bloque prevalece sobre todos los estados históricos inferiores.
 - Navegador IAB disponible:22notas del resumen verificadas311/311math,
   figuras cargadas,0merror; GitHub entrega math-renderer con MathML nativo.
   Etiquetas de Taylor y fem separadas tras detectar apilamiento en MathML.
+  Mismo defecto confirmado en apuntes previos:222etiquetas de31notas movidas
+  a texto, fórmulas cotejadas idénticas salvo tag; evidencia GitHub invalidada
+  únicamente en esos31archivos para revisión nueva.
   Evidencia en cobertura; no contar solo mjx-container (da0 en esta vista).
 - Fuente71 completa documentalmente:80/80páginas,76notas; próximo auditar cobertura y GitHub.
   Caché20261023-resumen-fisica con extracción completa y renders1–80;

@@ -78,8 +78,10 @@ A=A_0\left(\frac{\mathop{\mathrm{sen}}\nolimits\frac{\pi b\mathop{\mathrm{sen}}\
 y como las intensidades son proporcionales a los cuadrados de las amplitudes
 
 ```math
-I=I_o\left(\frac{\mathop{\mathrm{sen}}\nolimits\left[\frac{\pi b\mathop{\mathrm{sen}}\nolimits\theta}{\lambda}\right]}{\frac{\pi b\mathop{\mathrm{sen}}\nolimits\theta}{\lambda}}\right)^2 \tag{1}
+I=I_o\left(\frac{\mathop{\mathrm{sen}}\nolimits\left[\frac{\pi b\mathop{\mathrm{sen}}\nolimits\theta}{\lambda}\right]}{\frac{\pi b\mathop{\mathrm{sen}}\nolimits\theta}{\lambda}}\right)^2
 ```
+
+(1)
 
 El máximo de la difracción se produce cuando el argumento del seno es cero, ya
 que
@@ -100,14 +102,18 @@ Los mínimos de intensidad se producen cuando el argumento del seno es un
 múltiplo entero de $`\pi`$, es decir, cuando
 
 ```math
-\frac{\pi b\mathop{\mathrm{sen}}\nolimits\theta}{\lambda}=n\pi \tag{2}
+\frac{\pi b\mathop{\mathrm{sen}}\nolimits\theta}{\lambda}=n\pi
 ```
+
+(2)
 
 o bien, cuando
 
 ```math
-\mathop{\mathrm{sen}}\nolimits\theta=n\frac\lambda b\qquad(n=1,2\ldots) \tag{3}
+\mathop{\mathrm{sen}}\nolimits\theta=n\frac\lambda b\qquad(n=1,2\ldots)
 ```
+
+(3)
 
 mínimos de intensidad
 
@@ -131,8 +137,10 @@ si $`L\gg y`$ se puede aproximar
 entonces la ( 3 ) se puede reescribir
 
 ```math
-\frac yL=\frac{n\lambda}b \tag{4}
+\frac yL=\frac{n\lambda}b
 ```
+
+(4)
 
 ![Montaje de fuente, ranura simple, pantalla y cámara](../../../resources/2015/difraccion-laboratorio/montaje.png)
 

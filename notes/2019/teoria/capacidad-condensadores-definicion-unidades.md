@@ -84,8 +84,10 @@ Si efectuamos Los cocientes
 Definimos
 
 ```math
-C=\frac Q{\Delta V}\tag{1}
+C=\frac Q{\Delta V}
 ```
+
+(1)
 
 Capacidad de un condensador
 

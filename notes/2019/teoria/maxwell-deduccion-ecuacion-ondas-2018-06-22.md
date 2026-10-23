@@ -5,32 +5,42 @@ Unidad Temática X — Ecuaciones de Maxwell
 Aplicando el rotacional a la ley de Faraday (11)
 
 ```math
-\vec\nabla\times\vec\nabla\times\vec E=-\vec\nabla\times\frac{\partial\vec B}{\partial t}\tag{13}
+\vec\nabla\times\vec\nabla\times\vec E=-\vec\nabla\times\frac{\partial\vec B}{\partial t}
 ```
+
+(13)
 
 Empleando la identidad vectorial (\*) y que el rotor conmuta con la derivada
 temporal
 
 ```math
-\vec\nabla\times\vec\nabla\times\vec A=\vec\nabla(\vec\nabla\cdot\vec A)-\nabla^2\vec A\tag{*}
+\vec\nabla\times\vec\nabla\times\vec A=\vec\nabla(\vec\nabla\cdot\vec A)-\nabla^2\vec A
 ```
 
+(\*)
+
 ```math
-\vec\nabla(\vec\nabla\cdot\vec E)-\nabla^2\vec E=-\frac{\partial(\vec\nabla\times\vec B)}{\partial t}\tag{14}
+\vec\nabla(\vec\nabla\cdot\vec E)-\nabla^2\vec E=-\frac{\partial(\vec\nabla\times\vec B)}{\partial t}
 ```
+
+(14)
 
 Teniendo en cuenta las ecuaciones (9) y (12) obtenemos:
 
 ```math
-\nabla^2 E=\mu_0\varepsilon_0\frac{\partial^2 E}{\partial t^2}\tag{15}
+\nabla^2 E=\mu_0\varepsilon_0\frac{\partial^2 E}{\partial t^2}
 ```
+
+(15)
 
 Operando de manera similar sobre (12) y empleando (10) y (11) obtenemos para el
 campo magnético
 
 ```math
-\nabla^2 B=\mu_0\varepsilon_0\frac{\partial^2 B}{\partial t^2}\tag{16}
+\nabla^2 B=\mu_0\varepsilon_0\frac{\partial^2 B}{\partial t^2}
 ```
+
+(16)
 
 ```math
 \nabla^2\psi(r,t)-\frac1{v^2}\frac{\partial^2\psi(\vec r,t)}{\partial t^2}=0

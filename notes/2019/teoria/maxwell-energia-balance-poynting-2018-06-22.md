@@ -40,8 +40,10 @@ respectivamente
 Restando miembro a miembro
 
 ```math
-\frac{\vec B}{\mu_o}\cdot\vec\nabla\times\vec E-\frac{\vec E}{\mu_o}\cdot\vec\nabla\times\vec B=-\vec E\cdot\vec J_C-\left(\varepsilon_o\vec E\cdot\frac{\partial\vec E}{\partial t}+\frac{\vec B}{\mu_o}\cdot\frac{\partial\vec B}{\partial t}\right)\tag{**}
+\frac{\vec B}{\mu_o}\cdot\vec\nabla\times\vec E-\frac{\vec E}{\mu_o}\cdot\vec\nabla\times\vec B=-\vec E\cdot\vec J_C-\left(\varepsilon_o\vec E\cdot\frac{\partial\vec E}{\partial t}+\frac{\vec B}{\mu_o}\cdot\frac{\partial\vec B}{\partial t}\right)
 ```
+
+(\*\*)
 
 ```math
 \vec\nabla\cdot(\vec A\times\vec B)=\vec B\cdot(\vec\nabla\times\vec A)-\vec A\cdot(\vec\nabla\times\vec B)

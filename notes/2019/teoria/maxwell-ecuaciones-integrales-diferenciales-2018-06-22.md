@@ -13,26 +13,34 @@ ecuaciones de genial simplicidad los conocimientos experimentales de la
 electrodinámica.
 
 ```math
-\oint_S\vec E\cdot d\vec A=\frac{q_{int}}{\varepsilon_0}\tag{1}
+\oint_S\vec E\cdot d\vec A=\frac{q_{int}}{\varepsilon_0}
 ```
+
+(1)
 
 Gauss para el campo eléctrico
 
 ```math
-\oint_S\vec B\cdot d\vec A=0\tag{2}
+\oint_S\vec B\cdot d\vec A=0
 ```
+
+(2)
 
 Gauss para el campo magnético
 
 ```math
-\oint_C\vec E\cdot d\vec l=-\frac{d\Phi_B}{dt}=-\frac d{dt}\left[\int\vec B\cdot d\vec A\right]\tag{3}
+\oint_C\vec E\cdot d\vec l=-\frac{d\Phi_B}{dt}=-\frac d{dt}\left[\int\vec B\cdot d\vec A\right]
 ```
+
+(3)
 
 Ley de Faraday
 
 ```math
-\oint_C\vec B\cdot d\vec l=\mu_0 I+\mu_0\varepsilon_0\frac d{dt}\left[\oint_S\vec E\cdot d\vec A\right]\tag{4}
+\oint_C\vec B\cdot d\vec l=\mu_0 I+\mu_0\varepsilon_0\frac d{dt}\left[\oint_S\vec E\cdot d\vec A\right]
 ```
+
+(4)
 
 Ley de Ampere - Maxwell
 
@@ -40,20 +48,28 @@ Para deducir la ecuación de las ondas electromagnéticas vamos a escribir las
 ecuaciones de Maxwell en su forma diferencial
 
 ```math
-\vec\nabla\cdot\vec E(\vec r,t)=\frac\rho{\varepsilon_0}\tag{5}
+\vec\nabla\cdot\vec E(\vec r,t)=\frac\rho{\varepsilon_0}
 ```
 
-```math
-\vec\nabla\cdot\vec B(\vec r,t)=0\tag{6}
-```
+(5)
 
 ```math
-\vec\nabla\times\vec E(\vec r,t)=-\frac{\partial\vec B(\vec r,t)}{\partial t}\tag{7}
+\vec\nabla\cdot\vec B(\vec r,t)=0
 ```
 
+(6)
+
 ```math
-\vec\nabla\times\vec B(\vec r,t)=\mu_0\vec J(\vec r,t)+\mu_0\varepsilon_0\frac{\partial\vec E(\vec r,t)}{\partial t}\tag{8}
+\vec\nabla\times\vec E(\vec r,t)=-\frac{\partial\vec B(\vec r,t)}{\partial t}
 ```
+
+(7)
+
+```math
+\vec\nabla\times\vec B(\vec r,t)=\mu_0\vec J(\vec r,t)+\mu_0\varepsilon_0\frac{\partial\vec E(\vec r,t)}{\partial t}
+```
+
+(8)
 
 El término de la corriente de desplazamiento permite la solución de ondas
 electromagnéticas. El segundo par de las ecuaciones de Maxwell conecta las
@@ -69,20 +85,28 @@ considerando el caso en el que no hay corrientes ($`\vec J=0`$) ni cargas (ρ=0)
 Con estas hipótesis las ecuaciones de Maxwell quedan como:
 
 ```math
-\vec\nabla\cdot\vec E(\vec r,t)=0\tag{9}
+\vec\nabla\cdot\vec E(\vec r,t)=0
 ```
 
-```math
-\vec\nabla\cdot\vec B(\vec r,t)=0\tag{10}
-```
+(9)
 
 ```math
-\vec\nabla\times\vec E(\vec r,t)=-\frac{\partial\vec B(\vec r,t)}{\partial t}\tag{11}
+\vec\nabla\cdot\vec B(\vec r,t)=0
 ```
 
+(10)
+
 ```math
-\vec\nabla\times\vec B(\vec r,t)=\mu_0\varepsilon_0\frac{\partial\vec E(\vec r,t)}{\partial t}\tag{12}
+\vec\nabla\times\vec E(\vec r,t)=-\frac{\partial\vec B(\vec r,t)}{\partial t}
 ```
+
+(11)
+
+```math
+\vec\nabla\times\vec B(\vec r,t)=\mu_0\varepsilon_0\frac{\partial\vec E(\vec r,t)}{\partial t}
+```
+
+(12)
 
 La forma estándar de proceder con estas ecuaciones diferenciales acopladas es
 tomar la derivada de una de ellas y usar la otra para eliminar una u otra de las

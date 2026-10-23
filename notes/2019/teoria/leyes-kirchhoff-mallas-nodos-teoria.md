@@ -69,8 +69,10 @@ Y respetar las siguientes convenciones:
 nodo a
 
 ```math
-i-i_1-i_2=0\tag{1}
+i-i_1-i_2=0
 ```
+
+(1)
 
 ```math
 i=i_1+i_2
@@ -79,8 +81,10 @@ i=i_1+i_2
 nodo b
 
 ```math
-i_1+i_2-i=0\tag{2}
+i_1+i_2-i=0
 ```
+
+(2)
 
 ```math
 i_1+i_2=i
@@ -97,24 +101,34 @@ i_1+i_2=i
 ![Circuito con tres fuentes V1, V2 y V3, tres resistencias y dos mallas señaladas](../../../resources/2019/electrocinetica/circuito-dos-mallas.png)
 
 ```math
-\mathrm{abefa}\Rightarrow i_2R_2-V_2-i_1R_1+V_1=0\tag{1}
+\mathrm{abefa}\Rightarrow i_2R_2-V_2-i_1R_1+V_1=0
 ```
 
-```math
-\mathrm{bcdeb}\Rightarrow V_3-i_3R_3+V_2-i_2R_2=0\tag{2}
-```
+(1)
 
 ```math
-\mathrm{abcdefa}\Rightarrow V_3-i_3R_3-i_1R_1+V_1=0\tag{3}
+\mathrm{bcdeb}\Rightarrow V_3-i_3R_3+V_2-i_2R_2=0
 ```
 
-```math
-\mathrm b\Rightarrow i_1+i_2-i_3=0\tag{4}
-```
+(2)
 
 ```math
-\mathrm e\Rightarrow i_3-i_1-i_2=0\tag{5}
+\mathrm{abcdefa}\Rightarrow V_3-i_3R_3-i_1R_1+V_1=0
 ```
+
+(3)
+
+```math
+\mathrm b\Rightarrow i_1+i_2-i_3=0
+```
+
+(4)
+
+```math
+\mathrm e\Rightarrow i_3-i_1-i_2=0
+```
+
+(5)
 
 5 ecuaciones y 3 incógnitas
 
