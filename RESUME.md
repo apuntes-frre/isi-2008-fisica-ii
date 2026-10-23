@@ -14,11 +14,11 @@ Este bloque prevalece sobre todos los estados históricos inferiores.
   Caché20261023-planificacion-2016 con25renders,Poppler,PyMuPDF4LLM, tablas
   crudas y cotejadas; dos falsas celdas-marco duplicadas eliminadas. Scripts de
   autoría no idempotentes; no reejecutar. No duplicar notas de2019.
-- Total394notas/3777expresiones; pendientes render GitHub61notas/599math.
-  Medios343 (334imágenes/9GIF). PR2 abierto/borrador, avances publicados en lotes.
-- Fuente70:portada y manuscrito2–13 transcritos; siguiente página14 de62.
-  Caché20261023-kaseros-biot-sabat con OCR español completo y renders1–14.
-  Próximo:70 desde14,71 resumen80p;37 identificar conOCR/visual
+- Total395notas/3810expresiones; pendientes render GitHub62notas/632math.
+  Medios345 (336imágenes/9GIF). PR2 abierto/borrador, avances publicados en lotes.
+- Fuente70:portada y manuscrito2–18 transcritos; siguiente página19 de62.
+  Caché20261023-kaseros-biot-sabat con OCR español completo y renders1–19.
+  Próximo:70 desde19,71 resumen80p;37 identificar conOCR/visual
   (candidato bibliografía, citado Sampallo2003 en planificación68). Después
   clasificar3/9/11; glifos117/118 y unidad manuscrita examen; revisión visual
   GitHub y auditoría final. No declarar100% con estas lecturas pendientes.
