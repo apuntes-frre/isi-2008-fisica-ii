@@ -14,8 +14,8 @@ Este bloque prevalece sobre todos los estados históricos inferiores.
   Caché20261023-planificacion-2016 con25renders,Poppler,PyMuPDF4LLM, tablas
   crudas y cotejadas; dos falsas celdas-marco duplicadas eliminadas. Scripts de
   autoría no idempotentes; no reejecutar. No duplicar notas de2019.
-- Total416notas/4228expresiones; pendientes render GitHub82notas/1021math.
-  Medios412 (403imágenes/9GIF). PR2 abierto/borrador, avances publicados en lotes.
+- Total418notas/4245expresiones; pendientes render GitHub84notas/1038math.
+  Medios414 (405imágenes/9GIF). PR2 abierto/borrador, avances publicados en lotes.
 - Fuente70 completa documentalmente:62/62páginas cotejadas,18notas de teoría y
   ejercicios. Portada autor Anibal Kasero y título Biot-Savart, distintos del
   nombre de archivo. Página62 vacía, borrador tachado21 conservado como recorte.
@@ -23,7 +23,7 @@ Este bloque prevalece sobre todos los estados históricos inferiores.
 - Navegador IAB disponible:resumen-potencial-distribuciones verificado29/29math,
   5imágenes cargadas,0merror; GitHub entrega math-renderer con MathML nativo.
   Evidencia en cobertura; no contar solo mjx-container (da0 en esta vista).
-- Fuente71:primeras12páginas y13 hasta asociación; próximo asociación13–14.
+- Fuente71:primeras13páginas y14 hasta dieléctricos; próximo final14–15.
   Caché20261023-resumen-fisica con extracción completa y renders1–16;
   fórmulas imagen deben transcribirse en LaTeX, no publicarlas como capturas.
   37 identificada como bibliografía:Guillermo Sampallo2003,ISBN987-43-6398-3,
