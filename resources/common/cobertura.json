@@ -7828,6 +7828,22 @@
       "url_github": null,
       "estado": "ocho filas y anotaciones cotejadas; rótulo de masa parcial y símbolo ausente marcados; pendiente GitHub",
       "fuentes_adicionales": []
+    },
+    {
+      "original": "2015/Planificacion 2016 de Física II.pdf",
+      "sha256": "f67ab1339ec84db1060e8a58e558425ad1fbcfe7e38415996e8a3f624cc7fc52",
+      "nota": "notes/2015/teoria/planificacion-docentes-horarios-2016.md",
+      "paginas_revisadas": [
+        1,
+        2,
+        3
+      ],
+      "paginacion": "PDF original:1–2 completas, tablas de3 hasta Descripción",
+      "math_esperada": 0,
+      "math_renderizada_github": null,
+      "url_github": null,
+      "estado": "texto y tres fragmentos de tabla cotejados; pendiente GitHub",
+      "fuentes_adicionales": []
     }
   ]
 }

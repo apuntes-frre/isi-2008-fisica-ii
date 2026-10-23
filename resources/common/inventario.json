@@ -1958,12 +1958,19 @@
       "bytes": 858459,
       "paginas_pdf": 25,
       "duplicado_sha256_de": null,
-      "clasificacion": "pendiente de revisión documental",
+      "clasificacion": "planificación de cátedra de FísicaII ciclo2016 para IEM/ISI/IQ",
       "evidencia": "",
-      "estado": "pendiente",
-      "paginas_revisadas": [],
-      "copia_local": "/tmp/fisica-ii-20261017-fuentes/68-Planificacion 2016 de Física II.pdf",
-      "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/68-Planificacion 2016 de Física II.txt"
+      "estado": "parcial: páginas1–2 y tablas de3 hasta Descripción transcritas; faltan fundamentación3 y4–25",
+      "paginas_revisadas": [
+        1,
+        2,
+        3
+      ],
+      "copia_local": "/Users/carlosferreyra/.cache/fisica-ii-transcripcion/20261023-planificacion-2016/01-Planificacion 2016 de Física II.pdf",
+      "texto_poppler_local": "/Users/carlosferreyra/.cache/fisica-ii-transcripcion/20261023-planificacion-2016/poppler.txt",
+      "notas": [
+        "notes/2015/teoria/planificacion-docentes-horarios-2016.md"
+      ]
     },
     {
       "original": "2015/Puente de hilo- GUIA.docx",

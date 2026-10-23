@@ -306,7 +306,10 @@ originales de las normalizadas y registra conteos matemáticos.
   PPTX/PDF para MarkItDown; campo de número de diapositiva como única nota XML,
   sin texto adicional. Render GitHub pendiente. SHA-256:
   `4375b5ba3260f92e29876aa7d402634bbe935cc55e776dba1f40c7bcad431c3d`.
-- `2015/Planificacion 2016 de Física II.pdf`: 25 páginas; pendiente. SHA-256:
+- `2015/Planificacion 2016 de Física II.pdf`:páginas1–2 y tablas de3
+  transcritas en una nota; tres fragmentos de grilla HTML y logo original.
+  Celdas combinadas/vacías y diferencias de horarios conservadas. Resta
+  fundamentación desde3 y4–25. SHA-256:
   `f67ab1339ec84db1060e8a58e558425ad1fbcfe7e38415996e8a3f624cc7fc52`.
 - `2015/Puente de hilo- GUIA.docx`: no PDF páginas; transcrito y validado
   localmente. SHA-256:
