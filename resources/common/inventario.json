@@ -2028,8 +2028,8 @@
       "paginas_pdf": 62,
       "duplicado_sha256_de": null,
       "clasificacion": "cuadernillo manuscrito de teoría y resueltos: Ley de Biot-Savart; autor de portada Anibal Kasero",
-      "evidencia": "Portada y manuscrito2–43 completos, comienzo44 hasta separador cotejado; OCR español auxiliar. Próximo bobina y dos conductores44.",
-      "estado": "parcial:43páginas completas y comienzo44 revisados; segundo enunciado44 pendiente",
+      "evidencia": "Portada y manuscrito2–48 completos, comienzo49 hasta separador cotejado; OCR español auxiliar. Bobina:respuesta160A vs manuscrito100A y signos divergentes conservados. Próximo ion49.",
+      "estado": "parcial:48páginas completas y comienzo49 revisados; segundo enunciado49 pendiente",
       "paginas_revisadas": [
         1,
         2,
@@ -2073,7 +2073,12 @@
         40,
         41,
         42,
-        43
+        43,
+        44,
+        45,
+        46,
+        47,
+        48
       ],
       "copia_local": "/Users/carlosferreyra/.cache/fisica-ii-transcripcion/20261023-kaseros-biot-sabat/01-Resueltos Fisica II Anibal Kaseros Ley de Biot-Sabat.pdf",
       "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/70-Resueltos Fisica II Anibal Kaseros Ley de Biot-Sabat.txt",
@@ -2090,7 +2095,8 @@
         "notes/2015/teoria/biot-savart-kasero-semicirculos-opuestos.md",
         "notes/2015/teoria/biot-savart-kasero-horquilla.md",
         "notes/2015/teoria/biot-savart-kasero-conductores-coplanares.md",
-        "notes/2015/teoria/biot-savart-kasero-flujo-rectangulo.md"
+        "notes/2015/teoria/biot-savart-kasero-flujo-rectangulo.md",
+        "notes/2015/teoria/biot-savart-kasero-bobina-dos-conductores.md"
       ]
     },
     {
