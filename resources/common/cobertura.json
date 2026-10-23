@@ -8068,6 +8068,48 @@
       "math_esperada": 11,
       "math_renderizada_github": null,
       "estado": "cotejo visual local; pendiente GitHub"
+    },
+    {
+      "original": "2015/Resueltos Fisica II Anibal Kaseros Ley de Biot-Sabat.pdf",
+      "sha256": "b4aeb8cc9f1fa04835d4817a067976cc3d3c07d57e18ca5dabd898b67e09d41e",
+      "nota": "notes/2015/teoria/biot-savart-kasero-fuerza-alambre-axial.md",
+      "paginas_revisadas": [
+        25,
+        26
+      ],
+      "paginacion": "PDF original; páginas29/32 parciales por separador",
+      "math_esperada": 11,
+      "math_renderizada_github": null,
+      "estado": "cotejo visual local; pendiente GitHub"
+    },
+    {
+      "original": "2015/Resueltos Fisica II Anibal Kaseros Ley de Biot-Sabat.pdf",
+      "sha256": "b4aeb8cc9f1fa04835d4817a067976cc3d3c07d57e18ca5dabd898b67e09d41e",
+      "nota": "notes/2015/teoria/biot-savart-kasero-bucle-semicircular.md",
+      "paginas_revisadas": [
+        27,
+        28,
+        29
+      ],
+      "paginacion": "PDF original; páginas29/32 parciales por separador",
+      "math_esperada": 19,
+      "math_renderizada_github": null,
+      "estado": "cotejo visual local; pendiente GitHub"
+    },
+    {
+      "original": "2015/Resueltos Fisica II Anibal Kaseros Ley de Biot-Sabat.pdf",
+      "sha256": "b4aeb8cc9f1fa04835d4817a067976cc3d3c07d57e18ca5dabd898b67e09d41e",
+      "nota": "notes/2015/teoria/biot-savart-kasero-semicirculos-concentricos.md",
+      "paginas_revisadas": [
+        29,
+        30,
+        31,
+        32
+      ],
+      "paginacion": "PDF original; páginas29/32 parciales por separador",
+      "math_esperada": 13,
+      "math_renderizada_github": null,
+      "estado": "cotejo visual local; pendiente GitHub"
     }
   ]
 }

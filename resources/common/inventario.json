@@ -2028,8 +2028,8 @@
       "paginas_pdf": 62,
       "duplicado_sha256_de": null,
       "clasificacion": "cuadernillo manuscrito de teoría y resueltos: Ley de Biot-Savart; autor de portada Anibal Kasero",
-      "evidencia": "Portada y manuscrito2–24 cotejados; OCR español auxiliar. Espira, conductor infinito, segmento y espira cuadrada transcritos. Borrador tachado21 preservado como recorte.",
-      "estado": "parcial:24/62 páginas revisadas; páginas25–62 pendientes",
+      "evidencia": "Portada y manuscrito2–31 completos, comienzo32 hasta separador cotejado; OCR español auxiliar. Próximo semicírculos opuestos32.",
+      "estado": "parcial:31páginas completas y comienzo32 revisados; siguiente enunciado32 pendiente",
       "paginas_revisadas": [
         1,
         2,
@@ -2054,7 +2054,14 @@
         21,
         22,
         23,
-        24
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31
       ],
       "copia_local": "/Users/carlosferreyra/.cache/fisica-ii-transcripcion/20261023-kaseros-biot-sabat/01-Resueltos Fisica II Anibal Kaseros Ley de Biot-Sabat.pdf",
       "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/70-Resueltos Fisica II Anibal Kaseros Ley de Biot-Sabat.txt",
@@ -2064,7 +2071,10 @@
         "notes/2015/teoria/biot-savart-kasero-espira-circular.md",
         "notes/2015/teoria/biot-savart-kasero-conductor-infinito.md",
         "notes/2015/teoria/biot-savart-kasero-segmento-recto.md",
-        "notes/2015/teoria/biot-savart-kasero-espira-cuadrada.md"
+        "notes/2015/teoria/biot-savart-kasero-espira-cuadrada.md",
+        "notes/2015/teoria/biot-savart-kasero-fuerza-alambre-axial.md",
+        "notes/2015/teoria/biot-savart-kasero-bucle-semicircular.md",
+        "notes/2015/teoria/biot-savart-kasero-semicirculos-concentricos.md"
       ]
     },
     {
