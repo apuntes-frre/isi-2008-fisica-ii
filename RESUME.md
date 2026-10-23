@@ -1,5 +1,58 @@
 # Reanudación de Física II
 
+## PAUSA SOLICITADA — checkpoint 22/10/2026
+
+El usuario pidió pausar la transcripción y dejar todo publicado para continuar
+cuando lo indique. **No seguir transcribiendo hasta recibir esa indicación.**
+Este bloque prevalece sobre todos los estados activos o históricos inferiores.
+
+### Estado guardado
+
+- Rama: `codex/transcribir-fisica-ii-continuacion`; PR #2 abierto y borrador:
+  <https://github.com/apuntes-frre/isi-2008-fisica-ii/pull/2>.
+- Últimos lotes: `6be1063` y `5919644`, ambos publicados en origin.
+  CI de `5919644` aprobado, ejecución `39896443573`.
+- Fuente 61: DOCX «A corregir 2», páginas normalizadas 1–7 cotejadas y
+  registradas en tres apuntes existentes. Fuente 62 aprobada: contenido
+  científico completo. No regenerar sus siete notas.
+- Totales: 364 notas / 3590 expresiones. Revisión visual GitHub pendiente:
+  31 notas / 412 expresiones; las otras 333 / 3178 ya tienen evidencia.
+- Todos los originales, extracciones y renders se conservan en caché.
+  No volver a ejecutar scripts de autoría no idempotentes.
+
+### Primer paso al reanudar
+
+1. Leer este bloque y comprobar rama, estado Git y PR.
+2. Continuar fuente 61 desde las páginas **8–15 del PDF normalizado** en
+   `/Users/carlosferreyra/.cache/fisica-ii-transcripcion/20261022-capacidad-corregir/`.
+   Ya existen original verificado, Pandoc con medios, Poppler y XML de gráficas;
+   los renders guardados llegan a la página 7. Renderizar y revisar el siguiente
+   lote sin sobrescribir extracciones previas.
+3. Comparar resultados con las notas de la versión aprobada. Preservar el glifo
+   de unidad ꭥ (U+AB65), la observación roja sobre 37% frente a 63% y los valores
+   distintos (19 s y 110,26%). Los rótulos de ajuste de gráficas nativas pueden
+   ser regenerados por LibreOffice: comprobar XML/cachés antes de atribuir una
+   diferencia al original. No corregir silenciosamente.
+4. Validar cada lote, actualizar cobertura/inventario, hacer commit y push.
+
+### Checklist restante, en orden
+
+- [ ] Fuente 61: resultados, páginas normalizadas 8–15.
+- [ ] Informes 2015: fuentes 63 (Kirchhoff), 64 (Brújula), 65 (fuerza sobre corriente).
+- [ ] Fuente 68: planificación 2016, 25 páginas.
+- [ ] Fuentes 70 y 71: Biot-Sabat de Kaseros (62 páginas) y resumen (80 páginas).
+- [ ] Fuente 37: Sampallo, 137 páginas; OCR español e identificación visual.
+- [ ] Fuente 3: clasificar inventario interno del RAR/CD; fuentes 9/11: identificar
+  pertenencia de XLSX. No ejecutar software ni binarios del material.
+- [ ] Resolver o documentar explícitamente los glifos dañados de UT5 en fuentes
+  117/118, diapositivas 26/40–42, y la unidad manuscrita del radio del examen p14.
+  No completar por conjetura.
+- [ ] Revisar en GitHub las 31 notas / 412 expresiones pendientes, incluidas
+  imágenes, tablas y número de expresiones realmente renderizadas.
+- [ ] Auditar cobertura e inventario finales, distinguir bibliografía y material
+  ajeno a la materia; comprobar CI y preparar PR para revisión. No fusionar
+  automáticamente la continuación.
+
 ## CONTINUACIÓN ACTIVA — 22/10/2026
 
 El usuario indicó continuar yguardar lotes pequeños con commit/push.
