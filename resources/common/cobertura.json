@@ -7664,6 +7664,20 @@
       "url_github": null,
       "estado": "capturas y títulos cotejados; pendiente render GitHub",
       "fuentes_adicionales": []
+    },
+    {
+      "original": "2015/L6 Kirchoff G6 Aprobado.pdf",
+      "sha256": "534403fde9ec3209246d64553b98096c417d8f500a5a5cc4424914482ac9ac79",
+      "nota": "notes/2015/practica/kirchhoff-informe-grupo-6-errores-conclusion.md",
+      "paginas_revisadas": [
+        20
+      ],
+      "paginacion": "PDF original página 20 completa; marca de calificación omitida explícitamente",
+      "math_esperada": 0,
+      "math_renderizada_github": null,
+      "url_github": null,
+      "estado": "tabla completa cotejada, conclusión conservada; pendiente render GitHub",
+      "fuentes_adicionales": []
     }
   ]
 }
