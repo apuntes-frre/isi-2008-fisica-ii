@@ -2028,17 +2028,22 @@
       "paginas_pdf": 62,
       "duplicado_sha256_de": null,
       "clasificacion": "cuadernillo manuscrito de teoría y resueltos: Ley de Biot-Savart; autor de portada Anibal Kasero",
-      "evidencia": "Portada y páginas manuscritas2–3 cotejadas; OCR español auxiliar. Título y autor difieren del nombre de archivo.",
-      "estado": "parcial:3/62 páginas revisadas; páginas4–62 pendientes",
+      "evidencia": "Portada y páginas manuscritas2–7 cotejadas; OCR español auxiliar. Título y autor difieren del nombre de archivo.",
+      "estado": "parcial:7/62 páginas revisadas; páginas8–62 pendientes",
       "paginas_revisadas": [
         1,
         2,
-        3
+        3,
+        4,
+        5,
+        6,
+        7
       ],
       "copia_local": "/Users/carlosferreyra/.cache/fisica-ii-transcripcion/20261023-kaseros-biot-sabat/01-Resueltos Fisica II Anibal Kaseros Ley de Biot-Sabat.pdf",
       "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/70-Resueltos Fisica II Anibal Kaseros Ley de Biot-Sabat.txt",
       "notas": [
-        "notes/2015/teoria/biot-savart-kasero-carga-movil.md"
+        "notes/2015/teoria/biot-savart-kasero-carga-movil.md",
+        "notes/2015/teoria/biot-savart-kasero-elemento-corriente.md"
       ]
     },
     {
