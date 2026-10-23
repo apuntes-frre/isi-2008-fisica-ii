@@ -7648,6 +7648,22 @@
       "url_github": null,
       "estado": "todas las ecuaciones cotejadas; pendiente render GitHub",
       "fuentes_adicionales": []
+    },
+    {
+      "original": "2015/L6 Kirchoff G6 Aprobado.pdf",
+      "sha256": "534403fde9ec3209246d64553b98096c417d8f500a5a5cc4424914482ac9ac79",
+      "nota": "notes/2015/practica/kirchhoff-informe-grupo-6-circuito-tres-simulacion.md",
+      "paginas_revisadas": [
+        17,
+        18,
+        19
+      ],
+      "paginacion": "PDF original páginas 17–19 completas, ocho capturas",
+      "math_esperada": 0,
+      "math_renderizada_github": null,
+      "url_github": null,
+      "estado": "capturas y títulos cotejados; pendiente render GitHub",
+      "fuentes_adicionales": []
     }
   ]
 }
