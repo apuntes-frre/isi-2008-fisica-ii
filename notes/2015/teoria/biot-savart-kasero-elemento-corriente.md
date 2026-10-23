@@ -78,16 +78,45 @@ $`\vec v`$ o $`i\,d\vec l`$.
 
 ![Líneas del campo magnético en planos perpendiculares, figura de página 7](../../../resources/2015/biot-savart-kasero/lineas-campo-magnetico.png)
 
+## Superposición y verificación experimental
+
+También digamos que el principio de superposición, utilizado para calcular el
+campo eléctrico total creado por varias cargas, también sirve en el caso del
+campo magnético.
+
+«El campo magnético total creado por varias cargas móviles es la suma vectorial
+de los campos creados por las cargas individuales».
+
+Finalmente digamos que es imposible verificar experimentalmente la ecuación
+
+```math
+d\vec B=\frac{\mu_0}{4\pi}\frac{i\,d\vec l\times\hat r}{r^2}
+```
+
+porque es imposible obtener un elemento aislado dl de un circuito por el que
+pasa una corriente. Solo el campo resultante $`\vec B`$ dado por la integral
+
+```math
+\vec B=\frac{\mu_0}{4\pi}\int\frac{i\,d\vec l\times\hat r}{r^2}
+```
+
+puede medirse experimentalmente.
+
+Bueno, pasemos a aplicar esta ley para hallar distintos campos magnéticos en los
+ejercicios.
+
+[Ejercicio: espira circular](biot-savart-kasero-espira-circular.md).
+
 ## Procedencia y observaciones
 
 - Original: `2015/Resueltos Fisica II Anibal Kaseros Ley de Biot-Sabat.pdf`,
-  páginas PDF y manuscritas 5–7 de 62. Autor de portada: Anibal Kasero. SHA-256:
+  páginas PDF y manuscritas 5–8 de 62. Autor de portada: Anibal Kasero. SHA-256:
   `b4aeb8cc9f1fa04835d4817a067976cc3d3c07d57e18ca5dabd898b67e09d41e`.
 - OCRmyPDF en español sobre copia y cotejo visual de todas las páginas de este
   lote. Las tres figuras son recortes del original con etiquetas conservadas;
   las ecuaciones se transcriben como LaTeX.
 - Se conserva «campos debida» y la descripción «con centro en v o i dl», sin
   reformularla. No se añaden valores ni límites a la integral del original.
-- El documento continúa desde la página 8; no se declara completo.
+- El documento continúa desde la página 9; no se declara completo.
 
 [Campo de una carga móvil y expresión vectorial](biot-savart-kasero-carga-movil.md).

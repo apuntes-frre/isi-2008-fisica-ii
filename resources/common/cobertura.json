@@ -8000,10 +8000,27 @@
       "paginas_revisadas": [
         5,
         6,
-        7
+        7,
+        8
       ],
       "paginacion": "PDF original y numeración manuscrita",
-      "math_esperada": 17,
+      "math_esperada": 20,
+      "math_renderizada_github": null,
+      "estado": "cotejo visual local; pendiente GitHub"
+    },
+    {
+      "original": "2015/Resueltos Fisica II Anibal Kaseros Ley de Biot-Sabat.pdf",
+      "sha256": "b4aeb8cc9f1fa04835d4817a067976cc3d3c07d57e18ca5dabd898b67e09d41e",
+      "nota": "notes/2015/teoria/biot-savart-kasero-espira-circular.md",
+      "paginas_revisadas": [
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "paginacion": "PDF original y numeración manuscrita",
+      "math_esperada": 38,
       "math_renderizada_github": null,
       "estado": "cotejo visual local; pendiente GitHub"
     }
