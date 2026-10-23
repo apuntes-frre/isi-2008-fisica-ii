@@ -5,33 +5,22 @@
 El usuario pidió continuar en lotes hasta el 100%, salvo interrupción suya.
 Este bloque prevalece sobre todos los estados históricos inferiores.
 
-- Fuente61 completa documentalmente; fuente63:20/20p revisadas, nueve notas,
-  42expresiones y14medios. Cuatro celdas manuscritas de5 requieren imagen más
-  nítida: mallas pos1 Vcd/Veb/Vgb y pos3 Vcd. Marcadas, no inferir de página6.
-- Fuente64:9/9p normalizadas revisadas, cinco notas/21math/nueve medios.
-  Contenido legible transcrito; una cifra de x a30° en hoja6 queda ilegible,
-  marcada 0,09[ilegible]. No inferir de0,094 de tabla7. Caché persistente
-  20261023-brujula-informe conserva todos los renders,tablasXML yOCR español.
-  Rojo original y comentarios finales conservados; no reparar científicamente.
-- Total390notas/3702expresiones; pendientes render GitHub57notas/524math.
-  Medios330 (321imágenes/9GIF). PR2 abierto/borrador, lotes publicados.
-- Fuente65:9/9p revisadas; cuatro notas/25math/seis medios nuevos, figuras de
-  guía compartidas. Rótulo de masa manuscrita parcialmente ilegible y símbolo
-  ausente de plantilla señalados; recortes conservados. Caché20261023-fuerza-informe.
-- Cronograma2016 Electromecánica transcrito en este lote.
-- Cronograma2016 Sistemas 2A transcrito en este lote.
-- Cronograma2016 Sistemas 2B transcrito en este lote.
-- Cronograma2016 Química 2A transcrito en este lote.
-- Cronograma2016 curso intensivo transcrito en este lote.
-- Fuente68 activa:1–2 y grillas de3 transcritas en una nota/0math/logo.
-  Fundamentación/programa de16UT desde3 hasta proyectos8 transcritos.
-  Metodología/recursos/formación de8–12 transcritos.
-  Próximo:cronogramas desde12 hasta21, luego22–25.
-  Caché20261023-planificacion-2016: Poppler,PyMuPDF4LLM, tablas-lineas-estrictas
-  (16fragmentos candidatos; revisar todos), primeros cinco renders. Luego70/71/37;
-  clasificar3/9/11; glifos117/118 y unidad
-  manuscrita examen; revisión visual GitHub y auditoría final. Checklist histórico
-  conserva detalles, pero no es estado vigente. No fusionar automáticamente.
+- Fuentes61 completa;63/64/65 con todas sus páginas revisadas y contenido legible
+  transcrito. Lecturas pendientes:63 hoja5, mallas pos1 Vcd/Veb/Vgb y pos3 Vcd;
+  64 hoja6 x a30° cifra retocada;65 hoja7 rótulo parcial de masa y símbolo de
+  plantilla ausente. No inferir de tablas mecanografiadas; recortes conservados.
+- Fuente68 completa documentalmente:25/25p,nueve notas/0math/logo,16fragmentos
+  HTML. Cronogramas IEM,ISI2A/2B,IQ e intensivo, programa16UT y cierre completos.
+  Caché20261023-planificacion-2016 con25renders,Poppler,PyMuPDF4LLM, tablas
+  crudas y cotejadas; dos falsas celdas-marco duplicadas eliminadas. Scripts de
+  autoría no idempotentes; no reejecutar. No duplicar notas de2019.
+- Total391notas/3702expresiones; pendientes render GitHub58notas/524math.
+  Medios330 (321imágenes/9GIF). PR2 abierto/borrador, avances publicados en lotes.
+- Próximo:70 resueltos Kaseros62p,71 resumen80p;37 identificar conOCR/visual
+  (candidato bibliografía, citado Sampallo2003 en planificación68). Después
+  clasificar3/9/11; glifos117/118 y unidad manuscrita examen; revisión visual
+  GitHub y auditoría final. No declarar100% con estas lecturas pendientes.
+  No fusionar automáticamente la continuación.
 
 ## CHECKPOINT HISTÓRICO DE PAUSA — 22/10/2026
 

@@ -7959,6 +7959,24 @@
       "url_github": null,
       "estado": "celdas y texto cotejados, variantes de fecha preservadas; pendiente GitHub",
       "fuentes_adicionales": []
+    },
+    {
+      "original": "2015/Planificacion 2016 de Física II.pdf",
+      "sha256": "f67ab1339ec84db1060e8a58e558425ad1fbcfe7e38415996e8a3f624cc7fc52",
+      "nota": "notes/2015/teoria/planificacion-evaluacion-bibliografia-equipo-2016.md",
+      "paginas_revisadas": [
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "paginacion": "PDF original final21 desde actividades de proyecto y22–25 completas",
+      "math_esperada": 0,
+      "math_renderizada_github": null,
+      "url_github": null,
+      "estado": "campos, políticas, bibliografía y tareas cotejados; pendiente GitHub",
+      "fuentes_adicionales": []
     }
   ]
 }

@@ -552,7 +552,7 @@ Recuperatorio extraordinario 18/02/2017 hora: 17
   del tramo renderizadas; HTML conserva celdas combinadas, vacías y las
   divisiones físicas de los grupos. Fragmentos de 22, 26, 17 filas, incluidos
   encabezados cuando están presentes. No se rellenan fechas ni docentes.
-- Se conservan los90alumnos estimados, dos grupos de45 y la previsión de otro
+- Se conservan los 90 alumnos estimados, dos grupos de 45 y la previsión de otro
   curso deTP si se supera esa cantidad.
 - Asuetos, parciales, recuperatorios y suspensión de clases se distinguen en
   rojo en el original; se conservan sus textos y posiciones. Las variantes de
@@ -561,7 +561,7 @@ Recuperatorio extraordinario 18/02/2017 hora: 17
   la tabla. Se cotejó el contenido de cada celda con las palabras del PDF y
   visualmente con las líneas originales. No se ejecuta una corrección de
   calendario ni se presenta este cronograma histórico como vigente.
-- Ciclo lectivo2016; carpeta2015. Los encabezados institucionales repetidos y
+- Ciclo lectivo 2016; carpeta 2015. Los encabezados institucionales repetidos y
   números de página no se duplican. Los otros cronogramas se transcriben en
   apuntes separados; esta nota no atribuye cobertura a sus bloques contiguos.
 

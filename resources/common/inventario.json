@@ -1959,8 +1959,8 @@
       "paginas_pdf": 25,
       "duplicado_sha256_de": null,
       "clasificacion": "planificación de cátedra de FísicaII ciclo2016 para IEM/ISI/IQ",
-      "evidencia": "",
-      "estado": "parcial: programa/metodología y cronogramas registrados en notas; verificar bloques pendientes de12–25",
+      "evidencia": "PyMuPDF4LLM/Poppler y25renders. Líneas estrictas, combinaciones y vacíos cotejados. Dos marcos exteriores descartados como falsas celdas duplicadas. Ciclo2016 y erratas conservados.",
+      "estado": "completo documentalmente:25/25 páginas cotejadas, nueve notas y16fragmentos de tablas; pendiente GitHub",
       "paginas_revisadas": [
         1,
         2,
@@ -1982,7 +1982,11 @@
         18,
         19,
         20,
-        21
+        21,
+        22,
+        23,
+        24,
+        25
       ],
       "copia_local": "/Users/carlosferreyra/.cache/fisica-ii-transcripcion/20261023-planificacion-2016/01-Planificacion 2016 de Física II.pdf",
       "texto_poppler_local": "/Users/carlosferreyra/.cache/fisica-ii-transcripcion/20261023-planificacion-2016/poppler.txt",
@@ -1994,7 +1998,8 @@
         "notes/2015/teoria/planificacion-cronograma-sistemas-2a-2016.md",
         "notes/2015/teoria/planificacion-cronograma-sistemas-2b-2016.md",
         "notes/2015/teoria/planificacion-cronograma-quimica-2016.md",
-        "notes/2015/teoria/planificacion-cronograma-intensivo-2016.md"
+        "notes/2015/teoria/planificacion-cronograma-intensivo-2016.md",
+        "notes/2015/teoria/planificacion-evaluacion-bibliografia-equipo-2016.md"
       ]
     },
     {

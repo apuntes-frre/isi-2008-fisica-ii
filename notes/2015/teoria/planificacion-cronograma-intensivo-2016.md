@@ -185,7 +185,7 @@ Evaluación (de seguimiento y final): ver Evaluacion del alumno
   del tramo renderizadas; HTML conserva celdas combinadas, vacías y las
   divisiones físicas de los grupos. Fragmentos de 4, 17 filas, incluidos
   encabezados cuando están presentes. No se rellenan fechas ni docentes.
-- Se conserva24/ sin mes en la fila16 y29/11 MARTES en la última fila, sin
+- Se conserva 24/ sin mes en la fila16 y29/11 MARTES en la última fila, sin
   ajustar al día semanal anunciado.
 - Asuetos, parciales, recuperatorios y suspensión de clases se distinguen en
   rojo en el original; se conservan sus textos y posiciones. Las variantes de
@@ -194,7 +194,7 @@ Evaluación (de seguimiento y final): ver Evaluacion del alumno
   la tabla. Se cotejó el contenido de cada celda con las palabras del PDF y
   visualmente con las líneas originales. No se ejecuta una corrección de
   calendario ni se presenta este cronograma histórico como vigente.
-- Ciclo lectivo2016; carpeta2015. Los encabezados institucionales repetidos y
+- Ciclo lectivo 2016; carpeta 2015. Los encabezados institucionales repetidos y
   números de página no se duplican. Los otros cronogramas se transcriben en
   apuntes separados; esta nota no atribuye cobertura a sus bloques contiguos.
 

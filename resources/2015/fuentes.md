@@ -306,18 +306,13 @@ originales de las normalizadas y registra conteos matemáticos.
   PPTX/PDF para MarkItDown; campo de número de diapositiva como única nota XML,
   sin texto adicional. Render GitHub pendiente. SHA-256:
   `4375b5ba3260f92e29876aa7d402634bbe935cc55e776dba1f40c7bcad431c3d`.
-- `2015/Planificacion 2016 de Física II.pdf`:páginas1–2 y tablas de3
-  transcritas en una nota; tres fragmentos de grilla HTML y logo original.
-  Celdas combinadas/vacías y diferencias de horarios conservadas. Resta
-  Metodología desde8 y9–25; fundamentación y programa de16UT de3–8 transcritos
-  en otra nota, sin expresiones matemáticas. SHA-256:
-  `f67ab1339ec84db1060e8a58e558425ad1fbcfe7e38415996e8a3f624cc7fc52`. Cronograma
-  Electromecánica: bloques de páginas12, 13, 14 registrados en nota específica.
-  Cronograma Sistemas 2A: bloques de páginas14, 15, 16 registrados en nota
-  específica. Cronograma Sistemas 2B: bloques de páginas16, 17 registrados en
-  nota específica. Cronograma Química 2A: bloques de páginas18, 19, 20
-  registrados en nota específica. Cronograma curso intensivo: bloques de
-  páginas20, 21 registrados en nota específica.
+- `2015/Planificacion 2016 de Física II.pdf`:25/25 páginas cotejadas y
+  transcritas en nueve notas/0math/un logo original. Dieciséis fragmentos de
+  grillas HTML conservan combinaciones y vacíos; dos falsos marcos-celda que
+  duplicaban tablas se descartaron con auditoría. Programa16UT, metodología,
+  formación, cinco cronogramas, evaluación, bibliografía y equipo completos;
+  erratas y condiciones históricas conservadas. Pendiente render GitHub.
+  SHA-256: `f67ab1339ec84db1060e8a58e558425ad1fbcfe7e38415996e8a3f624cc7fc52`.
 - `2015/Puente de hilo- GUIA.docx`: no PDF páginas; transcrito y validado
   localmente. SHA-256:
   `2f47e1a9ae0574962ee6f76766127f6d1afb19511eebdec7a93cffd199f03d0c`.

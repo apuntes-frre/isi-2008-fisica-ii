@@ -583,7 +583,7 @@ Recuperatorio extraordinario 4/08/2016 hora: 17
   divisiones físicas de los grupos. Fragmentos de 9, 43, 17 filas, incluidos
   encabezados cuando están presentes. No se rellenan fechas ni docentes.
 - Se conserva 31/06 dentro de la secuencia de mayo/junio, sin corregirlo. El
-  texto inicial anuncia martes16.30–18.30, distinto de18.45 en los horarios
+  texto inicial anuncia martes 16.30–18.30, distinto de 18.45 en los horarios
   generales.
 - Asuetos, parciales, recuperatorios y suspensión de clases se distinguen en
   rojo en el original; se conservan sus textos y posiciones. Las variantes de
@@ -592,7 +592,7 @@ Recuperatorio extraordinario 4/08/2016 hora: 17
   la tabla. Se cotejó el contenido de cada celda con las palabras del PDF y
   visualmente con las líneas originales. No se ejecuta una corrección de
   calendario ni se presenta este cronograma histórico como vigente.
-- Ciclo lectivo2016; carpeta2015. Los encabezados institucionales repetidos y
+- Ciclo lectivo 2016; carpeta 2015. Los encabezados institucionales repetidos y
   números de página no se duplican. Los otros cronogramas se transcriben en
   apuntes separados; esta nota no atribuye cobertura a sus bloques contiguos.
 
