@@ -2028,8 +2028,8 @@
       "paginas_pdf": 62,
       "duplicado_sha256_de": null,
       "clasificacion": "cuadernillo manuscrito de teoría y resueltos: Ley de Biot-Savart; autor de portada Anibal Kasero",
-      "evidencia": "Portada y manuscrito2–18 cotejados; OCR español auxiliar. Espira y conductor infinito transcritos, erratas conservadas.",
-      "estado": "parcial:18/62 páginas revisadas; páginas19–62 pendientes",
+      "evidencia": "Portada y manuscrito2–24 cotejados; OCR español auxiliar. Espira, conductor infinito, segmento y espira cuadrada transcritos. Borrador tachado21 preservado como recorte.",
+      "estado": "parcial:24/62 páginas revisadas; páginas25–62 pendientes",
       "paginas_revisadas": [
         1,
         2,
@@ -2048,7 +2048,13 @@
         15,
         16,
         17,
-        18
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
       ],
       "copia_local": "/Users/carlosferreyra/.cache/fisica-ii-transcripcion/20261023-kaseros-biot-sabat/01-Resueltos Fisica II Anibal Kaseros Ley de Biot-Sabat.pdf",
       "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/70-Resueltos Fisica II Anibal Kaseros Ley de Biot-Sabat.txt",
@@ -2056,7 +2062,9 @@
         "notes/2015/teoria/biot-savart-kasero-carga-movil.md",
         "notes/2015/teoria/biot-savart-kasero-elemento-corriente.md",
         "notes/2015/teoria/biot-savart-kasero-espira-circular.md",
-        "notes/2015/teoria/biot-savart-kasero-conductor-infinito.md"
+        "notes/2015/teoria/biot-savart-kasero-conductor-infinito.md",
+        "notes/2015/teoria/biot-savart-kasero-segmento-recto.md",
+        "notes/2015/teoria/biot-savart-kasero-espira-cuadrada.md"
       ]
     },
     {

@@ -8039,6 +8039,35 @@
       "math_esperada": 33,
       "math_renderizada_github": null,
       "estado": "cotejo visual local; pendiente GitHub"
+    },
+    {
+      "original": "2015/Resueltos Fisica II Anibal Kaseros Ley de Biot-Sabat.pdf",
+      "sha256": "b4aeb8cc9f1fa04835d4817a067976cc3d3c07d57e18ca5dabd898b67e09d41e",
+      "nota": "notes/2015/teoria/biot-savart-kasero-segmento-recto.md",
+      "paginas_revisadas": [
+        19,
+        20,
+        21,
+        22
+      ],
+      "paginacion": "PDF original; página22 compartida por separador",
+      "math_esperada": 29,
+      "math_renderizada_github": null,
+      "estado": "cotejo visual local; pendiente GitHub"
+    },
+    {
+      "original": "2015/Resueltos Fisica II Anibal Kaseros Ley de Biot-Sabat.pdf",
+      "sha256": "b4aeb8cc9f1fa04835d4817a067976cc3d3c07d57e18ca5dabd898b67e09d41e",
+      "nota": "notes/2015/teoria/biot-savart-kasero-espira-cuadrada.md",
+      "paginas_revisadas": [
+        22,
+        23,
+        24
+      ],
+      "paginacion": "PDF original; página22 compartida por separador",
+      "math_esperada": 11,
+      "math_renderizada_github": null,
+      "estado": "cotejo visual local; pendiente GitHub"
     }
   ]
 }
