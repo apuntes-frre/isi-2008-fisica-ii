@@ -13,9 +13,11 @@ Este bloque prevalece sobre todos los estados históricos inferiores.
   marcada 0,09[ilegible]. No inferir de0,094 de tabla7. Caché persistente
   20261023-brujula-informe conserva todos los renders,tablasXML yOCR español.
   Rojo original y comentarios finales conservados; no reparar científicamente.
-- Total378notas/3677expresiones; pendientes render GitHub45notas/499math.
-  Medios323 (314imágenes/9GIF). PR2 abierto/borrador, lotes publicados.
-- Próximo:65 (informe fuerza sobre elemento de corriente,9p), luego68,70,71,37; clasificar3/9/11; glifos117/118 y unidad
+- Total379notas/3677expresiones; pendientes render GitHub46notas/499math.
+  Medios324 (315imágenes/9GIF). PR2 abierto/borrador, lotes publicados.
+- Fuente65 activa:1–2 transcritas,una nota/foto. Nueve renders y extracción
+  en caché20261023-fuerza-informe. Próximo3–6 teoría/técnica,7 manuscrita,8–9
+  resultados; luego68,70,71,37; clasificar3/9/11; glifos117/118 y unidad
   manuscrita examen; revisión visual GitHub y auditoría final. Checklist histórico
   conserva detalles, pero no es estado vigente. No fusionar automáticamente.
 

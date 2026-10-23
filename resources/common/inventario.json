@@ -1813,12 +1813,18 @@
       "bytes": 261660,
       "paginas_pdf": 9,
       "duplicado_sha256_de": null,
-      "clasificacion": "pendiente de revisión documental",
+      "clasificacion": "informe del grupo6 de fuerza sobre elemento de corriente, portada2016",
       "evidencia": "",
-      "estado": "pendiente",
-      "paginas_revisadas": [],
-      "copia_local": "/tmp/fisica-ii-20261017-fuentes/65-L8 Fza sobre elemento de cte G6 Aprobado.pdf",
-      "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/65-L8 Fza sobre elemento de cte G6 Aprobado.txt"
+      "estado": "parcial: páginas1–2 transcritas; faltan3–9",
+      "paginas_revisadas": [
+        1,
+        2
+      ],
+      "copia_local": "/Users/carlosferreyra/.cache/fisica-ii-transcripcion/20261023-fuerza-informe/01-L8 Fza sobre elemento de cte G6 Aprobado.pdf",
+      "texto_poppler_local": "/Users/carlosferreyra/.cache/fisica-ii-transcripcion/20261023-fuerza-informe/poppler.txt",
+      "notas": [
+        "notes/2015/practica/fuerza-corriente-informe-grupo-6-objetivo-resumen.md"
+      ]
     },
     {
       "original": "2015/Modelos de parcial FISICA II.pdf",

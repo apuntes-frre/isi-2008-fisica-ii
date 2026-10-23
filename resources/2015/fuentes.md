@@ -287,8 +287,10 @@ originales de las normalizadas y registra conteos matemáticos.
   retocada sigue ilegible y marcada, sin inferir de tabla7. Nombres y firmas
   manuscritos omitidos explícitamente. Pendiente render GitHub. SHA-256:
   `f8b78ccaea4e2a0a6e03331360824f66be2d1899b3f1ead31f65c2335da0960f`.
-- `2015/L8 Fza sobre elemento de cte G6 Aprobado.pdf`: 9 páginas; pendiente.
-  SHA-256: `fb2be56c4577a2058d5334daff09c1974e826f2fa3023bd5e6da74dcbca6a701`.
+- `2015/L8 Fza sobre elemento de cte G6 Aprobado.pdf`:páginas1–2 de9
+  transcritas, una nota y fotografía original; forma de espira reutilizada por
+  cotejo con la guía. Portada2016. Restan3–9. SHA-256:
+  `fb2be56c4577a2058d5334daff09c1974e826f2fa3023bd5e6da74dcbca6a701`.
 - `2015/Modelos de parcial FISICA II.pdf`: 27 páginas; contenido impreso
   completo:39exámenes/versiones y carátula/separadores de27páginas cotejados;
   unidad manuscrita página14 pendiente. SHA-256:
