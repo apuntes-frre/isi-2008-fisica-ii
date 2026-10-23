@@ -8311,8 +8311,10 @@
       ],
       "paginacion": "PDF original;10hasta gradiente",
       "math_esperada": 29,
-      "math_renderizada_github": null,
-      "estado": "cotejo visual local; pendiente GitHub"
+      "math_renderizada_github": 29,
+      "estado": "verificado en GitHub:29math/29math-renderer nativos MathML,0merror,5imágenes cargadas; cotejo visual del inicio y DOM completo",
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/dcd719324122764caa34f6677862319b2b23d1d3/notes/2015/teoria/resumen-potencial-distribuciones.md",
+      "fecha_revision_github": "2026-10-23"
     },
     {
       "original": "2015/Resumen-Fisca-2.pdf",
