@@ -48,7 +48,7 @@ Física I aprobadas.
 
 b) En Ingeniera Química Física II es obligatoria y se dicta en el 2do
 cuatrimestre de segundo nivel, en paralelo con las siguientes asignaturas:
-Probabilidades y Estad ística, Matemática Superior, Química OrgánicaAplicada,
+Probabilidades y Estadística, Matemática Superior, Química OrgánicaAplicada,
 Integración II Tiene como materias correlativas para cursar: Análisis Matemático
 I y Física I regular Tiene como materias correlativas para rendir: Análisis
 Matemático I y Física I aprobadas.
@@ -279,8 +279,8 @@ uno.
   y apartados de contenidos cotejados. No se infiere que los temas anunciados
   estén desarrollados en otros documentos.
 - Se conservan las dos letras b) para carreras, «Ingeniera», «en la
-  actualizada», «la terminar», «prerrequisito», «Cargaeléctrica», «dades ddp»,
-  títulos y puntuación del original. El campo de proyectos queda sin completar.
+  actualizada», «la terminar», «prerrequisito», «Cargaeléctrica», «ddp», títulos
+  y puntuación del original. El campo de proyectos queda sin completar.
 - Se mantienen la UT15 de introducción a termodinámica y UT16 de principios de
   termodinámica, incluida la mención de Entropía. Se transcribe el programa, sin
   añadir un desarrollo teórico que este documento no contiene.
