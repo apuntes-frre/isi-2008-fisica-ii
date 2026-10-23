@@ -30,8 +30,10 @@ Este bloque prevalece sobre todos los estados históricos inferiores.
   37 identificada como bibliografía:Guillermo Sampallo2003,ISBN987-43-6398-3,
   citado68p23; páginas1–3 cotejadas/OCR. Libro137p no transcrito, referencia.
   Caché20261023-sampallo-identificacion conserva muestra y evidencia.
-  Después
-  clasificar3/9/11; glifos117/118 y unidad manuscrita examen; revisión visual
+  Fuentes3/9/11 clasificadas:11319 hashes del CD cotejados,11 duplicados,
+  11252 curso externo referenciado,56 software sin ejecutar; XLSX de cálculo
+  ajenos a Física II, duplicados exactos. Ledger en clasificacion-contenedores.json.
+  Después glifos117/118 y unidad manuscrita examen; revisión visual
   GitHub y auditoría final. No declarar100% con estas lecturas pendientes.
   No fusionar automáticamente la continuación.
 

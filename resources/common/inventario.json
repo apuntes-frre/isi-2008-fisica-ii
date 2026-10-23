@@ -142,11 +142,11 @@
       "bytes": 33841015,
       "paginas_pdf": null,
       "duplicado_sha256_de": null,
-      "clasificacion": "archivo comprimido docente y software",
-      "evidencia": "",
-      "estado": "extraído; inventario interno pendiente",
+      "clasificacion": "contenedor clasificado: duplicados docentes, curso externo y software",
+      "evidencia": "resources/common/clasificacion-contenedores.json; identidad del curso en default.htm y autor/AUTOR.HTM; citado por direcciones útiles",
+      "estado": "clasificado:11319/11319 hashes cotejados;11 documentos duplicados,11252 curso externo referenciado y56 software; sin ejecutar binarios",
       "paginas_revisadas": [],
-      "copia_local": "/tmp/fisica-ii-20261017-fuentes/03-CD -Física II FRReUTN- 2016.rar",
+      "copia_local": "/Users/carlosferreyra/.cache/fisica-ii-transcripcion/20261023-clasificacion/cd",
       "texto_poppler_local": null
     },
     {
@@ -346,11 +346,11 @@
       "bytes": 11969,
       "paginas_pdf": null,
       "duplicado_sha256_de": null,
-      "clasificacion": "planilla administrativa candidata",
-      "evidencia": "",
-      "estado": "planilla legible extraída; pertenencia pendiente, sin título identificable",
+      "clasificacion": "material ajeno a Física II: frecuencia de temas de cálculo diferencial e integral",
+      "evidencia": "XML XLSX:Hoja1 B3:E34,32filas,124celdas,29fórmulas; encabezados Sección/Tema/Veces/Porcentaje y temas Límites, Derivadas/Diferencial, Integrales; no identifica asignatura exacta",
+      "estado": "excluido: tabla de frecuencia de temas de cálculo; sin contenido de Física II; duplicado SHA-256 entre9 y11",
       "paginas_revisadas": [],
-      "copia_local": "/tmp/fisica-ii-20261017-fuentes/09-DOC-20161031-WA0003.xlsx",
+      "copia_local": "/Users/carlosferreyra/.cache/fisica-ii-transcripcion/20261023-clasificacion/09-planilla.xlsx",
       "texto_poppler_local": null
     },
     {
@@ -372,11 +372,11 @@
       "bytes": 11969,
       "paginas_pdf": null,
       "duplicado_sha256_de": "2015/Extras/DOC-20161031-WA0003.xlsx",
-      "clasificacion": "planilla administrativa candidata",
-      "evidencia": "",
-      "estado": "planilla legible extraída; pertenencia pendiente, sin título identificable",
+      "clasificacion": "material ajeno a Física II: frecuencia de temas de cálculo diferencial e integral",
+      "evidencia": "XML XLSX:Hoja1 B3:E34,32filas,124celdas,29fórmulas; encabezados Sección/Tema/Veces/Porcentaje y temas Límites, Derivadas/Diferencial, Integrales; no identifica asignatura exacta",
+      "estado": "excluido: tabla de frecuencia de temas de cálculo; sin contenido de Física II; duplicado SHA-256 entre9 y11",
       "paginas_revisadas": [],
-      "copia_local": "/tmp/fisica-ii-20261017-fuentes/11-DOC-20161109-WA0005.xlsx",
+      "copia_local": "/Users/carlosferreyra/.cache/fisica-ii-transcripcion/20261023-clasificacion/09-planilla.xlsx",
       "texto_poppler_local": null
     },
     {
