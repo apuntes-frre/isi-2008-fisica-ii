@@ -7990,8 +7990,9 @@
       ],
       "paginacion": "PDF original; portada1 y manuscrito2–4",
       "math_esperada": 17,
-      "math_renderizada_github": null,
-      "estado": "cotejo visual local; pendiente GitHub"
+      "math_renderizada_github": 17,
+      "estado": "2026-10-23: revisión GitHub; math-renderer y math coinciden con las expresiones esperadas, 0 merror, sin fórmulas sin renderizar, figuras cargadas y muestra visual revisada.",
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/d79fbc0eff04db1756c1d3df74f963a4d4c93e4d/notes/2015/teoria/biot-savart-kasero-carga-movil.md"
     },
     {
       "original": "2015/Resueltos Fisica II Anibal Kaseros Ley de Biot-Sabat.pdf",
@@ -8005,8 +8006,9 @@
       ],
       "paginacion": "PDF original y numeración manuscrita",
       "math_esperada": 20,
-      "math_renderizada_github": null,
-      "estado": "cotejo visual local; pendiente GitHub"
+      "math_renderizada_github": 20,
+      "estado": "2026-10-23: revisión GitHub; math-renderer y math coinciden con las expresiones esperadas, 0 merror, sin fórmulas sin renderizar, figuras cargadas y muestra visual revisada.",
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/d79fbc0eff04db1756c1d3df74f963a4d4c93e4d/notes/2015/teoria/biot-savart-kasero-elemento-corriente.md"
     },
     {
       "original": "2015/Resueltos Fisica II Anibal Kaseros Ley de Biot-Sabat.pdf",
@@ -8021,8 +8023,9 @@
       ],
       "paginacion": "PDF original y numeración manuscrita",
       "math_esperada": 38,
-      "math_renderizada_github": null,
-      "estado": "cotejo visual local; pendiente GitHub"
+      "math_renderizada_github": 38,
+      "estado": "2026-10-23: revisión GitHub; math-renderer y math coinciden con las expresiones esperadas, 0 merror, sin fórmulas sin renderizar, figuras cargadas y muestra visual revisada.",
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/d79fbc0eff04db1756c1d3df74f963a4d4c93e4d/notes/2015/teoria/biot-savart-kasero-espira-circular.md"
     },
     {
       "original": "2015/Resueltos Fisica II Anibal Kaseros Ley de Biot-Sabat.pdf",
@@ -8037,8 +8040,9 @@
       ],
       "paginacion": "PDF original y numeración manuscrita",
       "math_esperada": 33,
-      "math_renderizada_github": null,
-      "estado": "cotejo visual local; pendiente GitHub"
+      "math_renderizada_github": 33,
+      "estado": "2026-10-23: revisión GitHub; math-renderer y math coinciden con las expresiones esperadas, 0 merror, sin fórmulas sin renderizar, figuras cargadas y muestra visual revisada.",
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/d79fbc0eff04db1756c1d3df74f963a4d4c93e4d/notes/2015/teoria/biot-savart-kasero-conductor-infinito.md"
     },
     {
       "original": "2015/Resueltos Fisica II Anibal Kaseros Ley de Biot-Sabat.pdf",
@@ -8052,8 +8056,9 @@
       ],
       "paginacion": "PDF original; página22 compartida por separador",
       "math_esperada": 29,
-      "math_renderizada_github": null,
-      "estado": "cotejo visual local; pendiente GitHub"
+      "math_renderizada_github": 29,
+      "estado": "2026-10-23: revisión GitHub; math-renderer y math coinciden con las expresiones esperadas, 0 merror, sin fórmulas sin renderizar, figuras cargadas y muestra visual revisada.",
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/d79fbc0eff04db1756c1d3df74f963a4d4c93e4d/notes/2015/teoria/biot-savart-kasero-segmento-recto.md"
     },
     {
       "original": "2015/Resueltos Fisica II Anibal Kaseros Ley de Biot-Sabat.pdf",
@@ -8066,8 +8071,9 @@
       ],
       "paginacion": "PDF original; página22 compartida por separador",
       "math_esperada": 11,
-      "math_renderizada_github": null,
-      "estado": "cotejo visual local; pendiente GitHub"
+      "math_renderizada_github": 11,
+      "estado": "2026-10-23: revisión GitHub; math-renderer y math coinciden con las expresiones esperadas, 0 merror, sin fórmulas sin renderizar, figuras cargadas y muestra visual revisada.",
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/d79fbc0eff04db1756c1d3df74f963a4d4c93e4d/notes/2015/teoria/biot-savart-kasero-espira-cuadrada.md"
     },
     {
       "original": "2015/Resueltos Fisica II Anibal Kaseros Ley de Biot-Sabat.pdf",
@@ -8079,8 +8085,9 @@
       ],
       "paginacion": "PDF original; páginas29/32 parciales por separador",
       "math_esperada": 11,
-      "math_renderizada_github": null,
-      "estado": "cotejo visual local; pendiente GitHub"
+      "math_renderizada_github": 11,
+      "estado": "2026-10-23: revisión GitHub; math-renderer y math coinciden con las expresiones esperadas, 0 merror, sin fórmulas sin renderizar, figuras cargadas y muestra visual revisada.",
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/d79fbc0eff04db1756c1d3df74f963a4d4c93e4d/notes/2015/teoria/biot-savart-kasero-fuerza-alambre-axial.md"
     },
     {
       "original": "2015/Resueltos Fisica II Anibal Kaseros Ley de Biot-Sabat.pdf",
@@ -8093,8 +8100,9 @@
       ],
       "paginacion": "PDF original; páginas29/32 parciales por separador",
       "math_esperada": 19,
-      "math_renderizada_github": null,
-      "estado": "cotejo visual local; pendiente GitHub"
+      "math_renderizada_github": 19,
+      "estado": "2026-10-23: revisión GitHub; math-renderer y math coinciden con las expresiones esperadas, 0 merror, sin fórmulas sin renderizar, figuras cargadas y muestra visual revisada.",
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/d79fbc0eff04db1756c1d3df74f963a4d4c93e4d/notes/2015/teoria/biot-savart-kasero-bucle-semicircular.md"
     },
     {
       "original": "2015/Resueltos Fisica II Anibal Kaseros Ley de Biot-Sabat.pdf",
@@ -8108,8 +8116,9 @@
       ],
       "paginacion": "PDF original; páginas29/32 parciales por separador",
       "math_esperada": 13,
-      "math_renderizada_github": null,
-      "estado": "cotejo visual local; pendiente GitHub"
+      "math_renderizada_github": 13,
+      "estado": "2026-10-23: revisión GitHub; math-renderer y math coinciden con las expresiones esperadas, 0 merror, sin fórmulas sin renderizar, figuras cargadas y muestra visual revisada.",
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/d79fbc0eff04db1756c1d3df74f963a4d4c93e4d/notes/2015/teoria/biot-savart-kasero-semicirculos-concentricos.md"
     },
     {
       "original": "2015/Resueltos Fisica II Anibal Kaseros Ley de Biot-Sabat.pdf",
@@ -8121,8 +8130,9 @@
       ],
       "paginacion": "PDF original; páginas32/33/36 parciales por separador",
       "math_esperada": 7,
-      "math_renderizada_github": null,
-      "estado": "cotejo visual local; pendiente GitHub"
+      "math_renderizada_github": 7,
+      "estado": "2026-10-23: revisión GitHub; math-renderer y math coinciden con las expresiones esperadas, 0 merror, sin fórmulas sin renderizar, figuras cargadas y muestra visual revisada.",
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/d79fbc0eff04db1756c1d3df74f963a4d4c93e4d/notes/2015/teoria/biot-savart-kasero-semicirculos-opuestos.md"
     },
     {
       "original": "2015/Resueltos Fisica II Anibal Kaseros Ley de Biot-Sabat.pdf",
@@ -8136,8 +8146,9 @@
       ],
       "paginacion": "PDF original; páginas32/33/36 parciales por separador",
       "math_esperada": 12,
-      "math_renderizada_github": null,
-      "estado": "cotejo visual local; pendiente GitHub"
+      "math_renderizada_github": 12,
+      "estado": "2026-10-23: revisión GitHub; math-renderer y math coinciden con las expresiones esperadas, 0 merror, sin fórmulas sin renderizar, figuras cargadas y muestra visual revisada.",
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/d79fbc0eff04db1756c1d3df74f963a4d4c93e4d/notes/2015/teoria/biot-savart-kasero-horquilla.md"
     },
     {
       "original": "2015/Resueltos Fisica II Anibal Kaseros Ley de Biot-Sabat.pdf",
@@ -8152,8 +8163,9 @@
       ],
       "paginacion": "PDF original; páginas36/40 parciales por separador",
       "math_esperada": 22,
-      "math_renderizada_github": null,
-      "estado": "cotejo visual local; pendiente GitHub"
+      "math_renderizada_github": 22,
+      "estado": "2026-10-23: revisión GitHub; math-renderer y math coinciden con las expresiones esperadas, 0 merror, sin fórmulas sin renderizar, figuras cargadas y muestra visual revisada.",
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/d79fbc0eff04db1756c1d3df74f963a4d4c93e4d/notes/2015/teoria/biot-savart-kasero-conductores-coplanares.md"
     },
     {
       "original": "2015/Resueltos Fisica II Anibal Kaseros Ley de Biot-Sabat.pdf",
@@ -8168,8 +8180,9 @@
       ],
       "paginacion": "PDF original; páginas40/44 parciales por separador",
       "math_esperada": 18,
-      "math_renderizada_github": null,
-      "estado": "cotejo visual local; pendiente GitHub"
+      "math_renderizada_github": 18,
+      "estado": "2026-10-23: revisión GitHub; math-renderer y math coinciden con las expresiones esperadas, 0 merror, sin fórmulas sin renderizar, figuras cargadas y muestra visual revisada.",
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/d79fbc0eff04db1756c1d3df74f963a4d4c93e4d/notes/2015/teoria/biot-savart-kasero-flujo-rectangulo.md"
     },
     {
       "original": "2015/Resueltos Fisica II Anibal Kaseros Ley de Biot-Sabat.pdf",
@@ -8185,8 +8198,9 @@
       ],
       "paginacion": "PDF original; páginas44/49 parciales por separador",
       "math_esperada": 32,
-      "math_renderizada_github": null,
-      "estado": "cotejo visual local; pendiente GitHub"
+      "math_renderizada_github": 32,
+      "estado": "2026-10-23: revisión GitHub; math-renderer y math coinciden con las expresiones esperadas, 0 merror, sin fórmulas sin renderizar, figuras cargadas y muestra visual revisada.",
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/d79fbc0eff04db1756c1d3df74f963a4d4c93e4d/notes/2015/teoria/biot-savart-kasero-bobina-dos-conductores.md"
     },
     {
       "original": "2015/Resueltos Fisica II Anibal Kaseros Ley de Biot-Sabat.pdf",
@@ -8200,8 +8214,9 @@
       ],
       "paginacion": "PDF original; páginas49/52/54 parciales por separador",
       "math_esperada": 15,
-      "math_renderizada_github": null,
-      "estado": "cotejo visual local; pendiente GitHub"
+      "math_renderizada_github": 15,
+      "estado": "2026-10-23: revisión GitHub; math-renderer y math coinciden con las expresiones esperadas, 0 merror, sin fórmulas sin renderizar, figuras cargadas y muestra visual revisada.",
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/d79fbc0eff04db1756c1d3df74f963a4d4c93e4d/notes/2015/teoria/biot-savart-kasero-masa-ion.md"
     },
     {
       "original": "2015/Resueltos Fisica II Anibal Kaseros Ley de Biot-Sabat.pdf",
@@ -8214,8 +8229,9 @@
       ],
       "paginacion": "PDF original; páginas49/52/54 parciales por separador",
       "math_esperada": 17,
-      "math_renderizada_github": null,
-      "estado": "cotejo visual local; pendiente GitHub"
+      "math_renderizada_github": 17,
+      "estado": "2026-10-23: revisión GitHub; math-renderer y math coinciden con las expresiones esperadas, 0 merror, sin fórmulas sin renderizar, figuras cargadas y muestra visual revisada.",
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/d79fbc0eff04db1756c1d3df74f963a4d4c93e4d/notes/2015/teoria/biot-savart-kasero-particula-alfa.md"
     },
     {
       "original": "2015/Resueltos Fisica II Anibal Kaseros Ley de Biot-Sabat.pdf",
@@ -8231,8 +8247,9 @@
       ],
       "paginacion": "PDF original;54 parcial por separador,62vacía",
       "math_esperada": 45,
-      "math_renderizada_github": null,
-      "estado": "cotejo visual local; pendiente GitHub"
+      "math_renderizada_github": 45,
+      "estado": "2026-10-23: revisión GitHub; math-renderer y math coinciden con las expresiones esperadas, 0 merror, sin fórmulas sin renderizar, figuras cargadas y muestra visual revisada.",
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/d79fbc0eff04db1756c1d3df74f963a4d4c93e4d/notes/2015/teoria/biot-savart-kasero-positron-helice.md"
     },
     {
       "original": "2015/Resueltos Fisica II Anibal Kaseros Ley de Biot-Sabat.pdf",
@@ -8245,8 +8262,9 @@
       ],
       "paginacion": "PDF original;54 parcial por separador,62vacía",
       "math_esperada": 32,
-      "math_renderizada_github": null,
-      "estado": "cotejo visual local; pendiente GitHub"
+      "math_renderizada_github": 32,
+      "estado": "2026-10-23: revisión GitHub; math-renderer y math coinciden con las expresiones esperadas, 0 merror, sin fórmulas sin renderizar, figuras cargadas y muestra visual revisada.",
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/d79fbc0eff04db1756c1d3df74f963a4d4c93e4d/notes/2015/teoria/biot-savart-kasero-campos-fuerza-nula.md"
     },
     {
       "original": "2015/Resumen-Fisca-2.pdf",
