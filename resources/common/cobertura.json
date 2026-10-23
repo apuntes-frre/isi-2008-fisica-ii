@@ -8574,6 +8574,68 @@
       "estado": "verificado en GitHub: conteo esperado igual a math-renderer y MathML nativo,0merror,0sin render; imágenes cargadas y muestra visual de fórmulas; etiquetas corregidas donde correspondía",
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/373706c648f5cbfb75b05cd333494996a5d9ac6c/notes/2015/teoria/resumen-circuitos-rc.md",
       "fecha_revision_github": "2026-10-23"
+    },
+    {
+      "original": "2015/Resumen-Fisca-2.pdf",
+      "sha256": "b9903f972224365c1a74b5d2732c9a34675c9b719da4c9c2d28e4a0f34e0b0cc",
+      "nota": "notes/2015/teoria/resumen-fuerza-magnetica-carga.md",
+      "paginas_revisadas": [
+        27
+      ],
+      "paginacion": "PDF original; sectores delimitados por encabezados",
+      "math_esperada": 4,
+      "math_renderizada_github": null,
+      "estado": "cotejo visual local; pendiente GitHub"
+    },
+    {
+      "original": "2015/Resumen-Fisca-2.pdf",
+      "sha256": "b9903f972224365c1a74b5d2732c9a34675c9b719da4c9c2d28e4a0f34e0b0cc",
+      "nota": "notes/2015/teoria/resumen-movimiento-carga-campo-magnetico.md",
+      "paginas_revisadas": [
+        27,
+        28
+      ],
+      "paginacion": "PDF original; sectores delimitados por encabezados",
+      "math_esperada": 6,
+      "math_renderizada_github": null,
+      "estado": "cotejo visual local; pendiente GitHub"
+    },
+    {
+      "original": "2015/Resumen-Fisca-2.pdf",
+      "sha256": "b9903f972224365c1a74b5d2732c9a34675c9b719da4c9c2d28e4a0f34e0b0cc",
+      "nota": "notes/2015/teoria/resumen-selector-espectrometro-ciclotron.md",
+      "paginas_revisadas": [
+        28,
+        29
+      ],
+      "paginacion": "PDF original; sectores delimitados por encabezados",
+      "math_esperada": 8,
+      "math_renderizada_github": null,
+      "estado": "cotejo visual local; pendiente GitHub"
+    },
+    {
+      "original": "2015/Resumen-Fisca-2.pdf",
+      "sha256": "b9903f972224365c1a74b5d2732c9a34675c9b719da4c9c2d28e4a0f34e0b0cc",
+      "nota": "notes/2015/teoria/resumen-fuerza-magnetica-conductor.md",
+      "paginas_revisadas": [
+        29
+      ],
+      "paginacion": "PDF original; sectores delimitados por encabezados",
+      "math_esperada": 7,
+      "math_renderizada_github": null,
+      "estado": "cotejo visual local; pendiente GitHub"
+    },
+    {
+      "original": "2015/Resumen-Fisca-2.pdf",
+      "sha256": "b9903f972224365c1a74b5d2732c9a34675c9b719da4c9c2d28e4a0f34e0b0cc",
+      "nota": "notes/2015/teoria/resumen-momento-circuito-plano.md",
+      "paginas_revisadas": [
+        30
+      ],
+      "paginacion": "PDF original; sectores delimitados por encabezados",
+      "math_esperada": 14,
+      "math_renderizada_github": null,
+      "estado": "cotejo visual local; pendiente GitHub"
     }
   ]
 }

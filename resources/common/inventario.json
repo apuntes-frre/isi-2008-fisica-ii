@@ -2129,7 +2129,7 @@
       "duplicado_sha256_de": null,
       "clasificacion": "resumen de teoría de FísicaII; autor y año no identificados en primeras páginas",
       "evidencia": "PyMuPDF4LLM/Poppler y páginas1–11 cotejadas. Fórmulas de imagen en LaTeX, figuras conservadas. UT1 y UT2 completas en resumen; signos de Poisson preservados.",
-      "estado": "parcial:26páginas completas; próximo27 fuerza magnética",
+      "estado": "parcial:30páginas completas; próximo31 efecto Hall",
       "paginas_revisadas": [
         1,
         2,
@@ -2156,7 +2156,11 @@
         23,
         24,
         25,
-        26
+        26,
+        27,
+        28,
+        29,
+        30
       ],
       "copia_local": "/Users/carlosferreyra/.cache/fisica-ii-transcripcion/20261023-resumen-fisica/01-Resumen-Fisca-2.pdf",
       "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/71-Resumen-Fisca-2.txt",
@@ -2182,7 +2186,12 @@
         "notes/2015/teoria/resumen-fuerza-electromotriz.md",
         "notes/2015/teoria/resumen-kirchhoff.md",
         "notes/2015/teoria/resumen-puente-wheatstone.md",
-        "notes/2015/teoria/resumen-circuitos-rc.md"
+        "notes/2015/teoria/resumen-circuitos-rc.md",
+        "notes/2015/teoria/resumen-fuerza-magnetica-carga.md",
+        "notes/2015/teoria/resumen-movimiento-carga-campo-magnetico.md",
+        "notes/2015/teoria/resumen-selector-espectrometro-ciclotron.md",
+        "notes/2015/teoria/resumen-fuerza-magnetica-conductor.md",
+        "notes/2015/teoria/resumen-momento-circuito-plano.md"
       ]
     },
     {
