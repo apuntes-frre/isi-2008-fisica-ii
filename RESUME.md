@@ -2,13 +2,21 @@
 
 ## REANUDADO — 23/10/2026
 
-El usuario pidió continuar y mantener actualizado el PR. El checkpoint de pausa
-siguiente queda como referencia histórica. Fuente 61: páginas 1–10 y comienzo de 11 hasta E% cotejados;
-siguiente lote: serie desde página normalizada 11, luego paralelo y conclusión
-hasta 15. Descarga variante con advertencia roja, nueve expresiones y gráfica
-guardadas por separado de la versión aprobada.
-364 notas / 3604 expresiones; pendientes de render GitHub 31 notas / 426
-expresiones. Último CI antes de reanudar: b178ea0, aprobado (39898573956).
+El usuario pidió continuar y mantener actualizado el PR. Este bloque prevalece
+sobre el checkpoint histórico de pausa y los estados inferiores.
+
+- Fuente 61 completa documentalmente: 15/15 páginas normalizadas cotejadas;
+  siete notas existentes registran variantes, 24 expresiones adicionales y una
+  gráfica nueva de descarga. Tablas cotejadas con XML. Unidades ꭥ y advertencia
+  roja conservadas; rótulos dinámicos de LO identificados. No regenerar notas.
+- 364 notas / 3614 expresiones; revisión visual GitHub pendiente de 31 notas /
+  436 expresiones. 300 medios (292 imágenes y 8 GIF).
+- Lotes publicados: 72bbd1d (carga), e19bd73 (descarga); cierre de serie/paralelo
+  en el commit que contiene este checkpoint. PR #2 sigue abierto y borrador.
+- Próximo: fuente 63 (Kirchhoff, PDF de 20 páginas), luego 64 y 65. Consultar
+  inventario antes de convertir. Mantener lotes pequeños con validación y push.
+- Caché fuente 61: 20261022-capacidad-corregir, ahora con los 15 renders y las
+  cuatro tablas XML en JSON. Scripts de autoría no idempotentes; no reejecutar.
 
 ## CHECKPOINT HISTÓRICO DE PAUSA — 22/10/2026
 

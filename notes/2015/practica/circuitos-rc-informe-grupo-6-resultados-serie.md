@@ -102,3 +102,50 @@ m=-1/(R*C)\Rightarrow C=-1/(R*m)=-1/(39000*-0{,}4597)=5{,}57*10^{-5}\mathrm F
 
 [Anterior](circuitos-rc-informe-grupo-6-resultados-descarga-c1.md).
 [Siguiente](circuitos-rc-informe-grupo-6-resultados-paralelo-conclusion.md).
+
+## Versión DOCX «A corregir 2»
+
+Original: `2015/L3 Capacidad G6 A corregir 2.docx`, SHA-256
+`a8e1063ebff8c151f9a7a2d6d5dcf798a13ef08c9282a61fdc5bd0985ab184ec`.
+
+Se cotejó desde «Proceso de Carga en Serie» de la página 11, la página 12 y la
+primera fórmula posterior a la gráfica de la 13, en el PDF normalizado con
+LibreOffice de 15 páginas. La paginación pertenece a esa copia de revisión.
+Coinciden las 11 filas y cuatro columnas de la tabla, cotejadas también con su
+XML nativo, los valores de C1/C2, el signo igual adicional dentro de Ceq, la
+lectura de 13s y los resultados 30,5 µF y 23,46%. El título del proceso aparece
+en negrita, cursiva y subrayado. Se conservan las variantes 0,54 y 0.54.
+
+Las expresiones siguientes añaden la unidad literal ꭥ (U+AB65); pertenecen al
+DOCX y no sustituyen las expresiones del PDF aprobado:
+
+```math
+T_T=R.C_{\mathrm{eq}}=39000\text{ꭥ}*319{,}7\,\mu\mathrm F=12{,}46\mathrm s.
+```
+
+```math
+C=T_p/R\Rightarrow C=13\mathrm s/(39000\text{ꭥ})=3{,}3*10^{-4}\mathrm F
+```
+
+```math
+\Delta R=1950\text{ꭥ}
+```
+
+```math
+\Delta C=\Delta T/R+(T*\Delta R)/R^2=0.54\mathrm s/(39000\text{ꭥ})+(13\mathrm s*1950\text{ꭥ})/(39000\text{ꭥ})^2=30{,}5\,\mu\mathrm F
+```
+
+```math
+m=-1/(R*C)\Rightarrow C=-1/(R*m)=-1/(39000\text{ꭥ}*-0{,}4597)=5{,}57*10^{-5}\mathrm F
+```
+
+Se cotejaron las dos gráficas nativas y sus cachés XML, con 11 valores cada una;
+la primera usa tiempos 0–100 y la segunda categorías ordinales 1–11. El eje
+vertical de la segunda declara formato `0.000`. El rótulo de ajuste es dinámico
+(`General`), no una ecuación literal almacenada: LibreOffice muestra «f(x) =
+−0.459705989564559 x − 0.0745665614187923». Se identifica como texto producido
+al representar la copia normalizada; no se atribuye como rótulo fijo al
+original. Las figuras anteriores son las del PDF aprobado.
+
+El fragmento de tabla vacío visible al comienzo de la página 12 normalizada no
+añade una medición: el XML nativo contiene encabezado y 11 filas de datos.

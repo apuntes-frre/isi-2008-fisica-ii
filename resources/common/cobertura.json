@@ -7509,11 +7509,23 @@
         12
       ],
       "paginacion": "PDF original,10 desde título de serie,11 completa yprimera fórmula12; excluye paralelo12",
-      "math_esperada": 15,
+      "math_esperada": 20,
       "math_renderizada_github": null,
       "url_github": null,
       "estado": "cotejado completo este bloque; pendiente render GitHub",
-      "fuentes_adicionales": []
+      "fuentes_adicionales": [
+        {
+          "original": "2015/L3 Capacidad G6 A corregir 2.docx",
+          "sha256": "a8e1063ebff8c151f9a7a2d6d5dcf798a13ef08c9282a61fdc5bd0985ab184ec",
+          "paginas_revisadas": [
+            11,
+            12,
+            13
+          ],
+          "paginacion": "PDF normalizado LibreOffice de 15 páginas; desde título de serie en 11 hasta primera fórmula tras gráfica en 13",
+          "estado": "cotejo completo de este tramo: tabla, texto, cálculos y gráficas; cinco expresiones de unidad variantes; rótulo dinámico identificado"
+        }
+      ]
     },
     {
       "original": "2015/L3 Capacidad G6 Aprobado.pdf",
@@ -7525,11 +7537,23 @@
         14
       ],
       "paginacion": "PDF original,12 desde título de paralelo,13–14; calificación final omitida",
-      "math_esperada": 15,
+      "math_esperada": 20,
       "math_renderizada_github": null,
       "url_github": null,
       "estado": "cotejado completo este bloque; pendiente render GitHub",
-      "fuentes_adicionales": []
+      "fuentes_adicionales": [
+        {
+          "original": "2015/L3 Capacidad G6 A corregir 2.docx",
+          "sha256": "a8e1063ebff8c151f9a7a2d6d5dcf798a13ef08c9282a61fdc5bd0985ab184ec",
+          "paginas_revisadas": [
+            13,
+            14,
+            15
+          ],
+          "paginacion": "PDF normalizado LibreOffice de 15 páginas; desde título de paralelo en 13 hasta final de 15",
+          "estado": "cotejo completo de este tramo: tabla, texto, cálculos y gráficas; cinco expresiones de unidad variantes; rótulo dinámico identificado"
+        }
+      ]
     }
   ]
 }

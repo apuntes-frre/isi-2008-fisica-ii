@@ -123,3 +123,50 @@ anula en su totalidad.
 ## Navegación del informe
 
 [Anterior](circuitos-rc-informe-grupo-6-resultados-serie.md).
+
+## Versión DOCX «A corregir 2»
+
+Original: `2015/L3 Capacidad G6 A corregir 2.docx`, SHA-256
+`a8e1063ebff8c151f9a7a2d6d5dcf798a13ef08c9282a61fdc5bd0985ab184ec`.
+
+Se cotejó desde «Proceso de carga en Paralelo» de la página 13 hasta el final de
+la 15 del PDF normalizado con LibreOffice de 15 páginas. La paginación pertenece
+a esa copia de revisión. Coinciden los datos de C1/C2/Ceq, las 20 filas y cuatro
+columnas de la tabla, la lectura de 59s, la incertidumbre de 1,67s, el error de
+7,68% y ambos párrafos completos de la conclusión. Se conservan «Contante»,
+Carga C1 como encabezado y los ceros finales. El título del proceso aparece en
+negrita, cursiva y subrayado; el DOCX no contiene la marca final «APROBADO» del
+PDF.
+
+Las expresiones siguientes añaden la unidad literal ꭥ (U+AB65); pertenecen al
+DOCX y no sustituyen las expresiones del PDF aprobado. Se conservan las barras,
+asteriscos y la posición del exponente del denominador de incertidumbre:
+
+```math
+T_T=R.C_{\mathrm{eq}}=39000\text{ꭥ}*1470\,\mu\mathrm F=57{,}33\mathrm s.
+```
+
+```math
+C=T/R\Rightarrow C=59\mathrm s/(39000\text{ꭥ})=1{,}51*10^{-3}\mathrm F
+```
+
+```math
+\Delta R=1950\text{ꭥ}
+```
+
+```math
+\Delta C=\Delta T/R+(T*\Delta R)/R^2=1{,}67\mathrm s/(39000\text{ꭥ})+(57{,}33\mathrm s*1950\text{ꭥ})/39000\text{ꭥ}^2=1{,}16*10^{-4}\mathrm F
+```
+
+```math
+m=-1/(R*C)\Rightarrow C=-1/(R*m)=-1/(39000\text{ꭥ}*-0{,}1321)=1{,}94*10^{-4}\mathrm F
+```
+
+La primera gráfica es la imagen incorporada `image42.png`, con tiempos 0–190 y
+auxiliares azules; se cotejó con la figura conservada del PDF aprobado. La
+segunda es una gráfica nativa con 20 valores en su caché XML, categorías
+ordinales 1–20 y formato vertical `0.000`. Su ajuste lineal tiene rótulo
+dinámico `General`: LibreOffice muestra «f(x) = −0.132113765284121 x +
+0.00466195699632555». Ese texto describe la representación de la copia
+normalizada, no una ecuación literal fija del DOCX ni un reemplazo del rótulo
+que consta en el PDF aprobado. No se recalculan los resultados.
