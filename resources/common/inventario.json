@@ -1960,16 +1960,22 @@
       "duplicado_sha256_de": null,
       "clasificacion": "planificación de cátedra de FísicaII ciclo2016 para IEM/ISI/IQ",
       "evidencia": "",
-      "estado": "parcial: páginas1–2 y tablas de3 hasta Descripción transcritas; faltan fundamentación3 y4–25",
+      "estado": "parcial:1–7 completas y8 hasta proyectos; faltan metodología desde8 y9–25",
       "paginas_revisadas": [
         1,
         2,
-        3
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
       ],
       "copia_local": "/Users/carlosferreyra/.cache/fisica-ii-transcripcion/20261023-planificacion-2016/01-Planificacion 2016 de Física II.pdf",
       "texto_poppler_local": "/Users/carlosferreyra/.cache/fisica-ii-transcripcion/20261023-planificacion-2016/poppler.txt",
       "notas": [
-        "notes/2015/teoria/planificacion-docentes-horarios-2016.md"
+        "notes/2015/teoria/planificacion-docentes-horarios-2016.md",
+        "notes/2015/teoria/planificacion-fundamentacion-programa-2016.md"
       ]
     },
     {

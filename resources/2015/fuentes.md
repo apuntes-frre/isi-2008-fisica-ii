@@ -309,7 +309,8 @@ originales de las normalizadas y registra conteos matemáticos.
 - `2015/Planificacion 2016 de Física II.pdf`:páginas1–2 y tablas de3
   transcritas en una nota; tres fragmentos de grilla HTML y logo original.
   Celdas combinadas/vacías y diferencias de horarios conservadas. Resta
-  fundamentación desde3 y4–25. SHA-256:
+  Metodología desde8 y9–25; fundamentación y programa de16UT de3–8 transcritos
+  en otra nota, sin expresiones matemáticas. SHA-256:
   `f67ab1339ec84db1060e8a58e558425ad1fbcfe7e38415996e8a3f624cc7fc52`.
 - `2015/Puente de hilo- GUIA.docx`: no PDF páginas; transcrito y validado
   localmente. SHA-256:
