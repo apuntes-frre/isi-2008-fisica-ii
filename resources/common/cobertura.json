@@ -7782,6 +7782,23 @@
       "url_github": null,
       "estado": "texto y figuras cotejados; pendiente GitHub",
       "fuentes_adicionales": []
+    },
+    {
+      "original": "2015/L8 Fza sobre elemento de cte G6 Aprobado.pdf",
+      "sha256": "fb2be56c4577a2058d5334daff09c1974e826f2fa3023bd5e6da74dcbca6a701",
+      "nota": "notes/2015/practica/fuerza-corriente-informe-grupo-6-teoria-tecnica.md",
+      "paginas_revisadas": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "paginacion": "PDF original páginas3–6 completas; teoría y técnica",
+      "math_esperada": 16,
+      "math_renderizada_github": null,
+      "url_github": null,
+      "estado": "ecuaciones, texto y cinco figuras cotejados; tabla vacía preservada; pendiente GitHub",
+      "fuentes_adicionales": []
     }
   ]
 }
