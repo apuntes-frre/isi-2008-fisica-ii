@@ -313,6 +313,8 @@ originales de las normalizadas y registra conteos matemáticos.
   en otra nota, sin expresiones matemáticas. SHA-256:
   `f67ab1339ec84db1060e8a58e558425ad1fbcfe7e38415996e8a3f624cc7fc52`. Cronograma
   Electromecánica: bloques de páginas12, 13, 14 registrados en nota específica.
+  Cronograma Sistemas 2A: bloques de páginas14, 15, 16 registrados en nota
+  específica.
 - `2015/Puente de hilo- GUIA.docx`: no PDF páginas; transcrito y validado
   localmente. SHA-256:
   `2f47e1a9ae0574962ee6f76766127f6d1afb19511eebdec7a93cffd199f03d0c`.
