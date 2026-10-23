@@ -7708,6 +7708,22 @@
       "url_github": null,
       "estado": "teoría cotejada; espacios restituidos y ecuaciones fragmentadas recompuestas con XML/render; pendiente GitHub",
       "fuentes_adicionales": []
+    },
+    {
+      "original": "2015/L7 Brujula G6 A corregir.docx",
+      "sha256": "f8b78ccaea4e2a0a6e03331360824f66be2d1899b3f1ead31f65c2335da0960f",
+      "nota": "notes/2015/practica/brujula-informe-grupo-6-tecnica-cuestionario.md",
+      "paginas_revisadas": [
+        3,
+        4,
+        5
+      ],
+      "paginacion": "PDF normalizado LO nueve páginas:3 desde materiales y4–5 completas",
+      "math_esperada": 5,
+      "math_renderizada_github": null,
+      "url_github": null,
+      "estado": "texto y figuras cotejados, preguntas conservadas sin resolver; pendiente GitHub",
+      "fuentes_adicionales": []
     }
   ]
 }

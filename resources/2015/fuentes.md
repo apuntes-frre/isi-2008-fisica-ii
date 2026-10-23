@@ -281,8 +281,9 @@ originales de las normalizadas y registra conteos matemáticos.
   `534403fde9ec3209246d64553b98096c417d8f500a5a5cc4424914482ac9ac79`.
 - `2015/L7 Brujula G6 A corregir.docx`: teoría hasta(8) cotejada y transcrita en
   una nota/14expresiones/tres figuras; páginas normalizadas1–2 y comienzo3.
-  Resta materiales y resto3–9. Pandoc/LO/XML/Poppler; no corregir observaciones
-  rojas ni fórmulas del original. SHA-256:
+  Materiales/técnica/cuestionario y bibliografía de3–5 transcritos: otra nota,
+  cinco expresiones y tres figuras. Restan6–9. Pandoc/LO/XML/Poppler; no
+  corregir observaciones rojas ni fórmulas del original. SHA-256:
   `f8b78ccaea4e2a0a6e03331360824f66be2d1899b3f1ead31f65c2335da0960f`.
 - `2015/L8 Fza sobre elemento de cte G6 Aprobado.pdf`: 9 páginas; pendiente.
   SHA-256: `fb2be56c4577a2058d5334daff09c1974e826f2fa3023bd5e6da74dcbca6a701`.
