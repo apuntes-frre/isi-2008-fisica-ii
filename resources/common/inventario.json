@@ -710,11 +710,15 @@
       "bytes": 9372440,
       "paginas_pdf": 137,
       "duplicado_sha256_de": null,
-      "clasificacion": "bibliografía candidata",
-      "evidencia": "",
-      "estado": "pendiente de OCR e identificación visual",
-      "paginas_revisadas": [],
-      "copia_local": "/tmp/fisica-ii-20261017-fuentes/37-electricidadymagnetismo-sampallo-141116084104-conversion-gate02.pdf",
+      "clasificacion": "bibliografía: Electricidad y Magnetismo, Guillermo Sampallo, julio2003",
+      "evidencia": "Portada, página legal y prefacio/índice revisados en páginas PDF1–3; ISBN987-43-6398-3, editado por el autor, impreso Moglia SRL(Corrientes),julio2003. Coincide con bibliografía fuente68,p23. OCRmyPDF español auxiliar sobre muestra1–3. No se declara cotejo del resto del libro.",
+      "estado": "referencia bibliográfica identificada; no transcrito el libro de137páginas",
+      "paginas_revisadas": [
+        1,
+        2,
+        3
+      ],
+      "copia_local": "/Users/carlosferreyra/.cache/fisica-ii-transcripcion/20261023-sampallo-identificacion/01-electricidadymagnetismo-sampallo-141116084104-conversion-gate02.pdf",
       "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/37-electricidadymagnetismo-sampallo-141116084104-conversion-gate02.txt"
     },
     {

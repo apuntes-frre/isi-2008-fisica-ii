@@ -21,8 +21,9 @@ Este bloque prevalece sobre todos los estados históricos inferiores.
   nombre de archivo. Página62 vacía, borrador tachado21 conservado como recorte.
   Caché20261023-kaseros-biot-sabat con OCR español completo y renders1–62.
 - Próximo:71 resumen80p (extracción lista en caché20261023-resumen-fisica);
-  37 identificar conOCR/visual (caché20261023-sampallo-identificacion, primeras
-  tres páginas vistas:libro Guillermo Sampallo2003,ISBN987-43-6398-3, citado68).
+  37 identificada como bibliografía:Guillermo Sampallo2003,ISBN987-43-6398-3,
+  citado68p23; páginas1–3 cotejadas/OCR. Libro137p no transcrito, referencia.
+  Caché20261023-sampallo-identificacion conserva muestra y evidencia.
   Después
   clasificar3/9/11; glifos117/118 y unidad manuscrita examen; revisión visual
   GitHub y auditoría final. No declarar100% con estas lecturas pendientes.

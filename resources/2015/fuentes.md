@@ -180,7 +180,12 @@ originales de las normalizadas y registra conteos matemáticos.
   de Física II. SHA-256:
   `b4e41938cfb66869628016171d0da7d880ce23fcb7dfe78c706b0754943856c9`.
 - `2015/Extras/electricidadymagnetismo-sampallo-141116084104-conversion-gate02.pdf`:
-  137 páginas; pendiente de OCR e identificación visual. SHA-256:
+  137 páginas; bibliografía identificada: Guillermo Sampallo, Electricidad y
+  Magnetismo, julio2003, ISBN987-43-6398-3, editado por el autor e impreso en
+  MogliaSRL(Corrientes). Portada, página legal y prefacio/índice cotejados en
+  páginas1–3, con OCR español auxiliar; coincide con bibliografía de la
+  planificación2016,p23. Referencia conservada; no se transcribe el libro ni se
+  declara revisión de sus restantes134páginas. SHA-256:
   `cfd0635249bbfea05a5089e99215c9bb5cf1c4e6e998daadf67ebe5f762f135e`.
 - `2015/FISICA II - EXPERIENCIAS DE LABORATORIOS 2015 - TP N° 1.docx`: no PDF
   páginas; transcrito y validado localmente. SHA-256:
