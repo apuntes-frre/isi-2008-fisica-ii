@@ -1814,8 +1814,8 @@
       "paginas_pdf": 9,
       "duplicado_sha256_de": null,
       "clasificacion": "informe del grupo6 de fuerza sobre elemento de corriente, portada2016",
-      "evidencia": "",
-      "estado": "parcial: páginas1–6 y8–9 transcritas; falta hoja manuscrita7",
+      "evidencia": "Poppler/PyMuPDF4LLM y nueve renders, OCR español hoja7, cotejo de todas las celdas y anotaciones. Rótulo de masa inferior parcialmente ilegible; recorte conservado.",
+      "estado": "9/9 páginas revisadas; contenido legible transcrito; rótulo parcial de masa manuscrita7 y símbolo ausente de plantilla señalados; render GitHub pendiente",
       "paginas_revisadas": [
         1,
         2,
@@ -1823,6 +1823,7 @@
         4,
         5,
         6,
+        7,
         8,
         9
       ],
@@ -1831,7 +1832,8 @@
       "notas": [
         "notes/2015/practica/fuerza-corriente-informe-grupo-6-objetivo-resumen.md",
         "notes/2015/practica/fuerza-corriente-informe-grupo-6-teoria-tecnica.md",
-        "notes/2015/practica/fuerza-corriente-informe-grupo-6-experiencias-resultados.md"
+        "notes/2015/practica/fuerza-corriente-informe-grupo-6-experiencias-resultados.md",
+        "notes/2015/practica/fuerza-corriente-informe-grupo-6-hoja-datos.md"
       ]
     },
     {

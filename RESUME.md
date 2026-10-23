@@ -13,12 +13,13 @@ Este bloque prevalece sobre todos los estados históricos inferiores.
   marcada 0,09[ilegible]. No inferir de0,094 de tabla7. Caché persistente
   20261023-brujula-informe conserva todos los renders,tablasXML yOCR español.
   Rojo original y comentarios finales conservados; no reparar científicamente.
-- Total381notas/3699expresiones; pendientes render GitHub48notas/521math.
-  Medios327 (318imágenes/9GIF). PR2 abierto/borrador, lotes publicados.
-- Fuente65 activa:1–2 transcritas,una nota/foto. Nueve renders y extracción
-  en caché20261023-fuerza-informe. Teoría/técnica3–6 transcritas:otra nota/16math, figuras compartidas.
-  Experiencias/resultados8–9 transcritos:otra nota/6math/tres figuras.
-  Próximo:solo7 manuscrita; luego68,70,71,37; clasificar3/9/11; glifos117/118 y unidad
+- Total382notas/3702expresiones; pendientes render GitHub49notas/524math.
+  Medios329 (320imágenes/9GIF). PR2 abierto/borrador, lotes publicados.
+- Fuente65:9/9p revisadas; cuatro notas/25math/seis medios nuevos, figuras de
+  guía compartidas. Rótulo de masa manuscrita parcialmente ilegible y símbolo
+  ausente de plantilla señalados; recortes conservados. Caché20261023-fuerza-informe.
+- Próximo:68 planificación2016 (25p), luego70/71/37;
+  clasificar3/9/11; glifos117/118 y unidad
   manuscrita examen; revisión visual GitHub y auditoría final. Checklist histórico
   conserva detalles, pero no es estado vigente. No fusionar automáticamente.
 
