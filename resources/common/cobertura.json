@@ -9068,6 +9068,45 @@
       "math_esperada": 4,
       "math_renderizada_github": null,
       "estado": "cotejo visual local; pendiente GitHub"
+    },
+    {
+      "original": "2015/Resumen-Fisca-2.pdf",
+      "sha256": "b9903f972224365c1a74b5d2732c9a34675c9b719da4c9c2d28e4a0f34e0b0cc",
+      "nota": "notes/2015/teoria/resumen-difraccion-huygens-intensidad.md",
+      "paginas_revisadas": [
+        64,
+        65
+      ],
+      "paginacion": "PDF original; sectores delimitados por encabezados",
+      "math_esperada": 12,
+      "math_renderizada_github": null,
+      "estado": "cotejo visual local; pendiente GitHub"
+    },
+    {
+      "original": "2015/Resumen-Fisca-2.pdf",
+      "sha256": "b9903f972224365c1a74b5d2732c9a34675c9b719da4c9c2d28e4a0f34e0b0cc",
+      "nota": "notes/2015/teoria/resumen-difraccion-aberturas-ranuras.md",
+      "paginas_revisadas": [
+        65,
+        66,
+        67
+      ],
+      "paginacion": "PDF original; sectores delimitados por encabezados",
+      "math_esperada": 11,
+      "math_renderizada_github": null,
+      "estado": "cotejo visual local; pendiente GitHub"
+    },
+    {
+      "original": "2015/Resumen-Fisca-2.pdf",
+      "sha256": "b9903f972224365c1a74b5d2732c9a34675c9b719da4c9c2d28e4a0f34e0b0cc",
+      "nota": "notes/2015/teoria/resumen-red-difraccion-espectroscopia.md",
+      "paginas_revisadas": [
+        67
+      ],
+      "paginacion": "PDF original; sectores delimitados por encabezados",
+      "math_esperada": 4,
+      "math_renderizada_github": null,
+      "estado": "cotejo visual local; pendiente GitHub"
     }
   ]
 }
