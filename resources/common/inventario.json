@@ -2129,7 +2129,7 @@
       "duplicado_sha256_de": null,
       "clasificacion": "resumen de teoría de FísicaII; autor y año no identificados en primeras páginas",
       "evidencia": "PyMuPDF4LLM/Poppler y páginas1–11 cotejadas. Fórmulas de imagen en LaTeX, figuras conservadas. UT1 y UT2 completas en resumen; signos de Poisson preservados.",
-      "estado": "parcial:57páginas completas; próximo58 fotometría",
+      "estado": "parcial:60páginas completas; próximo61 interferencia",
       "paginas_revisadas": [
         1,
         2,
@@ -2187,7 +2187,10 @@
         54,
         55,
         56,
-        57
+        57,
+        58,
+        59,
+        60
       ],
       "copia_local": "/Users/carlosferreyra/.cache/fisica-ii-transcripcion/20261023-resumen-fisica/01-Resumen-Fisca-2.pdf",
       "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/71-Resumen-Fisca-2.txt",
@@ -2245,7 +2248,10 @@
         "notes/2015/teoria/resumen-corriente-desplazamiento.md",
         "notes/2015/teoria/resumen-ecuaciones-maxwell.md",
         "notes/2015/teoria/resumen-onda-electromagnetica.md",
-        "notes/2015/teoria/resumen-poynting-energia.md"
+        "notes/2015/teoria/resumen-poynting-energia.md",
+        "notes/2015/teoria/resumen-fotometria-magnitudes.md",
+        "notes/2015/teoria/resumen-iluminacion-distancia-coseno.md",
+        "notes/2015/teoria/resumen-espectrofotometros.md"
       ]
     },
     {
