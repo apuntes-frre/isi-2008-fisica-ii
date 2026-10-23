@@ -7977,6 +7977,20 @@
       "url_github": null,
       "estado": "campos, políticas, bibliografía y tareas cotejados; pendiente GitHub",
       "fuentes_adicionales": []
+    },
+    {
+      "original": "2015/Resueltos Fisica II Anibal Kaseros Ley de Biot-Sabat.pdf",
+      "sha256": "b4aeb8cc9f1fa04835d4817a067976cc3d3c07d57e18ca5dabd898b67e09d41e",
+      "nota": "notes/2015/teoria/biot-savart-kasero-carga-movil.md",
+      "paginas_revisadas": [
+        1,
+        2,
+        3
+      ],
+      "paginacion": "PDF original; portada1 y manuscrito2–3",
+      "math_esperada": 11,
+      "math_renderizada_github": null,
+      "estado": "cotejo visual local; pendiente GitHub"
     }
   ]
 }
