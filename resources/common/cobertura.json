@@ -8636,6 +8636,68 @@
       "math_esperada": 14,
       "math_renderizada_github": null,
       "estado": "cotejo visual local; pendiente GitHub"
+    },
+    {
+      "original": "2015/Resumen-Fisca-2.pdf",
+      "sha256": "b9903f972224365c1a74b5d2732c9a34675c9b719da4c9c2d28e4a0f34e0b0cc",
+      "nota": "notes/2015/teoria/resumen-efecto-hall.md",
+      "paginas_revisadas": [
+        31
+      ],
+      "paginacion": "PDF original; sectores delimitados por encabezados",
+      "math_esperada": 11,
+      "math_renderizada_github": null,
+      "estado": "cotejo visual local; pendiente GitHub"
+    },
+    {
+      "original": "2015/Resumen-Fisca-2.pdf",
+      "sha256": "b9903f972224365c1a74b5d2732c9a34675c9b719da4c9c2d28e4a0f34e0b0cc",
+      "nota": "notes/2015/teoria/resumen-biot-savart.md",
+      "paginas_revisadas": [
+        32
+      ],
+      "paginacion": "PDF original; sectores delimitados por encabezados",
+      "math_esperada": 5,
+      "math_renderizada_github": null,
+      "estado": "cotejo visual local; pendiente GitHub"
+    },
+    {
+      "original": "2015/Resumen-Fisca-2.pdf",
+      "sha256": "b9903f972224365c1a74b5d2732c9a34675c9b719da4c9c2d28e4a0f34e0b0cc",
+      "nota": "notes/2015/teoria/resumen-conductores-paralelos.md",
+      "paginas_revisadas": [
+        32,
+        33
+      ],
+      "paginacion": "PDF original; sectores delimitados por encabezados",
+      "math_esperada": 4,
+      "math_renderizada_github": null,
+      "estado": "cotejo visual local; pendiente GitHub"
+    },
+    {
+      "original": "2015/Resumen-Fisca-2.pdf",
+      "sha256": "b9903f972224365c1a74b5d2732c9a34675c9b719da4c9c2d28e4a0f34e0b0cc",
+      "nota": "notes/2015/teoria/resumen-ampere-gauss-magnetismo.md",
+      "paginas_revisadas": [
+        33,
+        34
+      ],
+      "paginacion": "PDF original; sectores delimitados por encabezados",
+      "math_esperada": 16,
+      "math_renderizada_github": null,
+      "estado": "cotejo visual local; pendiente GitHub"
+    },
+    {
+      "original": "2015/Resumen-Fisca-2.pdf",
+      "sha256": "b9903f972224365c1a74b5d2732c9a34675c9b719da4c9c2d28e4a0f34e0b0cc",
+      "nota": "notes/2015/teoria/resumen-solenoide-toroide.md",
+      "paginas_revisadas": [
+        34
+      ],
+      "paginacion": "PDF original; sectores delimitados por encabezados",
+      "math_esperada": 5,
+      "math_renderizada_github": null,
+      "estado": "cotejo visual local; pendiente GitHub"
     }
   ]
 }

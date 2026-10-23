@@ -2129,7 +2129,7 @@
       "duplicado_sha256_de": null,
       "clasificacion": "resumen de teoría de FísicaII; autor y año no identificados en primeras páginas",
       "evidencia": "PyMuPDF4LLM/Poppler y páginas1–11 cotejadas. Fórmulas de imagen en LaTeX, figuras conservadas. UT1 y UT2 completas en resumen; signos de Poisson preservados.",
-      "estado": "parcial:30páginas completas; próximo31 efecto Hall",
+      "estado": "parcial:34páginas completas; próximo35 Faraday",
       "paginas_revisadas": [
         1,
         2,
@@ -2160,7 +2160,11 @@
         27,
         28,
         29,
-        30
+        30,
+        31,
+        32,
+        33,
+        34
       ],
       "copia_local": "/Users/carlosferreyra/.cache/fisica-ii-transcripcion/20261023-resumen-fisica/01-Resumen-Fisca-2.pdf",
       "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/71-Resumen-Fisca-2.txt",
@@ -2191,7 +2195,12 @@
         "notes/2015/teoria/resumen-movimiento-carga-campo-magnetico.md",
         "notes/2015/teoria/resumen-selector-espectrometro-ciclotron.md",
         "notes/2015/teoria/resumen-fuerza-magnetica-conductor.md",
-        "notes/2015/teoria/resumen-momento-circuito-plano.md"
+        "notes/2015/teoria/resumen-momento-circuito-plano.md",
+        "notes/2015/teoria/resumen-efecto-hall.md",
+        "notes/2015/teoria/resumen-biot-savart.md",
+        "notes/2015/teoria/resumen-conductores-paralelos.md",
+        "notes/2015/teoria/resumen-ampere-gauss-magnetismo.md",
+        "notes/2015/teoria/resumen-solenoide-toroide.md"
       ]
     },
     {
