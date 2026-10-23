@@ -3,9 +3,11 @@
 ## REANUDADO — 23/10/2026
 
 El usuario pidió continuar y mantener actualizado el PR. El checkpoint de pausa
-siguiente queda como referencia histórica. Fuente 61: páginas 1–9 cotejadas;
-siguiente lote, páginas normalizadas 10–11 (descarga C1 y comienzo de serie).
-364 notas / 3595 expresiones; pendientes de render GitHub 31 notas / 417
+siguiente queda como referencia histórica. Fuente 61: páginas 1–10 y comienzo de 11 hasta E% cotejados;
+siguiente lote: serie desde página normalizada 11, luego paralelo y conclusión
+hasta 15. Descarga variante con advertencia roja, nueve expresiones y gráfica
+guardadas por separado de la versión aprobada.
+364 notas / 3604 expresiones; pendientes de render GitHub 31 notas / 426
 expresiones. Último CI antes de reanudar: b178ea0, aprobado (39898573956).
 
 ## CHECKPOINT HISTÓRICO DE PAUSA — 22/10/2026

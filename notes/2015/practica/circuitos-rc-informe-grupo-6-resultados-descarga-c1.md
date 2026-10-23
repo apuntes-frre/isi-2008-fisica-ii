@@ -94,3 +94,77 @@ E\%=\Delta C/C*100=0{,}00000757\%
 
 [Anterior](circuitos-rc-informe-grupo-6-resultados-carga-c1.md).
 [Siguiente](circuitos-rc-informe-grupo-6-resultados-serie.md).
+
+## Versión DOCX «A corregir 2»
+
+Original: `2015/L3 Capacidad G6 A corregir 2.docx`, SHA-256
+`a8e1063ebff8c151f9a7a2d6d5dcf798a13ef08c9282a61fdc5bd0985ab184ec`. Se cotejaron
+la página 10 y el comienzo de la 11, hasta E%, del PDF normalizado con
+LibreOffice de 15 páginas. No se incluye aquí el comienzo del proceso en serie.
+Esta paginación corresponde a la copia de revisión.
+
+Coinciden las 20 filas y cuatro columnas de la tabla de descarga, los datos de
+la fuente de alimentación y la capacidad. El título «Proceso de descarga (C1)»
+aparece en negrita, cursiva y subrayado. Se conserva «Capcidad». El DOCX agrega
+la unidad literal ꭥ (U+AB65) a la resistencia:
+
+```math
+R_t:39000\,\text{ꭥ}
+```
+
+### Determinación de La constante de Tiempo (Método Gráfico)
+
+![Gráfica de descarga de la versión a corregir, con auxiliares azules cerca de 19s y 5,41V; representación de LibreOffice](../../../resources/2015/circuitos-rc-informe-grupo-6/descarga-c1-corregir.png)
+
+La figura se conserva mediante un recorte de la representación de la gráfica
+nativa del DOCX en LibreOffice. No se recalculan ni redibujan sus datos.
+
+Aproximadamente la abscisa correspondiente a
+
+```math
+V(t)=V*0{,}63=8{,}6*0{,}63=5{,}41
+```
+
+se encuentra en 19s.
+
+**Para la descarga corresponde el 37% , no el 63% (este valor es para la
+carga)**
+
+En el DOCX aparece en rojo y negrita el texto desde «a V(t)» hasta «19s.» y la
+advertencia inmediatamente posterior. Se conservan la lectura de 63% y la
+advertencia, sin aplicar una corrección silenciosa a los cálculos siguientes.
+
+```math
+T_P\approx19\mathrm s.
+```
+
+```math
+T_T=39\mathrm s
+```
+
+### Determinación de la Capacidad
+
+```math
+C=T/R\Rightarrow C=19\mathrm s/(39000\text{ꭥ})=4{,}87.10^{-4}\mathrm F.
+```
+
+```math
+\Delta R=1950\text{ꭥ}
+```
+
+```math
+\Delta T=20\mathrm s
+```
+
+```math
+\Delta C=\Delta T/R+(T*\Delta R)/R^2=20\mathrm s/(39000\text{ꭥ})+(19\mathrm s*1950\text{ꭥ})/(39000\text{ꭥ})^2=5{,}37.10^{-4}
+```
+
+```math
+E\%=\Delta C/C*100=110{,}\,26\%
+```
+
+Se conserva el espacio tras la coma en «110, 26%», así como la ausencia de una
+unidad final en la expresión de incertidumbre. Estos resultados pertenecen a la
+versión a corregir; no sustituyen los valores del PDF aprobado que figuran
+arriba ni se recomputan para hacerlos coincidir.
