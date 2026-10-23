@@ -315,7 +315,8 @@ originales de las normalizadas y registra conteos matemáticos.
   Electromecánica: bloques de páginas12, 13, 14 registrados en nota específica.
   Cronograma Sistemas 2A: bloques de páginas14, 15, 16 registrados en nota
   específica. Cronograma Sistemas 2B: bloques de páginas16, 17 registrados en
-  nota específica.
+  nota específica. Cronograma Química 2A: bloques de páginas18, 19, 20
+  registrados en nota específica.
 - `2015/Puente de hilo- GUIA.docx`: no PDF páginas; transcrito y validado
   localmente. SHA-256:
   `2f47e1a9ae0574962ee6f76766127f6d1afb19511eebdec7a93cffd199f03d0c`.
