@@ -317,9 +317,9 @@ originales de las normalizadas y registra conteos matemáticos.
   localmente. SHA-256:
   `2f47e1a9ae0574962ee6f76766127f6d1afb19511eebdec7a93cffd199f03d0c`.
 - `2015/Resueltos Fisica II Anibal Kaseros Ley de Biot-Sabat.pdf`: 62 páginas;
-  portada y páginas2–48 y comienzo49 cotejadas en
+  portada y páginas2–53 y comienzo54 cotejadas en
   [campo de una carga móvil](../../notes/2015/teoria/biot-savart-kasero-carga-movil.md).
-  Autor de portada Anibal Kasero; pendiente segundo enunciado49 y páginas50–62.
+  Autor de portada Anibal Kasero; pendiente segundo enunciado54 y páginas55–62.
   SHA-256: `b4aeb8cc9f1fa04835d4817a067976cc3d3c07d57e18ca5dabd898b67e09d41e`.
 - `2015/Resumen-Fisca-2.pdf`: 80 páginas; pendiente. SHA-256:
   `b9903f972224365c1a74b5d2732c9a34675c9b719da4c9c2d28e4a0f34e0b0cc`.

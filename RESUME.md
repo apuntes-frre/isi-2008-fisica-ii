@@ -14,12 +14,12 @@ Este bloque prevalece sobre todos los estados históricos inferiores.
   Caché20261023-planificacion-2016 con25renders,Poppler,PyMuPDF4LLM, tablas
   crudas y cotejadas; dos falsas celdas-marco duplicadas eliminadas. Scripts de
   autoría no idempotentes; no reejecutar. No duplicar notas de2019.
-- Total405notas/3984expresiones; pendientes render GitHub72notas/806math.
-  Medios388 (379imágenes/9GIF). PR2 abierto/borrador, avances publicados en lotes.
-- Fuente70:portada y manuscrito2–48 completos y comienzo49 transcritos; siguiente
-  enunciado49 (ion acelerado) de62.
-  Caché20261023-kaseros-biot-sabat con OCR español completo y renders1–53.
-  Próximo:70 desde segundo enunciado49,71 resumen80p;37 identificar conOCR/visual
+- Total407notas/4016expresiones; pendientes render GitHub74notas/838math.
+  Medios389 (380imágenes/9GIF). PR2 abierto/borrador, avances publicados en lotes.
+- Fuente70:portada y manuscrito2–53 completos y comienzo54 transcritos; siguiente
+  enunciado54 (positrón helicoidal) de62.
+  Caché20261023-kaseros-biot-sabat con OCR español completo y renders1–58.
+  Próximo:70 desde segundo enunciado54,71 resumen80p;37 identificar conOCR/visual
   (candidato bibliografía, citado Sampallo2003 en planificación68). Después
   clasificar3/9/11; glifos117/118 y unidad manuscrita examen; revisión visual
   GitHub y auditoría final. No declarar100% con estas lecturas pendientes.

@@ -2028,8 +2028,8 @@
       "paginas_pdf": 62,
       "duplicado_sha256_de": null,
       "clasificacion": "cuadernillo manuscrito de teoría y resueltos: Ley de Biot-Savart; autor de portada Anibal Kasero",
-      "evidencia": "Portada y manuscrito2–48 completos, comienzo49 hasta separador cotejado; OCR español auxiliar. Bobina:respuesta160A vs manuscrito100A y signos divergentes conservados. Próximo ion49.",
-      "estado": "parcial:48páginas completas y comienzo49 revisados; segundo enunciado49 pendiente",
+      "evidencia": "Portada y manuscrito2–53 completos, comienzo54 hasta separador cotejado; OCR español auxiliar. Próximo positrón helicoidal54.",
+      "estado": "parcial:53páginas completas y comienzo54 revisados; segundo enunciado54 pendiente",
       "paginas_revisadas": [
         1,
         2,
@@ -2078,7 +2078,12 @@
         45,
         46,
         47,
-        48
+        48,
+        49,
+        50,
+        51,
+        52,
+        53
       ],
       "copia_local": "/Users/carlosferreyra/.cache/fisica-ii-transcripcion/20261023-kaseros-biot-sabat/01-Resueltos Fisica II Anibal Kaseros Ley de Biot-Sabat.pdf",
       "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/70-Resueltos Fisica II Anibal Kaseros Ley de Biot-Sabat.txt",
@@ -2096,7 +2101,9 @@
         "notes/2015/teoria/biot-savart-kasero-horquilla.md",
         "notes/2015/teoria/biot-savart-kasero-conductores-coplanares.md",
         "notes/2015/teoria/biot-savart-kasero-flujo-rectangulo.md",
-        "notes/2015/teoria/biot-savart-kasero-bobina-dos-conductores.md"
+        "notes/2015/teoria/biot-savart-kasero-bobina-dos-conductores.md",
+        "notes/2015/teoria/biot-savart-kasero-masa-ion.md",
+        "notes/2015/teoria/biot-savart-kasero-particula-alfa.md"
       ]
     },
     {

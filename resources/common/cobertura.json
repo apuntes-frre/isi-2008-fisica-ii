@@ -8187,6 +8187,35 @@
       "math_esperada": 32,
       "math_renderizada_github": null,
       "estado": "cotejo visual local; pendiente GitHub"
+    },
+    {
+      "original": "2015/Resueltos Fisica II Anibal Kaseros Ley de Biot-Sabat.pdf",
+      "sha256": "b4aeb8cc9f1fa04835d4817a067976cc3d3c07d57e18ca5dabd898b67e09d41e",
+      "nota": "notes/2015/teoria/biot-savart-kasero-masa-ion.md",
+      "paginas_revisadas": [
+        49,
+        50,
+        51,
+        52
+      ],
+      "paginacion": "PDF original; páginas49/52/54 parciales por separador",
+      "math_esperada": 15,
+      "math_renderizada_github": null,
+      "estado": "cotejo visual local; pendiente GitHub"
+    },
+    {
+      "original": "2015/Resueltos Fisica II Anibal Kaseros Ley de Biot-Sabat.pdf",
+      "sha256": "b4aeb8cc9f1fa04835d4817a067976cc3d3c07d57e18ca5dabd898b67e09d41e",
+      "nota": "notes/2015/teoria/biot-savart-kasero-particula-alfa.md",
+      "paginas_revisadas": [
+        52,
+        53,
+        54
+      ],
+      "paginacion": "PDF original; páginas49/52/54 parciales por separador",
+      "math_esperada": 17,
+      "math_renderizada_github": null,
+      "estado": "cotejo visual local; pendiente GitHub"
     }
   ]
 }
