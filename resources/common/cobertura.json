@@ -7944,6 +7944,21 @@
       "url_github": null,
       "estado": "celdas y texto cotejados, variantes de fecha preservadas; pendiente GitHub",
       "fuentes_adicionales": []
+    },
+    {
+      "original": "2015/Planificacion 2016 de Física II.pdf",
+      "sha256": "f67ab1339ec84db1060e8a58e558425ad1fbcfe7e38415996e8a3f624cc7fc52",
+      "nota": "notes/2015/teoria/planificacion-cronograma-intensivo-2016.md",
+      "paginas_revisadas": [
+        20,
+        21
+      ],
+      "paginacion": "PDF original: solo bloque del cronograma de curso intensivo, cabecera y recuperatorio; fragmentos tabla índices[14, 15]",
+      "math_esperada": 0,
+      "math_renderizada_github": null,
+      "url_github": null,
+      "estado": "celdas y texto cotejados, variantes de fecha preservadas; pendiente GitHub",
+      "fuentes_adicionales": []
     }
   ]
 }

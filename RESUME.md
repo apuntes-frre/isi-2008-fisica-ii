@@ -13,7 +13,7 @@ Este bloque prevalece sobre todos los estados históricos inferiores.
   marcada 0,09[ilegible]. No inferir de0,094 de tabla7. Caché persistente
   20261023-brujula-informe conserva todos los renders,tablasXML yOCR español.
   Rojo original y comentarios finales conservados; no reparar científicamente.
-- Total389notas/3702expresiones; pendientes render GitHub56notas/524math.
+- Total390notas/3702expresiones; pendientes render GitHub57notas/524math.
   Medios330 (321imágenes/9GIF). PR2 abierto/borrador, lotes publicados.
 - Fuente65:9/9p revisadas; cuatro notas/25math/seis medios nuevos, figuras de
   guía compartidas. Rótulo de masa manuscrita parcialmente ilegible y símbolo
@@ -22,6 +22,7 @@ Este bloque prevalece sobre todos los estados históricos inferiores.
 - Cronograma2016 Sistemas 2A transcrito en este lote.
 - Cronograma2016 Sistemas 2B transcrito en este lote.
 - Cronograma2016 Química 2A transcrito en este lote.
+- Cronograma2016 curso intensivo transcrito en este lote.
 - Fuente68 activa:1–2 y grillas de3 transcritas en una nota/0math/logo.
   Fundamentación/programa de16UT desde3 hasta proyectos8 transcritos.
   Metodología/recursos/formación de8–12 transcritos.
