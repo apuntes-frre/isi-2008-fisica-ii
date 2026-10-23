@@ -102,8 +102,10 @@ k=(m_c.c_c+m_t.c_t+m_a.c_a)/c_{\mathrm{H2O}}
 entonces:
 
 ```math
-k=[m(T-T_f)/(T_f-T_i)]-M \tag{1}
+k=[m(T-T_f)/(T_f-T_i)]-M
 ```
+
+(1)
 
 ### Recomendaciones generales
 

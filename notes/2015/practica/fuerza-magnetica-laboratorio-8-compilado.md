@@ -60,8 +60,10 @@ una región donde existe un
 campo magnético $`\vec B`$ se produce una fuerza elemental dada por
 
 ```math
-d\vec F=I\,\overrightarrow{dl}\wedge\vec B\tag{1}
+d\vec F=I\,\overrightarrow{dl}\wedge\vec B
 ```
+
+(1)
 
 1.- Vamos a usar la expresión (1) en el dispositivo de la figura Nº1, que
 representa una barra recta conductora colocada en un campo
@@ -72,8 +74,10 @@ magnético suministrado por un imán en forma de **U** . Cuando se hace circular
 corriente por la barra aparece una fuerza de intensidad
 
 ```math
-F=ILB\tag{2}
+F=ILB
 ```
+
+(2)
 
 Siendo L el ancho de la región donde existe campo.
 
@@ -94,45 +98,59 @@ involucrados, estudiemos el diagrama de fuerzas de la figura N º3.
 De la cual, se desprende la condición de equilibrio
 
 ```math
-M(O,P)+M(O,Fm)=0\tag{3}
+M(O,P)+M(O,Fm)=0
 ```
+
+(3)
 
 donde
 
 ```math
-P=\mu(2a+b)g\tag{4}
+P=\mu(2a+b)g
 ```
+
+(4)
 
 siendo $`\mu`$ la densidad de masa por unidad de longitud y
 
 ```math
-Fm=ILB\tag{5}
+Fm=ILB
 ```
+
+(5)
 
 la (3) puede rescribirse
 
 ```math
-Yc\,P\mathop{\mathrm{sen}}\nolimits\theta-a\,Fm\cos\theta=0\tag{6}
+Yc\,P\mathop{\mathrm{sen}}\nolimits\theta-a\,Fm\cos\theta=0
 ```
+
+(6)
 
 donde Yc es la distancia del eje de suspensión al centro de masa de la espira y
 viene dada por
 
 ```math
-Yc=\frac{a(a+b)}{2a+b}\tag{7}
+Yc=\frac{a(a+b)}{2a+b}
 ```
+
+(7)
 
 reemplazando (4), (5) y la (7) en la (6) resulta
 
 ```math
-\mathop{\mathrm{tg}}\nolimits\theta=\frac{ILB}{(a+b)a\mu g}\tag{8}
+\mathop{\mathrm{tg}}\nolimits\theta=\frac{ILB}{(a+b)a\mu g}
 ```
+
+(8)
 
 para ángulos pequeños resulta
 
 ```math
-\theta\approx\frac{ILB}{(a+b)a\mu g}\tag{9}
+\theta\approx\frac{ILB}{(a+b)a\mu g}
 ```
+
+(9)
 
 De la (9) se desprende que como la geometría (a, b y L), la masa por unidad de
 longitud L y los campos ( g y B) son constantes existe una relación lineal entre

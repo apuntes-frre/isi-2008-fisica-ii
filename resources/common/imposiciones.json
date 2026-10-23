@@ -54,6 +54,1123 @@
           "casilleros_vacios": 3
         }
       ]
+    },
+    {
+      "original": "2019/3er Parcial/2019 UT X - Ecuaciones de Maxwell.pdf",
+      "sha256": "e01eb7f935efffe562f16d41e625a0bcf0f0f3a257126a6299f46b2e69e79665",
+      "referencia": "2019/3er Parcial/2017 UT X - Ecuaciones de Maxwell.pdf",
+      "sha256_referencia": "a3fbcbd2a058fabe49a11845b069458b60cb348b3497ce7097a46a131603a856",
+      "fecha_impresa": "12/06/2019",
+      "fecha_impresa_referencia": "22/06/2018",
+      "metodo": "Cotejo visual de las22hojas y comparación de texto sin espacios/cabecera/pie de1–21. Contenido transcrito equivalente a referencia2–44, sin portada1; cierre22rasterizado revisado visualmente. Sin identidad binaria ni de render.",
+      "paginas": [
+        {
+          "pagina_pdf": 1,
+          "diapositivas_referencia": [
+            2,
+            3
+          ],
+          "casilleros_vacios": 0
+        },
+        {
+          "pagina_pdf": 2,
+          "diapositivas_referencia": [
+            4,
+            5
+          ],
+          "casilleros_vacios": 0
+        },
+        {
+          "pagina_pdf": 3,
+          "diapositivas_referencia": [
+            6,
+            7
+          ],
+          "casilleros_vacios": 0
+        },
+        {
+          "pagina_pdf": 4,
+          "diapositivas_referencia": [
+            8,
+            9
+          ],
+          "casilleros_vacios": 0
+        },
+        {
+          "pagina_pdf": 5,
+          "diapositivas_referencia": [
+            10,
+            11
+          ],
+          "casilleros_vacios": 0
+        },
+        {
+          "pagina_pdf": 6,
+          "diapositivas_referencia": [
+            12,
+            13
+          ],
+          "casilleros_vacios": 0
+        },
+        {
+          "pagina_pdf": 7,
+          "diapositivas_referencia": [
+            14,
+            15
+          ],
+          "casilleros_vacios": 0
+        },
+        {
+          "pagina_pdf": 8,
+          "diapositivas_referencia": [
+            16,
+            17
+          ],
+          "casilleros_vacios": 0
+        },
+        {
+          "pagina_pdf": 9,
+          "diapositivas_referencia": [
+            18,
+            19
+          ],
+          "casilleros_vacios": 0
+        },
+        {
+          "pagina_pdf": 10,
+          "diapositivas_referencia": [
+            20,
+            21
+          ],
+          "casilleros_vacios": 0
+        },
+        {
+          "pagina_pdf": 11,
+          "diapositivas_referencia": [
+            22,
+            23
+          ],
+          "casilleros_vacios": 0
+        },
+        {
+          "pagina_pdf": 12,
+          "diapositivas_referencia": [
+            24,
+            25
+          ],
+          "casilleros_vacios": 0
+        },
+        {
+          "pagina_pdf": 13,
+          "diapositivas_referencia": [
+            26,
+            27
+          ],
+          "casilleros_vacios": 0
+        },
+        {
+          "pagina_pdf": 14,
+          "diapositivas_referencia": [
+            28,
+            29
+          ],
+          "casilleros_vacios": 0
+        },
+        {
+          "pagina_pdf": 15,
+          "diapositivas_referencia": [
+            30,
+            31
+          ],
+          "casilleros_vacios": 0
+        },
+        {
+          "pagina_pdf": 16,
+          "diapositivas_referencia": [
+            32,
+            33
+          ],
+          "casilleros_vacios": 0
+        },
+        {
+          "pagina_pdf": 17,
+          "diapositivas_referencia": [
+            34,
+            35
+          ],
+          "casilleros_vacios": 0
+        },
+        {
+          "pagina_pdf": 18,
+          "diapositivas_referencia": [
+            36,
+            37
+          ],
+          "casilleros_vacios": 0
+        },
+        {
+          "pagina_pdf": 19,
+          "diapositivas_referencia": [
+            38,
+            39
+          ],
+          "casilleros_vacios": 0
+        },
+        {
+          "pagina_pdf": 20,
+          "diapositivas_referencia": [
+            40,
+            41
+          ],
+          "casilleros_vacios": 0
+        },
+        {
+          "pagina_pdf": 21,
+          "diapositivas_referencia": [
+            42,
+            43
+          ],
+          "casilleros_vacios": 0
+        },
+        {
+          "pagina_pdf": 22,
+          "diapositivas_referencia": [
+            44
+          ],
+          "casilleros_vacios": 1
+        }
+      ]
+    },
+    {
+      "original": "2019/2do Parcial/UT 5 4 pag.pdf",
+      "sha256": "134d9de661dcefd039d315a0e669b89c38bf02859d1d2d0806f15569b5006764",
+      "referencia": "2019/2do Parcial/2019 UT V - Fuerzas Magnéticas sobre cargas y elementos de corriente.pdf",
+      "sha256_referencia": "383fdb6f46e1627fbe65cf259b89a480bd4b4cc61821cbfc466fa3e4a63ceb29",
+      "metodo": "Cotejo visual de las once hojas. Dieciocho diapositivas con contenido equivalente; veinte con variantes transcritas en cuatro notas. Cuatro pendientes por glifos dañados; dos casilleros finales vacíos. No hay identidad binaria ni de render. La numeración de diapositivas se asigna por orden de casillero.",
+      "estado": "parcial:38 de42diapositivas documentadas",
+      "paginas": [
+        {
+          "pagina_pdf": 1,
+          "casilleros": [
+            {
+              "casillero": 1,
+              "diapositiva_referencia": 1,
+              "nota": "notes/2019/teoria/fuerzas-magneticas-programa-historia-2019.md",
+              "estado": "contenido cotejado; sin duplicar apunte"
+            },
+            {
+              "casillero": 2,
+              "diapositiva_referencia": 2,
+              "nota": "notes/2019/teoria/fuerzas-magneticas-programa-historia-2019.md",
+              "estado": "contenido cotejado; sin duplicar apunte"
+            },
+            {
+              "casillero": 3,
+              "diapositiva_referencia": 3,
+              "nota": "notes/2019/teoria/fuerzas-magneticas-programa-historia-2019.md",
+              "estado": "contenido cotejado; sin duplicar apunte"
+            },
+            {
+              "casillero": 4,
+              "diapositiva_referencia": 4,
+              "nota": "notes/2019/teoria/fuerzas-magneticas-programa-historia-2019.md",
+              "estado": "contenido cotejado; sin duplicar apunte"
+            }
+          ]
+        },
+        {
+          "pagina_pdf": 2,
+          "casilleros": [
+            {
+              "casillero": 1,
+              "diapositiva_referencia": 5,
+              "nota": "notes/2019/teoria/imanes-caracteristicas-fuerzas-magneticas-2019.md",
+              "estado": "contenido cotejado; sin duplicar apunte"
+            },
+            {
+              "casillero": 2,
+              "diapositiva_referencia": 6,
+              "nota": "notes/2019/teoria/imanes-caracteristicas-fuerzas-magneticas-2019.md",
+              "estado": "contenido cotejado; sin duplicar apunte"
+            },
+            {
+              "casillero": 3,
+              "diapositiva_referencia": 7,
+              "nota": "notes/2019/teoria/imanes-caracteristicas-fuerzas-magneticas-2019.md",
+              "estado": "contenido cotejado; sin duplicar apunte"
+            },
+            {
+              "casillero": 4,
+              "diapositiva_referencia": 8,
+              "nota": "notes/2019/teoria/imanes-caracteristicas-fuerzas-magneticas-2019.md",
+              "estado": "contenido cotejado; sin duplicar apunte"
+            }
+          ]
+        },
+        {
+          "pagina_pdf": 3,
+          "casilleros": [
+            {
+              "casillero": 1,
+              "diapositiva_referencia": 9,
+              "nota": "notes/2019/teoria/campo-magnetico-lineas-intensidad-2019.md",
+              "estado": "contenido cotejado; sin duplicar apunte"
+            },
+            {
+              "casillero": 2,
+              "diapositiva_referencia": 10,
+              "nota": "notes/2019/teoria/campo-magnetico-lineas-intensidad-2019.md",
+              "estado": "contenido cotejado; sin duplicar apunte"
+            },
+            {
+              "casillero": 3,
+              "diapositiva_referencia": 11,
+              "nota": "notes/2019/teoria/campo-magnetico-lineas-intensidad-2019.md",
+              "estado": "contenido cotejado; sin duplicar apunte"
+            },
+            {
+              "casillero": 4,
+              "diapositiva_referencia": 12,
+              "nota": "notes/2019/teoria/fuerza-magnetica-carga-unidades-regla-mano-2019.md",
+              "estado": "contenido cotejado; sin duplicar apunte"
+            }
+          ]
+        },
+        {
+          "pagina_pdf": 4,
+          "casilleros": [
+            {
+              "casillero": 1,
+              "diapositiva_referencia": 13,
+              "nota": "notes/2019/teoria/fuerza-magnetica-carga-unidades-variante-impresa-2019.md",
+              "estado": "variante transcrita; render GitHub pendiente"
+            },
+            {
+              "casillero": 2,
+              "diapositiva_referencia": 14,
+              "nota": "notes/2019/teoria/fuerza-magnetica-carga-unidades-variante-impresa-2019.md",
+              "estado": "variante transcrita; render GitHub pendiente"
+            },
+            {
+              "casillero": 3,
+              "diapositiva_referencia": 15,
+              "nota": "notes/2019/teoria/fuerza-magnetica-carga-unidades-variante-impresa-2019.md",
+              "estado": "variante transcrita; render GitHub pendiente"
+            },
+            {
+              "casillero": 4,
+              "diapositiva_referencia": 16,
+              "nota": "notes/2019/teoria/fuerza-magnetica-carga-unidades-variante-impresa-2019.md",
+              "estado": "variante transcrita; render GitHub pendiente"
+            }
+          ]
+        },
+        {
+          "pagina_pdf": 5,
+          "casilleros": [
+            {
+              "casillero": 1,
+              "diapositiva_referencia": 17,
+              "nota": "notes/2019/teoria/lorentz-movimiento-circular-helicoidal-variante-impresa-2019.md",
+              "estado": "variante transcrita; render GitHub pendiente"
+            },
+            {
+              "casillero": 2,
+              "diapositiva_referencia": 18,
+              "nota": "notes/2019/teoria/lorentz-movimiento-circular-helicoidal-variante-impresa-2019.md",
+              "estado": "variante transcrita; render GitHub pendiente"
+            },
+            {
+              "casillero": 3,
+              "diapositiva_referencia": 19,
+              "nota": "notes/2019/teoria/lorentz-movimiento-circular-helicoidal-variante-impresa-2019.md",
+              "estado": "variante transcrita; render GitHub pendiente"
+            },
+            {
+              "casillero": 4,
+              "diapositiva_referencia": 20,
+              "nota": "notes/2019/teoria/lorentz-movimiento-circular-helicoidal-variante-impresa-2019.md",
+              "estado": "variante transcrita; render GitHub pendiente"
+            }
+          ]
+        },
+        {
+          "pagina_pdf": 6,
+          "casilleros": [
+            {
+              "casillero": 1,
+              "diapositiva_referencia": 21,
+              "nota": "notes/2019/teoria/selector-velocidades-espectrometro-masas-2019.md",
+              "estado": "contenido cotejado; sin duplicar apunte"
+            },
+            {
+              "casillero": 2,
+              "diapositiva_referencia": 22,
+              "nota": "notes/2019/teoria/selector-velocidades-espectrometro-masas-2019.md",
+              "estado": "contenido cotejado; sin duplicar apunte"
+            },
+            {
+              "casillero": 3,
+              "diapositiva_referencia": 23,
+              "nota": "notes/2019/teoria/selector-velocidades-espectrometro-masas-2019.md",
+              "estado": "contenido cotejado; sin duplicar apunte"
+            },
+            {
+              "casillero": 4,
+              "diapositiva_referencia": 24,
+              "nota": "notes/2019/teoria/efecto-hall-ciclotron-2019.md",
+              "estado": "contenido cotejado; sin duplicar apunte"
+            }
+          ]
+        },
+        {
+          "pagina_pdf": 7,
+          "casilleros": [
+            {
+              "casillero": 1,
+              "diapositiva_referencia": 25,
+              "nota": "notes/2019/teoria/efecto-hall-ciclotron-2019.md",
+              "estado": "contenido cotejado; sin duplicar apunte"
+            },
+            {
+              "casillero": 2,
+              "diapositiva_referencia": 26,
+              "estado": "pendiente: glifos dañados; no reconstruir por conjetura"
+            },
+            {
+              "casillero": 3,
+              "diapositiva_referencia": 27,
+              "nota": "notes/2019/teoria/fuerza-conductor-corriente-variante-impresa-2019.md",
+              "estado": "variante transcrita; render GitHub pendiente"
+            },
+            {
+              "casillero": 4,
+              "diapositiva_referencia": 28,
+              "nota": "notes/2019/teoria/fuerza-conductor-corriente-variante-impresa-2019.md",
+              "estado": "variante transcrita; render GitHub pendiente"
+            }
+          ]
+        },
+        {
+          "pagina_pdf": 8,
+          "casilleros": [
+            {
+              "casillero": 1,
+              "diapositiva_referencia": 29,
+              "nota": "notes/2019/teoria/fuerza-conductor-corriente-variante-impresa-2019.md",
+              "estado": "variante transcrita; render GitHub pendiente"
+            },
+            {
+              "casillero": 2,
+              "diapositiva_referencia": 30,
+              "nota": "notes/2019/teoria/fuerza-conductor-corriente-variante-impresa-2019.md",
+              "estado": "variante transcrita; render GitHub pendiente"
+            },
+            {
+              "casillero": 3,
+              "diapositiva_referencia": 31,
+              "nota": "notes/2019/teoria/fuerza-conductor-corriente-variante-impresa-2019.md",
+              "estado": "variante transcrita; render GitHub pendiente"
+            },
+            {
+              "casillero": 4,
+              "diapositiva_referencia": 32,
+              "nota": "notes/2019/teoria/torque-espira-momento-dipolar-variante-impresa-2019.md",
+              "estado": "variante transcrita; render GitHub pendiente"
+            }
+          ]
+        },
+        {
+          "pagina_pdf": 9,
+          "casilleros": [
+            {
+              "casillero": 1,
+              "diapositiva_referencia": 33,
+              "nota": "notes/2019/teoria/torque-espira-momento-dipolar-variante-impresa-2019.md",
+              "estado": "variante transcrita; render GitHub pendiente"
+            },
+            {
+              "casillero": 2,
+              "diapositiva_referencia": 34,
+              "nota": "notes/2019/teoria/torque-espira-momento-dipolar-variante-impresa-2019.md",
+              "estado": "variante transcrita; render GitHub pendiente"
+            },
+            {
+              "casillero": 3,
+              "diapositiva_referencia": 35,
+              "nota": "notes/2019/teoria/torque-espira-momento-dipolar-variante-impresa-2019.md",
+              "estado": "variante transcrita; render GitHub pendiente"
+            },
+            {
+              "casillero": 4,
+              "diapositiva_referencia": 36,
+              "nota": "notes/2019/teoria/torque-espira-momento-dipolar-variante-impresa-2019.md",
+              "estado": "variante transcrita; render GitHub pendiente"
+            }
+          ]
+        },
+        {
+          "pagina_pdf": 10,
+          "casilleros": [
+            {
+              "casillero": 1,
+              "diapositiva_referencia": 37,
+              "nota": "notes/2019/teoria/torque-espira-momento-dipolar-variante-impresa-2019.md",
+              "estado": "variante transcrita; render GitHub pendiente"
+            },
+            {
+              "casillero": 2,
+              "diapositiva_referencia": 38,
+              "nota": "notes/2019/teoria/torque-espira-momento-dipolar-variante-impresa-2019.md",
+              "estado": "variante transcrita; render GitHub pendiente"
+            },
+            {
+              "casillero": 3,
+              "diapositiva_referencia": 39,
+              "nota": "notes/2019/teoria/demostracion-trayectoria-helicoidal-2019.md",
+              "estado": "contenido cotejado; sin duplicar apunte"
+            },
+            {
+              "casillero": 4,
+              "diapositiva_referencia": 40,
+              "estado": "pendiente: glifos dañados; no reconstruir por conjetura"
+            }
+          ]
+        },
+        {
+          "pagina_pdf": 11,
+          "casilleros": [
+            {
+              "casillero": 1,
+              "diapositiva_referencia": 41,
+              "estado": "pendiente: glifos dañados; no reconstruir por conjetura"
+            },
+            {
+              "casillero": 2,
+              "diapositiva_referencia": 42,
+              "estado": "pendiente: glifos dañados; no reconstruir por conjetura"
+            },
+            {
+              "casillero": 3,
+              "estado": "vacío original revisado"
+            },
+            {
+              "casillero": 4,
+              "estado": "vacío original revisado"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "2019/2do Parcial/UT 5 6 pag.pdf",
+      "sha256": "d80e499c858b45d8146a3e18152de704cefbb9d0009ea7f3717141f3543e7d9c",
+      "referencia": "2019/2do Parcial/UT 5 4 pag.pdf",
+      "sha256_referencia": "134d9de661dcefd039d315a0e669b89c38bf02859d1d2d0806f15569b5006764",
+      "metodo": "Siete hojas completas cotejadas visualmente tras rotación antihoraria90grados. Orden de42diapositivas igual a117, incluidas variantes q/p/w/t/m/f ydaños26/40–42. No se declara identidad binaria ni de píxeles. No hay casilleros vacíos.",
+      "estado": "parcial:38 de42diapositivas documentadas; mismos cuatro tramos dañados que117",
+      "paginas": [
+        {
+          "pagina_pdf": 1,
+          "casilleros": [
+            {
+              "casillero": 1,
+              "diapositiva_referencia": 1,
+              "nota": "notes/2019/teoria/fuerzas-magneticas-programa-historia-2019.md",
+              "estado": "contenido cotejado con impresión117 y apunte enlazado; render según cobertura"
+            },
+            {
+              "casillero": 2,
+              "diapositiva_referencia": 2,
+              "nota": "notes/2019/teoria/fuerzas-magneticas-programa-historia-2019.md",
+              "estado": "contenido cotejado con impresión117 y apunte enlazado; render según cobertura"
+            },
+            {
+              "casillero": 3,
+              "diapositiva_referencia": 3,
+              "nota": "notes/2019/teoria/fuerzas-magneticas-programa-historia-2019.md",
+              "estado": "contenido cotejado con impresión117 y apunte enlazado; render según cobertura"
+            },
+            {
+              "casillero": 4,
+              "diapositiva_referencia": 4,
+              "nota": "notes/2019/teoria/fuerzas-magneticas-programa-historia-2019.md",
+              "estado": "contenido cotejado con impresión117 y apunte enlazado; render según cobertura"
+            },
+            {
+              "casillero": 5,
+              "diapositiva_referencia": 5,
+              "nota": "notes/2019/teoria/imanes-caracteristicas-fuerzas-magneticas-2019.md",
+              "estado": "contenido cotejado con impresión117 y apunte enlazado; render según cobertura"
+            },
+            {
+              "casillero": 6,
+              "diapositiva_referencia": 6,
+              "nota": "notes/2019/teoria/imanes-caracteristicas-fuerzas-magneticas-2019.md",
+              "estado": "contenido cotejado con impresión117 y apunte enlazado; render según cobertura"
+            }
+          ]
+        },
+        {
+          "pagina_pdf": 2,
+          "casilleros": [
+            {
+              "casillero": 1,
+              "diapositiva_referencia": 7,
+              "nota": "notes/2019/teoria/imanes-caracteristicas-fuerzas-magneticas-2019.md",
+              "estado": "contenido cotejado con impresión117 y apunte enlazado; render según cobertura"
+            },
+            {
+              "casillero": 2,
+              "diapositiva_referencia": 8,
+              "nota": "notes/2019/teoria/imanes-caracteristicas-fuerzas-magneticas-2019.md",
+              "estado": "contenido cotejado con impresión117 y apunte enlazado; render según cobertura"
+            },
+            {
+              "casillero": 3,
+              "diapositiva_referencia": 9,
+              "nota": "notes/2019/teoria/campo-magnetico-lineas-intensidad-2019.md",
+              "estado": "contenido cotejado con impresión117 y apunte enlazado; render según cobertura"
+            },
+            {
+              "casillero": 4,
+              "diapositiva_referencia": 10,
+              "nota": "notes/2019/teoria/campo-magnetico-lineas-intensidad-2019.md",
+              "estado": "contenido cotejado con impresión117 y apunte enlazado; render según cobertura"
+            },
+            {
+              "casillero": 5,
+              "diapositiva_referencia": 11,
+              "nota": "notes/2019/teoria/campo-magnetico-lineas-intensidad-2019.md",
+              "estado": "contenido cotejado con impresión117 y apunte enlazado; render según cobertura"
+            },
+            {
+              "casillero": 6,
+              "diapositiva_referencia": 12,
+              "nota": "notes/2019/teoria/fuerza-magnetica-carga-unidades-regla-mano-2019.md",
+              "estado": "contenido cotejado con impresión117 y apunte enlazado; render según cobertura"
+            }
+          ]
+        },
+        {
+          "pagina_pdf": 3,
+          "casilleros": [
+            {
+              "casillero": 1,
+              "diapositiva_referencia": 13,
+              "nota": "notes/2019/teoria/fuerza-magnetica-carga-unidades-variante-impresa-2019.md",
+              "estado": "contenido cotejado con impresión117 y apunte enlazado; render según cobertura"
+            },
+            {
+              "casillero": 2,
+              "diapositiva_referencia": 14,
+              "nota": "notes/2019/teoria/fuerza-magnetica-carga-unidades-variante-impresa-2019.md",
+              "estado": "contenido cotejado con impresión117 y apunte enlazado; render según cobertura"
+            },
+            {
+              "casillero": 3,
+              "diapositiva_referencia": 15,
+              "nota": "notes/2019/teoria/fuerza-magnetica-carga-unidades-variante-impresa-2019.md",
+              "estado": "contenido cotejado con impresión117 y apunte enlazado; render según cobertura"
+            },
+            {
+              "casillero": 4,
+              "diapositiva_referencia": 16,
+              "nota": "notes/2019/teoria/fuerza-magnetica-carga-unidades-variante-impresa-2019.md",
+              "estado": "contenido cotejado con impresión117 y apunte enlazado; render según cobertura"
+            },
+            {
+              "casillero": 5,
+              "diapositiva_referencia": 17,
+              "nota": "notes/2019/teoria/lorentz-movimiento-circular-helicoidal-variante-impresa-2019.md",
+              "estado": "contenido cotejado con impresión117 y apunte enlazado; render según cobertura"
+            },
+            {
+              "casillero": 6,
+              "diapositiva_referencia": 18,
+              "nota": "notes/2019/teoria/lorentz-movimiento-circular-helicoidal-variante-impresa-2019.md",
+              "estado": "contenido cotejado con impresión117 y apunte enlazado; render según cobertura"
+            }
+          ]
+        },
+        {
+          "pagina_pdf": 4,
+          "casilleros": [
+            {
+              "casillero": 1,
+              "diapositiva_referencia": 19,
+              "nota": "notes/2019/teoria/lorentz-movimiento-circular-helicoidal-variante-impresa-2019.md",
+              "estado": "contenido cotejado con impresión117 y apunte enlazado; render según cobertura"
+            },
+            {
+              "casillero": 2,
+              "diapositiva_referencia": 20,
+              "nota": "notes/2019/teoria/lorentz-movimiento-circular-helicoidal-variante-impresa-2019.md",
+              "estado": "contenido cotejado con impresión117 y apunte enlazado; render según cobertura"
+            },
+            {
+              "casillero": 3,
+              "diapositiva_referencia": 21,
+              "nota": "notes/2019/teoria/selector-velocidades-espectrometro-masas-2019.md",
+              "estado": "contenido cotejado con impresión117 y apunte enlazado; render según cobertura"
+            },
+            {
+              "casillero": 4,
+              "diapositiva_referencia": 22,
+              "nota": "notes/2019/teoria/selector-velocidades-espectrometro-masas-2019.md",
+              "estado": "contenido cotejado con impresión117 y apunte enlazado; render según cobertura"
+            },
+            {
+              "casillero": 5,
+              "diapositiva_referencia": 23,
+              "nota": "notes/2019/teoria/selector-velocidades-espectrometro-masas-2019.md",
+              "estado": "contenido cotejado con impresión117 y apunte enlazado; render según cobertura"
+            },
+            {
+              "casillero": 6,
+              "diapositiva_referencia": 24,
+              "nota": "notes/2019/teoria/efecto-hall-ciclotron-2019.md",
+              "estado": "contenido cotejado con impresión117 y apunte enlazado; render según cobertura"
+            }
+          ]
+        },
+        {
+          "pagina_pdf": 5,
+          "casilleros": [
+            {
+              "casillero": 1,
+              "diapositiva_referencia": 25,
+              "nota": "notes/2019/teoria/efecto-hall-ciclotron-2019.md",
+              "estado": "contenido cotejado con impresión117 y apunte enlazado; render según cobertura"
+            },
+            {
+              "casillero": 2,
+              "diapositiva_referencia": 26,
+              "estado": "pendiente: glifos dañados; no reconstruir por conjetura"
+            },
+            {
+              "casillero": 3,
+              "diapositiva_referencia": 27,
+              "nota": "notes/2019/teoria/fuerza-conductor-corriente-variante-impresa-2019.md",
+              "estado": "contenido cotejado con impresión117 y apunte enlazado; render según cobertura"
+            },
+            {
+              "casillero": 4,
+              "diapositiva_referencia": 28,
+              "nota": "notes/2019/teoria/fuerza-conductor-corriente-variante-impresa-2019.md",
+              "estado": "contenido cotejado con impresión117 y apunte enlazado; render según cobertura"
+            },
+            {
+              "casillero": 5,
+              "diapositiva_referencia": 29,
+              "nota": "notes/2019/teoria/fuerza-conductor-corriente-variante-impresa-2019.md",
+              "estado": "contenido cotejado con impresión117 y apunte enlazado; render según cobertura"
+            },
+            {
+              "casillero": 6,
+              "diapositiva_referencia": 30,
+              "nota": "notes/2019/teoria/fuerza-conductor-corriente-variante-impresa-2019.md",
+              "estado": "contenido cotejado con impresión117 y apunte enlazado; render según cobertura"
+            }
+          ]
+        },
+        {
+          "pagina_pdf": 6,
+          "casilleros": [
+            {
+              "casillero": 1,
+              "diapositiva_referencia": 31,
+              "nota": "notes/2019/teoria/fuerza-conductor-corriente-variante-impresa-2019.md",
+              "estado": "contenido cotejado con impresión117 y apunte enlazado; render según cobertura"
+            },
+            {
+              "casillero": 2,
+              "diapositiva_referencia": 32,
+              "nota": "notes/2019/teoria/torque-espira-momento-dipolar-variante-impresa-2019.md",
+              "estado": "contenido cotejado con impresión117 y apunte enlazado; render según cobertura"
+            },
+            {
+              "casillero": 3,
+              "diapositiva_referencia": 33,
+              "nota": "notes/2019/teoria/torque-espira-momento-dipolar-variante-impresa-2019.md",
+              "estado": "contenido cotejado con impresión117 y apunte enlazado; render según cobertura"
+            },
+            {
+              "casillero": 4,
+              "diapositiva_referencia": 34,
+              "nota": "notes/2019/teoria/torque-espira-momento-dipolar-variante-impresa-2019.md",
+              "estado": "contenido cotejado con impresión117 y apunte enlazado; render según cobertura"
+            },
+            {
+              "casillero": 5,
+              "diapositiva_referencia": 35,
+              "nota": "notes/2019/teoria/torque-espira-momento-dipolar-variante-impresa-2019.md",
+              "estado": "contenido cotejado con impresión117 y apunte enlazado; render según cobertura"
+            },
+            {
+              "casillero": 6,
+              "diapositiva_referencia": 36,
+              "nota": "notes/2019/teoria/torque-espira-momento-dipolar-variante-impresa-2019.md",
+              "estado": "contenido cotejado con impresión117 y apunte enlazado; render según cobertura"
+            }
+          ]
+        },
+        {
+          "pagina_pdf": 7,
+          "casilleros": [
+            {
+              "casillero": 1,
+              "diapositiva_referencia": 37,
+              "nota": "notes/2019/teoria/torque-espira-momento-dipolar-variante-impresa-2019.md",
+              "estado": "contenido cotejado con impresión117 y apunte enlazado; render según cobertura"
+            },
+            {
+              "casillero": 2,
+              "diapositiva_referencia": 38,
+              "nota": "notes/2019/teoria/torque-espira-momento-dipolar-variante-impresa-2019.md",
+              "estado": "contenido cotejado con impresión117 y apunte enlazado; render según cobertura"
+            },
+            {
+              "casillero": 3,
+              "diapositiva_referencia": 39,
+              "nota": "notes/2019/teoria/demostracion-trayectoria-helicoidal-2019.md",
+              "estado": "contenido cotejado con impresión117 y apunte enlazado; render según cobertura"
+            },
+            {
+              "casillero": 4,
+              "diapositiva_referencia": 40,
+              "estado": "pendiente: glifos dañados; no reconstruir por conjetura"
+            },
+            {
+              "casillero": 5,
+              "diapositiva_referencia": 41,
+              "estado": "pendiente: glifos dañados; no reconstruir por conjetura"
+            },
+            {
+              "casillero": 6,
+              "diapositiva_referencia": 42,
+              "estado": "pendiente: glifos dañados; no reconstruir por conjetura"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original": "2019/2do Parcial/UT 6 4 pag.pdf",
+      "sha256": "11b6b968cf12ac646e33b77cd95d6c6686f7d2be69d4e8ec7050c57ed7ec3d52",
+      "referencia": "2019/2do Parcial/2019 UT VI - Campo de Inducción Magnética. Propiedades.pdf",
+      "sha256_referencia": "b9bb8ec5e8acfa36814e15207ee532a00e566ff5ea72bd139eff27ae0b2d634f",
+      "fecha_impresa": "08/05/2019",
+      "metodo": "Cotejo visual de cuatro hojas completas:31diapositivas y16páginas de referencia. Se conservan erratas ysuperposiciones. No se duplican seis notas ni se declara identidad binaria/de píxeles. No hay enlaces interactivos en esta impresión.",
+      "paginas": [
+        {
+          "pagina_pdf": 1,
+          "paginas_referencia": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "diapositivas_referencia": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "pagina_pdf": 2,
+          "paginas_referencia": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "diapositivas_referencia": [
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        },
+        {
+          "pagina_pdf": 3,
+          "paginas_referencia": [
+            9,
+            10,
+            11,
+            12
+          ],
+          "diapositivas_referencia": [
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24
+          ]
+        },
+        {
+          "pagina_pdf": 4,
+          "paginas_referencia": [
+            13,
+            14,
+            15,
+            16
+          ],
+          "diapositivas_referencia": [
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31
+          ]
+        }
+      ]
+    },
+    {
+      "original": "2019/2do Parcial/UT 6 6 pag.pdf",
+      "sha256": "edd00d2a1e1339d7a650ae412805418d759df4e3d5959019004489da7f1c3476",
+      "referencia": "2019/2do Parcial/2019 UT VI - Campo de Inducción Magnética. Propiedades.pdf",
+      "sha256_referencia": "b9bb8ec5e8acfa36814e15207ee532a00e566ff5ea72bd139eff27ae0b2d634f",
+      "fecha_impresa": "08/05/2019",
+      "metodo": "Cotejo visual de las tres hojas tras rotación antihoraria90grados. Dieciséis páginas de referencia contienen31diapositivas. Texto, fórmulas,figuras,erratas ysuperposición cotejados; no se duplican notas. Seis páginas de referencia por hoja; dos casilleros finales vacíos. No hay enlaces interactivos ni identidad binaria/de píxeles.",
+      "paginas": [
+        {
+          "pagina_pdf": 1,
+          "paginas_referencia": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "diapositivas_referencia": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ],
+          "casilleros_paginas_vacios": 0
+        },
+        {
+          "pagina_pdf": 2,
+          "paginas_referencia": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ],
+          "diapositivas_referencia": [
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24
+          ],
+          "casilleros_paginas_vacios": 0
+        },
+        {
+          "pagina_pdf": 3,
+          "paginas_referencia": [
+            13,
+            14,
+            15,
+            16
+          ],
+          "diapositivas_referencia": [
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31
+          ],
+          "casilleros_paginas_vacios": 2
+        }
+      ]
+    },
+    {
+      "original": "2019/2do Parcial/UT 7 6 pag.pdf",
+      "sha256": "e9078c66ef7a4749ab7f5bc7a6119e2b413e562967c4c9bf964963a8bc4f613b",
+      "referencia": "2019/2do Parcial/2019 UT VII - Fenómenos de Inducción Electromagnética.pdf",
+      "sha256_referencia": "cbefa338a0f56f56079880a84f05a963257a6473febd8da50f944a67f2210a8f",
+      "fecha_impresa": "14/05/2019",
+      "metodo": "Cotejo visual por lotes de hojas completas tras rotación antihoraria90grados. No se declara identidad binaria ni de píxeles. Las correspondencias solo cubren las hojas registradas.",
+      "estado": "completo por cotejo documental:67diapositivas en doce hojas",
+      "paginas": [
+        {
+          "pagina_pdf": 1,
+          "diapositivas_referencia": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "casilleros_vacios": 0
+        },
+        {
+          "pagina_pdf": 2,
+          "diapositivas_referencia": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ],
+          "casilleros_vacios": 0
+        },
+        {
+          "pagina_pdf": 3,
+          "diapositivas_referencia": [
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ],
+          "casilleros_vacios": 0
+        },
+        {
+          "pagina_pdf": 4,
+          "diapositivas_referencia": [
+            19,
+            20,
+            21,
+            22,
+            23,
+            24
+          ],
+          "casilleros_vacios": 0
+        },
+        {
+          "pagina_pdf": 5,
+          "diapositivas_referencia": [
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "casilleros_vacios": 0
+        },
+        {
+          "pagina_pdf": 6,
+          "diapositivas_referencia": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36
+          ],
+          "casilleros_vacios": 0
+        },
+        {
+          "pagina_pdf": 7,
+          "diapositivas_referencia": [
+            37,
+            38,
+            39,
+            40,
+            41,
+            42
+          ],
+          "casilleros_vacios": 0
+        },
+        {
+          "pagina_pdf": 8,
+          "diapositivas_referencia": [
+            43,
+            44,
+            45,
+            46,
+            47,
+            48
+          ],
+          "casilleros_vacios": 0
+        },
+        {
+          "pagina_pdf": 9,
+          "diapositivas_referencia": [
+            49,
+            50,
+            51,
+            52,
+            53,
+            54
+          ],
+          "casilleros_vacios": 0
+        },
+        {
+          "pagina_pdf": 10,
+          "diapositivas_referencia": [
+            55,
+            56,
+            57,
+            58,
+            59,
+            60
+          ],
+          "casilleros_vacios": 0
+        },
+        {
+          "pagina_pdf": 11,
+          "diapositivas_referencia": [
+            61,
+            62,
+            63,
+            64,
+            65,
+            66
+          ],
+          "casilleros_vacios": 0
+        },
+        {
+          "pagina_pdf": 12,
+          "diapositivas_referencia": [
+            67
+          ],
+          "casilleros_vacios": 5
+        }
+      ],
+      "paginas_pendientes": []
     }
   ]
 }

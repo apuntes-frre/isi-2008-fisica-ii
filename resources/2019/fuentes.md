@@ -111,68 +111,130 @@ originales de las normalizadas y registra conteos matemáticos.
   9 páginas cotejadas; derivación OCR deteriorada, referencia legible en el
   informe anterior; no identidad de render. SHA-256:
   `b7c6ad28eccedebbac43e01c2fefa96d20763c7b06bd705559aee0a27cef5a2a`.
-- `2019/2do Parcial/UT 5 4 pag.pdf`: 11 páginas; pendiente. SHA-256:
+- `2019/2do Parcial/UT 5 4 pag.pdf`: 11 páginas revisadas visualmente.
+  Diapositivas13–20 y27–38 transcritas en cuatro notas de variante,
+  34expresiones; q/p/w/t/m/f del original preservadas. Figuras reutilizadas tras
+  cotejo. Correspondencias de1–12,21–25,39 registradas sin duplicar notas:38
+  de42 diapositivas documentadas. Faltan tratar glifos dañados de26/40–42;
+  render GitHub pendiente. SHA-256:
   `134d9de661dcefd039d315a0e669b89c38bf02859d1d2d0806f15569b5006764`.
-- `2019/2do Parcial/UT 5 6 pag.pdf`: 7 páginas; pendiente. SHA-256:
+- `2019/2do Parcial/UT 5 6 pag.pdf`: siete páginas cotejadas, 42diapositivas.
+  Correspondencias registradas para38 sin duplicar notas; conserva variantes
+  q/p/w/t/m/f ylos mismos glifos dañados26/40–42 de la impresión de cuatro. Esos
+  cuatro tramos siguen pendientes. SHA-256:
   `d80e499c858b45d8146a3e18152de704cefbb9d0009ea7f3717141f3543e7d9c`.
-- `2019/2do Parcial/UT 6 4 pag.pdf`: 4 páginas; pendiente. SHA-256:
+- `2019/2do Parcial/UT 6 4 pag.pdf`: cuatro hojas completas cotejadas,
+  fecha08/05/2019;31diapositivas cubiertas por seis apuntes de la versión de16
+  páginas. Correspondencias en imposiciones.json. Erratas ysuperposición
+  conservadas; impresión sin enlaces interactivos, distintos de los del PDF de
+  referencia. No se duplican notas. SHA-256:
   `11b6b968cf12ac646e33b77cd95d6c6686f7d2be69d4e8ec7050c57ed7ec3d52`.
-- `2019/2do Parcial/UT 6 6 pag.pdf`: 3 páginas; pendiente. SHA-256:
-  `edd00d2a1e1339d7a650ae412805418d759df4e3d5959019004489da7f1c3476`.
-- `2019/2do Parcial/UT 7 6 pag.pdf`: 12 páginas; pendiente. SHA-256:
+- `2019/2do Parcial/UT 6 6 pag.pdf`: tres hojas completas cotejadas,
+  fecha08/05/2019;31diapositivas y16páginas de referencia cubiertas por seis
+  apuntes existentes. Dos casilleros finales vacíos; impresión sin enlaces
+  interactivos. Correspondencias en imposiciones.json; no se duplican notas.
+  SHA-256: `edd00d2a1e1339d7a650ae412805418d759df4e3d5959019004489da7f1c3476`.
+- `2019/2do Parcial/UT 7 6 pag.pdf`: completo por cotejo
+  documental:67diapositivas en doce hojas. Fecha14/05/2019. Correspondencias
+  registradas con la versión de67páginas, sin duplicar apuntes ni atribuir
+  cobertura a tramos no revisados. SHA-256:
   `e9078c66ef7a4749ab7f5bc7a6119e2b413e562967c4c9bf964963a8bc4f613b`.
 - `2019/2do Parcial/UT 8 6 pag.pdf`: 4 páginas; completo: impresión de las21
   diapositivas de Magnetismo en Medios materiales, cotejadas con la versión
   individual; correspondencia en `resources/common/imposiciones.json`. SHA-256:
   `d2d2d0f25fb3fdf3e79399ff0127bd753745d6368a9511122ae7f7076e1f09b2`.
-- `2019/3er Parcial/2017 UT IX Corriente Alterna.pdf`: 34 páginas; pendiente.
-  SHA-256: `9e7ec2ad4e867b5dc688982d6b052f2b16e926ee1adcfc55f7007697c05cf263`.
-- `2019/3er Parcial/2017 UT IX Corriente Alterna.pptx`: no PDF páginas;
-  pendiente. SHA-256:
+- `2019/3er Parcial/2017 UT IX Corriente Alterna.pdf`: 34 páginas cotejadas y
+  transcritas en trece notas (doce teóricas y una de problemas). Fecha impresa
+  13/06/2018; se conservan el cierre y el anexo con inconsistencias, sin
+  resolver ejercicios. Las 101 expresiones y 23 figuras se verificaron en
+  GitHub. SHA-256:
+  `9e7ec2ad4e867b5dc688982d6b052f2b16e926ee1adcfc55f7007697c05cf263`.
+- `2019/3er Parcial/2017 UT IX Corriente Alterna.pptx`: 35 diapositivas
+  cotejadas; 34 corresponden al PDF homónimo y la 24 agrega un problema de
+  impedancias, transcrito por separado sin solución. No se declara identidad de
+  render. SHA-256:
   `4642d02dd308180ca235fbb34bb0e99b9f8ea0f422c6a860bae65b6071494a3a`.
-- `2019/3er Parcial/2017 UT X - Ecuaciones de Maxwell.pdf`: 44 páginas;
-  pendiente. SHA-256:
-  `a3fbcbd2a058fabe49a11845b069458b60cb348b3497ce7097a46a131603a856`.
-- `2019/3er Parcial/2017 UT XIV - Polarización (1).pptx`: no PDF páginas;
-  pendiente. SHA-256:
+- `2019/3er Parcial/2017 UT X - Ecuaciones de Maxwell.pdf`: 44 páginas cotejadas
+  y transcritas en trece notas. Fecha impresa22/06/2018. Se conservan las
+  demostraciones, figuras, tabla de seis intervalos, video enlazado, problema
+  sin resolver, referencias locales externas como texto y variaciones de
+  notación. Las 113 expresiones, 17 figuras y la tabla se verificaron en GitHub.
+  SHA-256: `a3fbcbd2a058fabe49a11845b069458b60cb348b3497ce7097a46a131603a856`.
+- `2019/3er Parcial/2017 UT XIV - Polarización (1).pptx`:26diapositivas
+  completas transcritas en trece notas,20PNG y5GIF originales; ejemplo sin
+  resolver yerratas conservadas. Render GitHub verificado en03acf0b. SHA-256:
   `cdbb4a10bd2ae311654780d7928425abe5fad492cc8b8600f298f0a7ace6fc4f`.
-- `2019/3er Parcial/2018 UT XI - Fotometria.pdf`: 32 páginas; pendiente.
-  SHA-256: `b8cd5a2b645f5d301f347d8191d41cd87469e75a7595a0388a7d8ef460d669b2`.
-- `2019/3er Parcial/2018 UT XV Introducción a la Termodinámica.pdf`: 60
-  páginas; pendiente. SHA-256:
+- `2019/3er Parcial/2018 UT XI - Fotometria.pdf`: 32 páginas completas
+  transcritas en once notas,19figuras y tablas de32,6,6y4filas. Se conservan
+  recortes y celda vacía. Render GitHub verificado en c7c8ba9. SHA-256:
+  `b8cd5a2b645f5d301f347d8191d41cd87469e75a7595a0388a7d8ef460d669b2`.
+- `2019/3er Parcial/2018 UT XV Introducción a la Termodinámica.pdf`:60páginas
+  completas transcritas en17notas y24figuras. Seis tablas conservadas, preguntas
+  yproblemas sin resolver ydesarrollo finalA–E. Render GitHub verificado
+  en190f6d6. SHA-256:
   `0c255d1c462cf23cf43e89eb6031d28084ef096c4512689fc85322d752c7b15c`.
-- `2019/3er Parcial/2018 UT XVI - Principios de la Termodinámica.pdf`: 36
-  páginas; pendiente. SHA-256:
+- `2019/3er Parcial/2018 UT XVI - Principios de la Termodinámica.pdf`:36páginas
+  completas transcritas en13notas y22figuras, ejemplos originales resueltos
+  ycierres. Entropía solo figura en el programa,sin desarrollo. Render GitHub
+  verificado enbf59b38. SHA-256:
   `dc2644f583b907ef2bdf7d3841e6e39009b5e41d2b9f8fdf64d02a47287f5df4`.
-- `2019/3er Parcial/2019 UT IX Corriente Alterna.pdf`: 49 páginas; pendiente.
+- `2019/3er Parcial/2019 UT IX Corriente Alterna.pdf`: 49 páginas cotejadas,
+  trece notas nuevas y dos diapositivas registradas como procedencia adicional
+  de notas existentes. Se conservan convención coseno/proyección horizontal,
+  bibliografía, filtros, tabla de tres filas y corrección del factor de
+  potencia. Las 101 expresiones, 23 figuras y tabla se verificaron en GitHub.
   SHA-256: `f133b469afdff28ace1fe5e90db8e5fd4a8e3c166e4d987cc3f3f31166dff3e1`.
-- `2019/3er Parcial/2019 UT X - Ecuaciones de Maxwell.pdf`: 22 páginas;
-  pendiente. SHA-256:
+- `2019/3er Parcial/2019 UT X - Ecuaciones de Maxwell.pdf`: 22 hojas cotejadas
+  completas; fecha12/06/2019. Contienen dos diapositivas por hoja, equivalentes
+  a las páginas2–44 de la versión fechada22/06/2018, ya transcritas. Sin portada
+  inicial; cierre rasterizado y medio casillero final vacío. Correspondencia en
+  `resources/common/imposiciones.json`, sin duplicar apuntes ni declarar
+  identidad de render. SHA-256:
   `e01eb7f935efffe562f16d41e625a0bcf0f0f3a257126a6299f46b2e69e79665`.
-- `2019/3er Parcial/2019 UT XI - Fotometria..pdf`: 32 páginas; identidad de
-  render verificada; transcripción pendiente junto a referencia. SHA-256:
-  `b8cd5a2b645f5d301f347d8191d41cd87469e75a7595a0388a7d8ef460d669b2`. Duplicado
-  exacto de `2019/3er Parcial/2018 UT XI - Fotometria.pdf`.
+- `2019/3er Parcial/2019 UT XI - Fotometria..pdf`: 32 páginas completas;
+  transcripción compartida con fuente127 por identidad binaria verificada,
+  registrada en cobertura por nota. Render GitHub verificado en c7c8ba9.
+  SHA-256: `b8cd5a2b645f5d301f347d8191d41cd87469e75a7595a0388a7d8ef460d669b2`.
+  Duplicado exacto de `2019/3er Parcial/2018 UT XI - Fotometria.pdf`.
 - `2019/3er Parcial/Apuntes de Fotometria.pdf`: 73 páginas; referencia; no
   transcrito. SHA-256:
   `0c7bd04c172b0f9e8916432238f0e651af34124c6c35d7a5026ed2b6c16b0934`.
-- `2019/3er Parcial/UT XII - Interferencias.ppt`: no PDF páginas; pendiente.
-  SHA-256: `1aedc0734c24e71c0cbae9ecc29b034fe9e22575940fc895559579ce1326b91e`.
-- `2019/3er Parcial/UT XIII - Interferencia y Difraccion 290616.ppt`: no PDF
-  páginas; pendiente. SHA-256:
+- `2019/3er Parcial/UT XII - Interferencias.ppt`: 42 diapositivas completas
+  transcritas en trece notas, con tres problemas sin resolver y32medios
+  (incluidos dosGIF originales). Se conservan siete diapositivas posteriores al
+  cierre y erratas de N rendijas. Render GitHub verificado en599f068. SHA-256:
+  `1aedc0734c24e71c0cbae9ecc29b034fe9e22575940fc895559579ce1326b91e`.
+- `2019/3er Parcial/UT XIII - Interferencia y Difraccion 290616.ppt`: veinte
+  diapositivas completas transcritas en cinco notas,15PNG y1GIF; incluye dos
+  diapositivas posteriores al cierre, sin ejercicios. Render GitHub verificado
+  enae470bf. SHA-256:
   `12c4947f897a58508ce3794255b164f41d4356b0bb4bbad0e9d8314ef6eaf137`.
-- `2019/Hoja de Fórmulas 2019.pdf`: 2 páginas; pendiente. SHA-256:
+- `2019/Hoja de Fórmulas 2019.pdf`:dos páginas completas transcritas en dos
+  notas, grillas16y18filas, cuatro diagramas ycasilleros vacíos conservados.
+  Render GitHub verificado en f0b2ec9/c687a05. SHA-256:
   `08334993bbf390cc9959ca35446c5c1de7274de09029385c6801a5188d306499`.
-- `2019/Planificación 2019_e86a2f40b7c92c86772a2b980a78a58f.pdf`: 31 páginas;
-  pendiente. SHA-256:
+- `2019/Planificación 2019_e86a2f40b7c92c86772a2b980a78a58f.pdf`: 31 páginas
+  completas cotejadas; nueve notas de planificación y dos encabezados
+  originales. Programa UT1–16, cinco cronogramas, 24 fragmentos de tablas con
+  celdas combinadas conservadas en HTML. Docling y PyMuPDF4LLM contrastados con
+  Poppler y todas las páginas; nota al pie recuperada. Se conservan título2018
+  del intensivo con fechas2019, doble exigencia del integrador y L3 vacío.
+  Render GitHub pendiente. SHA-256:
   `ec751a4f7b47c178d3f0af097603901407094ba12eba9323ece588fa54aa130a`.
-- `2019/lab arduino/Calorimetria.docx`: no PDF páginas; pendiente. SHA-256:
+- `2019/lab arduino/Calorimetria.docx`:DOCXcompleto cotejado
+  (PDFnormalizado4páginas),una nota de propuesta de calorimetría, sin medios.
+  Doble numeración,tachadura ybalances originales conservados. Render GitHub
+  verificado en fc150ad. SHA-256:
   `f0a31808cb7bd769b39d18184b3e2e22345672bb2f155f51f9417e8915fb4770`.
-- `2019/lab arduino/LaboratorioCalorimetria - Primer Entrega.pptx`: no PDF
-  páginas; pendiente. SHA-256:
+- `2019/lab arduino/LaboratorioCalorimetria - Primer Entrega.pptx`: presentación
+  del grupo 9, 6 diapositivas cotejadas completas. Una nota y figuras
+  originales; fórmulas y tabla de 36 materiales en la versión del grupo 8.
+  Render GitHub pendiente. SHA-256:
   `3def53213b95ad72024351874cd374e873e89efa145b17b1f3125471e5ffd80a`.
-- `2019/lab arduino/LaboratorioCalorimetria-Primer-Entrega(1).pptx`: no PDF
-  páginas; pendiente. SHA-256:
+- `2019/lab arduino/LaboratorioCalorimetria-Primer-Entrega(1).pptx`:
+  presentación del grupo 8, 8 diapositivas cotejadas completas. Una nota y
+  figuras originales; fórmulas y tabla de 36 materiales en la versión del grupo
+  8\. Render GitHub pendiente. SHA-256:
   `67a8eae4524e36cfdf074eeeed67f689dfdbb0b67857a3c88d2560a7380c1aac`.
 
 ## Ley de Coulomb, guía 1.1

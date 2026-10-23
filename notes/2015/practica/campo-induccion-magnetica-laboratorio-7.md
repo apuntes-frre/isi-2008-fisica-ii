@@ -40,8 +40,10 @@ Cuando se coloca un cuerpo de momento magnético $`\vec m`$ en un campo magnéti
 $`\vec B`$ sobre se ejerce un momento de fuerza dado por
 
 ```math
-\vec M=\vec m\wedge\vec B\tag{1}
+\vec M=\vec m\wedge\vec B
 ```
+
+(1)
 
 Como la brújula tiene un momento magnético, estará sometida a dos campos
 magnéticos: el terrestre y el de la bobina, cuando por esta circule una
@@ -49,25 +51,33 @@ corriente I., por lo tanto cada uno ejercerá un momento de fuerza sobre la aguj
 magnética que intentará girarla, en concordancia con (1), en equilibrio será
 
 ```math
-\vec M_B-\vec M_T=0\quad\Rightarrow\quad|\vec M_B|=|\vec M_T|\tag{2}
+\vec M_B-\vec M_T=0\quad\Rightarrow\quad|\vec M_B|=|\vec M_T|
 ```
 
+(2)
+
 ```math
-mB_B\cos\theta=mB_T\mathop{\mathrm{sen}}\nolimits\theta\tag{3}
+mB_B\cos\theta=mB_T\mathop{\mathrm{sen}}\nolimits\theta
 ```
+
+(3)
 
 siendo $`\theta`$ el ángulo que forma la aguja con la dirección perpendicular a
 los rieles ( es decir el Norte).
 
 ```math
-B_B\cos\theta=B_T\mathop{\mathrm{sen}}\nolimits\theta\tag{4}
+B_B\cos\theta=B_T\mathop{\mathrm{sen}}\nolimits\theta
 ```
+
+(4)
 
 Haciendo pasaje de términos resulta
 
 ```math
-B_T=B_B\frac{\cos\theta}{\mathop{\mathrm{sen}}\nolimits\theta}=\frac{B_B}{\mathop{\mathrm{tg}}\nolimits\theta}\tag{5}
+B_T=B_B\frac{\cos\theta}{\mathop{\mathrm{sen}}\nolimits\theta}=\frac{B_B}{\mathop{\mathrm{tg}}\nolimits\theta}
 ```
+
+(5)
 
 donde BT es la componente horizontal del campo magnético terrestre, BB es el
 campo creado por la bobina en la posición donde está la brújula.
@@ -79,8 +89,10 @@ toda la región ocupada por la aguja magnética, entonces se puede calcular la
 intensidad del campo mediante
 
 ```math
-B_B=\frac{\mu_o I N R^2}{(R^2+x^2)^{3/2}}\tag{6}
+B_B=\frac{\mu_o I N R^2}{(R^2+x^2)^{3/2}}
 ```
+
+(6)
 
 Donde $`\mu_o=4\pi10^{-7}\mathrm{m\,Kg\,s^2\,A^{-2}}`$ , N es el número de
 
@@ -96,12 +108,16 @@ La (5) entonces puede escribirse
 ![Figura 2: geometría y campos](../../../resources/2015/brujula-bobina-ejes.png)
 
 ```math
-B_T=\frac{B_B}{\mathop{\mathrm{tg}}\nolimits\theta}=K\frac I{r^3}\frac1{\mathop{\mathrm{tg}}\nolimits\theta}\tag{7}
+B_T=\frac{B_B}{\mathop{\mathrm{tg}}\nolimits\theta}=K\frac I{r^3}\frac1{\mathop{\mathrm{tg}}\nolimits\theta}
 ```
 
+(7)
+
 ```math
-B_T\mathop{\mathrm{tg}}\nolimits\theta=K\frac I{r^3}\tag{8}
+B_T\mathop{\mathrm{tg}}\nolimits\theta=K\frac I{r^3}
 ```
+
+(8)
 
 donde $`K=\mu_o NR^2`$ y $`r=\sqrt{R^2+x^2}`$
 

@@ -50,14 +50,18 @@ a través de una espira es igual a la fuerza electromotriz generada en ella con
 signo contrario, es decir
 
 ```math
-E=-\frac{d\phi}{dt} \tag{1}
+E=-\frac{d\phi}{dt}
 ```
+
+(1)
 
 desarrollando analíticamente
 
 ```math
-\oint\vec E\,d\vec l=-\frac{d}{dt}\iint_S\vec B\,d\vec S \tag{2}
+\oint\vec E\,d\vec l=-\frac{d}{dt}\iint_S\vec B\,d\vec S
 ```
+
+(2)
 
 donde C es la curva que representa la espira y S es el área limitada por ella.
 
@@ -69,8 +73,10 @@ El flujo magnético en la bobina #2 varía porque la corriente en la bobina #1
 varía entonces
 
 ```math
-E=-\frac{d\phi_{21}}{dt}=-\frac{d\phi_{21}}{dI_1}\frac{dI_1}{dt} \tag{3}
+E=-\frac{d\phi_{21}}{dt}=-\frac{d\phi_{21}}{dI_1}\frac{dI_1}{dt}
 ```
+
+(3)
 
 donde $`M=\frac{d\phi_{21}}{dI_1}`$ [henry] es el coeficiente de inducción mutua
 y representa la variación en la bobina #2 debido al cambio en la intensidad de
@@ -97,28 +103,36 @@ B=\frac{\mu.I(t)}{2.\pi.r}
 siendo N el número de espiras del toroide
 
 ```math
-d\phi=\frac{N.\mu.I(t).a.dr}{2.\pi.r} \tag{4}
+d\phi=\frac{N.\mu.I(t).a.dr}{2.\pi.r}
 ```
+
+(4)
 
 ![Figura Nº3: conductor por el centro del toroide, radios R1 y R2, altura a y espesor dr](../../../resources/2015/faraday-toroide/figura-3.png)
 
 integrando entre los dos radios R1 y R2 resulta
 
 ```math
-\phi=\int_{R_1}^{R_2}\frac{N\mu I(t)a\,dr}{2\pi r}=\frac{N\mu I(t)a}{2\pi}\ln(R_2/R_1) \tag{5}
+\phi=\int_{R_1}^{R_2}\frac{N\mu I(t)a\,dr}{2\pi r}=\frac{N\mu I(t)a}{2\pi}\ln(R_2/R_1)
 ```
+
+(5)
 
 Calculemos la fem inducida en el toroide
 
 ```math
-E=-\frac{d\phi}{dt}=-\frac{N.\mu.a}{2.\pi}\ln(R2/R1).\frac{dI(t)}{dt} \tag{6}
+E=-\frac{d\phi}{dt}=-\frac{N.\mu.a}{2.\pi}\ln(R2/R1).\frac{dI(t)}{dt}
 ```
+
+(6)
 
 El coeficiente de inducción mutua es
 
 ```math
-M=\frac{N.\mu.a}{2.\pi}\ln(R2/R1) \tag{7}
+M=\frac{N.\mu.a}{2.\pi}\ln(R2/R1)
 ```
+
+(7)
 
 depende de los parámentros geométricos y del material.
 
@@ -131,20 +145,26 @@ I(t)=I_o.\mathop{\mathrm{sen}}\nolimits(\omega.t)
 su derivada será
 
 ```math
-\frac{dI(t)}{dt}=-I_o.\omega.\cos(\omega.t) \tag{8}
+\frac{dI(t)}{dt}=-I_o.\omega.\cos(\omega.t)
 ```
+
+(8)
 
 reemplazando en (6) las ecuaciones (7) y (8) resulta
 
 ```math
-E(t)=-M\{-I_o.\omega.\cos(\omega.t)\} \tag{9}
+E(t)=-M\{-I_o.\omega.\cos(\omega.t)\}
 ```
+
+(9)
 
 tomando el valor eficaz en la (9) se tiene
 
 ```math
-E_{ef}=M.\omega.I_{ef} \tag{10}
+E_{ef}=M.\omega.I_{ef}
 ```
+
+(10)
 
 Donde $`E_{ef}`$ y $`I_{ef}`$ representan los valores eficaces de la fem
 inducida en el toroide y la intensidad de corriente en el conductor recto.
@@ -168,8 +188,10 @@ De la teoría desarrollada, la fuerza electromotriz inducida eficaz en el toroid
 medida por el voltimetro está dada por
 
 ```math
-E_{ef}=M.\omega.I_{ef} \tag{10}
+E_{ef}=M.\omega.I_{ef}
 ```
+
+(10)
 
 donde M es la inductancia mutua, $`\omega=2.\pi.f`$, siendo f = 50 hz la
 frecuencia de línea, $`I_{ef}`$ es la intensidad de corriente eficaz en el

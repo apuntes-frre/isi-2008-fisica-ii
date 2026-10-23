@@ -29,8 +29,10 @@ electrodos y la diferencia de potencial _V_ entre los electrodos es siempre una
 constante denominada capacidad del elemento, que se expresa como
 
 ```math
-C=\frac{Q}{V}\tag{1}
+C=\frac{Q}{V}
 ```
+
+(1)
 
 la capacidad _C_ se expresa en faradios. La capacidad de un capacitor depende de
 la geometría de los conductores que forman las placas del capacitor y del medio
@@ -43,8 +45,10 @@ a) Asociación en Serie de dos condensadores
 Capacidad equivalente
 
 ```math
-\frac1{C_e}=\frac1{C_1}+\frac1{C_2}\tag{2}
+\frac1{C_e}=\frac1{C_1}+\frac1{C_2}
 ```
+
+(2)
 
 ![Asociación en serie de dos condensadores](../../../resources/2015/rc-compilado/serie.png)
 
@@ -53,8 +57,10 @@ b) Asociación en Paralelo de dos condensadores
 Capacidad equivalente
 
 ```math
-C_e=C_1+C_2\tag{3}
+C_e=C_1+C_2
 ```
+
+(3)
 
 ![Asociación en paralelo de dos condensadores](../../../resources/2015/rc-compilado/paralelo.png)
 
@@ -67,8 +73,10 @@ el condensador está descargado es decir Q( t = 0 ) = 0 se cumple la siguiente
 ecuación
 
 ```math
-V_o=i(t)R+\frac{Q(t)}C\tag{4}
+V_o=i(t)R+\frac{Q(t)}C
 ```
+
+(4)
 
 El primer miembro de la ecuación es la fuerza electromotriz $`V_o`$ de la fuente
 de alimentación. La diferencia de potencial en la resistencia es $`i(t)R`$ y en
@@ -78,21 +86,27 @@ puede escribir en términos de la carga como $`i(t)=\frac{dQ}{dt}`$. La ecuació
 inhomogénea con coeficientes constantes
 
 ```math
-R\frac{dQ(t)}{dt}+\frac{Q(t)}C=V_o\tag{5}
+R\frac{dQ(t)}{dt}+\frac{Q(t)}C=V_o
 ```
+
+(5)
 
 ordenándola se tiene
 
 ```math
-\frac{dQ(t)}{dt}+\frac{Q(t)}{RC}=\frac{V_o}R\tag{6}
+\frac{dQ(t)}{dt}+\frac{Q(t)}{RC}=\frac{V_o}R
 ```
+
+(6)
 
 Teniendo en cuenta las condiciones iniciales del proceso de carga, la solución
 completa de la (6) es :
 
 ```math
-Q(t)=V_o\cdot C\cdot\left(1-e^{-\frac{t}{R\cdot C}}\right)\tag{7}
+Q(t)=V_o\cdot C\cdot\left(1-e^{-\frac{t}{R\cdot C}}\right)
 ```
+
+(7)
 
 ![Figura 2: carga de un condensador](../../../resources/2015/rc-compilado/figura-2.png)
 
@@ -105,8 +119,10 @@ Para determinar la diferencia de potencial entre los bornes del condensador;
 debe emplearse la ec. (1) entonces:
 
 ```math
-V_{bc}(t)=\frac{Q(t)}C=V_o\cdot\left(1-e^{-\frac{t}{R\cdot C}}\right)\tag{8}
+V_{bc}(t)=\frac{Q(t)}C=V_o\cdot\left(1-e^{-\frac{t}{R\cdot C}}\right)
 ```
+
+(8)
 
 La representación gráfica de Vbc(t) es análoga a Q(t) salvo en el factor
 constante 1/C, y para valores de tiempos grandes la diferencia de potencial
@@ -116,14 +132,18 @@ El producto R.C que está en el denominador del exponente tiene dimensiones de
 tiempo y recibe el nombre de constante de tiempo
 
 ```math
-\tau=R\cdot C\tag{9}
+\tau=R\cdot C
 ```
+
+(9)
 
 Si $`t=\tau`$ en (8) resulta:
 
 ```math
-V_{bc}(\tau)=V_o\cdot(1-e^{-1})=0{,}63\cdot V_o\tag{11}
+V_{bc}(\tau)=V_o\cdot(1-e^{-1})=0{,}63\cdot V_o
 ```
+
+(11)
 
 de modo que la constante de tiempo $`\tau`$ representa el tiempo que tarda el
 condensador en alcanzar el 63% de su diferencia de potencial ( o bien su carga)
@@ -131,8 +151,10 @@ final de equilibrio. Otro procedimiento de representación gráfica es operando
 sobre (8) resulta
 
 ```math
-\frac{V_{bc}(t)}{V_o}-1=-e^{-\frac{t}{R\cdot C}}\quad\Rightarrow\quad 1-\frac{V_{bc}(t)}{V_o}=e^{-\frac{t}{R\cdot C}}\tag{12}
+\frac{V_{bc}(t)}{V_o}-1=-e^{-\frac{t}{R\cdot C}}\quad\Rightarrow\quad 1-\frac{V_{bc}(t)}{V_o}=e^{-\frac{t}{R\cdot C}}
 ```
+
+(12)
 
 ![Figura 3: gráfico semilogarítmico](../../../resources/2015/rc-compilado/figura-3.png)
 
@@ -142,16 +164,20 @@ $`v_R(t)=e^{-\frac{t}{R\cdot C}}`$
 Tomando ln en ambos miembros y aplicando propiedades de ln resulta
 
 ```math
-\ln[v_R(t)]=-\frac{t}{R\cdot C}\tag{13}
+\ln[v_R(t)]=-\frac{t}{R\cdot C}
 ```
+
+(13)
 
 Si se hace una representación gráfica semilogarítmica, en las ordenadas
 $`\ln[v_R(t)]`$ y en las abscisas como se muestra en la figura 3. Constituye una
 recta con pendiente negativa cuyo valor es
 
 ```math
-m=-\frac1{R\cdot C}\tag{14}
+m=-\frac1{R\cdot C}
 ```
+
+(14)
 
 **De modo que conociendo la pendiente y el valor de la resistencia R, se puede
 determinar el valor de la capacidad C del condensador.**
@@ -168,38 +194,50 @@ A**
 son:**
 
 ```math
-V_{ab}(t)=i(t)\cdot R\tag{15.a}
+V_{ab}(t)=i(t)\cdot R
 ```
 
+(15.a)
+
 ```math
-V_{bc}(t)=\frac{Q(t)}C\tag{15.b}
+V_{bc}(t)=\frac{Q(t)}C
 ```
+
+(15.b)
 
 ![Figura 5: descarga de un condensador](../../../resources/2015/rc-compilado/figura-5.png)
 
 Por lo tanto, se cumple Al no haber fuente de alimentación resulta:
 
 ```math
-V_{ab}(t)+V_{bc}(t)=0\tag{16}
+V_{ab}(t)+V_{bc}(t)=0
 ```
+
+(16)
 
 Reemplazando resulta
 
 ```math
-i(t)\cdot R+\frac{Q(t)}C+0\tag{17}
+i(t)\cdot R+\frac{Q(t)}C+0
 ```
+
+(17)
 
 La ecuación anterior puede escribirse como:
 
 ```math
-\frac{dq}{dt}+\frac{q}{RC}=0\tag{18}
+\frac{dq}{dt}+\frac{q}{RC}=0
 ```
+
+(18)
 
 cuya solución con las condiciones iniciales establecidas resulta:
 
 ```math
-Q(t)=Q_o\cdot e^{-\frac{t}{R\cdot C}}\tag{19}
+Q(t)=Q_o\cdot e^{-\frac{t}{R\cdot C}}
 ```
+
+(19)
 
 De (19) surge que la carga decrece exponencialmente con el tiempo debiendo
 transcurrir un tiempo infinitamente largo para que el condensador se descargue
@@ -210,15 +248,19 @@ La fig. 5 muestra la representación gráfica de la ecuación (19)
 La diferencia de potencial en el condensador será :
 
 ```math
-V_{bc}(t)=\frac{Q(t)}C=\frac{Q_o}C\cdot e^{-\frac{t}{R\cdot C}}\tag{20}
+V_{bc}(t)=\frac{Q(t)}C=\frac{Q_o}C\cdot e^{-\frac{t}{R\cdot C}}
 ```
+
+(20)
 
 si $`V_o=\frac{Q_o}C`$ el valor de la diferencia de potencial en el instante
 inicial y $`t=\tau=RC`$ entonces
 
 ```math
-V_{bc}(\tau)=V_o\cdot e^{-\frac{\tau}{R\cdot C}}=V_o\cdot e^{-1}=0.37\cdot V_o\tag{21}
+V_{bc}(\tau)=V_o\cdot e^{-\frac{\tau}{R\cdot C}}=V_o\cdot e^{-1}=0.37\cdot V_o
 ```
+
+(21)
 
 En este caso, la constante de tiempo del circuito representa el tiempo que tarda
 el condensador en reducir su diferencia de potencial ( o su carga ) a un 37% de
@@ -246,8 +288,10 @@ resistencia, R, se puede determinar el valor de la capacidad, C, del condensador
 mediante la relación (9) de donde:
 
 ```math
-C=\frac\tau R\tag{19}
+C=\frac\tau R
 ```
+
+(19)
 
 ## **1.- Desarrollo de la experiencia del proceso de carga**
 

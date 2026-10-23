@@ -53,8 +53,10 @@ En D, los módulos de los campos son los mismos.
 ```
 
 ```math
-k\cdot\frac{q_1}{x^2}=k\cdot\frac{q_2}{(x-d)^2}\tag{1}
+k\cdot\frac{q_1}{x^2}=k\cdot\frac{q_2}{(x-d)^2}
 ```
+
+(1)
 
 También, podría decir que
 
@@ -63,8 +65,10 @@ También, podría decir que
 ```
 
 ```math
-k\cdot\frac{q_1}{x^2}+k\cdot\frac{(-q_2)}{(x-d)^2}=0\tag{2}
+k\cdot\frac{q_1}{x^2}+k\cdot\frac{(-q_2)}{(x-d)^2}=0
 ```
+
+(2)
 
 (1) y (2) son idénticas ecuaciones:
 
