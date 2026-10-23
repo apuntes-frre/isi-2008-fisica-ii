@@ -14,8 +14,8 @@ Este bloque prevalece sobre todos los estados históricos inferiores.
   Caché20261023-planificacion-2016 con25renders,Poppler,PyMuPDF4LLM, tablas
   crudas y cotejadas; dos falsas celdas-marco duplicadas eliminadas. Scripts de
   autoría no idempotentes; no reejecutar. No duplicar notas de2019.
-- Total427notas/4368expresiones; pendientes render GitHub93notas/1161math.
-  Medios420 (411imágenes/9GIF). PR2 abierto/borrador, avances publicados en lotes.
+- Total431notas/4404expresiones; pendientes render GitHub97notas/1197math.
+  Medios424 (415imágenes/9GIF). PR2 abierto/borrador, avances publicados en lotes.
 - Fuente70 completa documentalmente:62/62páginas cotejadas,18notas de teoría y
   ejercicios. Portada autor Anibal Kasero y título Biot-Savart, distintos del
   nombre de archivo. Página62 vacía, borrador tachado21 conservado como recorte.
@@ -23,8 +23,8 @@ Este bloque prevalece sobre todos los estados históricos inferiores.
 - Navegador IAB disponible:resumen-potencial-distribuciones verificado29/29math,
   5imágenes cargadas,0merror; GitHub entrega math-renderer con MathML nativo.
   Evidencia en cobertura; no contar solo mjx-container (da0 en esta vista).
-- Fuente71:primeras22páginas y23 hasta fuerza electromotriz; próximo final23–24.
-  Caché20261023-resumen-fisica con extracción completa y renders1–24;
+- Fuente71:primeras26páginas completas; próximo27 fuerza magnética.
+  Caché20261023-resumen-fisica con extracción completa y renders1–30;
   fórmulas imagen deben transcribirse en LaTeX, no publicarlas como capturas.
   37 identificada como bibliografía:Guillermo Sampallo2003,ISBN987-43-6398-3,
   citado68p23; páginas1–3 cotejadas/OCR. Libro137p no transcrito, referencia.
