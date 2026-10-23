@@ -2129,7 +2129,7 @@
       "duplicado_sha256_de": null,
       "clasificacion": "resumen de teoría de FísicaII; autor y año no identificados en primeras páginas",
       "evidencia": "PyMuPDF4LLM/Poppler y páginas1–11 cotejadas. Fórmulas de imagen en LaTeX, figuras conservadas. UT1 y UT2 completas en resumen; signos de Poisson preservados.",
-      "estado": "parcial:13páginas completas y14 hasta dieléctricos; próximo final14–15",
+      "estado": "parcial:17páginas completas; próximo18 electrocinética",
       "paginas_revisadas": [
         1,
         2,
@@ -2143,7 +2143,11 @@
         10,
         11,
         12,
-        13
+        13,
+        14,
+        15,
+        16,
+        17
       ],
       "copia_local": "/Users/carlosferreyra/.cache/fisica-ii-transcripcion/20261023-resumen-fisica/01-Resumen-Fisca-2.pdf",
       "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/71-Resumen-Fisca-2.txt",
@@ -2156,7 +2160,9 @@
         "notes/2015/teoria/resumen-gradiente-poisson-laplace.md",
         "notes/2015/teoria/resumen-capacidad-condensadores.md",
         "notes/2015/teoria/resumen-asociacion-condensadores.md",
-        "notes/2015/teoria/resumen-energia-condensadores.md"
+        "notes/2015/teoria/resumen-energia-condensadores.md",
+        "notes/2015/teoria/resumen-dielectricos-polarizacion.md",
+        "notes/2015/teoria/resumen-gauss-dielectricos-desplazamiento.md"
       ]
     },
     {
