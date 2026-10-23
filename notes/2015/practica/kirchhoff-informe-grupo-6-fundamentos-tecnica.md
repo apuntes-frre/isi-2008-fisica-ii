@@ -91,11 +91,16 @@ la figura.-
 3.- Luego se repite el proceso para otros valores de R y se completa la tabla
 siguiente:
 
-| Pos. | R | i1 | i2 | i3 | i1+i2+i3 |
-| -- | -- | -- | -- | -- | -- |
-| 1 |  |  |  |  |  |
-| 2 |  |  |  |  |  |
-| 3 |  |  |  |  |  |
+<table>
+<thead>
+<tr><th>Pos.</th><th>R</th><th>i1</th><th>i2</th><th>i3</th><th>i1+i2+i3</th></tr>
+</thead>
+<tbody>
+<tr><td>1</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>2</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3</td><td></td><td></td><td></td><td></td><td></td></tr>
+</tbody>
+</table>
 
 ### VERIFICACIÓN DE LAS LEYES DE MALLA
 
@@ -112,11 +117,16 @@ R1= en A y C , R3= en E y B , R4= en C y F , R5= en G y B
 siguiente tabla asignandoun sentido de recorrido a las dos mallas tal cual se
 muestra en la figura:
 
-| Pos | E1 | E2 | Vac | Vcd | Veb | Vbg | Vfc | Vac+Vcd+Veb | Vcd+Veb+Vbg+Vfc |
-| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-| 1 |  |  |  |  |  |  |  |  |  |
-| 2 |  |  |  |  |  |  |  |  |  |
-| 3 |  |  |  |  |  |  |  |  |  |
+<table>
+<thead>
+<tr><th>Pos</th><th>E1</th><th>E2</th><th>Vac</th><th>Vcd</th><th>Veb</th><th>Vbg</th><th>Vfc</th><th>Vac+Vcd+Veb</th><th>Vcd+Veb+Vbg+Vfc</th></tr>
+</thead>
+<tbody>
+<tr><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>2</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+</tbody>
+</table>
 
 38
 
