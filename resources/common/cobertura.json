@@ -7586,6 +7586,22 @@
       "url_github": null,
       "estado": "cotejado completo este tramo; pendiente render GitHub",
       "fuentes_adicionales": []
+    },
+    {
+      "original": "2015/L6 Kirchoff G6 Aprobado.pdf",
+      "sha256": "534403fde9ec3209246d64553b98096c417d8f500a5a5cc4424914482ac9ac79",
+      "nota": "notes/2015/practica/kirchhoff-informe-grupo-6-circuito-uno-simulacion.md",
+      "paginas_revisadas": [
+        8,
+        9,
+        10
+      ],
+      "paginacion": "PDF original, páginas 8–10 completas; ocho capturas de simulación",
+      "math_esperada": 0,
+      "math_renderizada_github": null,
+      "url_github": null,
+      "estado": "figuras y títulos cotejados; pendiente render GitHub",
+      "fuentes_adicionales": []
     }
   ]
 }

@@ -1739,20 +1739,24 @@
       "duplicado_sha256_de": null,
       "clasificacion": "informe experimental del grupo 6 sobre leyes de Kirchhoff",
       "evidencia": "",
-      "estado": "parcial: páginas 1–4 y 6–7 transcritas; faltan 5 y 8–20",
+      "estado": "parcial: páginas 1–4 y 6–10 transcritas; faltan 5 y 11–20",
       "paginas_revisadas": [
         1,
         2,
         3,
         4,
         6,
-        7
+        7,
+        8,
+        9,
+        10
       ],
       "copia_local": "/Users/carlosferreyra/.cache/fisica-ii-transcripcion/20261023-kirchhoff-informe/01-L6 Kirchoff G6 Aprobado.pdf",
       "texto_poppler_local": "/Users/carlosferreyra/.cache/fisica-ii-transcripcion/20261023-kirchhoff-informe/poppler.txt",
       "notas": [
         "notes/2015/practica/kirchhoff-informe-grupo-6-fundamentos-tecnica.md",
-        "notes/2015/practica/kirchhoff-informe-grupo-6-circuito-uno.md"
+        "notes/2015/practica/kirchhoff-informe-grupo-6-circuito-uno.md",
+        "notes/2015/practica/kirchhoff-informe-grupo-6-circuito-uno-simulacion.md"
       ]
     },
     {
