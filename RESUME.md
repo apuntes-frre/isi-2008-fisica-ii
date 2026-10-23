@@ -15,7 +15,9 @@ sobre el checkpoint histórico de pausa y los estados inferiores.
   en el commit que contiene este checkpoint. PR #2 sigue abierto y borrador.
 - Fuente 63: páginas 1–4 transcritas, una nota / 6 expresiones / 2 figuras.
   Próximo lote: página 5 manuscrita y resultados desde 6; restan 5–20.
-  Total 365 notas / 3620 expresiones; pendientes GitHub 32 / 442.
+  Total 366 notas / 3632 expresiones; pendientes GitHub 33 / 454.
+  Páginas 6–7 (tablas y circuito I) también transcritas; faltan 5 y 8–20.
+  Error MD060 de tablas vacías reparado en 83ff3fd, validación local aprobada.
   Caché persistente: 20261023-kirchhoff-informe. Luego 64 y 65. Consultar
   inventario antes de convertir. Mantener lotes pequeños con validación y push.
 - Caché fuente 61: 20261022-capacidad-corregir, ahora con los 15 renders y las
