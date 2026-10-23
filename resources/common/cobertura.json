@@ -7381,7 +7381,20 @@
       "math_renderizada_github": null,
       "url_github": null,
       "estado": "cotejado completo este bloque; pendiente render GitHub",
-      "fuentes_adicionales": []
+      "fuentes_adicionales": [
+        {
+          "original": "2015/L3 Capacidad G6 A corregir 2.docx",
+          "sha256": "a8e1063ebff8c151f9a7a2d6d5dcf798a13ef08c9282a61fdc5bd0985ab184ec",
+          "paginas_revisadas": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "paginacion": "PDFLibreOffice de15páginas; hasta(12)",
+          "estado": "cotejo de este tramo; variantes de portada/color/énfasis registradas en nota; no atribuir resto delDOCX"
+        }
+      ]
     },
     {
       "original": "2015/L3 Capacidad G6 Aprobado.pdf",
@@ -7396,7 +7409,17 @@
       "math_renderizada_github": null,
       "url_github": null,
       "estado": "cotejado completo este bloque; pendiente render GitHub",
-      "fuentes_adicionales": []
+      "fuentes_adicionales": [
+        {
+          "original": "2015/L3 Capacidad G6 A corregir 2.docx",
+          "sha256": "a8e1063ebff8c151f9a7a2d6d5dcf798a13ef08c9282a61fdc5bd0985ab184ec",
+          "paginas_revisadas": [
+            4
+          ],
+          "paginacion": "PDFLibreOffice de15páginas; semilogaritmo13–14 ydibujoFig4solamente",
+          "estado": "cotejo de este tramo; variantes de portada/color/énfasis registradas en nota; no atribuir resto delDOCX"
+        }
+      ]
     },
     {
       "original": "2015/L3 Capacidad G6 Aprobado.pdf",

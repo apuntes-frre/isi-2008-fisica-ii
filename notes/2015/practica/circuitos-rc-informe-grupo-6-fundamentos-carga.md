@@ -172,3 +172,15 @@ sobre (8) resulta
 ## Navegación del informe
 
 [Siguiente](circuitos-rc-informe-grupo-6-descarga-tecnica.md).
+
+## Versión DOCX «A corregir 2»
+
+El original `2015/L3 Capacidad G6 A corregir 2.docx`, SHA-256
+`a8e1063ebff8c151f9a7a2d6d5dcf798a13ef08c9282a61fdc5bd0985ab184ec`, se cotejó
+también con Pandoc, sus objetos de ecuación y una copia PDF de LibreOffice de 15
+páginas. La paginación siguiente pertenece a esa copia normalizada, no al DOCX.
+
+Las páginas 1–4, hasta (12), reproducen el texto científico, las ecuaciones y
+figuras de este apunte. La portada del DOCX agrega el campo **AÑO: 2016**,
+ausente de la portada del PDF aprobado. Se registra como dato de esta versión,
+sin cambiar el año de carpeta ni el contenido de la otra fuente.

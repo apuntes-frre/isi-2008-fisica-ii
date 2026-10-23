@@ -5,8 +5,8 @@
 El usuario indicó continuar yguardar lotes pequeños con commit/push.
 Este bloque prevalece sobre los estados históricos inferiores.
 
-- Último checkpoint publicado95ad0ae. Commits posteriores guardados localmente;
-  push pendiente por fallo DNSgithub.com observado en79ebfa2 y146227b.
+- Publicación recuperada:9363fec ytodos los lotes anteriores ya enorigin/PR2.
+  CI39894840759 aprobado; cuerpo delPR actualizado. FalloDNS anterior resuelto.
 - Fuente117:38 de42diapositivas documentadas. Cuatro notas de variante cubren
   13–20 y27–38 (34math);18diapositivas1–12,21–25,39 se registran por
   correspondencia sin duplicar. Mapa por casillero enimposiciones.json.
@@ -26,16 +26,17 @@ Este bloque prevalece sobre los estados históricos inferiores.
   Tablas de21/20/20/11/20filas. Nombres/firmas manuscritos de6 ycalificación14
   omitidos de forma explícita; original preservado. Hoja6fecha19/05/2016.
   Enlaces entre las siete notas actualizados; no regenerar apuntes ni medios.
-- Informe62 cerrado en923121b. Cinco commits de contenido guardados localmente:
-  79ebfa2,146227b,8441a01,f061539,923121b. Push falló tres veces porDNSgithub.com.
-  Último remoto conocido95ad0ae; no afirmar que el PR contiene este avance.
-  Reintentar git push al recuperar conexión yactualizar cuerpo delPR con
-  /Users/carlosferreyra/.cache/fisica-ii-transcripcion/pr-continuacion.md.
-  CIremoto yrenderGitHub pendientes; todos los controles locales aprobados.
-- Siguiente lote: fuente61, DOCXdeCapacidad «A corregir2», comparar con62;
-  no asumir identidad. Después63Kirchhoff,64Brújula,65fuerza.
-  Caché20261022-capacidad-informe contiene OCRspa,tablas JSON,14renders,
-  extracciones ymath-antes-cierre.json para comprobar preservación matemática.
+- Informe62 cerrado en923121b, publicado con9363fec yCIaprobado.
+- Fuente61, DOCX «A corregir2»: normalizado a15páginas.1–4 cotejadas;
+  portadaAÑO2016,figura3verde/roja ynegrita registradas en dos notas existentes.
+  Fuente61 sigue parcial; no atribuirle cobertura completa de esas dos notas.
+- Siguiente lote61: páginas4–7 dePDFLO, completarteoría dedescarga yhojadatos.
+  Después8–15,resultados: unidades usan glifoꭥ(U+AB65),no normalizar aΩ.
+  Correcciónroja de11 usa37% frente a63%; valores19s/110,26% distintos de62.
+- Caché20261022-capacidad-corregir: preflight,SHA,Pandocconmedios,XMLdegráficas,
+  textoDOCX,PDFLO15p,Poppler yprimeros4renders. No reexportar sobre salida previa.
+  Gráficas nativas con trendline General: LOregenera precisión delrótulo;
+  revisar XML/cachés yno atribuir esa diferencia al contenido científico.
 - Correspondencias117 publicadas en0cd5726; no regenerar ese mapa.
 - Total364notas/3590math, sin aumento por correspondencias;333/3178 verificadas
   enGitHub y31notas/412math pendientes de render. PR2 sigue borrador.
@@ -155,7 +156,7 @@ Publicados además6806d7f(enlaces) y3ed1729(multímetro); CI aprobados6806d7f(39
 364notas /3590expresiones:333notas/3178expresiones verificadas enGitHub
 más31notas/412expresiones pendientes de ese control. 224teoría/140práctica;
 122notas2015,235notas2019 y7notas2020.
-La continuación agrega146notas/1163expresiones y298medios (290imágenes y8GIF).
+La continuación agrega146notas/1163expresiones y299medios (291imágenes y8GIF).
 Los totales anteriores describen el checkpoint8511554.
 
 ### Checklist restante del inventario

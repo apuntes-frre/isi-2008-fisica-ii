@@ -257,7 +257,11 @@ originales de las normalizadas y registra conteos matemáticos.
   `24233365951bd907d32436ec4512ac6016f8b21dc42754c2054d57a8acd9a101`.
 - `2015/KIRCHOFF - GUIA.docx`: no PDF páginas; transcrito y validado localmente.
   SHA-256: `79897fe2bab6e028f2649cf08906e5bf720e890c85ba3b91b2f20435d84b0f11`.
-- `2015/L3 Capacidad G6 A corregir 2.docx`: no PDF páginas; pendiente. SHA-256:
+- `2015/L3 Capacidad G6 A corregir 2.docx`:DOCXnormalizado a15páginas conLO.
+  Páginas1–4 cotejadas; correspondencias parciales en dos apuntes existentes.
+  PortadaAÑO2016,figura3verde/roja yénfasis registrados como variantes.
+  Faltan5–15; incluye corrección roja en descarga yglifo de unidadꭥ que deben
+  conservarse, sin confundirlos con la versión aprobada. SHA-256:
   `a8e1063ebff8c151f9a7a2d6d5dcf798a13ef08c9282a61fdc5bd0985ab184ec`.
 - `2015/L3 Capacidad G6 Aprobado.pdf`:14páginas cotejadas ycontenido científico
   transcrito completo en siete notas,94expresiones y18medios. Cinco tablas

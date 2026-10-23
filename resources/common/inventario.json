@@ -1660,12 +1660,23 @@
       "bytes": 1347525,
       "paginas_pdf": null,
       "duplicado_sha256_de": null,
-      "clasificacion": "pendiente de revisión documental",
-      "evidencia": "",
-      "estado": "pendiente",
-      "paginas_revisadas": [],
-      "copia_local": "/tmp/fisica-ii-20261017-fuentes/61-L3 Capacidad G6 A corregir 2.docx",
-      "texto_poppler_local": null
+      "clasificacion": "versión DOCX del informe RC delgrupo6 con observación de corrección en rojo",
+      "evidencia": "Pandocconmedios yLOconperfilaislado. Sin comentarios ni control de cambios XML; observación roja está en runs FF0000 del texto. AÑO2016 enportada yfigura3 verde/roja registrados por versión. WMFdeecuaciones cotejados visualmente. Seis gráficas nativas requieren revisar su XML/caché: LOregenera rótulos de ajustes General yno debe confundirse su precisión conla presentación original.",
+      "estado": "parcial: normalizado15páginas;1–4 cotejadas yregistradas; faltan5–15",
+      "paginas_revisadas": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "copia_local": "/Users/carlosferreyra/.cache/fisica-ii-transcripcion/20261022-capacidad-corregir/01-L3 Capacidad G6 A corregir 2.docx",
+      "texto_poppler_local": "/Users/carlosferreyra/.cache/fisica-ii-transcripcion/20261022-capacidad-corregir/poppler.txt",
+      "paginacion_revisada": "PDFnormalizadoLibreOffice15páginas",
+      "pdf_normalizado_local": "/Users/carlosferreyra/.cache/fisica-ii-transcripcion/20261022-capacidad-corregir/libreoffice/01-L3 Capacidad G6 A corregir 2.pdf",
+      "notas": [
+        "notes/2015/practica/circuitos-rc-informe-grupo-6-fundamentos-carga.md",
+        "notes/2015/practica/circuitos-rc-informe-grupo-6-descarga-tecnica.md"
+      ]
     },
     {
       "original": "2015/L3 Capacidad G6 Aprobado.pdf",

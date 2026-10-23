@@ -144,3 +144,23 @@ C=\frac\tau R\qquad(19)
 
 [Anterior](circuitos-rc-informe-grupo-6-fundamentos-carga.md).
 [Siguiente](circuitos-rc-informe-grupo-6-hoja-datos.md).
+
+## Versión DOCX «A corregir 2»
+
+El original `2015/L3 Capacidad G6 A corregir 2.docx`, SHA-256
+`a8e1063ebff8c151f9a7a2d6d5dcf798a13ef08c9282a61fdc5bd0985ab184ec`, se cotejó
+también con Pandoc, sus objetos de ecuación y una copia PDF de LibreOffice de 15
+páginas. La paginación siguiente pertenece a esa copia normalizada, no al DOCX.
+
+En la página 4 se cotejaron el tramo semilogarítmico, las ecuaciones (13)–(14) y
+el dibujo de la figura 4. Este registro parcial no atribuye todavía cobertura al
+proceso de descarga ni al resto de esta nota en el DOCX.
+
+La figura 3 de esta versión conserva cuadrícula verde y recta roja:
+
+![Figura 3 original en color de la versión DOCX](../../../resources/2015/circuitos-rc-informe-grupo-6/grafica-semilogaritmica-corregir.png)
+
+El párrafo final de ese tramo aparece destacado en negrita:
+
+**De modo que conociendo la pendiente y el valor de la resistencia R, se puede
+determinar el valor de la capacidad C del condensador.**
