@@ -2028,8 +2028,8 @@
       "paginas_pdf": 62,
       "duplicado_sha256_de": null,
       "clasificacion": "cuadernillo manuscrito de teoría y resueltos: Ley de Biot-Savart; autor de portada Anibal Kasero",
-      "evidencia": "Portada y manuscrito2–31 completos, comienzo32 hasta separador cotejado; OCR español auxiliar. Próximo semicírculos opuestos32.",
-      "estado": "parcial:31páginas completas y comienzo32 revisados; siguiente enunciado32 pendiente",
+      "evidencia": "Portada y manuscrito2–35 completos, comienzo36 hasta separador cotejado; OCR español auxiliar. Próximo conductores coplanares36.",
+      "estado": "parcial:35páginas completas y comienzo36 revisados; segundo enunciado36 pendiente",
       "paginas_revisadas": [
         1,
         2,
@@ -2061,7 +2061,11 @@
         28,
         29,
         30,
-        31
+        31,
+        32,
+        33,
+        34,
+        35
       ],
       "copia_local": "/Users/carlosferreyra/.cache/fisica-ii-transcripcion/20261023-kaseros-biot-sabat/01-Resueltos Fisica II Anibal Kaseros Ley de Biot-Sabat.pdf",
       "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/70-Resueltos Fisica II Anibal Kaseros Ley de Biot-Sabat.txt",
@@ -2074,7 +2078,9 @@
         "notes/2015/teoria/biot-savart-kasero-espira-cuadrada.md",
         "notes/2015/teoria/biot-savart-kasero-fuerza-alambre-axial.md",
         "notes/2015/teoria/biot-savart-kasero-bucle-semicircular.md",
-        "notes/2015/teoria/biot-savart-kasero-semicirculos-concentricos.md"
+        "notes/2015/teoria/biot-savart-kasero-semicirculos-concentricos.md",
+        "notes/2015/teoria/biot-savart-kasero-semicirculos-opuestos.md",
+        "notes/2015/teoria/biot-savart-kasero-horquilla.md"
       ]
     },
     {
