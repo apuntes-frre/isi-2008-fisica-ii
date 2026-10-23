@@ -7692,6 +7692,22 @@
       "url_github": null,
       "estado": "tabla cotejada con cuatro celdas ilegibles marcadas; requiere original más nítido; pendiente render GitHub",
       "fuentes_adicionales": []
+    },
+    {
+      "original": "2015/L7 Brujula G6 A corregir.docx",
+      "sha256": "f8b78ccaea4e2a0a6e03331360824f66be2d1899b3f1ead31f65c2335da0960f",
+      "nota": "notes/2015/practica/brujula-informe-grupo-6-fundamentos.md",
+      "paginas_revisadas": [
+        1,
+        2,
+        3
+      ],
+      "paginacion": "PDF normalizado LO de9p,1–2 y comienzo3 hasta(8), antes de materiales",
+      "math_esperada": 14,
+      "math_renderizada_github": null,
+      "url_github": null,
+      "estado": "teoría cotejada; espacios restituidos y ecuaciones fragmentadas recompuestas con XML/render; pendiente GitHub",
+      "fuentes_adicionales": []
     }
   ]
 }

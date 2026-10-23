@@ -2,40 +2,23 @@
 
 ## REANUDADO — 23/10/2026
 
-El usuario pidió continuar y mantener actualizado el PR. Este bloque prevalece
-sobre el checkpoint histórico de pausa y los estados inferiores.
+El usuario pidió continuar en lotes hasta el 100%, salvo interrupción suya.
+Este bloque prevalece sobre todos los estados históricos inferiores.
 
-- Fuente 61 completa documentalmente: 15/15 páginas normalizadas cotejadas;
-  siete notas existentes registran variantes, 24 expresiones adicionales y una
-  gráfica nueva de descarga. Tablas cotejadas con XML. Unidades ꭥ y advertencia
-  roja conservadas; rótulos dinámicos de LO identificados. No regenerar notas.
-- 364 notas / 3614 expresiones; revisión visual GitHub pendiente de 31 notas /
-  436 expresiones. 300 medios (292 imágenes y 8 GIF).
-- Lotes publicados: 72bbd1d (carga), e19bd73 (descarga); cierre de serie/paralelo
-  en el commit que contiene este checkpoint. PR #2 sigue abierto y borrador.
-- Fuente 63: páginas 1–4 transcritas, una nota / 6 expresiones / 2 figuras.
-  Próximo lote: página 5 manuscrita y resultados desde 6; restan 5–20.
-  Total 373 notas / 3656 expresiones; pendientes GitHub 40 / 478.
-  Fuente63: 20/20p revisadas, nueve notas/42math/14medios. Contenido legible
-  transcrito; cuatro celdas de hoja5 requieren imagen más nítida: malla pos1
-  Vcd/Veb/Vgb y pos3 Vcd. Recortes conservados, no inferir de página6.
-  Próximo: fuente64 Brújula DOCX, luego65.
-  Página20 errores/conclusión completa; cinco bloques de tres filas/10columnas.
-  Único pendiente fuente63: hoja manuscrita5.
-  Simulaciones III 17–19 completas: ocho capturas en tres recortes. Restan 5 y20.
-  Circuito III de 15–16 transcrito; faltan hoja5 y 17–20.
-  Simulaciones II de 13–14 y figura inicial 15 conservadas (siete capturas).
-  Restan hoja manuscrita 5 y circuito III desde título de 15 hasta 20.
-  Circuito II páginas 11–12 transcrito, incluida primera captura de corriente.
-  Próximo: capturas 13–15 y circuito III 16–20; también hoja manuscrita 5.
-  Páginas 8–10: ocho capturas conservadas en tres recortes originales.
-  Restan página 5 manuscrita y 11–20; siguiente circuito II.
-  Páginas 6–7 (tablas y circuito I) también transcritas; faltan 5 y 8–20.
-  Error MD060 de tablas vacías reparado en 83ff3fd, validación local aprobada.
-  Caché persistente: 20261023-kirchhoff-informe. Luego 64 y 65. Consultar
-  inventario antes de convertir. Mantener lotes pequeños con validación y push.
-- Caché fuente 61: 20261022-capacidad-corregir, ahora con los 15 renders y las
-  cuatro tablas XML en JSON. Scripts de autoría no idempotentes; no reejecutar.
+- Fuente61 completa documentalmente; fuente63:20/20p revisadas, nueve notas,
+  42expresiones y14medios. Cuatro celdas manuscritas de5 requieren imagen más
+  nítida: mallas pos1 Vcd/Veb/Vgb y pos3 Vcd. Marcadas, no inferir de página6.
+- Fuente64 activa: DOCX normalizado9p. Teoría hasta(8) transcrita en una nota,
+  14math/tres figuras; páginas1–2 y comienzo3. Próximo: materiales y técnica
+  desde3, cuestionario y bibliografía hasta5, luego6–9. Caché persistente
+  20261023-brujula-informe: SHA,Pandoc con medios, PDFLO,Poppler, renders1–5.
+  XML sin comentarios ni control de cambios; observaciones son texto rojo.
+  No reparar científicamente (6), K ni unidad de μo por inferencia.
+- Total374notas/3670expresiones; pendientes de render GitHub41notas/492math.
+  Medios317 (309imágenes/8GIF). PR2 abierto/borrador; rama publicada en lotes.
+- Próximos después64:65,68,70,71,37; clasificar3/9/11; glifos117/118 y unidad
+  manuscrita examen; revisión visual GitHub y auditoría final. Checklist histórico
+  conserva detalles, pero no es estado vigente. No fusionar automáticamente.
 
 ## CHECKPOINT HISTÓRICO DE PAUSA — 22/10/2026
 

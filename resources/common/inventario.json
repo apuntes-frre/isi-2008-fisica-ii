@@ -1782,12 +1782,20 @@
       "bytes": 433505,
       "paginas_pdf": null,
       "duplicado_sha256_de": null,
-      "clasificacion": "pendiente de revisión documental",
+      "clasificacion": "informe de brújula de tangentes del grupo6, versión con observaciones en rojo",
       "evidencia": "",
-      "estado": "pendiente",
-      "paginas_revisadas": [],
-      "copia_local": "/tmp/fisica-ii-20261017-fuentes/64-L7 Brujula G6 A corregir.docx",
-      "texto_poppler_local": null
+      "estado": "parcial: teoría completa hasta (8), páginas normalizadas1–2 y comienzo3; faltan materiales y resto3–9",
+      "paginas_revisadas": [
+        1,
+        2,
+        3
+      ],
+      "copia_local": "/Users/carlosferreyra/.cache/fisica-ii-transcripcion/20261023-brujula-informe/01-L7 Brujula G6 A corregir.docx",
+      "texto_poppler_local": "/Users/carlosferreyra/.cache/fisica-ii-transcripcion/20261023-brujula-informe/poppler.txt",
+      "paginacion_revisada": "PDF normalizado LibreOffice de nueve páginas",
+      "notas": [
+        "notes/2015/practica/brujula-informe-grupo-6-fundamentos.md"
+      ]
     },
     {
       "original": "2015/L8 Fza sobre elemento de cte G6 Aprobado.pdf",
