@@ -8154,6 +8154,22 @@
       "math_esperada": 22,
       "math_renderizada_github": null,
       "estado": "cotejo visual local; pendiente GitHub"
+    },
+    {
+      "original": "2015/Resueltos Fisica II Anibal Kaseros Ley de Biot-Sabat.pdf",
+      "sha256": "b4aeb8cc9f1fa04835d4817a067976cc3d3c07d57e18ca5dabd898b67e09d41e",
+      "nota": "notes/2015/teoria/biot-savart-kasero-flujo-rectangulo.md",
+      "paginas_revisadas": [
+        40,
+        41,
+        42,
+        43,
+        44
+      ],
+      "paginacion": "PDF original; páginas40/44 parciales por separador",
+      "math_esperada": 18,
+      "math_renderizada_github": null,
+      "estado": "cotejo visual local; pendiente GitHub"
     }
   ]
 }
