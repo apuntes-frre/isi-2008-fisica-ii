@@ -2129,7 +2129,7 @@
       "duplicado_sha256_de": null,
       "clasificacion": "resumen de teoría de FísicaII; autor y año no identificados en primeras páginas",
       "evidencia": "PyMuPDF4LLM/Poppler y páginas1–11 cotejadas. Fórmulas de imagen en LaTeX, figuras conservadas. UT1 y UT2 completas en resumen; signos de Poisson preservados.",
-      "estado": "parcial:41páginas completas; próximo42 magnetostática",
+      "estado": "parcial:45páginas completas; próximo46 corriente alterna",
       "paginas_revisadas": [
         1,
         2,
@@ -2171,7 +2171,11 @@
         38,
         39,
         40,
-        41
+        41,
+        42,
+        43,
+        44,
+        45
       ],
       "copia_local": "/Users/carlosferreyra/.cache/fisica-ii-transcripcion/20261023-resumen-fisica/01-Resumen-Fisca-2.pdf",
       "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/71-Resumen-Fisca-2.txt",
@@ -2214,7 +2218,10 @@
         "notes/2015/teoria/resumen-autoinduccion.md",
         "notes/2015/teoria/resumen-asociacion-inductancias.md",
         "notes/2015/teoria/resumen-circuito-lr.md",
-        "notes/2015/teoria/resumen-energia-inductor.md"
+        "notes/2015/teoria/resumen-energia-inductor.md",
+        "notes/2015/teoria/resumen-magnetizacion-materia.md",
+        "notes/2015/teoria/resumen-permeabilidad-susceptibilidad.md",
+        "notes/2015/teoria/resumen-materiales-magneticos.md"
       ]
     },
     {

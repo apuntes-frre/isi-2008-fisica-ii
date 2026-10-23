@@ -8788,6 +8788,45 @@
       "math_esperada": 13,
       "math_renderizada_github": null,
       "estado": "cotejo visual local; pendiente GitHub"
+    },
+    {
+      "original": "2015/Resumen-Fisca-2.pdf",
+      "sha256": "b9903f972224365c1a74b5d2732c9a34675c9b719da4c9c2d28e4a0f34e0b0cc",
+      "nota": "notes/2015/teoria/resumen-magnetizacion-materia.md",
+      "paginas_revisadas": [
+        42,
+        43
+      ],
+      "paginacion": "PDF original; sectores delimitados por encabezados",
+      "math_esperada": 16,
+      "math_renderizada_github": null,
+      "estado": "cotejo visual local; pendiente GitHub"
+    },
+    {
+      "original": "2015/Resumen-Fisca-2.pdf",
+      "sha256": "b9903f972224365c1a74b5d2732c9a34675c9b719da4c9c2d28e4a0f34e0b0cc",
+      "nota": "notes/2015/teoria/resumen-permeabilidad-susceptibilidad.md",
+      "paginas_revisadas": [
+        43
+      ],
+      "paginacion": "PDF original; sectores delimitados por encabezados",
+      "math_esperada": 14,
+      "math_renderizada_github": null,
+      "estado": "cotejo visual local; pendiente GitHub"
+    },
+    {
+      "original": "2015/Resumen-Fisca-2.pdf",
+      "sha256": "b9903f972224365c1a74b5d2732c9a34675c9b719da4c9c2d28e4a0f34e0b0cc",
+      "nota": "notes/2015/teoria/resumen-materiales-magneticos.md",
+      "paginas_revisadas": [
+        43,
+        44,
+        45
+      ],
+      "paginacion": "PDF original; sectores delimitados por encabezados",
+      "math_esperada": 1,
+      "math_renderizada_github": null,
+      "estado": "cotejo visual local; pendiente GitHub"
     }
   ]
 }
