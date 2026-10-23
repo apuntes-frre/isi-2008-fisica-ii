@@ -76,24 +76,32 @@ dos dimensiones. Para ello suponemos que la función potencial eléctrico puede
 ser desarrollada en serie de Taylor alrededor de un punto (x,y) entonces
 
 ```math
-\Phi(x+h,y)\cong\Phi(x,y)+h\frac{\partial\Phi(x,y)}{\partial x}+\frac{h^2}2\frac{\partial^2\Phi(x,y)}{\partial x^2}\tag{1}
+\Phi(x+h,y)\cong\Phi(x,y)+h\frac{\partial\Phi(x,y)}{\partial x}+\frac{h^2}2\frac{\partial^2\Phi(x,y)}{\partial x^2}
 ```
 
+(1)
+
 ```math
-\Phi(x-h,y)\cong\Phi(x,y)-h\frac{\partial\Phi(x,y)}{\partial x}+\frac{h^2}2\frac{\partial^2\Phi(x,y)}{\partial x^2}\tag{2}
+\Phi(x-h,y)\cong\Phi(x,y)-h\frac{\partial\Phi(x,y)}{\partial x}+\frac{h^2}2\frac{\partial^2\Phi(x,y)}{\partial x^2}
 ```
+
+(2)
 
 sumando (1) y (2) y agrupando, obtenemos
 
 ```math
-\frac{\partial^2\Phi(x,y)}{\partial x^2}=\frac{\Phi(x+h,y)-2\Phi(x,y)+\Phi(x-h,y)}{h^2}\tag{3}
+\frac{\partial^2\Phi(x,y)}{\partial x^2}=\frac{\Phi(x+h,y)-2\Phi(x,y)+\Phi(x-h,y)}{h^2}
 ```
+
+(3)
 
 de igual manera se obtiene la derivada segunda para y
 
 ```math
-\frac{\partial^2\Phi(x,y)}{\partial y^2}=\frac{\Phi(x,y+h)-2\Phi(x,y)+\Phi(x,y-h)}{h^2}\tag{4}
+\frac{\partial^2\Phi(x,y)}{\partial y^2}=\frac{\Phi(x,y+h)-2\Phi(x,y)+\Phi(x,y-h)}{h^2}
 ```
+
+(4)
 
 sumando ahora la (3) y la (4) resulta
 
@@ -115,12 +123,18 @@ circundantes.
 - Original: `2015/Resumen-Fisca-2.pdf`, página10 desde el gradiente y página11
   completa. SHA-256:
   `b9903f972224365c1a74b5d2732c9a34675c9b719da4c9c2d28e4a0f34e0b0cc`.
+
 - PyMuPDF4LLM, Poppler y cotejo visual completo. Fórmulas originales de imagen
   transcritas como LaTeX, con numeración1–4 y puntos de multiplicación
   conservados.
+
 - Se preservan el divisor vectorial dV/ds y el punto entre ∇ y V. La ecuación
   intermedia contiene −ρ/ε0 pero la forma final de Poisson lleva +ρ/ε0; se
   conservan ambos signos y no se corrigen silenciosamente.
+
 - El texto escribe «laque» y «mas»; el paso de Taylor usa Φ en lugar de V y los
   signos de aproximación del original se conservan. No se añaden términos de
   resto.
+
+- Las etiquetas(1)–(4) se conservan como texto junto a sus ecuaciones: el render
+  MathML de GitHub apilaba verticalmente las fórmulas con `\tag`.
