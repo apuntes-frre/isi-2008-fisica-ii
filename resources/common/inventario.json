@@ -1737,12 +1737,20 @@
       "bytes": 485582,
       "paginas_pdf": 20,
       "duplicado_sha256_de": null,
-      "clasificacion": "pendiente de revisión documental",
+      "clasificacion": "informe experimental del grupo 6 sobre leyes de Kirchhoff",
       "evidencia": "",
-      "estado": "pendiente",
-      "paginas_revisadas": [],
-      "copia_local": "/tmp/fisica-ii-20261017-fuentes/63-L6 Kirchoff G6 Aprobado.pdf",
-      "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/63-L6 Kirchoff G6 Aprobado.txt"
+      "estado": "parcial: páginas 1–4 cotejadas y transcritas; faltan 5–20",
+      "paginas_revisadas": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "copia_local": "/Users/carlosferreyra/.cache/fisica-ii-transcripcion/20261023-kirchhoff-informe/01-L6 Kirchoff G6 Aprobado.pdf",
+      "texto_poppler_local": "/Users/carlosferreyra/.cache/fisica-ii-transcripcion/20261023-kirchhoff-informe/poppler.txt",
+      "notas": [
+        "notes/2015/practica/kirchhoff-informe-grupo-6-fundamentos-tecnica.md"
+      ]
     },
     {
       "original": "2015/L7 Brujula G6 A corregir.docx",

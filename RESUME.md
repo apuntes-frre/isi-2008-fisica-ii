@@ -13,7 +13,10 @@ sobre el checkpoint histórico de pausa y los estados inferiores.
   436 expresiones. 300 medios (292 imágenes y 8 GIF).
 - Lotes publicados: 72bbd1d (carga), e19bd73 (descarga); cierre de serie/paralelo
   en el commit que contiene este checkpoint. PR #2 sigue abierto y borrador.
-- Próximo: fuente 63 (Kirchhoff, PDF de 20 páginas), luego 64 y 65. Consultar
+- Fuente 63: páginas 1–4 transcritas, una nota / 6 expresiones / 2 figuras.
+  Próximo lote: página 5 manuscrita y resultados desde 6; restan 5–20.
+  Total 365 notas / 3620 expresiones; pendientes GitHub 32 / 442.
+  Caché persistente: 20261023-kirchhoff-informe. Luego 64 y 65. Consultar
   inventario antes de convertir. Mantener lotes pequeños con validación y push.
 - Caché fuente 61: 20261022-capacidad-corregir, ahora con los 15 renders y las
   cuatro tablas XML en JSON. Scripts de autoría no idempotentes; no reejecutar.

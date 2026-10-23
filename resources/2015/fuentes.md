@@ -272,7 +272,9 @@ originales de las normalizadas y registra conteos matemáticos.
   hoja6:19/05/2016, distinta del año de carpeta2015. Erratas,casilleros vacíos,
   resultados,gráficas yconclusión preservados. Render GitHub pendiente.
   SHA-256:`586d5b26477b67b780929d52df3b218c54dca4ddfe6702e5f6e9d17b0ee5d320`.
-- `2015/L6 Kirchoff G6 Aprobado.pdf`: 20 páginas; pendiente. SHA-256:
+- `2015/L6 Kirchoff G6 Aprobado.pdf`: páginas 1–4 de 20 cotejadas y transcritas:
+  portada, fundamentos, circuito y técnica; dos tablas vacías conservadas. Una
+  nota, seis expresiones y dos figuras. Restan páginas 5–20. SHA-256:
   `534403fde9ec3209246d64553b98096c417d8f500a5a5cc4424914482ac9ac79`.
 - `2015/L7 Brujula G6 A corregir.docx`: no PDF páginas; pendiente. SHA-256:
   `f8b78ccaea4e2a0a6e03331360824f66be2d1899b3f1ead31f65c2335da0960f`.
