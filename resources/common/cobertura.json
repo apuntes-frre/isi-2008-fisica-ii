@@ -8138,6 +8138,22 @@
       "math_esperada": 12,
       "math_renderizada_github": null,
       "estado": "cotejo visual local; pendiente GitHub"
+    },
+    {
+      "original": "2015/Resueltos Fisica II Anibal Kaseros Ley de Biot-Sabat.pdf",
+      "sha256": "b4aeb8cc9f1fa04835d4817a067976cc3d3c07d57e18ca5dabd898b67e09d41e",
+      "nota": "notes/2015/teoria/biot-savart-kasero-conductores-coplanares.md",
+      "paginas_revisadas": [
+        36,
+        37,
+        38,
+        39,
+        40
+      ],
+      "paginacion": "PDF original; páginas36/40 parciales por separador",
+      "math_esperada": 22,
+      "math_renderizada_github": null,
+      "estado": "cotejo visual local; pendiente GitHub"
     }
   ]
 }

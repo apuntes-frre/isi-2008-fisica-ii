@@ -14,12 +14,12 @@ Este bloque prevalece sobre todos los estados históricos inferiores.
   Caché20261023-planificacion-2016 con25renders,Poppler,PyMuPDF4LLM, tablas
   crudas y cotejadas; dos falsas celdas-marco duplicadas eliminadas. Scripts de
   autoría no idempotentes; no reejecutar. No duplicar notas de2019.
-- Total402notas/3912expresiones; pendientes render GitHub69notas/734math.
-  Medios374 (365imágenes/9GIF). PR2 abierto/borrador, avances publicados en lotes.
-- Fuente70:portada y manuscrito2–35 completos y comienzo36 transcritos; siguiente
-  enunciado36 (conductores coplanares) de62.
-  Caché20261023-kaseros-biot-sabat con OCR español completo y renders1–37.
-  Próximo:70 desde segundo enunciado36,71 resumen80p;37 identificar conOCR/visual
+- Total403notas/3934expresiones; pendientes render GitHub70notas/756math.
+  Medios380 (371imágenes/9GIF). PR2 abierto/borrador, avances publicados en lotes.
+- Fuente70:portada y manuscrito2–39 completos y comienzo40 transcritos; siguiente
+  enunciado40 (flujo rectangular) de62.
+  Caché20261023-kaseros-biot-sabat con OCR español completo y renders1–42.
+  Próximo:70 desde segundo enunciado40,71 resumen80p;37 identificar conOCR/visual
   (candidato bibliografía, citado Sampallo2003 en planificación68). Después
   clasificar3/9/11; glifos117/118 y unidad manuscrita examen; revisión visual
   GitHub y auditoría final. No declarar100% con estas lecturas pendientes.
