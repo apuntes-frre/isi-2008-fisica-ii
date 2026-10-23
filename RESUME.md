@@ -15,7 +15,8 @@ sobre el checkpoint histórico de pausa y los estados inferiores.
   en el commit que contiene este checkpoint. PR #2 sigue abierto y borrador.
 - Fuente 63: páginas 1–4 transcritas, una nota / 6 expresiones / 2 figuras.
   Próximo lote: página 5 manuscrita y resultados desde 6; restan 5–20.
-  Total 369 notas / 3644 expresiones; pendientes GitHub 36 / 466.
+  Total 370 notas / 3656 expresiones; pendientes GitHub 37 / 478.
+  Circuito III de 15–16 transcrito; faltan hoja5 y 17–20.
   Simulaciones II de 13–14 y figura inicial 15 conservadas (siete capturas).
   Restan hoja manuscrita 5 y circuito III desde título de 15 hasta 20.
   Circuito II páginas 11–12 transcrito, incluida primera captura de corriente.
