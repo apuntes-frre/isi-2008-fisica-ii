@@ -87,3 +87,6 @@ positiva, con lo cual el sentido del campo es saliente en $`\hat z`$.
 - Se conserva el subíndice ab que el manuscrito usa para el arco exterior aunque
   el esquema lo rotula ad. También conserva el cambio textual bc a cb en las
   fórmulas. No se renombran los tramos para hacerlos coincidir.
+
+[Anterior: bucle semicircular](biot-savart-kasero-bucle-semicircular.md) ·
+[Siguiente: semicirculos opuestos](biot-savart-kasero-semicirculos-opuestos.md)

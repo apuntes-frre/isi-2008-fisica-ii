@@ -8216,6 +8216,37 @@
       "math_esperada": 17,
       "math_renderizada_github": null,
       "estado": "cotejo visual local; pendiente GitHub"
+    },
+    {
+      "original": "2015/Resueltos Fisica II Anibal Kaseros Ley de Biot-Sabat.pdf",
+      "sha256": "b4aeb8cc9f1fa04835d4817a067976cc3d3c07d57e18ca5dabd898b67e09d41e",
+      "nota": "notes/2015/teoria/biot-savart-kasero-positron-helice.md",
+      "paginas_revisadas": [
+        54,
+        55,
+        56,
+        57,
+        58,
+        59
+      ],
+      "paginacion": "PDF original;54 parcial por separador,62vacía",
+      "math_esperada": 45,
+      "math_renderizada_github": null,
+      "estado": "cotejo visual local; pendiente GitHub"
+    },
+    {
+      "original": "2015/Resueltos Fisica II Anibal Kaseros Ley de Biot-Sabat.pdf",
+      "sha256": "b4aeb8cc9f1fa04835d4817a067976cc3d3c07d57e18ca5dabd898b67e09d41e",
+      "nota": "notes/2015/teoria/biot-savart-kasero-campos-fuerza-nula.md",
+      "paginas_revisadas": [
+        60,
+        61,
+        62
+      ],
+      "paginacion": "PDF original;54 parcial por separador,62vacía",
+      "math_esperada": 32,
+      "math_renderizada_github": null,
+      "estado": "cotejo visual local; pendiente GitHub"
     }
   ]
 }

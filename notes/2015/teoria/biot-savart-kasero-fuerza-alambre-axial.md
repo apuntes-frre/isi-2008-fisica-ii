@@ -69,3 +69,6 @@ es lo mismo, son muchas espiras).
 - OCR español auxiliar y cotejo visual de ambas páginas. Dos figuras originales;
   fórmulas y solución transcritas del manuscrito. Las referencias162/159 se
   mantienen literalmente; la numeración del enunciado está retocada.
+
+[Anterior: espira cuadrada](biot-savart-kasero-espira-cuadrada.md) ·
+[Siguiente: bucle semicircular](biot-savart-kasero-bucle-semicircular.md)

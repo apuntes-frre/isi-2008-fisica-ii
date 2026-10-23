@@ -87,3 +87,6 @@ La respuesta es que el campo total de todo el hilo vale
 - En el primer dibujo de página29 el campo entrante se describe «según el eje
   z»; el segundo dibujo define z saliente y la fórmula usa −z. Se preservan
   ambos contextos sin unificar silenciosamente sus signos.
+
+[Anterior: fuerza alambre axial](biot-savart-kasero-fuerza-alambre-axial.md) ·
+[Siguiente: semicirculos concentricos](biot-savart-kasero-semicirculos-concentricos.md)

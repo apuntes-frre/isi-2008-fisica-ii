@@ -132,3 +132,6 @@ conserva el recorte para no atribuirle una simplificación por conjetura.\]
   tachado.
 
 [Ejercicio siguiente: espira cuadrada](biot-savart-kasero-espira-cuadrada.md).
+
+[Anterior: conductor infinito](biot-savart-kasero-conductor-infinito.md) ·
+[Siguiente: espira cuadrada](biot-savart-kasero-espira-cuadrada.md)

@@ -128,3 +128,6 @@ Entonces, es como que el cable se siente repelido en ese segmento:
 - El texto del enunciado escribe «tramo B» aunque la figura lo rotula b;
   «Tenemos de aclarar» se conserva literalmente. No se reescribe el razonamiento
   ni se añade una solución diferente.
+
+[Anterior: horquilla](biot-savart-kasero-horquilla.md) ·
+[Siguiente: flujo rectangulo](biot-savart-kasero-flujo-rectangulo.md)

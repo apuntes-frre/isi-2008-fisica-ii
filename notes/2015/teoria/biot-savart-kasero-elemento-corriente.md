@@ -117,6 +117,10 @@ ejercicios.
   las ecuaciones se transcriben como LaTeX.
 - Se conserva «campos debida» y la descripción «con centro en v o i dl», sin
   reformularla. No se añaden valores ni límites a la integral del original.
-- El documento continúa desde la página 9; no se declara completo.
+- Este apunte cubre páginas5–8; el cuadernillo completo está distribuido
+  en18apuntes.
 
 [Campo de una carga móvil y expresión vectorial](biot-savart-kasero-carga-movil.md).
+
+[Anterior: carga movil](biot-savart-kasero-carga-movil.md) ·
+[Siguiente: espira circular](biot-savart-kasero-espira-circular.md)

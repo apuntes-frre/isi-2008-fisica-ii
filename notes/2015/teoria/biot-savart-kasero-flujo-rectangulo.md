@@ -141,3 +141,7 @@ Recordemos que
 - Se conserva el uso del signo integral simple con subíndice S antes de
   explicitar la integral doble. La normal se elige entrante como en el
   manuscrito.
+
+[Anterior: conductores coplanares](biot-savart-kasero-conductores-coplanares.md)
+·
+[Siguiente: bobina dos conductores](biot-savart-kasero-bobina-dos-conductores.md)

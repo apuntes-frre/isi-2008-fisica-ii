@@ -60,3 +60,6 @@ El campo total es entrante.
   `b4aeb8cc9f1fa04835d4817a067976cc3d3c07d57e18ca5dabd898b67e09d41e`.
 - OCR español auxiliar y cotejo visual de ambos sectores; tres figuras
   originales y ecuaciones transcritas. La numeración retocada no se infiere.
+
+[Anterior: semicirculos concentricos](biot-savart-kasero-semicirculos-concentricos.md)
+· [Siguiente: horquilla](biot-savart-kasero-horquilla.md)

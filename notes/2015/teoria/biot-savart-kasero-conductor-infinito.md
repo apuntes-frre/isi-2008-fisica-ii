@@ -155,3 +155,6 @@ el cuadernillo anterior.
 - El número de ejercicio está retocado; no se asigna por conjetura. La notación
   de los ejes y los versores se conserva, sin cambiar z por r en los pasos
   intermedios.
+
+[Anterior: espira circular](biot-savart-kasero-espira-circular.md) ·
+[Siguiente: segmento recto](biot-savart-kasero-segmento-recto.md)

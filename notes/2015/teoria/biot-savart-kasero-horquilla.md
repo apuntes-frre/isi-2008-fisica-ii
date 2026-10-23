@@ -94,3 +94,6 @@ Extraemos un 2 del denominador
 - OCR español auxiliar y cotejo visual de todo el desarrollo. Seis figuras
   originales, referencia literal163), ecuaciones y razonamiento del manuscrito
   conservados. No se reemplaza la explicación de «mitad de longitud» por otra.
+
+[Anterior: semicirculos opuestos](biot-savart-kasero-semicirculos-opuestos.md) ·
+[Siguiente: conductores coplanares](biot-savart-kasero-conductores-coplanares.md)

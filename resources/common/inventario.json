@@ -2028,8 +2028,8 @@
       "paginas_pdf": 62,
       "duplicado_sha256_de": null,
       "clasificacion": "cuadernillo manuscrito de teoría y resueltos: Ley de Biot-Savart; autor de portada Anibal Kasero",
-      "evidencia": "Portada y manuscrito2–53 completos, comienzo54 hasta separador cotejado; OCR español auxiliar. Próximo positrón helicoidal54.",
-      "estado": "parcial:53páginas completas y comienzo54 revisados; segundo enunciado54 pendiente",
+      "evidencia": "62renders cotejados. OCRmyPDF español auxiliar y Poppler. Fórmulas legibles en LaTeX, figuras originales; borrador tachado21 conservado como evidencia. Erratas, espacios vacíos y discrepancias entre respuestas y manuscrito preservados.",
+      "estado": "completo documentalmente:62/62 páginas cotejadas; portada, teoría y16ejercicios; página62 vacía; pendiente GitHub",
       "paginas_revisadas": [
         1,
         2,
@@ -2083,7 +2083,16 @@
         50,
         51,
         52,
-        53
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62
       ],
       "copia_local": "/Users/carlosferreyra/.cache/fisica-ii-transcripcion/20261023-kaseros-biot-sabat/01-Resueltos Fisica II Anibal Kaseros Ley de Biot-Sabat.pdf",
       "texto_poppler_local": "/tmp/fisica-ii-conversion/textos/70-Resueltos Fisica II Anibal Kaseros Ley de Biot-Sabat.txt",
@@ -2103,7 +2112,9 @@
         "notes/2015/teoria/biot-savart-kasero-flujo-rectangulo.md",
         "notes/2015/teoria/biot-savart-kasero-bobina-dos-conductores.md",
         "notes/2015/teoria/biot-savart-kasero-masa-ion.md",
-        "notes/2015/teoria/biot-savart-kasero-particula-alfa.md"
+        "notes/2015/teoria/biot-savart-kasero-particula-alfa.md",
+        "notes/2015/teoria/biot-savart-kasero-positron-helice.md",
+        "notes/2015/teoria/biot-savart-kasero-campos-fuerza-nula.md"
       ]
     },
     {

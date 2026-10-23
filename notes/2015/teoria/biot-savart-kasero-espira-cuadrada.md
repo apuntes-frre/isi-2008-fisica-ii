@@ -86,3 +86,6 @@ Entonces la respuesta es cuatro veces la contribución de un solo segmento:
 - Se conserva la diferencia entre l del texto y L de la figura/respuesta, la
   referencia literal «problema164» y los signos de los vectores del manuscrito.
   La numeración inicial del enunciado está retocada.
+
+[Anterior: segmento recto](biot-savart-kasero-segmento-recto.md) ·
+[Siguiente: fuerza alambre axial](biot-savart-kasero-fuerza-alambre-axial.md)

@@ -174,3 +174,6 @@ El valor de By sigue siendo By = 0.
   aparece retocada: se conserva en el recorte, sin asignar un número por
   conjetura.
 - El desarrollo corresponde al manuscrito original; no es una solución añadida.
+
+[Anterior: elemento corriente](biot-savart-kasero-elemento-corriente.md) ·
+[Siguiente: conductor infinito](biot-savart-kasero-conductor-infinito.md)

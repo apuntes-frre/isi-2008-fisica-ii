@@ -208,3 +208,6 @@ i_2=100\;\mathrm A
 - Se mantiene la afirmación del autor sobre las50espiras, sin agregar un factor
   N ni corregir su interpretación. «Por los los circulan» pertenece al
   enunciado.
+
+[Anterior: flujo rectangulo](biot-savart-kasero-flujo-rectangulo.md) ·
+[Siguiente: masa ion](biot-savart-kasero-masa-ion.md)

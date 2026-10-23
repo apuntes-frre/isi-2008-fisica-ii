@@ -124,3 +124,6 @@ V=7\cdot10^6\;\mathrm V
   manuscrito conservados sin recalcular; esta solución pertenece a la fuente.
 - La numeración inicial está retocada. La fuente pasa de julios a MeV sin
   escribir otro paso intermedio; no se añade una cuenta en eV.
+
+[Anterior: masa ion](biot-savart-kasero-masa-ion.md) ·
+[Siguiente: positron helice](biot-savart-kasero-positron-helice.md)

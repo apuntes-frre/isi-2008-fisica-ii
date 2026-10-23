@@ -123,3 +123,6 @@ m=\frac{1{,}6\cdot10^{-19}\;\mathrm C\cdot(0{,}3)^2\cdot
   Se conservan ambos sin cambiar el signo ni agregar una resolución propia.
 - En la sustitución final no figura unidad junto a0,3; no se completa esa unidad
   dentro de la ecuación, aunque el enunciado indique metros.
+
+[Anterior: bobina dos conductores](biot-savart-kasero-bobina-dos-conductores.md)
+· [Siguiente: particula alfa](biot-savart-kasero-particula-alfa.md)

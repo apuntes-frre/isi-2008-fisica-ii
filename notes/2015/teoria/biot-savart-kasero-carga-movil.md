@@ -10,6 +10,10 @@ TÍTULO: Ley de Biot - Savart
 
 AUTOR: Anibal Kasero
 
+Código: AR2FP8
+
+![Código de barras original de portada](../../../resources/2015/biot-savart-kasero/portada-codigo-barras.png)
+
 ## 8\_ LEY DE BIOT-SAVART
 
 En el cuadernillo anterior aprendimos a encontrar el campo magnético de ciertos
@@ -108,6 +112,7 @@ Con todo esto tenemos la expresión completa:
   línea.
 - Errata del original conservada: el texto define θ entre B y v. No se cambia
   por r y v. La unidad está escrita «Wb/Am»; se mantiene esa notación.
-- Este apunte cubre solo las primeras cuatro páginas. Las páginas 5–7 se
-  transcriben en el apunte enlazado; las páginas 8–62 continúan pendientes; el
-  cuadernillo no se declara completo.
+- Este apunte cubre las primeras cuatro páginas del cuadernillo. El documento
+  completo está distribuido en18apuntes enlazados, con62páginas revisadas.
+
+[Siguiente: elemento corriente](biot-savart-kasero-elemento-corriente.md)

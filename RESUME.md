@@ -14,13 +14,16 @@ Este bloque prevalece sobre todos los estados históricos inferiores.
   Caché20261023-planificacion-2016 con25renders,Poppler,PyMuPDF4LLM, tablas
   crudas y cotejadas; dos falsas celdas-marco duplicadas eliminadas. Scripts de
   autoría no idempotentes; no reejecutar. No duplicar notas de2019.
-- Total407notas/4016expresiones; pendientes render GitHub74notas/838math.
-  Medios389 (380imágenes/9GIF). PR2 abierto/borrador, avances publicados en lotes.
-- Fuente70:portada y manuscrito2–53 completos y comienzo54 transcritos; siguiente
-  enunciado54 (positrón helicoidal) de62.
-  Caché20261023-kaseros-biot-sabat con OCR español completo y renders1–58.
-  Próximo:70 desde segundo enunciado54,71 resumen80p;37 identificar conOCR/visual
-  (candidato bibliografía, citado Sampallo2003 en planificación68). Después
+- Total409notas/4093expresiones; pendientes render GitHub76notas/915math.
+  Medios396 (387imágenes/9GIF). PR2 abierto/borrador, avances publicados en lotes.
+- Fuente70 completa documentalmente:62/62páginas cotejadas,18notas de teoría y
+  ejercicios. Portada autor Anibal Kasero y título Biot-Savart, distintos del
+  nombre de archivo. Página62 vacía, borrador tachado21 conservado como recorte.
+  Caché20261023-kaseros-biot-sabat con OCR español completo y renders1–62.
+- Próximo:71 resumen80p (extracción lista en caché20261023-resumen-fisica);
+  37 identificar conOCR/visual (caché20261023-sampallo-identificacion, primeras
+  tres páginas vistas:libro Guillermo Sampallo2003,ISBN987-43-6398-3, citado68).
+  Después
   clasificar3/9/11; glifos117/118 y unidad manuscrita examen; revisión visual
   GitHub y auditoría final. No declarar100% con estas lecturas pendientes.
   No fusionar automáticamente la continuación.
