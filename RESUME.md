@@ -15,7 +15,7 @@ bloque prevalece sobre todos los estados históricos inferiores.
   completos. Caché20261023-planificacion-2016 con25renders,Poppler,PyMuPDF4LLM,
   tablas crudas y cotejadas; dos falsas celdas-marco duplicadas eliminadas.
   Scripts de autoría no idempotentes; no reejecutar. No duplicar notas de2019.
-- Total485notas/4866expresiones; pendientes render GitHub106notas/1643math.
+- Total485notas/4866expresiones; pendientes render GitHub76notas/915math.
   Medios500 (491imágenes/9GIF). PR2 abierto/borrador, avances publicados en
   lotes.
 - Fuente70 completa documentalmente:62/62páginas cotejadas,18notas de teoría y
@@ -27,7 +27,7 @@ bloque prevalece sobre todos los estados históricos inferiores.
   Taylor y fem separadas tras detectar apilamiento en MathML. Mismo defecto
   confirmado en apuntes previos:222etiquetas de31notas movidas a texto, fórmulas
   cotejadas idénticas salvo tag; evidencia GitHub invalidada únicamente en
-  esos31archivos para revisión nueva; Laplace ya revisado9/9math. Evidencia en
+  esos31archivos para revisión nueva; los31archivos ya revisados737/737math. Evidencia en
   cobertura; no contar solo mjx-container (da0 en esta vista).
 - Fuente71 completa documentalmente:80/80páginas,76notas; revisión GitHub
   completa,773/773math. Caché20261023-resumen-fisica con extracción completa y

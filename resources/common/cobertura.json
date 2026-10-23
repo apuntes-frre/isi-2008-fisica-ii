@@ -18,9 +18,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 15,
-      "math_renderizada_github": null,
-      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/145e295/notes/2019/practica/fuerza-magnetica-elementos-corriente-informe.md",
-      "estado": "etiquetas conservadas como texto para evitar apilamiento MathML; pendiente nueva revisión GitHub",
+      "math_renderizada_github": 15,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/c3c96f7badadee49ef54888b08e9a7a0b4147df4/notes/2019/practica/fuerza-magnetica-elementos-corriente-informe.md",
+      "estado": "2026-10-23: revisión GitHub tras separar etiquetas; math-renderer y math coinciden con las expresiones esperadas, 0 merror, sin fórmulas sin renderizar, figuras cargadas; muestra visual de cada apunte revisada.",
       "fuentes_adicionales": [
         {
           "original": "2019/2do Parcial/Laboratorios/Fza Magnetica sobre elementos de corriente_apto_busquedas.pdf",
@@ -61,9 +61,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 20,
-      "math_renderizada_github": null,
-      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/e0fcf82/notes/2019/practica/campo-induccion-magnetica-informe.md",
-      "estado": "etiquetas conservadas como texto para evitar apilamiento MathML; pendiente nueva revisión GitHub",
+      "math_renderizada_github": 20,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/c3c96f7badadee49ef54888b08e9a7a0b4147df4/notes/2019/practica/campo-induccion-magnetica-informe.md",
+      "estado": "2026-10-23: revisión GitHub tras separar etiquetas; math-renderer y math coinciden con las expresiones esperadas, 0 merror, sin fórmulas sin renderizar, figuras cargadas; muestra visual de cada apunte revisada.",
       "fuentes_adicionales": [
         {
           "original": "2019/2do Parcial/Laboratorios/Campo de Induccion Magnetica.pdf",
@@ -1666,9 +1666,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 30,
-      "math_renderizada_github": null,
-      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/practica/campo-cero-dos-cargas-puntuales.md",
-      "estado": "etiquetas conservadas como texto para evitar apilamiento MathML; pendiente nueva revisión GitHub"
+      "math_renderizada_github": 30,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/c3c96f7badadee49ef54888b08e9a7a0b4147df4/notes/2019/practica/campo-cero-dos-cargas-puntuales.md",
+      "estado": "2026-10-23: revisión GitHub tras separar etiquetas; math-renderer y math coinciden con las expresiones esperadas, 0 merror, sin fórmulas sin renderizar, figuras cargadas; muestra visual de cada apunte revisada."
     },
     {
       "original": "2019/1er Parcial/Discretizando un sistema continuo.pdf",
@@ -1682,9 +1682,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 15,
-      "math_renderizada_github": null,
-      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/practica/discretizacion-sistema-continuo.md",
-      "estado": "etiquetas conservadas como texto para evitar apilamiento MathML; pendiente nueva revisión GitHub"
+      "math_renderizada_github": 15,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/c3c96f7badadee49ef54888b08e9a7a0b4147df4/notes/2019/practica/discretizacion-sistema-continuo.md",
+      "estado": "2026-10-23: revisión GitHub tras separar etiquetas; math-renderer y math coinciden con las expresiones esperadas, 0 merror, sin fórmulas sin renderizar, figuras cargadas; muestra visual de cada apunte revisada."
     },
     {
       "original": "2019/1er Parcial/2018 UT I - Fuerza Eléctrica y Campo Elécrtico.pdf",
@@ -1913,9 +1913,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 7,
-      "math_renderizada_github": null,
-      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/capacidad-condensadores-definicion-unidades.md",
-      "estado": "etiquetas conservadas como texto para evitar apilamiento MathML; pendiente nueva revisión GitHub"
+      "math_renderizada_github": 7,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/c3c96f7badadee49ef54888b08e9a7a0b4147df4/notes/2019/teoria/capacidad-condensadores-definicion-unidades.md",
+      "estado": "2026-10-23: revisión GitHub tras separar etiquetas; math-renderer y math coinciden con las expresiones esperadas, 0 merror, sin fórmulas sin renderizar, figuras cargadas; muestra visual de cada apunte revisada."
     },
     {
       "original": "2019/1er Parcial/2018 PF UT III - Capacidad. Prop electr de la Materia.pptx.pdf",
@@ -2120,9 +2120,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 12,
-      "math_renderizada_github": null,
-      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2019/teoria/leyes-kirchhoff-mallas-nodos-teoria.md",
-      "estado": "etiquetas conservadas como texto para evitar apilamiento MathML; pendiente nueva revisión GitHub"
+      "math_renderizada_github": 12,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/c3c96f7badadee49ef54888b08e9a7a0b4147df4/notes/2019/teoria/leyes-kirchhoff-mallas-nodos-teoria.md",
+      "estado": "2026-10-23: revisión GitHub tras separar etiquetas; math-renderer y math coinciden con las expresiones esperadas, 0 merror, sin fórmulas sin renderizar, figuras cargadas; muestra visual de cada apunte revisada."
     },
     {
       "original": "2019/1er Parcial/2017 UT IV - Electrocinética.ppt.pdf",
@@ -3474,9 +3474,9 @@
       ],
       "paginacion": "PDF normalizado desde DOCX; depende del renderizador",
       "math_esperada": 26,
-      "math_renderizada_github": null,
-      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/potencial-electrico-mapeo-laboratorio-1.md",
-      "estado": "etiquetas conservadas como texto para evitar apilamiento MathML; pendiente nueva revisión GitHub"
+      "math_renderizada_github": 26,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/c3c96f7badadee49ef54888b08e9a7a0b4147df4/notes/2015/practica/potencial-electrico-mapeo-laboratorio-1.md",
+      "estado": "2026-10-23: revisión GitHub tras separar etiquetas; math-renderer y math coinciden con las expresiones esperadas, 0 merror, sin fórmulas sin renderizar, figuras cargadas; muestra visual de cada apunte revisada."
     },
     {
       "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS 2015 - TP N° 2.docx",
@@ -3505,9 +3505,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 17,
-      "math_renderizada_github": null,
-      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/ley-de-faraday-laboratorio-9-bis.md",
-      "estado": "etiquetas conservadas como texto para evitar apilamiento MathML; pendiente nueva revisión GitHub",
+      "math_renderizada_github": 17,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/c3c96f7badadee49ef54888b08e9a7a0b4147df4/notes/2015/practica/ley-de-faraday-laboratorio-9-bis.md",
+      "estado": "2026-10-23: revisión GitHub tras separar etiquetas; math-renderer y math coinciden con las expresiones esperadas, 0 merror, sin fórmulas sin renderizar, figuras cargadas; muestra visual de cada apunte revisada.",
       "fuentes_adicionales": [
         {
           "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS.pdf",
@@ -3529,9 +3529,9 @@
       ],
       "paginacion": "PDF normalizado desde DOCX; depende del renderizador",
       "math_esperada": 16,
-      "math_renderizada_github": null,
-      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/ley-de-faraday-laboratorio-9-bis-version-docx.md",
-      "estado": "etiquetas conservadas como texto para evitar apilamiento MathML; pendiente nueva revisión GitHub"
+      "math_renderizada_github": 16,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/c3c96f7badadee49ef54888b08e9a7a0b4147df4/notes/2015/practica/ley-de-faraday-laboratorio-9-bis-version-docx.md",
+      "estado": "2026-10-23: revisión GitHub tras separar etiquetas; math-renderer y math coinciden con las expresiones esperadas, 0 merror, sin fórmulas sin renderizar, figuras cargadas; muestra visual de cada apunte revisada."
     },
     {
       "original": "2015/GUIA DE PROBLEMAS POLARIZACION-1.pdf",
@@ -3663,9 +3663,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 33,
-      "math_renderizada_github": null,
-      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/ley-de-ohm-asociaciones-laboratorio-4.md",
-      "estado": "etiquetas conservadas como texto para evitar apilamiento MathML; pendiente nueva revisión GitHub"
+      "math_renderizada_github": 33,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/c3c96f7badadee49ef54888b08e9a7a0b4147df4/notes/2015/practica/ley-de-ohm-asociaciones-laboratorio-4.md",
+      "estado": "2026-10-23: revisión GitHub tras separar etiquetas; math-renderer y math coinciden con las expresiones esperadas, 0 merror, sin fórmulas sin renderizar, figuras cargadas; muestra visual de cada apunte revisada."
     },
     {
       "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS 2015 - tp N° 3.pdf",
@@ -3686,9 +3686,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 43,
-      "math_renderizada_github": null,
-      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/circuito-rc-capacidad-laboratorio-3.md",
-      "estado": "etiquetas conservadas como texto para evitar apilamiento MathML; pendiente nueva revisión GitHub"
+      "math_renderizada_github": 43,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/c3c96f7badadee49ef54888b08e9a7a0b4147df4/notes/2015/practica/circuito-rc-capacidad-laboratorio-3.md",
+      "estado": "2026-10-23: revisión GitHub tras separar etiquetas; math-renderer y math coinciden con las expresiones esperadas, 0 merror, sin fórmulas sin renderizar, figuras cargadas; muestra visual de cada apunte revisada."
     },
     {
       "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS 2015- TP N° 8.pdf",
@@ -3704,9 +3704,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 19,
-      "math_renderizada_github": null,
-      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/fuerza-magnetica-laboratorio-8.md",
-      "estado": "etiquetas conservadas como texto para evitar apilamiento MathML; pendiente nueva revisión GitHub",
+      "math_renderizada_github": 19,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/c3c96f7badadee49ef54888b08e9a7a0b4147df4/notes/2015/practica/fuerza-magnetica-laboratorio-8.md",
+      "estado": "2026-10-23: revisión GitHub tras separar etiquetas; math-renderer y math coinciden con las expresiones esperadas, 0 merror, sin fórmulas sin renderizar, figuras cargadas; muestra visual de cada apunte revisada.",
       "fuentes_adicionales": [
         {
           "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS 2015- TP N° 8.pdf.pdf",
@@ -3738,9 +3738,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 35,
-      "math_renderizada_github": null,
-      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/campo-induccion-magnetica-laboratorio-7.md",
-      "estado": "etiquetas conservadas como texto para evitar apilamiento MathML; pendiente nueva revisión GitHub",
+      "math_renderizada_github": 35,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/c3c96f7badadee49ef54888b08e9a7a0b4147df4/notes/2015/practica/campo-induccion-magnetica-laboratorio-7.md",
+      "estado": "2026-10-23: revisión GitHub tras separar etiquetas; math-renderer y math coinciden con las expresiones esperadas, 0 merror, sin fórmulas sin renderizar, figuras cargadas; muestra visual de cada apunte revisada.",
       "fuentes_adicionales": [
         {
           "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS 2015- TP N° 7.pdf.pdf",
@@ -3772,9 +3772,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 20,
-      "math_renderizada_github": null,
-      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/fuerza-magnetica-laboratorio-8-version-2.md",
-      "estado": "etiquetas conservadas como texto para evitar apilamiento MathML; pendiente nueva revisión GitHub",
+      "math_renderizada_github": 20,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/c3c96f7badadee49ef54888b08e9a7a0b4147df4/notes/2015/practica/fuerza-magnetica-laboratorio-8-version-2.md",
+      "estado": "2026-10-23: revisión GitHub tras separar etiquetas; math-renderer y math coinciden con las expresiones esperadas, 0 merror, sin fórmulas sin renderizar, figuras cargadas; muestra visual de cada apunte revisada.",
       "fuentes_adicionales": [
         {
           "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS 2015- TP N° 7.pdf.pdf",
@@ -4360,9 +4360,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 34,
-      "math_renderizada_github": null,
-      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/faraday-induccion-toroide-laboratorio-9.md",
-      "estado": "etiquetas conservadas como texto para evitar apilamiento MathML; pendiente nueva revisión GitHub"
+      "math_renderizada_github": 34,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/c3c96f7badadee49ef54888b08e9a7a0b4147df4/notes/2015/practica/faraday-induccion-toroide-laboratorio-9.md",
+      "estado": "2026-10-23: revisión GitHub tras separar etiquetas; math-renderer y math coinciden con las expresiones esperadas, 0 merror, sin fórmulas sin renderizar, figuras cargadas; muestra visual de cada apunte revisada."
     },
     {
       "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS.pdf",
@@ -4379,9 +4379,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 75,
-      "math_renderizada_github": null,
-      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/corriente-alterna-serie-laboratorio-10.md",
-      "estado": "etiquetas conservadas como texto para evitar apilamiento MathML; pendiente nueva revisión GitHub"
+      "math_renderizada_github": 75,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/c3c96f7badadee49ef54888b08e9a7a0b4147df4/notes/2015/practica/corriente-alterna-serie-laboratorio-10.md",
+      "estado": "2026-10-23: revisión GitHub tras separar etiquetas; math-renderer y math coinciden con las expresiones esperadas, 0 merror, sin fórmulas sin renderizar, figuras cargadas; muestra visual de cada apunte revisada."
     },
     {
       "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS.pdf",
@@ -4412,9 +4412,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 21,
-      "math_renderizada_github": null,
-      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/interferencia-laboratorio-12.md",
-      "estado": "etiquetas conservadas como texto para evitar apilamiento MathML; pendiente nueva revisión GitHub"
+      "math_renderizada_github": 21,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/c3c96f7badadee49ef54888b08e9a7a0b4147df4/notes/2015/practica/interferencia-laboratorio-12.md",
+      "estado": "2026-10-23: revisión GitHub tras separar etiquetas; math-renderer y math coinciden con las expresiones esperadas, 0 merror, sin fórmulas sin renderizar, figuras cargadas; muestra visual de cada apunte revisada."
     },
     {
       "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS.pdf",
@@ -4428,9 +4428,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 22,
-      "math_renderizada_github": null,
-      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/difraccion-laboratorio-13.md",
-      "estado": "etiquetas conservadas como texto para evitar apilamiento MathML; pendiente nueva revisión GitHub"
+      "math_renderizada_github": 22,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/c3c96f7badadee49ef54888b08e9a7a0b4147df4/notes/2015/practica/difraccion-laboratorio-13.md",
+      "estado": "2026-10-23: revisión GitHub tras separar etiquetas; math-renderer y math coinciden con las expresiones esperadas, 0 merror, sin fórmulas sin renderizar, figuras cargadas; muestra visual de cada apunte revisada."
     },
     {
       "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS.pdf",
@@ -4443,9 +4443,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 11,
-      "math_renderizada_github": null,
-      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/espectrometro-laboratorio-14.md",
-      "estado": "etiquetas conservadas como texto para evitar apilamiento MathML; pendiente nueva revisión GitHub"
+      "math_renderizada_github": 11,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/c3c96f7badadee49ef54888b08e9a7a0b4147df4/notes/2015/practica/espectrometro-laboratorio-14.md",
+      "estado": "2026-10-23: revisión GitHub tras separar etiquetas; math-renderer y math coinciden con las expresiones esperadas, 0 merror, sin fórmulas sin renderizar, figuras cargadas; muestra visual de cada apunte revisada."
     },
     {
       "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS.pdf",
@@ -4480,9 +4480,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 9,
-      "math_renderizada_github": null,
-      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/termometria-laboratorio-16.md",
-      "estado": "etiquetas conservadas como texto para evitar apilamiento MathML; pendiente nueva revisión GitHub"
+      "math_renderizada_github": 9,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/c3c96f7badadee49ef54888b08e9a7a0b4147df4/notes/2015/practica/termometria-laboratorio-16.md",
+      "estado": "2026-10-23: revisión GitHub tras separar etiquetas; math-renderer y math coinciden con las expresiones esperadas, 0 merror, sin fórmulas sin renderizar, figuras cargadas; muestra visual de cada apunte revisada."
     },
     {
       "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS.pdf",
@@ -4496,9 +4496,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 29,
-      "math_renderizada_github": null,
-      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/calorimetria-laboratorio-17.md",
-      "estado": "etiquetas conservadas como texto para evitar apilamiento MathML; pendiente nueva revisión GitHub"
+      "math_renderizada_github": 29,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/c3c96f7badadee49ef54888b08e9a7a0b4147df4/notes/2015/practica/calorimetria-laboratorio-17.md",
+      "estado": "2026-10-23: revisión GitHub tras separar etiquetas; math-renderer y math coinciden con las expresiones esperadas, 0 merror, sin fórmulas sin renderizar, figuras cargadas; muestra visual de cada apunte revisada."
     },
     {
       "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS.pdf",
@@ -4545,9 +4545,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 35,
-      "math_renderizada_github": null,
-      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/campo-induccion-laboratorio-7-compilado.md",
-      "estado": "etiquetas conservadas como texto para evitar apilamiento MathML; pendiente nueva revisión GitHub"
+      "math_renderizada_github": 35,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/c3c96f7badadee49ef54888b08e9a7a0b4147df4/notes/2015/practica/campo-induccion-laboratorio-7-compilado.md",
+      "estado": "2026-10-23: revisión GitHub tras separar etiquetas; math-renderer y math coinciden con las expresiones esperadas, 0 merror, sin fórmulas sin renderizar, figuras cargadas; muestra visual de cada apunte revisada."
     },
     {
       "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS.pdf",
@@ -4563,9 +4563,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 21,
-      "math_renderizada_github": null,
-      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/fuerza-magnetica-laboratorio-8-compilado.md",
-      "estado": "etiquetas conservadas como texto para evitar apilamiento MathML; pendiente nueva revisión GitHub"
+      "math_renderizada_github": 21,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/c3c96f7badadee49ef54888b08e9a7a0b4147df4/notes/2015/practica/fuerza-magnetica-laboratorio-8-compilado.md",
+      "estado": "2026-10-23: revisión GitHub tras separar etiquetas; math-renderer y math coinciden con las expresiones esperadas, 0 merror, sin fórmulas sin renderizar, figuras cargadas; muestra visual de cada apunte revisada."
     },
     {
       "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS.pdf",
@@ -4582,9 +4582,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 43,
-      "math_renderizada_github": null,
-      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/ley-ohm-laboratorio-4-compilado.md",
-      "estado": "etiquetas conservadas como texto para evitar apilamiento MathML; pendiente nueva revisión GitHub"
+      "math_renderizada_github": 43,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/c3c96f7badadee49ef54888b08e9a7a0b4147df4/notes/2015/practica/ley-ohm-laboratorio-4-compilado.md",
+      "estado": "2026-10-23: revisión GitHub tras separar etiquetas; math-renderer y math coinciden con las expresiones esperadas, 0 merror, sin fórmulas sin renderizar, figuras cargadas; muestra visual de cada apunte revisada."
     },
     {
       "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS.pdf",
@@ -4603,9 +4603,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 43,
-      "math_renderizada_github": null,
-      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/circuito-rc-laboratorio-3-compilado.md",
-      "estado": "etiquetas conservadas como texto para evitar apilamiento MathML; pendiente nueva revisión GitHub"
+      "math_renderizada_github": 43,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/c3c96f7badadee49ef54888b08e9a7a0b4147df4/notes/2015/practica/circuito-rc-laboratorio-3-compilado.md",
+      "estado": "2026-10-23: revisión GitHub tras separar etiquetas; math-renderer y math coinciden con las expresiones esperadas, 0 merror, sin fórmulas sin renderizar, figuras cargadas; muestra visual de cada apunte revisada."
     },
     {
       "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS.pdf",
@@ -4621,9 +4621,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 9,
-      "math_renderizada_github": null,
-      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/laplace-laboratorio-2-compilado.md",
-      "estado": "etiquetas conservadas como texto para evitar apilamiento MathML; pendiente nueva revisión GitHub"
+      "math_renderizada_github": 9,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/c3c96f7badadee49ef54888b08e9a7a0b4147df4/notes/2015/practica/laplace-laboratorio-2-compilado.md",
+      "estado": "2026-10-23: revisión GitHub tras separar etiquetas; math-renderer y math coinciden con las expresiones esperadas, 0 merror, sin fórmulas sin renderizar, figuras cargadas; muestra visual de cada apunte revisada."
     },
     {
       "original": "2015/FISICA II - EXPERIENCIAS DE LABORATORIOS.pdf",
@@ -4640,9 +4640,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 26,
-      "math_renderizada_github": null,
-      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/potencial-laboratorio-1-compilado.md",
-      "estado": "etiquetas conservadas como texto para evitar apilamiento MathML; pendiente nueva revisión GitHub"
+      "math_renderizada_github": 26,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/c3c96f7badadee49ef54888b08e9a7a0b4147df4/notes/2015/practica/potencial-laboratorio-1-compilado.md",
+      "estado": "2026-10-23: revisión GitHub tras separar etiquetas; math-renderer y math coinciden con las expresiones esperadas, 0 merror, sin fórmulas sin renderizar, figuras cargadas; muestra visual de cada apunte revisada."
     },
     {
       "original": "2019/3er Parcial/2017 UT IX Corriente Alterna.pdf",
@@ -5158,9 +5158,9 @@
       ],
       "paginacion": "PDF original; fecha impresa22/06/2018",
       "math_esperada": 13,
-      "math_renderizada_github": null,
-      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/5806892/notes/2019/teoria/maxwell-ecuaciones-integrales-diferenciales-2018-06-22.md",
-      "estado": "etiquetas conservadas como texto para evitar apilamiento MathML; pendiente nueva revisión GitHub",
+      "math_renderizada_github": 13,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/c3c96f7badadee49ef54888b08e9a7a0b4147df4/notes/2019/teoria/maxwell-ecuaciones-integrales-diferenciales-2018-06-22.md",
+      "estado": "2026-10-23: revisión GitHub tras separar etiquetas; math-renderer y math coinciden con las expresiones esperadas, 0 merror, sin fórmulas sin renderizar, figuras cargadas; muestra visual de cada apunte revisada.",
       "fuentes_adicionales": [
         {
           "original": "2019/3er Parcial/2019 UT X - Ecuaciones de Maxwell.pdf",
@@ -5185,9 +5185,9 @@
       ],
       "paginacion": "PDF original; fecha impresa22/06/2018",
       "math_esperada": 9,
-      "math_renderizada_github": null,
-      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/5806892/notes/2019/teoria/maxwell-deduccion-ecuacion-ondas-2018-06-22.md",
-      "estado": "etiquetas conservadas como texto para evitar apilamiento MathML; pendiente nueva revisión GitHub",
+      "math_renderizada_github": 9,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/c3c96f7badadee49ef54888b08e9a7a0b4147df4/notes/2019/teoria/maxwell-deduccion-ecuacion-ondas-2018-06-22.md",
+      "estado": "2026-10-23: revisión GitHub tras separar etiquetas; math-renderer y math coinciden con las expresiones esperadas, 0 merror, sin fórmulas sin renderizar, figuras cargadas; muestra visual de cada apunte revisada.",
       "fuentes_adicionales": [
         {
           "original": "2019/3er Parcial/2019 UT X - Ecuaciones de Maxwell.pdf",
@@ -5326,9 +5326,9 @@
       ],
       "paginacion": "PDF original; fecha impresa22/06/2018",
       "math_esperada": 20,
-      "math_renderizada_github": null,
-      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/5806892/notes/2019/teoria/maxwell-energia-balance-poynting-2018-06-22.md",
-      "estado": "etiquetas conservadas como texto para evitar apilamiento MathML; pendiente nueva revisión GitHub",
+      "math_renderizada_github": 20,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/c3c96f7badadee49ef54888b08e9a7a0b4147df4/notes/2019/teoria/maxwell-energia-balance-poynting-2018-06-22.md",
+      "estado": "2026-10-23: revisión GitHub tras separar etiquetas; math-renderer y math coinciden con las expresiones esperadas, 0 merror, sin fórmulas sin renderizar, figuras cargadas; muestra visual de cada apunte revisada.",
       "fuentes_adicionales": [
         {
           "original": "2019/3er Parcial/2019 UT X - Ecuaciones de Maxwell.pdf",
