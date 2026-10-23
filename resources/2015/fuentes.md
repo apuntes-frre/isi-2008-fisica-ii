@@ -327,7 +327,10 @@ originales de las normalizadas y registra conteos matemáticos.
   Portada:Anibal Kasero,Ley de Biot-Savart; página62vacía. OCR español auxiliar,
   figuras y erratas conservadas; pendiente revisión visual GitHub. SHA-256:
   `b4aeb8cc9f1fa04835d4817a067976cc3d3c07d57e18ca5dabd898b67e09d41e`.
-- `2015/Resumen-Fisca-2.pdf`: 80 páginas; pendiente. SHA-256:
+- `2015/Resumen-Fisca-2.pdf`:80páginas; páginas1–3 cotejadas y transcritas en
+  [fuerza y campo eléctrico](../../notes/2015/teoria/resumen-fuerza-campo-electrico.md).
+  Pendiente4–80. PyMuPDF4LLM/Poppler y cotejo visual; fórmulas de imagen en
+  LaTeX. SHA-256:
   `b9903f972224365c1a74b5d2732c9a34675c9b719da4c9c2d28e4a0f34e0b0cc`.
 - `2015/TRABAJO DE LABORATORIO Nº 9 BIS.docx`: no PDF páginas; transcrito y
   validado localmente. SHA-256:
