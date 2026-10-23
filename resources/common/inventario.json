@@ -1738,13 +1738,14 @@
       "paginas_pdf": 20,
       "duplicado_sha256_de": null,
       "clasificacion": "informe experimental del grupo 6 sobre leyes de Kirchhoff",
-      "evidencia": "",
-      "estado": "parcial: páginas 1–4 y 6–20 transcritas; falta cotejo y transcripción de hoja manuscrita5",
+      "evidencia": "Cotejo visual completo, Poppler/PyMuPDF4LLM y OCR español de hoja5. Cuatro celdas sin certeza: p5 mallas posición1 Vcd/Veb/Vgb y posición3 Vcd; recortes conservados. Sin completar por la tabla mecanografiada.",
+      "estado": "20/20 páginas revisadas; contenido legible transcrito; pendientes cuatro celdas manuscritas ilegibles de página5 y render GitHub",
       "paginas_revisadas": [
         1,
         2,
         3,
         4,
+        5,
         6,
         7,
         8,
@@ -1771,7 +1772,8 @@
         "notes/2015/practica/kirchhoff-informe-grupo-6-circuito-dos-simulacion.md",
         "notes/2015/practica/kirchhoff-informe-grupo-6-circuito-tres.md",
         "notes/2015/practica/kirchhoff-informe-grupo-6-circuito-tres-simulacion.md",
-        "notes/2015/practica/kirchhoff-informe-grupo-6-errores-conclusion.md"
+        "notes/2015/practica/kirchhoff-informe-grupo-6-errores-conclusion.md",
+        "notes/2015/practica/kirchhoff-informe-grupo-6-hoja-datos.md"
       ]
     },
     {
