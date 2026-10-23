@@ -279,13 +279,13 @@ originales de las normalizadas y registra conteos matemáticos.
   manuscritas de página5 siguen ilegibles; marcadas sin inferirlas de tablas
   posteriores. Resto legible transcrito; render GitHub pendiente. SHA-256:
   `534403fde9ec3209246d64553b98096c417d8f500a5a5cc4424914482ac9ac79`.
-- `2015/L7 Brujula G6 A corregir.docx`: teoría hasta(8) cotejada y transcrita en
-  una nota/14expresiones/tres figuras; páginas normalizadas1–2 y comienzo3.
-  Materiales/técnica/cuestionario y bibliografía de3–5 transcritos: otra nota,
-  cinco expresiones y tres figuras. Respuestas/conclusión8–9 transcritas con una
-  expresión yGIF original; observaciones rojas conservadas. Restan6–7.
-  Pandoc/LO/XML/Poppler; no corregir observaciones rojas ni fórmulas del
-  original. SHA-256:
+- `2015/L7 Brujula G6 A corregir.docx`:9/9 páginas normalizadas revisadas; cinco
+  notas/21expresiones/nueve medios (ocho imágenes yGIF original). Materiales,
+  teoría con erratas, técnica, preguntas/respuestas, bibliografía, dos tablas de
+  resultados y gráfica conservados. Observaciones rojas finales transcritas sin
+  aplicarlas. Hoja manuscrita con14filas, fecha16/06/2016; una cifra de x a30°
+  retocada sigue ilegible y marcada, sin inferir de tabla7. Nombres y firmas
+  manuscritos omitidos explícitamente. Pendiente render GitHub. SHA-256:
   `f8b78ccaea4e2a0a6e03331360824f66be2d1899b3f1ead31f65c2335da0960f`.
 - `2015/L8 Fza sobre elemento de cte G6 Aprobado.pdf`: 9 páginas; pendiente.
   SHA-256: `fb2be56c4577a2058d5334daff09c1974e826f2fa3023bd5e6da74dcbca6a701`.

@@ -1783,8 +1783,8 @@
       "paginas_pdf": null,
       "duplicado_sha256_de": null,
       "clasificacion": "informe de brújula de tangentes del grupo6, versión con observaciones en rojo",
-      "evidencia": "",
-      "estado": "parcial: páginas normalizadas1–5 y7–9 transcritas; falta hoja manuscrita6",
+      "evidencia": "Pandoc/LO/XML/Poppler, todos los renders y OCR español hoja6. Teoría roja y comentarios finales conservados, sin corrección científica; cifra final x a30° no inferida de tabla7.",
+      "estado": "9/9 páginas normalizadas revisadas; contenido legible transcrito; una cifra retocada pendiente en hoja6, distancia de30°; render GitHub pendiente",
       "paginas_revisadas": [
         1,
         2,
@@ -1803,7 +1803,8 @@
         "notes/2015/practica/brujula-informe-grupo-6-fundamentos.md",
         "notes/2015/practica/brujula-informe-grupo-6-tecnica-cuestionario.md",
         "notes/2015/practica/brujula-informe-grupo-6-respuestas-conclusion.md",
-        "notes/2015/practica/brujula-informe-grupo-6-resultados.md"
+        "notes/2015/practica/brujula-informe-grupo-6-resultados.md",
+        "notes/2015/practica/brujula-informe-grupo-6-hoja-datos.md"
       ]
     },
     {

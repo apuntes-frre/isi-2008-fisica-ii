@@ -7753,6 +7753,20 @@
       "url_github": null,
       "estado": "cabecera y tablas cotejadas celda a celda, gráfica preservada; pendiente GitHub",
       "fuentes_adicionales": []
+    },
+    {
+      "original": "2015/L7 Brujula G6 A corregir.docx",
+      "sha256": "f8b78ccaea4e2a0a6e03331360824f66be2d1899b3f1ead31f65c2335da0960f",
+      "nota": "notes/2015/practica/brujula-informe-grupo-6-hoja-datos.md",
+      "paginas_revisadas": [
+        6
+      ],
+      "paginacion": "PDF normalizado LO nueve páginas,6 completa; datos nominales y firmas omitidos",
+      "math_esperada": 1,
+      "math_renderizada_github": null,
+      "url_github": null,
+      "estado": "14 filas cotejadas; cifra final x a30° ilegible marcada; pendiente GitHub",
+      "fuentes_adicionales": []
     }
   ]
 }
