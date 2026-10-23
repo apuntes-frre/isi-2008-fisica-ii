@@ -330,7 +330,7 @@ originales de las normalizadas y registra conteos matemáticos.
 - `2015/Resumen-Fisca-2.pdf`:80páginas; páginas1–5 y6 hasta forma diferencial
   cotejadas y transcritas en
   [fuerza y campo eléctrico](../../notes/2015/teoria/resumen-fuerza-campo-electrico.md).
-  Pendiente desde autoinducción37–80. PyMuPDF4LLM/Poppler y cotejo visual;
+  Pendiente42–80, desde magnetostática. PyMuPDF4LLM/Poppler y cotejo visual;
   fórmulas de imagen en LaTeX. SHA-256:
   `b9903f972224365c1a74b5d2732c9a34675c9b719da4c9c2d28e4a0f34e0b0cc`.
 - `2015/TRABAJO DE LABORATORIO Nº 9 BIS.docx`: no PDF páginas; transcrito y

@@ -8736,6 +8736,58 @@
       "math_esperada": 3,
       "math_renderizada_github": null,
       "estado": "cotejo visual local; pendiente GitHub"
+    },
+    {
+      "original": "2015/Resumen-Fisca-2.pdf",
+      "sha256": "b9903f972224365c1a74b5d2732c9a34675c9b719da4c9c2d28e4a0f34e0b0cc",
+      "nota": "notes/2015/teoria/resumen-autoinduccion.md",
+      "paginas_revisadas": [
+        37,
+        38
+      ],
+      "paginacion": "PDF original; sectores delimitados por encabezados",
+      "math_esperada": 6,
+      "math_renderizada_github": null,
+      "estado": "cotejo visual local; pendiente GitHub"
+    },
+    {
+      "original": "2015/Resumen-Fisca-2.pdf",
+      "sha256": "b9903f972224365c1a74b5d2732c9a34675c9b719da4c9c2d28e4a0f34e0b0cc",
+      "nota": "notes/2015/teoria/resumen-asociacion-inductancias.md",
+      "paginas_revisadas": [
+        38,
+        39
+      ],
+      "paginacion": "PDF original; sectores delimitados por encabezados",
+      "math_esperada": 11,
+      "math_renderizada_github": null,
+      "estado": "cotejo visual local; pendiente GitHub"
+    },
+    {
+      "original": "2015/Resumen-Fisca-2.pdf",
+      "sha256": "b9903f972224365c1a74b5d2732c9a34675c9b719da4c9c2d28e4a0f34e0b0cc",
+      "nota": "notes/2015/teoria/resumen-circuito-lr.md",
+      "paginas_revisadas": [
+        39,
+        40
+      ],
+      "paginacion": "PDF original; sectores delimitados por encabezados",
+      "math_esperada": 15,
+      "math_renderizada_github": null,
+      "estado": "cotejo visual local; pendiente GitHub"
+    },
+    {
+      "original": "2015/Resumen-Fisca-2.pdf",
+      "sha256": "b9903f972224365c1a74b5d2732c9a34675c9b719da4c9c2d28e4a0f34e0b0cc",
+      "nota": "notes/2015/teoria/resumen-energia-inductor.md",
+      "paginas_revisadas": [
+        40,
+        41
+      ],
+      "paginacion": "PDF original; sectores delimitados por encabezados",
+      "math_esperada": 13,
+      "math_renderizada_github": null,
+      "estado": "cotejo visual local; pendiente GitHub"
     }
   ]
 }
