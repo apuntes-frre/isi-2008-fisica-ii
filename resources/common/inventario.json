@@ -1784,20 +1784,26 @@
       "duplicado_sha256_de": null,
       "clasificacion": "informe de brújula de tangentes del grupo6, versión con observaciones en rojo",
       "evidencia": "",
-      "estado": "parcial: páginas normalizadas1–5 cotejadas y transcritas; faltan6–9",
+      "estado": "parcial: páginas normalizadas1–5 y7–9 transcritas; falta hoja manuscrita6",
       "paginas_revisadas": [
         1,
         2,
         3,
         4,
-        5
+        5,
+        6,
+        7,
+        8,
+        9
       ],
       "copia_local": "/Users/carlosferreyra/.cache/fisica-ii-transcripcion/20261023-brujula-informe/01-L7 Brujula G6 A corregir.docx",
       "texto_poppler_local": "/Users/carlosferreyra/.cache/fisica-ii-transcripcion/20261023-brujula-informe/poppler.txt",
       "paginacion_revisada": "PDF normalizado LibreOffice de nueve páginas",
       "notas": [
         "notes/2015/practica/brujula-informe-grupo-6-fundamentos.md",
-        "notes/2015/practica/brujula-informe-grupo-6-tecnica-cuestionario.md"
+        "notes/2015/practica/brujula-informe-grupo-6-tecnica-cuestionario.md",
+        "notes/2015/practica/brujula-informe-grupo-6-respuestas-conclusion.md",
+        "notes/2015/practica/brujula-informe-grupo-6-resultados.md"
       ]
     },
     {

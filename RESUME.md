@@ -10,12 +10,14 @@ Este bloque prevalece sobre todos los estados históricos inferiores.
   nítida: mallas pos1 Vcd/Veb/Vgb y pos3 Vcd. Marcadas, no inferir de página6.
 - Fuente64 activa: DOCX normalizado9p. Teoría hasta(8) transcrita en una nota,
   14math/tres figuras; páginas1–2 y comienzo3. Materiales/técnica/cuestionario y bibliografía de3–5 transcritos: otra nota,
-  5math/tres figuras. Próximo:6–9. Caché persistente
+  5math/tres figuras. Respuestas/conclusión8–9 transcritas,1math/GIF.
+  Resultados7 transcritos con gráfica. Próximo: solo hoja6;
+  los nueve renders están en caché. Caché persistente
   20261023-brujula-informe: SHA,Pandoc con medios, PDFLO,Poppler, renders1–5.
   XML sin comentarios ni control de cambios; observaciones son texto rojo.
   No reparar científicamente (6), K ni unidad de μo por inferencia.
-- Total375notas/3675expresiones; pendientes de render GitHub42notas/497math.
-  Medios320 (312imágenes/8GIF). PR2 abierto/borrador; rama publicada en lotes.
+- Total377notas/3676expresiones; pendientes de render GitHub44notas/498math.
+  Medios322 (313imágenes/9GIF), más recorte de hoja6 aún sin publicar. PR2 abierto/borrador; rama publicada en lotes.
 - Próximos después64:65,68,70,71,37; clasificar3/9/11; glifos117/118 y unidad
   manuscrita examen; revisión visual GitHub y auditoría final. Checklist histórico
   conserva detalles, pero no es estado vigente. No fusionar automáticamente.
