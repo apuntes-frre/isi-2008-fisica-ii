@@ -2,43 +2,45 @@
 
 ## REANUDADO — 23/10/2026
 
-El usuario pidió continuar en lotes hasta el 100%, salvo interrupción suya.
-Este bloque prevalece sobre todos los estados históricos inferiores.
+El usuario pidió continuar en lotes hasta el 100%, salvo interrupción suya. Este
+bloque prevalece sobre todos los estados históricos inferiores.
 
-- Fuentes61 completa;63/64/65 con todas sus páginas revisadas y contenido legible
-  transcrito. Lecturas pendientes:63 hoja5, mallas pos1 Vcd/Veb/Vgb y pos3 Vcd;
-  64 hoja6 x a30° cifra retocada;65 hoja7 rótulo parcial de masa y símbolo de
-  plantilla ausente. No inferir de tablas mecanografiadas; recortes conservados.
+- Fuentes61 completa;63/64/65 con todas sus páginas revisadas y contenido
+  legible transcrito. Lecturas pendientes:63 hoja5, mallas pos1 Vcd/Veb/Vgb y
+  pos3 Vcd; 64 hoja6 x a30° cifra retocada;65 hoja7 rótulo parcial de masa y
+  símbolo de plantilla ausente. No inferir de tablas mecanografiadas; recortes
+  conservados.
 - Fuente68 completa documentalmente:25/25p,nueve notas/0math/logo,16fragmentos
-  HTML. Cronogramas IEM,ISI2A/2B,IQ e intensivo, programa16UT y cierre completos.
-  Caché20261023-planificacion-2016 con25renders,Poppler,PyMuPDF4LLM, tablas
-  crudas y cotejadas; dos falsas celdas-marco duplicadas eliminadas. Scripts de
-  autoría no idempotentes; no reejecutar. No duplicar notas de2019.
-- Total485notas/4866expresiones; pendientes render GitHub161notas/2114math.
-  Medios500 (491imágenes/9GIF). PR2 abierto/borrador, avances publicados en lotes.
+  HTML. Cronogramas IEM,ISI2A/2B,IQ e intensivo, programa16UT y cierre
+  completos. Caché20261023-planificacion-2016 con25renders,Poppler,PyMuPDF4LLM,
+  tablas crudas y cotejadas; dos falsas celdas-marco duplicadas eliminadas.
+  Scripts de autoría no idempotentes; no reejecutar. No duplicar notas de2019.
+- Total485notas/4866expresiones; pendientes render GitHub106notas/1643math.
+  Medios500 (491imágenes/9GIF). PR2 abierto/borrador, avances publicados en
+  lotes.
 - Fuente70 completa documentalmente:62/62páginas cotejadas,18notas de teoría y
   ejercicios. Portada autor Anibal Kasero y título Biot-Savart, distintos del
   nombre de archivo. Página62 vacía, borrador tachado21 conservado como recorte.
   Caché20261023-kaseros-biot-sabat con OCR español completo y renders1–62.
-- Navegador IAB disponible:22notas del resumen verificadas311/311math,
-  figuras cargadas,0merror; GitHub entrega math-renderer con MathML nativo.
-  Etiquetas de Taylor y fem separadas tras detectar apilamiento en MathML.
-  Mismo defecto confirmado en apuntes previos:222etiquetas de31notas movidas
-  a texto, fórmulas cotejadas idénticas salvo tag; evidencia GitHub invalidada
-  únicamente en esos31archivos para revisión nueva.
-  Evidencia en cobertura; no contar solo mjx-container (da0 en esta vista).
-- Fuente71 completa documentalmente:80/80páginas,76notas; próximo auditar cobertura y GitHub.
-  Caché20261023-resumen-fisica con extracción completa y renders1–80;
-  fórmulas imagen deben transcribirse en LaTeX, no publicarlas como capturas.
-  37 identificada como bibliografía:Guillermo Sampallo2003,ISBN987-43-6398-3,
-  citado68p23; páginas1–3 cotejadas/OCR. Libro137p no transcrito, referencia.
-  Caché20261023-sampallo-identificacion conserva muestra y evidencia.
-  Fuentes3/9/11 clasificadas:11319 hashes del CD cotejados,11 duplicados,
-  11252 curso externo referenciado,56 software sin ejecutar; XLSX de cálculo
-  ajenos a Física II, duplicados exactos. Ledger en clasificacion-contenedores.json.
-  Después glifos117/118 y unidad manuscrita examen; revisión visual
-  GitHub y auditoría final. No declarar100% con estas lecturas pendientes.
-  No fusionar automáticamente la continuación.
+- Navegador IAB disponible:76notas del resumen verificadas773/773math, figuras
+  cargadas,0merror; GitHub entrega math-renderer con MathML nativo. Etiquetas de
+  Taylor y fem separadas tras detectar apilamiento en MathML. Mismo defecto
+  confirmado en apuntes previos:222etiquetas de31notas movidas a texto, fórmulas
+  cotejadas idénticas salvo tag; evidencia GitHub invalidada únicamente en
+  esos31archivos para revisión nueva; Laplace ya revisado9/9math. Evidencia en
+  cobertura; no contar solo mjx-container (da0 en esta vista).
+- Fuente71 completa documentalmente:80/80páginas,76notas; revisión GitHub
+  completa,773/773math. Caché20261023-resumen-fisica con extracción completa y
+  renders1–80; fórmulas imagen deben transcribirse en LaTeX, no publicarlas como
+  capturas. 37 identificada como bibliografía:Guillermo
+  Sampallo2003,ISBN987-43-6398-3, citado68p23; páginas1–3 cotejadas/OCR.
+  Libro137p no transcrito, referencia. Caché20261023-sampallo-identificacion
+  conserva muestra y evidencia. Fuentes3/9/11 clasificadas:11319 hashes del CD
+  cotejados,11 duplicados, 11252 curso externo referenciado,56 software sin
+  ejecutar; XLSX de cálculo ajenos a Física II, duplicados exactos. Ledger en
+  clasificacion-contenedores.json. Después glifos117/118 y unidad manuscrita
+  examen; revisión visual GitHub y auditoría final. No declarar100% con estas
+  lecturas pendientes. No fusionar automáticamente la continuación.
 
 ## CHECKPOINT HISTÓRICO DE PAUSA — 22/10/2026
 
@@ -50,43 +52,46 @@ Este bloque histórico quedó revocado por la reanudación del 23/10/2026.
 
 - Rama: `codex/transcribir-fisica-ii-continuacion`; PR #2 abierto y borrador:
   <https://github.com/apuntes-frre/isi-2008-fisica-ii/pull/2>.
-- Últimos lotes: `6be1063` y `5919644`, ambos publicados en origin.
-  CI de `5919644` aprobado, ejecución `39896443573`.
+- Últimos lotes: `6be1063` y `5919644`, ambos publicados en origin. CI de
+  `5919644` aprobado, ejecución `39896443573`.
 - Fuente 61: DOCX «A corregir 2», páginas normalizadas 1–7 cotejadas y
   registradas en tres apuntes existentes. Fuente 62 aprobada: contenido
   científico completo. No regenerar sus siete notas.
-- Totales: 364 notas / 3590 expresiones. Revisión visual GitHub pendiente:
-  31 notas / 412 expresiones; las otras 333 / 3178 ya tienen evidencia.
-- Todos los originales, extracciones y renders se conservan en caché.
-  No volver a ejecutar scripts de autoría no idempotentes.
+- Totales: 364 notas / 3590 expresiones. Revisión visual GitHub pendiente: 31
+  notas / 412 expresiones; las otras 333 / 3178 ya tienen evidencia.
+- Todos los originales, extracciones y renders se conservan en caché. No volver
+  a ejecutar scripts de autoría no idempotentes.
 
 ### Primer paso al reanudar
 
 1. Leer este bloque y comprobar rama, estado Git y PR.
-2. Continuar fuente 61 desde las páginas **8–15 del PDF normalizado** en
+1. Continuar fuente 61 desde las páginas **8–15 del PDF normalizado** en
    `/Users/carlosferreyra/.cache/fisica-ii-transcripcion/20261022-capacidad-corregir/`.
    Ya existen original verificado, Pandoc con medios, Poppler y XML de gráficas;
    los renders guardados llegan a la página 7. Renderizar y revisar el siguiente
    lote sin sobrescribir extracciones previas.
-3. Comparar resultados con las notas de la versión aprobada. Preservar el glifo
-   de unidad ꭥ (U+AB65), la observación roja sobre 37% frente a 63% y los valores
-   distintos (19 s y 110,26%). Los rótulos de ajuste de gráficas nativas pueden
-   ser regenerados por LibreOffice: comprobar XML/cachés antes de atribuir una
-   diferencia al original. No corregir silenciosamente.
-4. Validar cada lote, actualizar cobertura/inventario, hacer commit y push.
+1. Comparar resultados con las notas de la versión aprobada. Preservar el glifo
+   de unidad ꭥ (U+AB65), la observación roja sobre 37% frente a 63% y los
+   valores distintos (19 s y 110,26%). Los rótulos de ajuste de gráficas nativas
+   pueden ser regenerados por LibreOffice: comprobar XML/cachés antes de
+   atribuir una diferencia al original. No corregir silenciosamente.
+1. Validar cada lote, actualizar cobertura/inventario, hacer commit y push.
 
 ### Checklist restante, en orden
 
 - [ ] Fuente 61: resultados, páginas normalizadas 8–15.
-- [ ] Informes 2015: fuentes 63 (Kirchhoff), 64 (Brújula), 65 (fuerza sobre corriente).
+- [ ] Informes 2015: fuentes 63 (Kirchhoff), 64 (Brújula), 65 (fuerza sobre
+  corriente).
 - [ ] Fuente 68: planificación 2016, 25 páginas.
-- [ ] Fuentes 70 y 71: Biot-Sabat de Kaseros (62 páginas) y resumen (80 páginas).
+- [ ] Fuentes 70 y 71: Biot-Sabat de Kaseros (62 páginas) y resumen (80
+  páginas).
 - [ ] Fuente 37: Sampallo, 137 páginas; OCR español e identificación visual.
-- [ ] Fuente 3: clasificar inventario interno del RAR/CD; fuentes 9/11: identificar
-  pertenencia de XLSX. No ejecutar software ni binarios del material.
+- [ ] Fuente 3: clasificar inventario interno del RAR/CD; fuentes 9/11:
+  identificar pertenencia de XLSX. No ejecutar software ni binarios del
+  material.
 - [ ] Resolver o documentar explícitamente los glifos dañados de UT5 en fuentes
-  117/118, diapositivas 26/40–42, y la unidad manuscrita del radio del examen p14.
-  No completar por conjetura.
+  117/118, diapositivas 26/40–42, y la unidad manuscrita del radio del examen
+  p14. No completar por conjetura.
 - [ ] Revisar en GitHub las 31 notas / 412 expresiones pendientes, incluidas
   imágenes, tablas y número de expresiones realmente renderizadas.
 - [ ] Auditar cobertura e inventario finales, distinguir bibliografía y material
@@ -95,8 +100,8 @@ Este bloque histórico quedó revocado por la reanudación del 23/10/2026.
 
 ## CONTINUACIÓN ACTIVA — 22/10/2026
 
-El usuario indicó continuar yguardar lotes pequeños con commit/push.
-Este bloque prevalece sobre los estados históricos inferiores.
+El usuario indicó continuar yguardar lotes pequeños con commit/push. Este bloque
+prevalece sobre los estados históricos inferiores.
 
 - Publicación recuperada:9363fec ytodos los lotes anteriores ya enorigin/PR2.
   CI39894840759 aprobado; cuerpo delPR actualizado. FalloDNS anterior resuelto.
@@ -105,11 +110,13 @@ Este bloque prevalece sobre los estados históricos inferiores.
   correspondencia sin duplicar. Mapa por casillero enimposiciones.json.
 - Restan117diapositivas26/40–42: conservar los símbolos dañados ytranscribir
   solo lo legible; no reparar por conjetura ni copiar fórmulas de103 como117.
-- Fuente118 cotejada completa:38/42diapositivas documentadas por correspondencia;
-  mismos daños26/40–42 que117. Sin notas duplicadas. Ambas fuentes siguen parciales.
+- Fuente118 cotejada completa:38/42diapositivas documentadas por
+  correspondencia; mismos daños26/40–42 que117. Sin notas duplicadas. Ambas
+  fuentes siguen parciales.
 - Fuente119 completa por cotejo: cuatro hojas,31diapositivas, seis apuntes
-  existentes sin duplicación. Fecha08/05/2019. Mapa de16páginas enimposiciones.json.
-  La impresión pierde enlaces interactivos; no atribuirle los destinos de104.
+  existentes sin duplicación. Fecha08/05/2019. Mapa de16páginas
+  enimposiciones.json. La impresión pierde enlaces interactivos; no atribuirle
+  los destinos de104.
 - Fuente120 completa por cotejo: tres hojas,16páginas de referencia,
   31diapositivas ydos casilleros finales vacíos. Sin notas duplicadas.
 - Fuentes119/120 cerradas documentalmente;119 publicado enae764b9.
@@ -124,12 +131,14 @@ Este bloque prevalece sobre los estados históricos inferiores.
   portadaAÑO2016,figura3verde/roja ynegrita registradas en dos notas existentes.
   Fuente61 sigue parcial; no atribuirle cobertura completa de esas dos notas.
 - Teoría de descarga y hoja de datos cotejadas completas en tres notas.
-  Siguiente lote61: páginas8–15, resultados: unidades usan glifoꭥ(U+AB65),no normalizar aΩ.
-  Correcciónroja de11 usa37% frente a63%; valores19s/110,26% distintos de62.
+  Siguiente lote61: páginas8–15, resultados: unidades usan glifoꭥ(U+AB65),no
+  normalizar aΩ. Correcciónroja de11 usa37% frente a63%; valores19s/110,26%
+  distintos de62.
 - Caché20261022-capacidad-corregir: preflight,SHA,Pandocconmedios,XMLdegráficas,
-  textoDOCX,PDFLO15p,Poppler yprimeros7renders. No reexportar sobre salida previa.
-  Gráficas nativas con trendline General: LOregenera precisión delrótulo;
-  revisar XML/cachés yno atribuir esa diferencia al contenido científico.
+  textoDOCX,PDFLO15p,Poppler yprimeros7renders. No reexportar sobre salida
+  previa. Gráficas nativas con trendline General: LOregenera precisión
+  delrótulo; revisar XML/cachés yno atribuir esa diferencia al contenido
+  científico.
 - Correspondencias117 publicadas en0cd5726; no regenerar ese mapa.
 - Total364notas/3590math, sin aumento por correspondencias;333/3178 verificadas
   enGitHub y31notas/412math pendientes de render. PR2 sigue borrador.
@@ -138,9 +147,9 @@ Este bloque prevalece sobre los estados históricos inferiores.
 
 ## Checkpoint vigente — 22/10/2026 — REANUDADO POR EL USUARIO
 
-Este bloque prevalece sobre todos los estados históricos inferiores.
-El usuario indicó «Continuar» después del checkpoint 8511554, publicado en origin.
-La transcripción está activa. La materia sigue incompleta.
+Este bloque prevalece sobre todos los estados históricos inferiores. El usuario
+indicó «Continuar» después del checkpoint 8511554, publicado en origin. La
+transcripción está activa. La materia sigue incompleta.
 
 ### Git y entrega base antes de reanudar (checkpoint8511554)
 
@@ -151,22 +160,25 @@ La transcripción está activa. La materia sigue incompleta.
   <https://github.com/apuntes-frre/isi-2008-fisica-ii/pull/1>.
 - PR2 OPEN/DRAFT, adjunto al chat:
   <https://github.com/apuntes-frre/isi-2008-fisica-ii/pull/2>.
-- No fusionar automáticamente la continuación. No editar README raíz autogenerado.
+- No fusionar automáticamente la continuación. No editar README raíz
+  autogenerado.
 - Último contenido: fc150ad (propuesta DOCX de calorimetría). CI aprobado,
-  run39585995105. Los lotes posteriores se describen en «Próximo paso exacto» y «Totales después de reanudar».
+  run39585995105. Los lotes posteriores se describen en «Próximo paso exacto» y
+  «Totales después de reanudar».
 - Total: **333 notas y3178expresiones**, todas con URL de evidencia y conteo
-  MathJax igual al esperado. Distribución:210teoría/123práctica;
-  115notas2015 y220notas2019.
+  MathJax igual al esperado. Distribución:210teoría/123práctica; 115notas2015
+  y220notas2019.
 - En main:218notas/2427expresiones. Continuación:115notas nuevas/751expresiones,
   206medios originales (198imágenes y8GIF; algunas referencias se repiten).
-- No declarar finalizada Física II ni equiparar inventario con páginas transcritas.
+- No declarar finalizada Física II ni equiparar inventario con páginas
+  transcritas.
 
 ### Fuentes cerradas en esta continuación
 
-- 123: CA PDF34p, fecha impresa13/06/2018,13notas/101math/23figuras;
-  evidencia b1a7e73. Nombre2017, carpeta2019.
-- 124: CA PPTX35diapositivas; cotejo completo, adicional24 de impedancias
-  sin resolver:1nota/1math/1figura,967d77d. Correspondencias en cobertura.
+- 123: CA PDF34p, fecha impresa13/06/2018,13notas/101math/23figuras; evidencia
+  b1a7e73. Nombre2017, carpeta2019.
+- 124: CA PPTX35diapositivas; cotejo completo, adicional24 de impedancias sin
+  resolver:1nota/1math/1figura,967d77d. Correspondencias en cobertura.
 - 125: Maxwell44p, fecha22/06/2018,13notas/113math/17figuras,5806892.
 - 130: CA2019,49p,13notas/101math/23figuras,10e833a. P44–45 como procedencia
   adicional de notas previas, sin duplicación.
@@ -175,122 +187,132 @@ La transcripción está activa. La materia sigue incompleta.
   Correspondencias en imposiciones.json; sin notas duplicadas.
 - 127/132: Fotometría32p, duplicados binarios exactos verificados;
   11notas/46math/19figuras,c7c8ba9; tablas6/32/6/4filas.
-- 134: Interferencias42diapositivas,13notas/100math/32medios,
-  599f068; incluye siete diapositivas tras el cierre35, tres ejercicios sin resolver,
-  dosGIF originales y erratas37/38.
-- 135: Difracción20diapositivas,5notas/31math/16medios,ae470bf;
-  GIF Huygens y páginas19–20 posteriores al cierre.
-- 126: Polarización26diapositivas,13notas/18math/25medios,03acf0b;
-  cincoGIF, deducciones completas y ejemplo sin resolver.
-- 128: Introducción a Termodinámica60p,17notas/91math/24figuras,
-  190f6d6; seis tablas3/4/6/4/8/11filas, preguntas, cuatro problemas sin resolver
-  y ejemplo finalA–E resuelto. Cifras y unidades originales conservadas.
-- 129: Principios de Termodinámica36p,13notas/34math/22figuras,bf59b38;
-  ejemplos resueltos, ilustraciones9–12 y cierres. Entropía solo anunciada en
-  programa, sin desarrollo en esta fuente. Convenciones Carnot preservadas.
-- 136: Hoja de Fórmulas2019,2notas/99math/4diagramas:
-  página1 f0b2ec9 (39math,16filas de3celdas,cuatro operadores∯);
-  página2 c687a05 (60math,18filas). Casilleros vacíos e instrucciones conservados.
-- 138: Calorimetria.docx,4p delPDFLibreOffice,1nota/16math,fc150ad;
-  siete pasos con doble numeración, tachadura y tres enlaces conservados.
-  No tiene medios; propuesta sin resultados añadidos.
+- 134: Interferencias42diapositivas,13notas/100math/32medios, 599f068; incluye
+  siete diapositivas tras el cierre35, tres ejercicios sin resolver, dosGIF
+  originales y erratas37/38.
+- 135: Difracción20diapositivas,5notas/31math/16medios,ae470bf; GIF Huygens y
+  páginas19–20 posteriores al cierre.
+- 126: Polarización26diapositivas,13notas/18math/25medios,03acf0b; cincoGIF,
+  deducciones completas y ejemplo sin resolver.
+- 128: Introducción a Termodinámica60p,17notas/91math/24figuras, 190f6d6; seis
+  tablas3/4/6/4/8/11filas, preguntas, cuatro problemas sin resolver y ejemplo
+  finalA–E resuelto. Cifras y unidades originales conservadas.
+- 129: Principios de Termodinámica36p,13notas/34math/22figuras,bf59b38; ejemplos
+  resueltos, ilustraciones9–12 y cierres. Entropía solo anunciada en programa,
+  sin desarrollo en esta fuente. Convenciones Carnot preservadas.
+- 136: Hoja de Fórmulas2019,2notas/99math/4diagramas: página1 f0b2ec9
+  (39math,16filas de3celdas,cuatro operadores∯); página2 c687a05
+  (60math,18filas). Casilleros vacíos e instrucciones conservados.
+- 138: Calorimetria.docx,4p delPDFLibreOffice,1nota/16math,fc150ad; siete pasos
+  con doble numeración, tachadura y tres enlaces conservados. No tiene medios;
+  propuesta sin resultados añadidos.
 
 ### Próximo paso exacto
 
-Fuente143 terminada: B1=47math,A1=49,B2=53,A2=41,B3=42.
-Cuatro variantes añadidas después de0275cdb; controles locales aprobados.
-Siguiente lote documental: registrar variantes117, luego cotejar118–121.
-Parcial2020 publicado en a8fbeac; CI39740919468 aprobado.
-117: páginas4–5 completas en dos notas de variante,17math; q/p/w conservadas.
-Caché20261022-ut5-variantes contiene copia parcial,OCRspa,Poppler yPyMuPDF4LLM.
-Siguiente lote pequeño:117diapositivas30/34–36, torque yconductor; luego registrar
-las correspondencias restantes ylos glifos dañados26/40–42 sin inventarlos.
-Cada lote se valida yse guarda con commit/push antes de ampliar el alcance.
+Fuente143 terminada: B1=47math,A1=49,B2=53,A2=41,B3=42. Cuatro variantes
+añadidas después de0275cdb; controles locales aprobados. Siguiente lote
+documental: registrar variantes117, luego cotejar118–121. Parcial2020 publicado
+en a8fbeac; CI39740919468 aprobado. 117: páginas4–5 completas en dos notas de
+variante,17math; q/p/w conservadas. Caché20261022-ut5-variantes contiene copia
+parcial,OCRspa,Poppler yPyMuPDF4LLM. Siguiente lote
+pequeño:117diapositivas30/34–36, torque yconductor; luego registrar las
+correspondencias restantes ylos glifos dañados26/40–42 sin inventarlos. Cada
+lote se valida yse guarda con commit/push antes de ampliar el alcance.
 
-
-1. Trabajo activo tras «Continuar». Lote139/140 publicado en0718d0b; finales142/141 en694f299/a624ce8.
-   Dos notas completas y13medios; grupo9 conserva vacíos, grupo8 tiene10math
-   ytabla de36filas. Formato/lint/KaTeX/enlaces aprobados.
-2. Fuente142: final17/12/2020, una página larga,16preguntas cotejadas completas;
-   nota notes/2020/practica/examen-final-diciembre-17.md,19math y9figuras.
-   Se omiten puntajes, calificación y respuestas seleccionadas del intento.
-3. **Verificación GitHub pendiente para estas seis notas.** CUA devuelve
-   «No browser is available»; no atribuirles render verificado hasta cotejar
-   conteos esperados0/10/19/23/0/0, tabla36filas y todas las imágenes.
-4. Cachés:
+1. Trabajo activo tras «Continuar». Lote139/140 publicado en0718d0b;
+   finales142/141 en694f299/a624ce8. Dos notas completas y13medios; grupo9
+   conserva vacíos, grupo8 tiene10math ytabla de36filas.
+   Formato/lint/KaTeX/enlaces aprobados.
+1. Fuente142: final17/12/2020, una página larga,16preguntas cotejadas completas;
+   nota notes/2020/practica/examen-final-diciembre-17.md,19math y9figuras. Se
+   omiten puntajes, calificación y respuestas seleccionadas del intento.
+1. **Verificación GitHub pendiente para estas seis notas.** CUA devuelve «No
+   browser is available»; no atribuirles render verificado hasta cotejar conteos
+   esperados0/10/19/23/0/0, tabla36filas y todas las imágenes.
+1. Cachés:
    /Users/carlosferreyra/.cache/fisica-ii-transcripcion/20261021-arduino-presentaciones
-   /Users/carlosferreyra/.cache/fisica-ii-transcripcion/20261021-finales-2020
-   La segunda contiene originales141/142 con SHA cotejado, extracción142,
-   crops pregunta01..16, figuras y script de autoría. No regenerar notas.
-5. Fuentes137 y143 completas documentalmente; continuar117–121 y checklist.
-   No detener trabajo documental por la falta de navegador.
-   Fuente137: caché20261021-planificacion-2019; fuentes, 31renders,
-   PyMuPDF4LLM, DoclingMD+JSON, Popplerbbox, tablas reconstruidas y auditoría.
-   notas-generadas.json registra los nueve archivos/páginas/tablas.
-   No regenerar los apuntes: se reparó formato, casillas y numeración después.
-   Se cotejaron las31páginas; 24fragmentos de tabla HTML, dos encabezados;
-   sin expresiones matemáticas. Render GitHub pendiente para estas nueve.
+   /Users/carlosferreyra/.cache/fisica-ii-transcripcion/20261021-finales-2020 La
+   segunda contiene originales141/142 con SHA cotejado, extracción142, crops
+   pregunta01..16, figuras y script de autoría. No regenerar notas.
+1. Fuentes137 y143 completas documentalmente; continuar117–121 y checklist. No
+   detener trabajo documental por la falta de navegador. Fuente137:
+   caché20261021-planificacion-2019; fuentes, 31renders, PyMuPDF4LLM,
+   DoclingMD+JSON, Popplerbbox, tablas reconstruidas y auditoría.
+   notas-generadas.json registra los nueve archivos/páginas/tablas. No regenerar
+   los apuntes: se reparó formato, casillas y numeración después. Se cotejaron
+   las31páginas; 24fragmentos de tabla HTML, dos encabezados; sin expresiones
+   matemáticas. Render GitHub pendiente para estas nueve.
 
+Fuente76 también transcrita:
+notes/2015/teoria/direcciones-utiles-internet-simulaciones.md. DOCnormalizado3p
+completas, enlaces históricos, fecha31/10/2009. Sin medios/math; render GitHub
+pendiente. Caché20261021-enlaces-2015.
 
-Fuente76 también transcrita: notes/2015/teoria/direcciones-utiles-internet-simulaciones.md.
-DOCnormalizado3p completas, enlaces históricos, fecha31/10/2009. Sin medios/math;
-render GitHub pendiente. Caché20261021-enlaces-2015.
-
-Fuente67 también transcrita: notes/2015/practica/multimetro-digital-partes-funciones.md.
+Fuente67 también transcrita:
+notes/2015/practica/multimetro-digital-partes-funciones.md.
 19diapositivas/17figuras; sin expresionesmath; render GitHub pendiente.
 Caché20261021-multimetro: originalesnormalizados,extracción,cotejos4porhoja.
-MarkItDown rechazaPPSX; usar conversión realLOaPPTX, no solo renombrar extensión.
+MarkItDown rechazaPPSX; usar conversión realLOaPPTX, no solo renombrar
+extensión.
 
 CI aprobados:0718d0b(39640720312),694f299(39641465591),a624ce8(39642051189).
-Publicados además6806d7f(enlaces) y3ed1729(multímetro); CI aprobados6806d7f(39642624711) y3ed1729(39643203257).
+Publicados además6806d7f(enlaces) y3ed1729(multímetro); CI
+aprobados6806d7f(39642624711) y3ed1729(39643203257).
 
 ### Totales después de reanudar
 
 364notas /3590expresiones:333notas/3178expresiones verificadas enGitHub
 más31notas/412expresiones pendientes de ese control. 224teoría/140práctica;
-122notas2015,235notas2019 y7notas2020.
-La continuación agrega146notas/1163expresiones y299medios (291imágenes y8GIF).
-Los totales anteriores describen el checkpoint8511554.
+122notas2015,235notas2019 y7notas2020. La continuación
+agrega146notas/1163expresiones y299medios (291imágenes y8GIF). Los totales
+anteriores describen el checkpoint8511554.
 
 ### Checklist restante del inventario
 
 - [ ] 139/140: transcripción completa; solo resta verificar render GitHub.
-- [ ] 137: planificación2019,31p completas transcritas en9notas; render GitHub pendiente.
-- [ ] 141: examen final10/12/2020,10páginas completas,20preguntas,23math y13figuras.
-  Transcrito y cotejado; solo resta verificar render GitHub. Tabla anillo usa Π y ξo.
-- [ ] 142: 16preguntas transcritas y cotejadas; solo resta verificar render GitHub.
+- [ ] 137: planificación2019,31p completas transcritas en9notas; render GitHub
+  pendiente.
+- [ ] 141: examen final10/12/2020,10páginas completas,20preguntas,23math
+  y13figuras. Transcrito y cotejado; solo resta verificar render GitHub. Tabla
+  anillo usa Π y ξo.
+- [ ] 142: 16preguntas transcritas y cotejadas; solo resta verificar render
+  GitHub.
 - [ ] 143: las39páginas cotejadas; cinco variantes completas,70preguntas,
   232math y20figuras; solo resta render GitHub. P24/39 de navegación omitidas.
-  Caché20261022-parcial-2020: originales,Poppler,39renders,imágenes yscripts.
-  No regenerar notas; scripts de autoría no idempotentes.
+  Caché20261022-parcial-2020: originales,Poppler,39renders,imágenes yscripts. No
+  regenerar notas; scripts de autoría no idempotentes.
 - [ ] 117/118: ambas impresiones UT5 cotejadas completas;38/42diapositivas
   documentadas en cada una. Cuatro notas nuevas conservan las variantes;
   correspondencias compartidas registradas. Restan26/40–42 por glifos dañados.
   No reconstruirlos por conjetura. Mapa por casillero enimposiciones.json.
-- [x] 119/120: UT6 completa por cotejo de ambas impresiones,31diapositivas,
-  seis notas existentes; dos casilleros de páginas finales vacíos en120.
-- [x] 121: UT7 completa por cotejo en tres lotes,12hojas/67diapositivas,
-  15notas existentes; cinco casilleros finales vacíos. Sin notas duplicadas.
+- [x] 119/120: UT6 completa por cotejo de ambas impresiones,31diapositivas, seis
+  notas existentes; dos casilleros de páginas finales vacíos en120.
+- [x] 121: UT7 completa por cotejo en tres lotes,12hojas/67diapositivas, 15notas
+  existentes; cinco casilleros finales vacíos. Sin notas duplicadas.
 - [ ] 62: contenido científico completo,14páginas/siete notas/94math/18medios;
-  solo render GitHub pendiente. Omisiones nominales,firmas ycalificación documentadas.
-- [ ] 61/63–65: informes2015 de Capacidad,Kirchhoff,Brújula,fuerza sobre corriente,
-  incluidas versiones a corregir/aprobadas.
-- [ ] 67: multímetroPPSX completo19diapositivas/17figuras; solo render GitHub pendiente.
+  solo render GitHub pendiente. Omisiones nominales,firmas ycalificación
+  documentadas.
+- [ ] 61/63–65: informes2015 de Capacidad,Kirchhoff,Brújula,fuerza sobre
+  corriente, incluidas versiones a corregir/aprobadas.
+- [ ] 67: multímetroPPSX completo19diapositivas/17figuras; solo render GitHub
+  pendiente.
 - [ ] 68: planificación2016,25páginas.
 - [ ] 70: Biot-Sabat de Anibal Kaseros,62páginas.
 - [ ] 71: Resumen-Fisca-2,80páginas.
-- [ ] 76: direcciones útilesDOC, tres páginas transcritas; render GitHub pendiente.
+- [ ] 76: direcciones útilesDOC, tres páginas transcritas; render GitHub
+  pendiente.
 - [ ] 37: escaneo Sampallo137p; OCR español e identificación visual.
 - [ ] 3: RAR/CD2016,11319miembros extraídos previamente; inventario interno
   pendiente. No ejecutar software del contenedor ni binarios108–111.
-- [ ] 9/11: XLSX legibles pero pertenencia sin identificar; clasificar con evidencia.
+- [ ] 9/11: XLSX legibles pero pertenencia sin identificar; clasificar con
+  evidencia.
 - [ ] 1/5/66: contenido impreso de39exámenes/versiones completo; resta unidad
   manuscrita de radio enp14. No inventarla ni declarar completa esa anotación.
 - [ ] Revisión final de inventario/cobertura: distinguir bibliografía (Sears,
-  Fotometría133), otras materias y material excluido. No transcribir bibliografía
-  entera por inferencia ni publicar datos personales.
-- [ ] Revisar PR2 y sus checks finales cuando el alcance esté completo;
-  dejar listo para merge según autorización, sin fusionar durante esta pausa.
+  Fotometría133), otras materias y material excluido. No transcribir
+  bibliografía entera por inferencia ni publicar datos personales.
+- [ ] Revisar PR2 y sus checks finales cuando el alcance esté completo; dejar
+  listo para merge según autorización, sin fusionar durante esta pausa.
 
 ### Cachés y comprobaciones de reanudación
 
@@ -298,14 +320,14 @@ Base persistente: /Users/carlosferreyra/.cache/fisica-ii-transcripcion/.
 Directorios20261021-: corriente-alterna,maxwell,corriente-alterna-2019,
 maxwell-2019,fotometria,interferencias,difraccion,polarizacion,
 termodinamica-introduccion,termodinamica-principios,formulas-2019,
-arduino-calorimetria,arduino-presentaciones.
-Cachés previas20261020-ut,20261020-medios,20261020-laboratorios.
-No depender de/tmp: se perdió en turnos previos.
+arduino-calorimetria,arduino-presentaciones. Cachés
+previas20261020-ut,20261020-medios,20261020-laboratorios. No depender de/tmp: se
+perdió en turnos previos.
 
 Los scripts de autoría/registro no son idempotentes. No rerun sobre notas
-formateadas/verificadas: algunas fueron reparadas después y se duplicaría cobertura.
-Git contiene la salida revisada. Pandoc138 necesitó reparar un cierre de fence
-pegado a hardbreak; el archivo delrepo es el definitivo.
+formateadas/verificadas: algunas fueron reparadas después y se duplicaría
+cobertura. Git contiene la salida revisada. Pandoc138 necesitó reparar un cierre
+de fence pegado a hardbreak; el archivo delrepo es el definitivo.
 
 Lecciones del lote: usar String.raw para comandos conLaTeX evitando backticks
 literales en la cadenaJS; no convertir barras de módulo a pipes en tablas
@@ -313,15 +335,17 @@ literales en la cadenaJS; no convertir barras de módulo a pipes en tablas
 se usa mathop con el carácter∯ y se verificaron cuatro operadores. KaTeX ylint
 no prueban fidelidad ni conteos; comparar antes/después del formato.
 
-Canónica: ~/Library/CloudStorage/OneDrive-FacultadRegionalResistencia/Facultad/Materias Homogeneas/Fisica II.
-Registros: resources/common/inventario.json,cobertura.json,imposiciones.json;
-resources/{2015,2019,2020}/fuentes.md.
-PRbody persistente: /Users/carlosferreyra/.cache/fisica-ii-transcripcion/pr-continuacion.md.
-Mise: /Users/carlosferreyra/.local/bin/mise exec -- herramienta.
-Python de conversores fijado3.14.8; no enlazar venvs apython/latest.
+Canónica:
+~/Library/CloudStorage/OneDrive-FacultadRegionalResistencia/Facultad/Materias
+Homogeneas/Fisica II. Registros:
+resources/common/inventario.json,cobertura.json,imposiciones.json;
+resources/{2015,2019,2020}/fuentes.md. PRbody persistente:
+/Users/carlosferreyra/.cache/fisica-ii-transcripcion/pr-continuacion.md. Mise:
+/Users/carlosferreyra/.local/bin/mise exec -- herramienta. Python de conversores
+fijado3.14.8; no enlazar venvs apython/latest.
 
-Comprobación enfocada al retomar: git status --short --branch; git log -1;
-gh pr view2; revisar últimos runs. El último contenidofc150ad pasó CI y todos
+Comprobación enfocada al retomar: git status --short --branch; git log -1; gh pr
+view2; revisar últimos runs. El último contenidofc150ad pasó CI y todos
 los333registros tienen conteos renderizados. El checkpoint final de pausa solo
 cambia registros/RESUME; comprobar push y CI delcommit final en vivo.
 
@@ -1071,25 +1095,28 @@ verificadas también por sus tablas.
 
 ## Checkpoint 43: cierre documental de la guía identificada como 2011
 
-- 45 notas, 798 expresiones esperadas y 149 páginas únicas de fuentes
-  cotejadas visualmente. La materia completa sigue pendiente.
+- 45 notas, 798 expresiones esperadas y 149 páginas únicas de fuentes cotejadas
+  visualmente. La materia completa sigue pendiente.
 - Fuente77: 31 páginas revisadas; carátula y página vacía registradas, diez
   secciones propias y tres compartidas con fuente52. Maxwell30–31 queda
   registrado con su SHA-256 y recorte de la superposición gráfica en ecuación6.
 - Validación local del cambio: checker de transcripción y lint sin incidencias.
 - Pendiente: verificar en GitHub las quince expresiones y diez imágenes de
-  inducción2011 y las adiciones de procedencia compartida, incluida la imagen
-  de Maxwell. Después inventariar por páginas el compilado fuente47 de98p,
+  inducción2011 y las adiciones de procedencia compartida, incluida la imagen de
+  Maxwell. Después inventariar por páginas el compilado fuente47 de98p,
   comparándolo con laboratorios ya cotejados antes de transcribir variantes.
 
 ## Checkpoint 44: primeras secciones del compilado de laboratorios
 
 - 48 notas y 810 expresiones esperadas. 154 páginas únicas de fuentes revisadas
-  visualmente, incluidas carátulas y anexo; no es cobertura completa de la materia.
-- Inducción2011 confirmada en GitHub: 15/15 expresiones y diez imágenes cargadas.
-  Maxwell confirmado: 18/18 y ambas imágenes cargadas, incluido recorte2011.
-- Fuente47: mapa textual de laboratorios1–17 y anexo en inventario. Ninguna página
-  idéntica en render72dpi gris con fuentes40,41,42,45,73; no se asume duplicación.
+  visualmente, incluidas carátulas y anexo; no es cobertura completa de la
+  materia.
+- Inducción2011 confirmada en GitHub: 15/15 expresiones y diez imágenes
+  cargadas. Maxwell confirmado: 18/18 y ambas imágenes cargadas, incluido
+  recorte2011.
+- Fuente47: mapa textual de laboratorios1–17 y anexo en inventario. Ninguna
+  página idéntica en render72dpi gris con fuentes40,41,42,45,73; no se asume
+  duplicación.
 - Hojas35 y39 transcritas: FEM con ocho expresiones y Kirchoff con cuatro; seis
   filas vacías para integrantes, tres lecturas por tabla y celdas combinadas.
 - Página57 cotejada: solo presentación de Faraday; aviso de guía adicional
@@ -1104,15 +1131,18 @@ verificadas también por sus tablas.
 - 49 notas, 844 expresiones esperadas y159 páginas únicas cotejadas visualmente.
 - Fuente47 páginas52–56 completas: laboratorio9, aviso9bis, cuatro figuras en
   tres archivos, ecuaciones1–10 con10 repetida, dos tablas de lecturas y hoja de
-  datos. Se preservan signos menos de8/9, referencia de figura1/2 y reostato2/4A.
+  datos. Se preservan signos menos de8/9, referencia de figura1/2 y
+  reostato2/4A.
 - Dos hojas del checkpoint44 confirmadas en GitHub: FEM8/8 y Kirchoff4/4,
-  tablas8+4filas y8+4+4filas respectivamente. GLX:0math,29etiquetas y JPEG cargado.
+  tablas8+4filas y8+4+4filas respectivamente. GLX:0math,29etiquetas y JPEG
+  cargado.
 - CI content del checkpoint44 pasó. Laboratorio9 suma34 expresiones y tres
   imágenes, todavía pendiente render GitHub. Próximo: laboratorio10 páginas58–64
   del compilado, seguido de11–17 y variantes de1–8. Mantener inventario parcial.
 - Extracción PyMuPDF4LLM del compilado98p terminada sin OCR en8segundos en
-  /tmp/fisica-ii-conversion/compilado47-pymupdf; texto de referencia adicional en
-  /tmp/fisica-ii-conversion/textos. No tomar salida automática como cotejo total.
+  /tmp/fisica-ii-conversion/compilado47-pymupdf; texto de referencia adicional
+  en /tmp/fisica-ii-conversion/textos. No tomar salida automática como cotejo
+  total.
 
 ## Checkpoint 46: circuitos serie de corriente alterna
 
@@ -1123,8 +1153,8 @@ verificadas también por sus tablas.
 - Ecuaciones15/17/18 tienen delimitadores defectuosos sobre símbolos en PDF;
   recorte conservado y componentes contrastados con capa textual y diagrama.
 - Checker local y git diff --check pasaron. Pendiente render GitHub de75
-  expresiones y ocho imágenes de esta nota. Faraday9 ya confirmado34/34,
-  tres imágenes cargadas y tablas7/5/2/11filas.
+  expresiones y ocho imágenes de esta nota. Faraday9 ya confirmado34/34, tres
+  imágenes cargadas y tablas7/5/2/11filas.
 - Próximo: laboratorio11 fotometría páginas65–69; después12–17, y cotejo de
   variantes1–8. No declarar completo el compilado ni la materia.
 
@@ -1135,7 +1165,7 @@ verificadas también por sus tablas.
   preparación, dos procedimientos y tablas10/11lecturas; quince expresiones.
   Conservadas Irradiancia(I), Figura4b, metros/cm y erratas textuales.
 - Corriente alterna confirmada en GitHub75/75, ocho imágenes cargadas y listas
- 10/11/8. Fotometría pendiente render15math, cuatro imágenes y tres tablas.
+  10/11/8. Fotometría pendiente render15math, cuatro imágenes y tres tablas.
 - Próximo: interferencia70–73 y difracción74–77; luego espectrómetro78–80,
   polarización81–89, termometría90–93, calorimetría94–97 y variantes1–8.
 
@@ -1155,9 +1185,9 @@ verificadas también por sus tablas.
 
 - 53 notas,977 expresiones esperadas y179 páginas únicas cotejadas visualmente.
 - Fuente47 páginas74–77 completas: seis figuras,22 expresiones, seis pasos de
-  técnica y hoja con12filas vacías; conteo de tabla confirmado13filas con cabecera.
-  Conservadas variantes a/p/l frente aα/π/λ, r/ρ, HeNe/NeHe/NeNe y numeración
- 6,7,3,4,5,6,7. No se completan datos.
+  técnica y hoja con12filas vacías; conteo de tabla confirmado13filas con
+  cabecera. Conservadas variantes a/p/l frente aα/π/λ, r/ρ, HeNe/NeHe/NeNe y
+  numeración 6,7,3,4,5,6,7. No se completan datos.
 - Interferencia confirmada en GitHub21/21, cuatro imágenes cargadas y ambas
   tablas5filas. Difracción pendiente render22math y seis imágenes.
 - Próximo: espectrómetro78–80, polarización81–89, termometría90–93,
@@ -1177,7 +1207,8 @@ verificadas también por sus tablas.
   intensidad, falta de fórmula tras definición de dispersión y5276líneas/cm
   frente a1/600mm con aviso de verificar.
 - Difracción confirmada en GitHub22/22, seis imágenes cargadas, tablas5/13filas
-  y lista original con inicio6. Checker de la nueva nota y git diff --check pasaron.
+  y lista original con inicio6. Checker de la nueva nota y git diff --check
+  pasaron.
 - Espectrómetro pendiente render11math y dos imágenes. Fuente47 revisada solo
   en1,35,39,52–80,98; restantes páginas no cubiertas por semejanza de títulos.
 - Próximo documento: polarización81–89, seguido de termometría90–93,
@@ -1189,8 +1220,8 @@ verificadas también por sus tablas.
   esta última con inicio8. Todas las54notas tienen conteos GitHub confirmados,
   total988expresiones;182páginas únicas de fuentes cotejadas visualmente.
 - Próximo trabajo autorizado: polarización del compilado47 páginas81–89.
-  Conservar todos los casos de polarización, diagramas, experiencias y hojas;
-  no confundir con problemas de polarización fuente48 ya transcritos.
+  Conservar todos los casos de polarización, diagramas, experiencias y hojas; no
+  confundir con problemas de polarización fuente48 ya transcritos.
 
 ## Checkpoint 52: polarización de la luz
 
@@ -1207,20 +1238,20 @@ verificadas también por sus tablas.
 ## Checkpoint 53: termometría
 
 - 56 notas,1044 expresiones esperadas y195 páginas únicas cotejadas visualmente.
-- Fuente47 páginas90–93 completas: modelo exponencial y parámetros A/B,
-  un montaje,12pasos, tablas3y12filas de datos vacías. Nueve expresiones.
+- Fuente47 páginas90–93 completas: modelo exponencial y parámetros A/B, un
+  montaje,12pasos, tablas3y12filas de datos vacías. Nueve expresiones.
 - Polarización confirmada47/47,13imágenes cargadas y tablas5/13filas.
 - Checker local de termometría pasó; pendiente render9math, imagen y tablas.
-- Próximo: calorimetría94–97. Luego cotejar páginas2–51 del compilado,
-  sin asumir que las variantes individuales ya transcritas cubren este PDF.
+- Próximo: calorimetría94–97. Luego cotejar páginas2–51 del compilado, sin
+  asumir que las variantes individuales ya transcritas cubren este PDF.
 
 ## Checkpoint 54: calorimetría
 
 - 57 notas,1073 expresiones esperadas y199 páginas únicas cotejadas visualmente.
 - Fuente47 páginas94–97 completas: dos experiencias con siete pasos cada una,
-  materiales, actividades, balances y fórmulas;29expresiones. Imagen original
-  de ocho accesos del GLX y tabla textual de los iconos. Se conserva Qabs=-Qced
-  y signos posteriores,80C, barra de división y agrupación de la fórmula de c.
+  materiales, actividades, balances y fórmulas;29expresiones. Imagen original de
+  ocho accesos del GLX y tabla textual de los iconos. Se conserva Qabs=-Qced y
+  signos posteriores,80C, barra de división y agrupación de la fórmula de c.
 - Termometría confirmada9/9, imagen cargada y tablas4/5/13filas. Calorimetría
   pendiente render29math, una imagen y tabla de ocho operaciones. Checker local
   y diff --check pasaron. Texto contrastado con pdftotext-layout.
@@ -1231,26 +1262,27 @@ verificadas también por sus tablas.
 ## Checkpoint 55: variante de Kirchoff del compilado
 
 - 58 notas,1079 expresiones esperadas y202 páginas únicas cotejadas visualmente.
-- Fuente47 páginas36–38 transcritas como variante separada: R2=1,5kΩ y
-  R3=3,3kΩ, frente a cifras intercambiadas en DOCX60. Encabezados Vcf/Vgb
-  también distintos. Se conserva todo el texto, circuito, dos leyes y dos tablas.
+- Fuente47 páginas36–38 transcritas como variante separada: R2=1,5kΩ y R3=3,3kΩ,
+  frente a cifras intercambiadas en DOCX60. Encabezados Vcf/Vgb también
+  distintos. Se conserva todo el texto, circuito, dos leyes y dos tablas.
 - Seis expresiones y una imagen pendientes de render. Checker local pasó.
 - Calorimetría confirmada29/29, imagen cargada, tabla9filas y listas7/7. CI
-  content del checkpoint54 pasó. Compilado sigue parcial: revisadas1,35–39,52–98.
-- Comparación textual preliminar de laboratorios1–8 contra versiones individuales
-  detecta variantes; evidencia temporal en comparacion-labs47.json. No acredita
-  cotejo de páginas restantes. Próximo: FEM/potenciómetro31–34 y después
-  laboratorios1–4,7–8 con sus hojas.
+  content del checkpoint54 pasó. Compilado sigue parcial:
+  revisadas1,35–39,52–98.
+- Comparación textual preliminar de laboratorios1–8 contra versiones
+  individuales detecta variantes; evidencia temporal en comparacion-labs47.json.
+  No acredita cotejo de páginas restantes. Próximo: FEM/potenciómetro31–34 y
+  después laboratorios1–4,7–8 con sus hojas.
 
 ## Checkpoint 56: FEM y potenciómetro del compilado
 
 - 59 notas,1094 expresiones esperadas y206 páginas únicas cotejadas visualmente.
 - Fuente47 páginas31–34 completas como variante separada del DOCX69: cuatro
-  figuras originales PDF,15expresiones, calibración, medición y sensibilidad.
-  Se conserva Vc−Va en el párrafo del cursor, d.d.p. y finales con punto/guion.
+  figuras originales PDF,15expresiones, calibración, medición y sensibilidad. Se
+  conserva Vc−Va en el párrafo del cursor, d.d.p. y finales con punto/guion.
 - Kirchoff del compilado confirmado6/6, imagen cargada y tablas4/4filas.
 - Checker local del potenciómetro y diff --check pasaron. Pendiente render
- 15math y cuatro imágenes. Fuente47 cotejada1,31–39,52–98; resto pendiente.
+  15math y cuatro imágenes. Fuente47 cotejada1,31–39,52–98; resto pendiente.
 - Próximo: laboratorio7 páginas40–45 y8 páginas46–51, incluidas hojas; luego
   laboratorios1–4 páginas2–30. Comparar las versiones individuales sin asumir
   identidad por título o porcentaje de coincidencia textual.
@@ -1262,45 +1294,46 @@ verificadas también por sus tablas.
 - Las59notas tienen conteos de render confirmados:1094expresiones. Fuentes
   cotejadas visualmente:206páginas únicas. Materia y compilado siguen parciales.
 - Siguiente punto exacto: fuente47 páginas40–45 (laboratorio7 y hoja) y46–51
-  (laboratorio8 y hoja), después2–30 (laboratorios1–4). No repetir lo ya cubierto
-  en31–39,52–98 o confundir versiones individuales.
+  (laboratorio8 y hoja), después2–30 (laboratorios1–4). No repetir lo ya
+  cubierto en31–39,52–98 o confundir versiones individuales.
 
 ## Checkpoint 58: brújula de tangentes del compilado
 
 - Instrucción vigente del usuario: continuar hasta estar listo para merge; no
   aprobar ni unir todavía. Solo se consultó PR1; sigue en borrador. La búsqueda
-  de PR abiertos de apuntes-frre devolvió únicamente este PR, sin otras materias.
+  de PR abiertos de apuntes-frre devolvió únicamente este PR, sin otras
+  materias.
 - 60 notas,1129 expresiones esperadas y212 páginas únicas cotejadas visualmente.
 - Fuente47 páginas40–45 completas como variante: cinco imágenes,35expresiones,
   ecuaciones1–8, seis materiales, once pasos, tres preguntas, una lectura vacía
   en técnica y catorce en hoja. La identidad conserva seis integrantes y grupo.
-- Se preservan(6)sin2, Ksin1/2, μo con s² y tg/Tang; paso4 ya no se repite
-  en este original. Checker local y diff --check pasaron. Pendiente render35math
-  y cinco imágenes. Próximo: fuerza magnética páginas46–51, después2–30.
+- Se preservan(6)sin2, Ksin1/2, μo con s² y tg/Tang; paso4 ya no se repite en
+  este original. Checker local y diff --check pasaron. Pendiente render35math y
+  cinco imágenes. Próximo: fuerza magnética páginas46–51, después2–30.
 
 ## Checkpoint 59: fuerza magnética del compilado
 
-- Instrucción del usuario reafirmada: trabajar hasta estar listo para merge,
-  sin unir ni aprobar todavía. Mantener el PR en borrador mientras falte contenido.
+- Instrucción del usuario reafirmada: trabajar hasta estar listo para merge, sin
+  unir ni aprobar todavía. Mantener el PR en borrador mientras falte contenido.
 - 61 notas,1150 expresiones esperadas y218 páginas únicas cotejadas visualmente.
-- Fuente47 páginas46–51 completas:21expresiones, cinco figuras y forma de
-  espira reutilizada, procedimientos1.1–1.3 y2.1–2.6, tablas5y8lecturas vacías.
-  Se conserva L como densidad y horizontal/vertical. Dos θ recuperados de capa
+- Fuente47 páginas46–51 completas:21expresiones, cinco figuras y forma de espira
+  reutilizada, procedimientos1.1–1.3 y2.1–2.6, tablas5y8lecturas vacías. Se
+  conserva L como densidad y horizontal/vertical. Dos θ recuperados de capa
   textual se marcan por cuadro del render; no se infieren de la teoría.
-- Brújula compilada confirmada35/35, cinco imágenes, tablas2/8/15filas.
-  Fuerza pendiente render21math y ocho apariciones de seis imágenes únicas.
+- Brújula compilada confirmada35/35, cinco imágenes, tablas2/8/15filas. Fuerza
+  pendiente render21math y ocho apariciones de seis imágenes únicas.
 - Checker local y diff --check pasaron; texto también contrastado con Poppler.
 - Fuente47 cubierta1,31–98. Restan2–30: laboratorios1–4 y hojas. Próximo:
-  Ohm24–30, despuésRC15–23, Laplace9–14 y potencial2–8. Después continuar
-  con el resto de originales pendientes del inventario; no declarar materia completa.
+  Ohm24–30, despuésRC15–23, Laplace9–14 y potencial2–8. Después continuar con el
+  resto de originales pendientes del inventario; no declarar materia completa.
 
 ## Checkpoint 60: Ohm y asociaciones del compilado
 
 - 62 notas,1193 expresiones esperadas y225 páginas únicas cotejadas visualmente.
 - Fuente47 páginas24–30 completas: ocho figuras,43expresiones, teoría de
   serie/paralelo y tres tablas del cuerpo más tres en la hoja, cinco lecturas
-  cada una; columnas4/10/13. Se conservan R1=2,7KΩ y R2=3,3KΩ, Vbd en tabla
-  y Vac/Vbd en preguntaD. Hoja repite encabezado de serie sobre tabla de paralelo.
+  cada una; columnas4/10/13. Se conservan R1=2,7KΩ y R2=3,3KΩ, Vbd en tabla y
+  Vac/Vbd en preguntaD. Hoja repite encabezado de serie sobre tabla de paralelo.
 - Fuerza magnética confirmada21/21, ocho apariciones de imágenes cargadas y
   tablas6/8/9filas. Ohm pendiente render43math, ocho imágenes y siete tablas.
 - Checker local y diff --check pasaron; cotejo Poppler adicional. Fuente47
@@ -1312,13 +1345,13 @@ verificadas también por sus tablas.
 - 63 notas,1236 expresiones esperadas y234 páginas únicas cotejadas visualmente.
 - Fuente47 páginas15–23 completas: nueve figuras y recorte de ecuaciones
   defectuosas,43expresiones, siete pasos de carga, cinco de descarga y
-  procesamiento3.1–3.7 con3.3repetido. Datos R39000Ω,C11000µF,C2470µF,ΔR5%.
-  Hoja con21instantes0–200s y seis pares de lecturas,13columnas.
+  procesamiento3.1–3.7 con3.3repetido. Datos R39000Ω,C11000µF,C2470µF,ΔR5%. Hoja
+  con21instantes0–200s y seis pares de lecturas,13columnas.
 - Se preservan salto9→11,19repetida,+0en17 y referencias del original. No se
-  importan hojas del PDF individual distintas de esta matriz. Checker local
-  y diff --check pasaron; pendiente render43math y diez imágenes.
-- Ohm confirmado43/43, ocho imágenes y tablas6filas×4/10/13columnas en cuerpo
-  y hoja, identificación8filas. Fuente47 cubierta1,15–98. Próximo9–14Laplace,
+  importan hojas del PDF individual distintas de esta matriz. Checker local y
+  diff --check pasaron; pendiente render43math y diez imágenes.
+- Ohm confirmado43/43, ocho imágenes y tablas6filas×4/10/13columnas en cuerpo y
+  hoja, identificación8filas. Fuente47 cubierta1,15–98. Próximo9–14Laplace,
   luego2–8potencial. El PR sigue en borrador y la materia incompleta.
 
 ## Checkpoint 62: Laplace del compilado y corrección de índice
@@ -1326,44 +1359,46 @@ verificadas también por sus tablas.
 - 64 notas,1245 expresiones esperadas y240 páginas únicas cotejadas visualmente.
 - Fuente47 páginas9–14 completas: nueve expresiones, montaje, tablas9×9 de
   experimental12V y teórica10.0V, hoja11×11 vacía conØ y X/Ymayúsculas.
-- Se corrigió E_i a E_I en ambas versiones de Laplace: bitmap220×75 idéntico
-  en DOCX39 y compilado, SHA-256 de píxeles e5e621076712eae487e411a955699c73a6e76ee4238ef8c9fd3391740291f7c6.
-  Imagen original conservada y explicación agregada a ambas notas. Revisar render
-  de ambas9math y de dos imágenes por nota. Checker local y diff --check pasaron.
+- Se corrigió E_i a E_I en ambas versiones de Laplace: bitmap220×75 idéntico en
+  DOCX39 y compilado, SHA-256 de píxeles
+  e5e621076712eae487e411a955699c73a6e76ee4238ef8c9fd3391740291f7c6. Imagen
+  original conservada y explicación agregada a ambas notas. Revisar render de
+  ambas9math y de dos imágenes por nota. Checker local y diff --check pasaron.
 - RC confirmado43/43, diez imágenes y tablas8/8/3/8/23filas; matriz13columnas.
 - Fuente47 cubierta1,9–98. Restan2–8potencial y su hoja. Después de cerrar
-  compilado continuar originales pendientes del inventario; materia sigue incompleta.
+  compilado continuar originales pendientes del inventario; materia sigue
+  incompleta.
 
 ## Checkpoint 63: compilado de98páginas completo
 
 - 65 notas,1271 expresiones esperadas y247 páginas únicas de fuentes cotejadas
   visualmente. Fuente47 completa1–98: todos los laboratorios1–17, presentación
- 9bis, hojas, carátula y anexoGLX. No implica que toda FísicaII esté completa.
+  9bis, hojas, carátula y anexoGLX. No implica que toda FísicaII esté completa.
 - Potencial2–8:26expresiones, cinco figuras, ocho pasos y nota original de
   pendientes. Hoja de siete grupos V1–V7 y nueve lecturas,15columnas, distinta
   del DOCX. Se conservan V9=7Vo/8, salto3→5, relación13 y erratas del texto.
-- Checker local y diff --check pasaron; pendiente render26math, cinco imágenes
-  y cinco tablas. Laplace nuevo e individual confirmados9/9 cada uno, ambas
+- Checker local y diff --check pasaron; pendiente render26math, cinco imágenes y
+  cinco tablas. Laplace nuevo e individual confirmados9/9 cada uno, ambas
   imágenes cargadas e índiceI confirmado en MathML.
 - Próximo: revisar inventario de originales pendientes y continuar teoría,
-  guías/modelos y otros años. Mantener PR en borrador hasta completar alcance
-  y verificación, conforme a instrucción del usuario.
+  guías/modelos y otros años. Mantener PR en borrador hasta completar alcance y
+  verificación, conforme a instrucción del usuario.
 
 ## Checkpoint 64: copias de idéntico render y próximo examen
 
 - Las65notas están verificadas en GitHub:1271expresiones y247páginas únicas
   cotejadas visualmente. Compilado completo, pero materia aún incompleta.
-- Fuente43 con SHA idéntico a42 tenía estado atrasado; corregida propagación
-  de estado y páginas cuando la referencia tiene varias notas.
-- Fuentes44/42:13/13páginas idénticas en dimensiones y muestras de render
- 72dpi gris.46/45:6/6idénticas. Comparten notas sin sumar páginas a la cuenta
-  de revisión visual manual. Evidencia por página en duplicados-render.json.
-- Fuentes5/1:27/27idénticas en render, pero ambas siguen pendientes. Fuente66
-  es SHA idéntico a1. Esta igualdad no se declaró transcripción completa.
+- Fuente43 con SHA idéntico a42 tenía estado atrasado; corregida propagación de
+  estado y páginas cuando la referencia tiene varias notas.
+- Fuentes44/42:13/13páginas idénticas en dimensiones y muestras de render 72dpi
+  gris.46/45:6/6idénticas. Comparten notas sin sumar páginas a la cuenta de
+  revisión visual manual. Evidencia por página en duplicados-render.json.
+- Fuentes5/1:27/27idénticas en render, pero ambas siguen pendientes. Fuente66 es
+  SHA idéntico a1. Esta igualdad no se declaró transcripción completa.
 - Checker local de tres notas con procedencia adicional y diff --check pasaron.
 - Próximo: fuente1 modelos de parciales/finales27páginas, versión1.1fechada
- 04/08/2010; fuentes5/66comparten contenido. Numerosas páginas3–8,14–21
-  tienen imagen sin texto: preparar OCR español sobre copia y cotejar todo.
+  04/08/2010; fuentes5/66comparten contenido. Numerosas páginas3–8,14–21 tienen
+  imagen sin texto: preparar OCR español sobre copia y cotejar todo.
 - Material que figura IEM/IQ debe conservar esa identificación y no atribuir
   automáticamente a ISI; la fuente está en carpeta canónica FísicaII.
 
@@ -1371,16 +1406,19 @@ verificadas también por sus tablas.
 
 - Fuente1 modelos27p: OCR --skip-text omitía todas porque hay una capa de
   espacios. OCR español --force-ocr sobre copia temporal produjo texto; se
-  conservó extracción PyMuPDF4LLM y Poppler en modelos-examenes-ocr. Original intacto.
+  conservó extracción PyMuPDF4LLM y Poppler en modelos-examenes-ocr. Original
+  intacto.
 - Nuevas8notas: página3 dos exámenes, página4 temas1 yF2, página5 inferior
-  parcial2007temaA, páginas10–12 recuperatoriosIEM2010 temas1/2 y parcial16/09/08.
-  No declarar completa página5: su recuperatorio superior sigue pendiente.
+  parcial2007temaA, páginas10–12 recuperatoriosIEM2010 temas1/2 y
+  parcial16/09/08. No declarar completa página5: su recuperatorio superior sigue
+  pendiente.
 - Las cinco primeras notas publicadas se verificaron en GitHub:16+17+7+0+4
-  expresiones; cinco figuras de los recuperatorios/2008 y dos de página3 cargadas.
-  Acumulado confirmado70notas/1315math. Otras3notas pasan controles locales:
-  8+5+5 expresiones; pendiente renderGitHub tras publicar.
+  expresiones; cinco figuras de los recuperatorios/2008 y dos de página3
+  cargadas. Acumulado confirmado70notas/1315math. Otras3notas pasan controles
+  locales: 8+5+5 expresiones; pendiente renderGitHub tras publicar.
 - Conservados exponente15 en atm/Pa, repeticiónc), carga16sinpunto, masa3,11,
-  tiempo2seg, V2textual/V1figura, identificaciónIQ/IEM y formularios sin completar.
+  tiempo2seg, V2textual/V1figura, identificaciónIQ/IEM y formularios sin
+  completar.
 - Figuras de problemas3/4 del tema2IEM continúan arriba de página12; las del
   tema1 están en página10 con rótulos desplazados a11. No confundir exámenes.
 - Páginas1–12 renderizadas y vistas como orientación; para revisión terminada
@@ -1392,23 +1430,24 @@ verificadas también por sus tablas.
 
 ## Checkpoint 66: 82 notas publicadas y verificadas
 
-- Las82notas y1353expresiones están verificadas en GitHub; todas las figuras
-  de las9notas adicionales cargaron completas. Controles locales check74pasaron.
+- Las82notas y1353expresiones están verificadas en GitHub; todas las figuras de
+  las9notas adicionales cargaron completas. Controles locales check74pasaron.
 - Además: recuperatorio2008tema2 página6superior, tema2varilla página7superior,
   recuperatorioextraordinarioIEM2010 página22superior, segundosparciales2010
   temas1/2 páginas22–23, finalesmarzo2010 y17/12/09 página25, IQ2009temas1/2
   páginas26–27. No atribuir IQ/IEM automáticamente a ISI.
-- Separadores13/24vistos: «Modelos de segundo parcial»/«Problemas de final».
-  No contienen ejercicios. Páginas22–23 y25–27 completamente cotejadas;
+- Separadores13/24vistos: «Modelos de segundo parcial»/«Problemas de final». No
+  contienen ejercicios. Páginas22–23 y25–27 completamente cotejadas;
   fuente1aúnparcial. Paginas3,4,10–12 completas;5,6,7soloexámenesindicados.
 - Queda sin usar/referenciar iq-recuperatorio-tema-a-figuras.png (propio),
-  destinado a siguiente nota página5superior. Revisar exponente de Q1 en
-  recorte tema-a-iq-texto.png antes de transcribirlo: OCR no lo reconoce;
-  no inferirlo desde otros exámenes similares. Q2 imprime10-9 en línea.
-- Restan primerparcialp5superior,p6inferior,p7inferior,p8ambos,p9ambos;
-  luego escaneados14–21. Todas1–12 y22–27 tienen renders temporales.
+  destinado a siguiente nota página5superior. Revisar exponente de Q1 en recorte
+  tema-a-iq-texto.png antes de transcribirlo: OCR no lo reconoce; no inferirlo
+  desde otros exámenes similares. Q2 imprime10-9 en línea.
+- Restan primerparcialp5superior,p6inferior,p7inferior,p8ambos,p9ambos; luego
+  escaneados14–21. Todas1–12 y22–27 tienen renders temporales.
 - TextoOCR/Poppler de27p y conversiónPyMuPDF4LLM completos en
-  /tmp/fisica-ii-conversion/modelos-examenes-ocr; no prueban fidelidad por sí solos.
+  /tmp/fisica-ii-conversion/modelos-examenes-ocr; no prueban fidelidad por sí
+  solos.
 - PR sigueborrador; cuerpoactualizado explicita materia incompleta. No aprobar
   ni fusionar. Continuar luego teoría/documentos de otros años del inventario.
 
@@ -1416,12 +1455,12 @@ verificadas también por sus tablas.
 
 - Hay90notas/1361math esperadas:82/1353ya verificadas en GitHub; ocho nuevas
   locales de páginas14temaB,16ambos,17ambos,18completa y19ambos.
-- Figuras originales de cada nueva nota cotejadas; corregidos márgenes para
-  no cortar datos. Último control check77pasó; check78incluye fuentes.md
+- Figuras originales de cada nueva nota cotejadas; corregidos márgenes para no
+  cortar datos. Último control check77pasó; check78incluye fuentes.md
   actualizado tras corregir estado de cobertura.
-- Hallado y corregido helper temporal: agregación de varias notas ponía
-  «dos secciones» y sobrescribía estado parcial de fuente1. Ahora1/66siguen
-  parciales y cuentan25exámenes; separa páginas completas, parciales y
+- Hallado y corregido helper temporal: agregación de varias notas ponía «dos
+  secciones» y sobrescribía estado parcial de fuente1. Ahora1/66siguen parciales
+  y cuentan25exámenes; separa páginas completas, parciales y
   carátulas/separadores. Fuente5tambiénparcial, igualdad de render no es cierre.
 - No inferir valores de exámenes similares. Conservadas J=C.r frente aJ=C/r,
   «1ºPARCIAL» de fuente17aunque sean magnetismo/CA y circuitos diferentes.
@@ -1433,7 +1472,8 @@ verificadas también por sus tablas.
 ## Checkpoint 68: texto impreso del compilado de27p completo
 
 -105notas/1400math esperadas.97/1370verificadas en GitHub; ocho notas finales
-  locales pasan check85. Próximo publicar y verificar esas ocho antes de seguir.
+locales pasan check85. Próximo publicar y verificar esas ocho antes de seguir.
+
 - Fuente1:39exámenes/versiones y nota de carátula/índice. Todas27páginas
   cotejadas, con las variantes y sus figuras separadas. Índice conserva portada
   y separadores2/13/24. Total acumulado274páginas únicas de fuentes cotejadas
@@ -1441,8 +1481,8 @@ verificadas también por sus tablas.
   cuenta páginas repetidas entre notas.
 - Amplificación correcta resolvió Q1p5:exponente−8, no−9; conservado recorte
   original en recursos y notaIQtemaA. Q2imprime10-9enlínea: no convertirlo
-  silenciosamente a superíndice. Ejercicios5–8delrecuperatoriop6 conservan
-  ncoul para λ sin añadir/m y numeración5–8.
+  silenciosamente a superíndice. Ejercicios5–8delrecuperatoriop6 conservan ncoul
+  para λ sin añadir/m y numeración5–8.
 - Permanece una unidad manuscrita de R en p14sinlectura inequívoca; recorte
   original conservado y pendiente explícito en nota/coverage/inventario.
 - Próximo: verificar ocho nuevas en GitHub; revisar resultado readonly de
@@ -1454,9 +1494,10 @@ verificadas también por sus tablas.
 ## Checkpoint 69: unidad1teórica completa en local
 
 -116notas/1478math esperadas.105/1400confirmadas en GitHub. Once notas teóricas
-  nuevas de fuente74 cubren sus41páginas; fuente75SHAidéntica compartecontenido.
--315páginas únicas de fuentes cotejadas visualmente (274previas +41unidad1).
-  La suma326del helper repite páginas por notas; no usarla como revisión única.
+nuevas de fuente74 cubren sus41páginas; fuente75SHAidéntica compartecontenido.
+-315páginas únicas de fuentes cotejadas visualmente (274previas +41unidad1). La
+suma326del helper repite páginas por notas; no usarla como revisión única.
+
 - Unidad1: fuerza/superposición1–6; definicióncampo7–10; puntuales11–13;
   hilo/plano14–15; líneas16–22; movimiento23; ángulosólido24–25; flujo26–29;
   Gauss30–31; aplicaciones32–38+41; diferencial39–40. La41solo tiene diagrama,
@@ -1471,19 +1512,19 @@ verificadas también por sus tablas.
 - Comparaciónreadonly102PDF/2217p terminó sinerrores; no hay copias porpágina
   adicionales hacia fuentescompletas fuera de gruposyaidentificados.
 - Nuevaprueba de renders:52↔4(13p),112↔113(13p),127↔132(32p). Solo4comparte
-  material ya transcrito;112/113y127/132siguenpendientesjuntoas referencia.
-  No sumaridentidadpixelcomorevisiónmanual. Prueba ampliada en duplicados-render.
+  material ya transcrito;112/113y127/132siguenpendientesjuntoas referencia. No
+  sumaridentidadpixelcomorevisiónmanual. Prueba ampliada en duplicados-render.
 - check91pasó las11notas yfuentes2015/2019; diff --checkpendientealcommit.
-  Próximo publicar y verificar1478esperadas, especialmenteoiint enGitHub;
-  luego seguirinventariopendiente, sin aprobar ni fusionarPR.
+  Próximo publicar y verificar1478esperadas, especialmenteoiint enGitHub; luego
+  seguirinventariopendiente, sin aprobar ni fusionarPR.
 
 ## Checkpoint 70: verificación de la unidad teórica publicada
 
 - 116 notas y 1478 expresiones verificadas en GitHub; 315 páginas únicas
   cotejadas visualmente. Las 24 imágenes de la unidad 1 cargaron correctamente.
-- GitHub mostraba literalmente la macro oiint aunque KaTeX la aceptaba.
-  Se sustituyó por el símbolo Unicode de integral de superficie cerrada dentro
-  de mathop, conservando el significado original; ambas notas verificadas.
+- GitHub mostraba literalmente la macro oiint aunque KaTeX la aceptaba. Se
+  sustituyó por el símbolo Unicode de integral de superficie cerrada dentro de
+  mathop, conservando el significado original; ambas notas verificadas.
 - CI del commit 6bc9831 pasó. PR sigue en borrador y materia incompleta.
 - Búsqueda de PR abiertos: Física II #1 y control .github #13 de correlativas
   ISI Plan 2023; no aparecieron PR de otras materias.
@@ -1491,11 +1532,11 @@ verificadas también por sus tablas.
 
 ## Checkpoint 71: energía electrostática y potencial
 
-- Fuente 89 completa: 16 páginas, 31 diapositivas, nueve notas y 15 figuras.
-  331 páginas únicas cotejadas visualmente (315 +16); no usar suma 343 del
-  helper, que repite páginas compartidas entre notas.
-- 125 notas /1560 expresiones esperadas; 116 /1478 verificadas en GitHub.
-  Las nueve nuevas pasan check94; falta su verificación publicada.
+- Fuente 89 completa: 16 páginas, 31 diapositivas, nueve notas y 15 figuras. 331
+  páginas únicas cotejadas visualmente (315 +16); no usar suma 343 del helper,
+  que repite páginas compartidas entre notas.
+- 125 notas /1560 expresiones esperadas; 116 /1478 verificadas en GitHub. Las
+  nueve nuevas pasan check94; falta su verificación publicada.
 - Conservados los límites 0 y a tras cambio a u en el disco, el texto con
   paréntesis abierto en derivación del gradiente y la integral de esfera sin
   evaluación final. No se agregaron soluciones ni temas anunciados ausentes.
@@ -1509,15 +1550,15 @@ verificadas también por sus tablas.
 - Fuente 89 publicada en b69fa80: nueve notas, 82 expresiones y 15 imágenes
   verificadas en GitHub. Acumulado previo:125notas/1560expresiones.
 - Fuente90:55páginas cotejadas visualmente y transcritas en12notas,141math
-  y45medios. Total137notas/1701expresiones esperadas;386páginas únicas
-  revisadas (331+55). La suma398delhelper duplica páginas compartidas.
+  y45medios. Total137notas/1701expresiones esperadas;386páginas únicas revisadas
+  (331+55). La suma398delhelper duplica páginas compartidas.
 - Contenidos/objetivos1–3; corriente4–7; densidad/continuidad8–11; modelo12–15;
   resistencia/colores16–20; resistividad/temperatura21–24; asociaciones25–26;
   Joule27–29; instrumentos/Wheatstone30–34; fem35–41; Kirchhoff42–47;
   conexiones48–49; RC50–55. La55solo diceFin de laClase y se conserva.
 - Conservados cuadrados ya visibles sobre n/entreJydS, exponentedoblemente
-  negativo delmiliampere, gráfica vacía13, superposiciónunidad21, «Rmallas»47
-  y celdas vacías de tablas18/20/24. No se reconstruyen símbolos porconjetura.
+  negativo delmiliampere, gráfica vacía13, superposiciónunidad21, «Rmallas»47 y
+  celdas vacías de tablas18/20/24. No se reconstruyen símbolos porconjetura.
 - Desarrollo de batería41incluido desdeimagen; preguntasfinales sinresolver.
   Fórmula oscura diminuta27también transcrita. Las45figuras fueron revisadas
   mediante contactos; circuito39extraído raster paraevitartextoajeno.
@@ -1526,8 +1567,8 @@ verificadas también por sus tablas.
 
 ## Checkpoint 73: Electrocinética verificada en GitHub
 
-- 137 notas /1701 expresiones verificadas;45imágenes de fuente90cargadas.
-  Sin merror ni macros literales detectadas. Fuente90publicada en0ebc2fa.
+- 137 notas /1701 expresiones verificadas;45imágenes de fuente90cargadas. Sin
+  merror ni macros literales detectadas. Fuente90publicada en0ebc2fa.
 - 386páginas únicas revisadas; fuente95es capacidad/dieléctricos26páginas.
   ÚltimaCI aún pendiente; no confundir estado pendiente con fallo.
 - Próximo: fuente95, después96y guías97–101. PRcontinúaborrador.
@@ -1545,27 +1586,27 @@ verificadas también por sus tablas.
   PPTduplican texto enextracción: solo una copia del texto visible.
 - No se agregan fórmulas a diapositivas15–17de cilindro/esfera (solofiguras).
   Tabla39conservaEtanol/Titanio/valores/vacíos; preguntas sinresolver.
-- check99pasó8notas+fuentes;29medios revisados encontactos. Próximo publicar
-  y verificar77expresiones/29medios enGitHub; despuésfuente96.
+- check99pasó8notas+fuentes;29medios revisados encontactos. Próximo publicar y
+  verificar77expresiones/29medios enGitHub; despuésfuente96.
 
 ## Checkpoint 75: capacidad publicada y verificada
 
-- 145notas/1778expresiones verificadas enGitHub;29medios de fuente95
-  cargados y sinerroresmath ni macros literales. Publicadoene8d6b74.
+- 145notas/1778expresiones verificadas enGitHub;29medios de fuente95 cargados y
+  sinerroresmath ni macros literales. Publicadoene8d6b74.
 - PRactualizado a145/1778.412páginas únicas revisadas.
-- Fuente96(2018UTI) tiene42páginas y desarrollo más amplio que fuente74;
-  no asumirduplicado. Render/textos preparados en fuerza-campo-96 temporal,
-  todavía no cotejados visualmente ni transcritos.
+- Fuente96(2018UTI) tiene42páginas y desarrollo más amplio que fuente74; no
+  asumirduplicado. Render/textos preparados en fuerza-campo-96 temporal, todavía
+  no cotejados visualmente ni transcritos.
 - Próximo continuar96; luego97–101. Materia yPRsiguenincompletos.
 
 ## Checkpoint 76: fuerza y campo2018, primeras17páginas
 
 - Fuente96parcial:1–3programa/bibliografía/introducción;4–10carga einducción;
   11–14Coulomb;15–17superposición/componentes3D. Cuatro notas,29expresiones,
-  12medios (átomo repetido enp7/8).149notas/1807mathesperadas.
--429páginas únicas revisadas (412+17);444delhelper repite páginas entre notas.
-- Cotejados todoslosvalores ypasos. «dos dos tipos» en13eserrata visible,
-  no duplicacióndeextracción; recorteampliado lo confirma. Versores conbreve.
+  12medios (átomo repetido enp7/8).149notas/1807mathesperadas. -429páginas
+  únicas revisadas (412+17);444delhelper repite páginas entre notas.
+- Cotejados todoslosvalores ypasos. «dos dos tipos» en13eserrata visible, no
+  duplicacióndeextracción; recorteampliado lo confirma. Versores conbreve.
 - El diagrama de17inferior y15superior carece de explicación adicional: se
   conserva sininventar. El contenido delprogramano cuenta comotemascompletos.
 - check103pasó4notas+fuentes. Próximo publicar/verificar29math y13referencias
@@ -1574,15 +1615,15 @@ verificadas también por sus tablas.
 ## Checkpoint 77: fuerza y campo2018completos
 
 - Fuente96:42páginas cotejadas completas,14notas/132math/46medios (47refs).
-  Total159notas/1910mathesperadas;149/1807verificadas enGitHub.
--454páginas únicas revisadas (412+42). Suma473delhelper incluyecompartidas.
+  Total159notas/1910mathesperadas;149/1807verificadas enGitHub. -454páginas
+  únicas revisadas (412+42). Suma473delhelper incluyecompartidas.
 - 18–20superior definición;20inferior/21/23/24superiordiscretos;22/24inferior
   /25–27continuos;28–29disco/placas/formulario;30–31líneas;32–33superior
   movimiento;33inferior–35flujo;36–38Gauss;39–41superioraplicaciones;
   41inferior–42conductor/diferencial. Conservadafrasefinal27.
 - Captura29contiene16mathvisibles: transcritas, conservando captura desde
-  tresfranjas. Figuraoculta30recuperada desde2franjas. Figura27recompuesta
-  con máscarasalpha paraevitarfondo gris ytextoajeno; ejes19tambiénraster.
+  tresfranjas. Figuraoculta30recuperada desde2franjas. Figura27recompuesta con
+  máscarasalpha paraevitarfondo gris ytextoajeno; ejes19tambiénraster.
 - Conservados -q0enlistacoordenadas24, factor k ausenteenintegralvolumétrica22,
   límites±L/2frenteaLfinal26, límitesRald(r²)28, integralescerradascondV42,
   pregunta41sinrespuesta. No se corrigen fórmulas deloriginal.
@@ -1624,8 +1665,8 @@ verificadas también por sus tablas.
 
 - Unidad V completa en ea156ce: 42 páginas cotejadas, diez notas y 63
   expresiones; todas las fórmulas y figuras verificadas en GitHub.
-- Total publicado y verificado: 180 notas y 2168 expresiones; 541 páginas
-  únicas cotejadas antes de la unidad siguiente.
+- Total publicado y verificado: 180 notas y 2168 expresiones; 541 páginas únicas
+  cotejadas antes de la unidad siguiente.
 - Unidad VII, fenómenos de inducción (67 páginas): páginas 1–8 cotejadas, dos
   notas locales sin matemática y cinco figuras. La fuente sigue parcial;
   próximas páginas 9–67. Total 549 páginas únicas revisadas con este tramo.
@@ -1633,8 +1674,8 @@ verificadas también por sus tablas.
   Los scripts de generación preceden algunos arreglos manuales; no regenerar
   notas o figuras ciegamente.
 - Pendientes principales: resto de inducción, Electromagnetismo 62 páginas,
-  medios materiales 21 páginas y los demás documentos del inventario.
-  La materia permanece incompleta y el PR en borrador.
+  medios materiales 21 páginas y los demás documentos del inventario. La materia
+  permanece incompleta y el PR en borrador.
 
 ## Checkpoint 81: inducción completa y versión Electromagnetismo
 
@@ -1655,34 +1696,34 @@ verificadas también por sus tablas.
 
 ## Checkpoint 82: Electromagnetismo hasta autoinducción
 
-- Fuente106: páginas 1–40 de 62 cotejadas y transcritas en once notas;
-  quedan páginas 41–62. Total registrado: 648 páginas únicas revisadas.
+- Fuente106: páginas 1–40 de 62 cotejadas y transcritas en once notas; quedan
+  páginas 41–62. Total registrado: 648 páginas únicas revisadas.
 - Se conservan las aplicaciones a interruptor y guitarra, las fases del
-  generador y la solución original del avión (280 m/s, 1 V). No se unificó
-  esta versión con fuente105: contiene diferencias verificadas.
-- Cuatro notas nuevas para páginas 26–40 pasan el checker local: 35
-  expresiones, seis figuras; pendiente comprobar su render publicado.
-- Próximo: fuente106 desde página41, luego107 y resto del inventario.
-  La materia sigue incompleta y el PR permanece en borrador.
+  generador y la solución original del avión (280 m/s, 1 V). No se unificó esta
+  versión con fuente105: contiene diferencias verificadas.
+- Cuatro notas nuevas para páginas 26–40 pasan el checker local: 35 expresiones,
+  seis figuras; pendiente comprobar su render publicado.
+- Próximo: fuente106 desde página41, luego107 y resto del inventario. La materia
+  sigue incompleta y el PR permanece en borrador.
 
 ## Checkpoint 83: versión Electromagnetismo completa
 
 - Fuente106 completa: 62 páginas cotejadas, dieciséis notas. Se conservaron
   diferencias de texto, ecuaciones, figuras y ejemplos respecto de fuente105.
-- Total registrado: 670 páginas únicas revisadas y 211 apuntes; 2358
-  expresiones esperadas. Las últimas cinco notas (50 expresiones) pasan
-  controles locales; falta revisar su render en GitHub.
+- Total registrado: 670 páginas únicas revisadas y 211 apuntes; 2358 expresiones
+  esperadas. Las últimas cinco notas (50 expresiones) pasan controles locales;
+  falta revisar su render en GitHub.
 - Los apuntes anteriores hasta página40 de106 están comprobados en GitHub.
-- Próximo: fuente107, Magnetismo en medios materiales (21 páginas), y resto
-  del inventario. Materia incompleta; PR permanece en borrador.
+- Próximo: fuente107, Magnetismo en medios materiales (21 páginas), y resto del
+  inventario. Materia incompleta; PR permanece en borrador.
 
 ## Checkpoint 84: magnetismo en medios materiales
 
 - Fuente107 completa: 21 páginas cotejadas, cinco notas, 34 expresiones y doce
   figuras. Se conservan erratas y formulaciones originales; las marcas de
   integral cerrada se verificaron visualmente. Controles locales pasaron.
-- Total: 691 páginas únicas registradas, 216 notas y 2392 expresiones
-  esperadas. Las cinco notas nuevas todavía requieren comprobación en GitHub.
+- Total: 691 páginas únicas registradas, 216 notas y 2392 expresiones esperadas.
+  Las cinco notas nuevas todavía requieren comprobación en GitHub.
 - Fuente106 completa y verificada: 62 páginas, dieciséis notas, todas sus
   expresiones e imágenes comprobadas. CI de c9c7e11 pasó.
 - Las copias temporales en /tmp desaparecen entre sesiones. La fuente107,
@@ -1695,7 +1736,8 @@ verificadas también por sus tablas.
 
 - Fuente112: trece páginas completas, veinte expresiones, tabla experimental
   de17 filas, tabla auxiliar, dos gráficos y ocho figuras académicas. Fuente113
-  comparte SHA-256 y transcripción. Se conservan errores y resultados originales.
+  comparte SHA-256 y transcripción. Se conservan errores y resultados
+  originales.
 - Fuente114: trece páginas cotejadas; derivación OCR visiblemente deteriorada
   del mismo informe. Se documentan pérdidas de símbolos y se remite al escaneo
   legible; no se declara identidad de render ni se copia matemática corrupta.
@@ -1703,7 +1745,8 @@ verificadas también por sus tablas.
   (2392 expresiones) quedó verificado en GitHub. El nuevo informe requiere
   comprobación publicada; controles locales pasaron.
 - Próximo: fuente115 (fuerza magnética sobre elementos de corriente, nueve
-  páginas) y116 (derivación apto búsquedas); luego117–122 y resto del inventario.
+  páginas) y116 (derivación apto búsquedas); luego117–122 y resto del
+  inventario.
 - Trabajo persistente en ~/.cache/fisica-ii-transcripcion/20261020-laboratorios.
   Materia incompleta; PR en borrador.
 
@@ -1715,23 +1758,25 @@ verificadas también por sus tablas.
 - Fuente116: nueve páginas cotejadas; derivación OCR deteriorada del mismo
   informe con daños visibles en formas, fórmulas, circuitos y gráfico. Se remite
   al escaneo legible y se documentan pérdidas, sin declarar identidad de render.
-- Total: 218 apuntes, 2427 expresiones esperadas. Hasta los 217 anteriores
-  (2412 expresiones) están comprobados en GitHub, incluidas las tablas e imágenes
-  del informe de campo magnético. El nuevo informe requiere comprobación publicada.
+- Total: 218 apuntes, 2427 expresiones esperadas. Hasta los 217 anteriores (2412
+  expresiones) están comprobados en GitHub, incluidas las tablas e imágenes del
+  informe de campo magnético. El nuevo informe requiere comprobación publicada.
 - Próximo: fuentes117–122 (UT5/6/7/8), luego corriente alterna, Maxwell, óptica,
-  termodinámica y demás pendientes del inventario. Materia incompleta; PR borrador.
+  termodinámica y demás pendientes del inventario. Materia incompleta; PR
+  borrador.
 
 ## Checkpoint 87: entrega parcial autorizada a main
 
-- El usuario autorizó fusionar lo transcrito hasta ahora y continuar después
-  en una nueva rama de revisión. La autorización de esta entrega parcial no
-  declara completa la materia ni las fuentes todavía pendientes.
-- 218 apuntes, 2427 expresiones; todos comprobados en GitHub con sus imágenes
-  y tablas. Fuente122 cotejada: cuatro hojas con las21diapositivas de fuente107;
+- El usuario autorizó fusionar lo transcrito hasta ahora y continuar después en
+  una nueva rama de revisión. La autorización de esta entrega parcial no declara
+  completa la materia ni las fuentes todavía pendientes.
+- 218 apuntes, 2427 expresiones; todos comprobados en GitHub con sus imágenes y
+  tablas. Fuente122 cotejada: cuatro hojas con las21diapositivas de fuente107;
   registro en resources/common/imposiciones.json, sin duplicar apuntes.
-- Fuentes117–121 siguen pendientes. De117 se revisaron diapositivas1–24;
-  se observaron sustituciones de símbolos respecto de103 (q/p/w en fórmulas y
-  flecha visible en introducción). No se declaró duplicado ni cobertura completa.
+- Fuentes117–121 siguen pendientes. De117 se revisaron diapositivas1–24; se
+  observaron sustituciones de símbolos respecto de103 (q/p/w en fórmulas y
+  flecha visible en introducción). No se declaró duplicado ni cobertura
+  completa.
 - Tras la fusión: continuar fuentes pendientes en una nueva rama desde main;
   prioridad a teoría IX–XVI. Las fuentes123–140 y2020 también siguen pendientes
   según inventario. No modificar originales ni README autogenerado.
@@ -1739,62 +1784,67 @@ verificadas también por sus tablas.
 ## Checkpoint 88: merge autorizado y corriente alterna
 
 - PR #1 fusionado por autorización expresa del usuario. Main local y remoto
-  coinciden en 9bbc536286298de11b3d1f2a3ad59f92df05734f; push confirmado.
-  CI posterior al merge aprobado (run 39558981584).
+  coinciden en 9bbc536286298de11b3d1f2a3ad59f92df05734f; push confirmado. CI
+  posterior al merge aprobado (run 39558981584).
 - Continuación en codex/transcribir-fisica-ii-continuacion desde main.
-- Fuente123 completa: 34 páginas cotejadas, trece notas (doce de teoría y
-  una de problemas), 101 expresiones y 23 figuras. Fecha impresa13/06/2018,
-  distinta del nombre2017 y carpeta2019. Se conserva el anexo posterior al
-  cierre con inconsistencias señaladas, sin resolver ejercicios.
+- Fuente123 completa: 34 páginas cotejadas, trece notas (doce de teoría y una de
+  problemas), 101 expresiones y 23 figuras. Fecha impresa13/06/2018, distinta
+  del nombre2017 y carpeta2019. Se conserva el anexo posterior al cierre con
+  inconsistencias señaladas, sin resolver ejercicios.
 - Total: 231 apuntes y 2528 expresiones esperadas. Nuevas notas pendientes de
   verificar en GitHub. Las218anteriores/2427expresiones ya están verificadas.
-- Caché persistente: ~/.cache/fisica-ii-transcripcion/20261021-corriente-alterna.
+- Caché persistente:
+  ~/.cache/fisica-ii-transcripcion/20261021-corriente-alterna.
 - Próximo: verificar la publicación de este lote y continuar fuentes124–140,
   incluidas versiones de corriente alterna, Maxwell, óptica y termodinámica.
-  Fuentes117–121 y demás pendientes del inventario siguen sin declararse completas.
+  Fuentes117–121 y demás pendientes del inventario siguen sin declararse
+  completas.
 
 ## Checkpoint 89: corriente alterna y variante PPTX
 
-- Las trece notas de fuente123 se verificaron en GitHub en b1a7e73:
-  101/101 expresiones, 23/23 imágenes cargadas, sin errores MathJax.
-  CI del PR #2 aprobado (run39560695009). PR #2 en borrador y adjunto al chat.
-- Fuente124 cotejada completa:35diapositivas. Contiene un problema adicional
-  de impedancias en diapositiva24, ausente del PDF; transcrito sin resolver en
+- Las trece notas de fuente123 se verificaron en GitHub en b1a7e73: 101/101
+  expresiones, 23/23 imágenes cargadas, sin errores MathJax. CI del PR #2
+  aprobado (run39560695009). PR #2 en borrador y adjunto al chat.
+- Fuente124 cotejada completa:35diapositivas. Contiene un problema adicional de
+  impedancias en diapositiva24, ausente del PDF; transcrito sin resolver en
   corriente-alterna-impedancias-serie-paralelo.md. Render GitHub pendiente.
 - Diapositivas1–23 corresponden a PDF1–23;25–35 a PDF24–34. Correspondencia
   registrada por nota en cobertura.json; sin notas del presentador adicionales.
-  La normalización LibreOffice cambia ajuste/posición y no prueba render idéntico.
+  La normalización LibreOffice cambia ajuste/posición y no prueba render
+  idéntico.
 - Total232notas y2529expresiones;231/2528ya verificadas en GitHub.
 - Próximo: publicar/verificar el problema adicional y continuar fuente125
   (Ecuaciones de Maxwell44p.), versión2019 y resto de fuentes pendientes.
 
 ## Checkpoint 90: Maxwell y ondas, versión fechada22/06/2018
 
-- Fuente125 completa:44páginas cotejadas, trece notas,113expresiones,
-  diecisiete figuras originales (una reiterada). Incluye demostraciones,
-  seis intervalos de luz visible y problema sin resolver. Se conservan cierre,
-  imágenes estáticas, enlace YouTube, referencias locales Schaum como texto,
-  variación U/W, εo=8.89·10⁻¹² y «Pointing» del original.
-- El nombre2017/carpeta2019 difiere de fecha impresa22/06/2018 y queda registrado.
-- Total245apuntes/2642expresiones. Las232notas anteriores/2529expresiones
-  están comprobadas en GitHub. El problema exclusivo PPTX124 se verificó en
+- Fuente125 completa:44páginas cotejadas, trece notas,113expresiones, diecisiete
+  figuras originales (una reiterada). Incluye demostraciones, seis intervalos de
+  luz visible y problema sin resolver. Se conservan cierre, imágenes estáticas,
+  enlace YouTube, referencias locales Schaum como texto, variación U/W,
+  εo=8.89·10⁻¹² y «Pointing» del original.
+- El nombre2017/carpeta2019 difiere de fecha impresa22/06/2018 y queda
+  registrado.
+- Total245apuntes/2642expresiones. Las232notas anteriores/2529expresiones están
+  comprobadas en GitHub. El problema exclusivo PPTX124 se verificó en
   967d77d:1/1expresión y figura cargada, sin error MathJax.
 - Maxwell requiere publicación y comprobación en GitHub. Caché persistente
   ~/.cache/fisica-ii-transcripcion/20261021-maxwell.
-- PR #2 permanece borrador. Materia incompleta:seguir versiones2019 y fuentes
-  de óptica, termodinámica y demás pendientes; no declarar completas por nombre.
+- PR #2 permanece borrador. Materia incompleta:seguir versiones2019 y fuentes de
+  óptica, termodinámica y demás pendientes; no declarar completas por nombre.
 
 ## Checkpoint 91: Maxwell verificado en GitHub
 
-- Trece notas de fuente125 verificadas en5806892:113/113expresiones,
-  diecisiete figuras originales cargadas (dieciocho apariciones por repetición),
-  tabla de seis filas, sin errores MathJax ni comandos desconocidos.
+- Trece notas de fuente125 verificadas en5806892:113/113expresiones, diecisiete
+  figuras originales cargadas (dieciocho apariciones por repetición), tabla de
+  seis filas, sin errores MathJax ni comandos desconocidos.
 - Las245notas/2642expresiones registradas están verificadas en GitHub.
 - Main conserva la entrega parcial del PR #1 (9bbc536). La continuación de
-  veintisiete notas está publicada en PR #2 borrador; no se declara completa
-  la materia ni se fusiona esta nueva entrega sin indicación.
+  veintisiete notas está publicada en PR #2 borrador; no se declara completa la
+  materia ni se fusiona esta nueva entrega sin indicación.
 - Próximo:fuentes126–140, versiones2019 de corriente alterna/Maxwell y demás
-  pendientes del inventario. Fuentes117–121 siguen pendientes de cotejo completo.
+  pendientes del inventario. Fuentes117–121 siguen pendientes de cotejo
+  completo.
 
 ## Checkpoint 92: versión2019 de corriente alterna
 
@@ -1804,37 +1854,38 @@ verificadas también por sus tablas.
   23figuras y tabla de3filas. Se conservan coseno/proyección horizontal,
   introducción, bibliografía, filtros, explicaciones de potencia y corrección
   del factor. Las páginas44–45 rasterizadas se cotejaron con123p29/p34 y se
-  registraron como procedencia adicional, sin duplicar notas ni corregir erratas.
-- Se conservaron desfases/gráficos con distinto origen temporal, paréntesis
-  sin cerrar, ω_d y εm/im en resonancia. Sin fecha de clase impresa verificable.
-- Total258notas/2743expresiones; las245anteriores/2642ya están verificadas
-  en GitHub. Las trece de esta versión requieren publicación y revisión.
-- Caché persistente ~/.cache/fisica-ii-transcripcion/20261021-corriente-alterna-2019.
+  registraron como procedencia adicional, sin duplicar notas ni corregir
+  erratas.
+- Se conservaron desfases/gráficos con distinto origen temporal, paréntesis sin
+  cerrar, ω_d y εm/im en resonancia. Sin fecha de clase impresa verificable.
+- Total258notas/2743expresiones; las245anteriores/2642ya están verificadas en
+  GitHub. Las trece de esta versión requieren publicación y revisión.
+- Caché persistente
+  ~/.cache/fisica-ii-transcripcion/20261021-corriente-alterna-2019.
 - Próximo:verificar lote130 publicado, luego versión131deMaxwell22páginas.
 
 ## Checkpoint 93: corriente alterna2019 verificada
 
-- Las trece notas de130 se verificaron en10e833a:101/101expresiones,
-  23figuras cargadas (24apariciones por reiteración de fasores) y tabla3filas,
-  sin errores MathJax ni comandos residuales. Las258notas/2743expresiones
-  están comprobadas en GitHub.
+- Las trece notas de130 se verificaron en10e833a:101/101expresiones, 23figuras
+  cargadas (24apariciones por reiteración de fasores) y tabla3filas, sin errores
+  MathJax ni comandos residuales. Las258notas/2743expresiones están comprobadas
+  en GitHub.
 - Siguiente activo:fuente131, Maxwell2019,22páginas. Preflight y extracción
   iniciados en ~/.cache/fisica-ii-transcripcion/20261021-maxwell-2019.
 - Los números del checkpoint consolidado de245notas son históricos; este
   checkpoint actualiza a258 (143teoría/115práctica;113de2015/145de2019).
 
-
 ## Checkpoint 94: Maxwell2019 cotejado completo
 
-- Fuente131:22hojas/43diapositivas equivalentes a fuente125páginas2–44.
-  Texto de1–21coincide tras quitar espacios/cabeceras/pies; todas las páginas,
+- Fuente131:22hojas/43diapositivas equivalentes a fuente125páginas2–44. Texto
+  de1–21coincide tras quitar espacios/cabeceras/pies; todas las páginas,
   fórmulas y figuras cotejadas. La22contiene cierre rasterizado, inferior vacío.
 - Fecha12/06/2019, distinta de22/06/2018 en125. Mapeo durable en
   resources/common/imposiciones.json y procedencia adicional en las trece notas.
   No se declara identidad binaria/render ni se duplican apuntes.
 - Total258notas/2743expresiones verificadas. CI de10e833a aprobado.
-- Próximo:127Fotometría32páginas, duplicado exacto132; luego resto de óptica
-  y termodinámica. Checkpoint vigente superior actualizado con estado y rutas.
+- Próximo:127Fotometría32páginas, duplicado exacto132; luego resto de óptica y
+  termodinámica. Checkpoint vigente superior actualizado con estado y rutas.
 
 ## Checkpoint 95: Fotometría completa, versión2018/2019
 
@@ -1860,15 +1911,15 @@ verificadas también por sus tablas.
 
 ## Checkpoint 97 — Interferencias transcrita, render pendiente
 
-- Fuente134 completa:42diapositivas,13notas (12teoría/1práctica),
-  100expresiones y32medios (30PNG y2GIF originales). Tres ejercicios sin resolver.
-- Comparación MarkItDown/Poppler y cotejo visual de todas las diapositivas;
-  las fórmulas WMF se transcribieron con las erratas originales señaladas.
-- Se incluyen las siete diapositivas posteriores al «Fin tema12», repetición
-  de películas con2nt y figuras de Michelson/Fresnel. Recorte de artículo12
+- Fuente134 completa:42diapositivas,13notas (12teoría/1práctica), 100expresiones
+  y32medios (30PNG y2GIF originales). Tres ejercicios sin resolver.
+- Comparación MarkItDown/Poppler y cotejo visual de todas las diapositivas; las
+  fórmulas WMF se transcribieron con las erratas originales señaladas.
+- Se incluyen las siete diapositivas posteriores al «Fin tema12», repetición de
+  películas con2nt y figuras de Michelson/Fresnel. Recorte de artículo12
   transcrito hasta el texto legible; parte inferior truncada en la fuente.
-- Las dos animaciones están asociadas por descripción y relación XML;
-  sin texto adicional del presentador. OriginalSHAverificado en la copia.
+- Las dos animaciones están asociadas por descripción y relación XML; sin texto
+  adicional del presentador. OriginalSHAverificado en la copia.
 - Caché20261021-interferencias: normalizado/PPTX/PDF, directo/PDF,42renders,
   texto.txt, extraido.md ynotas-paginas.json. El generador inicial requirió
   reparaciones posteriores: NOvolveraejecutarlo sobre notas verificadas.
@@ -1877,16 +1928,17 @@ verificadas también por sus tablas.
 
 ## Checkpoint 98 — Interferencias verificada y subida
 
-- Evidencia599f068:100/100expresiones, todas las imágenes/GIF cargadas,
-  cero errores MathJax ni comandos residuales. CI39580366889aprobado.
+- Evidencia599f068:100/100expresiones, todas las imágenes/GIF cargadas, cero
+  errores MathJax ni comandos residuales. CI39580366889aprobado.
 - Registros completos por nota y fuente;282notas/2889expresiones en total.
 - Corrección del conteo preliminar97: son100expresiones, no102.
-- Próximo135Difracción: preflight y copia persistente listos, transcripción pendiente.
+- Próximo135Difracción: preflight y copia persistente listos, transcripción
+  pendiente.
 
 ## Checkpoint 99 — Difracción transcrita
 
-- Fuente135:20diapositivas completas, cinco notas de teoría,31expresiones,
-  15PNG y1GIF incrustado. Se conservan cierre18y material19–20.
+- Fuente135:20diapositivas completas, cinco notas de teoría,31expresiones, 15PNG
+  y1GIF incrustado. Se conservan cierre18y material19–20.
 - Extracción MarkItDown/Poppler, todas las páginas cotejadas, sin notas del
   presentador. Formato, lint, KaTeX y enlaces aprobados (seis archivos).
 - Total287notas/2920expresiones; render de las cinco nuevas pendiente.
@@ -1904,9 +1956,11 @@ verificadas también por sus tablas.
 - Fuente126:26diapositivas completas, trece notas(12teoría/1práctica),
   18expresiones y25medios (20PNG y5GIF incrustados). Ejemplo sin resolver.
 - Todas las diapositivas cotejadas con PDF yPoppler; deducción de la elipse
-  completa con raíz positiva original, Malus con notaciones divergentes señaladas.
+  completa con raíz positiva original, Malus con notaciones divergentes
+  señaladas.
 - Formato, lint, KaTeX y enlaces aprobados. Render de las trece notas pendiente.
-- Total300notas/2938expresiones. Próximo:verificar GitHub, luego128Termodinámica.
+- Total300notas/2938expresiones. Próximo:verificar GitHub,
+  luego128Termodinámica.
 
 ## Checkpoint 102 — Polarización verificada
 
@@ -1930,8 +1984,8 @@ verificadas también por sus tablas.
 
 ## Checkpoint 104 — Introducción a Termodinámica verificada
 
-- 190f6d6:91/91expresiones,24figuras cargadas yseis tablas3/4/6/4/8/11filas.
-  Sin errores MathJax ni comandos residuales. CI39583115054aprobado.
+- 190f6d6:91/91expresiones,24figuras cargadas yseis tablas3/4/6/4/8/11filas. Sin
+  errores MathJax ni comandos residuales. CI39583115054aprobado.
 - Total317notas/3029expresiones verificadas. PR2sigue en borrador.
 - Próximo129Principios:36páginas,1–21cotejadas visualmente;22–36pendientes.
 
@@ -1941,15 +1995,16 @@ verificadas también por sus tablas.
   y22figuras. Cuatro páginas gráficas, ejemplos resueltos ycierres conservados.
 - Entropía solo anunciada en el programa; no hay desarrollo en esta fuente.
 - Cotejo visual de todas las páginas, Poppler yPyMuPDF4LLM; caché persistente
-  20261021-termodinamica-principios con originales,36renders ynotas-paginas.json.
+  20261021-termodinamica-principios con originales,36renders
+  ynotas-paginas.json.
 - Total330notas/3063expresiones; lote129pendiente GitHub.
 - Próximo:verificar render yseguir inventario136–143/imposiciones117–121
   yrestantes2015, sin declarar completa la materia.
 
 ## Checkpoint 106 — Principios de Termodinámica verificados
 
-- bf59b38:34/34expresiones,22figuras cargadas ytabla de una fila.
-  Sin errores MathJax ni comandos residuales. CI39584059603aprobado.
+- bf59b38:34/34expresiones,22figuras cargadas ytabla de una fila. Sin errores
+  MathJax ni comandos residuales. CI39584059603aprobado.
 - Total330notas/3063expresiones verificadas. PR2sigue en borrador.
 - Próximo136Hoja de Fórmulas2019:dos páginas cotejadas, sin transcripción aún.
 
@@ -1967,19 +2022,21 @@ verificadas también por sus tablas.
 ## Checkpoint 108 — Hoja de Fórmulas verificada
 
 - Primera página f0b2ec9:39expresiones,16filas de3celdas,cuatro diagramas y
-  cuatro operadores∯renderizados; segunda c687a05:60expresiones,18filas.
-  Sin errores MathJax ni comandos residuales.
-- Se detectaron yrepararon barras de módulo que habían truncado tres filas:
-  usar lvert/rvert en tablas, nunca barrasASCII. Conteo definitivo99,no89.
+  cuatro operadores∯renderizados; segunda c687a05:60expresiones,18filas. Sin
+  errores MathJax ni comandos residuales.
+- Se detectaron yrepararon barras de módulo que habían truncado tres filas: usar
+  lvert/rvert en tablas, nunca barrasASCII. Conteo definitivo99,no89.
 - Total332notas/3162expresiones verificadas. Próximo138DOCXArduino.
-- Estado deCI delcommit de reparación consultar en vivo; anteriorc687a05aprobado.
+- Estado deCI delcommit de reparación consultar en vivo;
+  anteriorc687a05aprobado.
 
 ## Checkpoint 109 — Propuesta DOCX de calorimetría transcrita
 
-- Fuente138completa:cuatro páginas delPDFLibreOffice,una nota,16expresiones,
-  sin medios. Pandoc/XML/PDF cotejados,doble numeración ytachadura conservadas.
+- Fuente138completa:cuatro páginas delPDFLibreOffice,una nota,16expresiones, sin
+  medios. Pandoc/XML/PDF cotejados,doble numeración ytachadura conservadas.
 - Propuesta sin resultados añadidos; se preservan signos ydespejes originales.
-- Caché20261021-arduino-calorimetria:original,Pandoc,PDFnormalizado,cuatro renders.
+- Caché20261021-arduino-calorimetria:original,Pandoc,PDFnormalizado,cuatro
+  renders.
 - Total333notas/3178expresiones; nota138pendiente GitHub.
 - Próximo:verificar la nota yseguir variantes139/140PPTX de laboratorio.
 
@@ -1994,27 +2051,31 @@ verificadas también por sus tablas.
 
 - 0718d0b: primeras entregas Arduino139/140, dos notas,10math y13medios.
 - 694f299: final142,16preguntas,19math y9figuras.
-- a624ce8: final141,20preguntas,23math y13figuras, incluida tabla original anillo.
+- a624ce8: final141,20preguntas,23math y13figuras, incluida tabla original
+  anillo.
 - 6806d7f: enlaces76,una nota,3pnormalizadas,sin math o medios.
 - 3ed1729: multímetro67,una nota,19diapositivas y17medios.
 - Todos esos commits conCIaprobado. Seis notas nuevas/52math/52medios.
 - Render GitHub de las seis sigue pendiente por falta de navegador CUA.
 - Inventario actualizado a copias persistentes, PR2 sigue borrador.
-- PR abiertos enapuntes-frre: FísicaII#2 y.github#13(correlativas); ninguna otra materia.
+- PR abiertos enapuntes-frre: FísicaII#2 y.github#13(correlativas); ninguna otra
+  materia.
 - 137: extracción persistente preparada; no cotejo total todavía.
 
 ## Checkpoint 112: planificación completa de 2019
 
 - Fuente137: 31p cotejadas completas; nueve notas, cero math, dos encabezados.
-- 24fragmentos HTML conservan rowspan/colspan/celdas vacías. Doce tablas lógicas:
-  dos horarios, competencias, metodología, cinco cronogramas, dos bibliografías
-  y propuesta semanal. Competencias y bibliografía continúan entre páginas.
+- 24fragmentos HTML conservan rowspan/colspan/celdas vacías. Doce tablas
+  lógicas: dos horarios, competencias, metodología, cinco cronogramas, dos
+  bibliografías y propuesta semanal. Competencias y bibliografía continúan entre
+  páginas.
 - Texto auditado contra Poppler: sin omisiones léxicas; ligaduras «fnales»
   reparadas visualmente a «finales»; restaurada nota al pie1.
-- Se mantienen encabezado2018 con fechas2019, campos vacíos, marcador4 sin
-  nota desarrollada, lista L3 vacía y repetición del integrador.
+- Se mantienen encabezado2018 con fechas2019, campos vacíos, marcador4 sin nota
+  desarrollada, lista L3 vacía y repetición del integrador.
 - Totales348notas/3230math; quince notas pendientes del render GitHub por falta
-  de navegador. Restan source143, imposiciones117–121, informes61–65 y checklist.
+  de navegador. Restan source143, imposiciones117–121, informes61–65 y
+  checklist.
 
 ## Checkpoint 113: primer bloque del parcial compilado de 2020
 

@@ -3491,9 +3491,9 @@
       ],
       "paginacion": "PDF normalizado desde DOCX; depende del renderizador",
       "math_esperada": 9,
-      "math_renderizada_github": null,
-      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/ecuacion-de-laplace-laboratorio-2.md",
-      "estado": "etiquetas conservadas como texto para evitar apilamiento MathML; pendiente nueva revisión GitHub"
+      "math_renderizada_github": 9,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/70a01b4c22af84c843aec871c6630275c718c82d/notes/2015/practica/ecuacion-de-laplace-laboratorio-2.md",
+      "estado": "2026-10-23: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas y muestra visual cotejada. Etiquetas de Laplace legibles como texto separado."
     },
     {
       "original": "2015/TRABAJO DE LABORATORIO Nº 9 BIS_ Ley de faraday.pdf",
@@ -8584,8 +8584,9 @@
       ],
       "paginacion": "PDF original; sectores delimitados por encabezados",
       "math_esperada": 4,
-      "math_renderizada_github": null,
-      "estado": "cotejo visual local; pendiente GitHub"
+      "math_renderizada_github": 4,
+      "estado": "2026-10-23: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas y muestra visual cotejada.",
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/70a01b4c22af84c843aec871c6630275c718c82d/notes/2015/teoria/resumen-fuerza-magnetica-carga.md"
     },
     {
       "original": "2015/Resumen-Fisca-2.pdf",
@@ -8597,8 +8598,9 @@
       ],
       "paginacion": "PDF original; sectores delimitados por encabezados",
       "math_esperada": 6,
-      "math_renderizada_github": null,
-      "estado": "cotejo visual local; pendiente GitHub"
+      "math_renderizada_github": 6,
+      "estado": "2026-10-23: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas y muestra visual cotejada.",
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/70a01b4c22af84c843aec871c6630275c718c82d/notes/2015/teoria/resumen-movimiento-carga-campo-magnetico.md"
     },
     {
       "original": "2015/Resumen-Fisca-2.pdf",
@@ -8610,8 +8612,9 @@
       ],
       "paginacion": "PDF original; sectores delimitados por encabezados",
       "math_esperada": 8,
-      "math_renderizada_github": null,
-      "estado": "cotejo visual local; pendiente GitHub"
+      "math_renderizada_github": 8,
+      "estado": "2026-10-23: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas y muestra visual cotejada.",
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/70a01b4c22af84c843aec871c6630275c718c82d/notes/2015/teoria/resumen-selector-espectrometro-ciclotron.md"
     },
     {
       "original": "2015/Resumen-Fisca-2.pdf",
@@ -8622,8 +8625,9 @@
       ],
       "paginacion": "PDF original; sectores delimitados por encabezados",
       "math_esperada": 7,
-      "math_renderizada_github": null,
-      "estado": "cotejo visual local; pendiente GitHub"
+      "math_renderizada_github": 7,
+      "estado": "2026-10-23: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas y muestra visual cotejada.",
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/70a01b4c22af84c843aec871c6630275c718c82d/notes/2015/teoria/resumen-fuerza-magnetica-conductor.md"
     },
     {
       "original": "2015/Resumen-Fisca-2.pdf",
@@ -8634,8 +8638,9 @@
       ],
       "paginacion": "PDF original; sectores delimitados por encabezados",
       "math_esperada": 14,
-      "math_renderizada_github": null,
-      "estado": "cotejo visual local; pendiente GitHub"
+      "math_renderizada_github": 14,
+      "estado": "2026-10-23: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas y muestra visual cotejada.",
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/70a01b4c22af84c843aec871c6630275c718c82d/notes/2015/teoria/resumen-momento-circuito-plano.md"
     },
     {
       "original": "2015/Resumen-Fisca-2.pdf",
@@ -8646,8 +8651,9 @@
       ],
       "paginacion": "PDF original; sectores delimitados por encabezados",
       "math_esperada": 11,
-      "math_renderizada_github": null,
-      "estado": "cotejo visual local; pendiente GitHub"
+      "math_renderizada_github": 11,
+      "estado": "2026-10-23: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas y muestra visual cotejada.",
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/70a01b4c22af84c843aec871c6630275c718c82d/notes/2015/teoria/resumen-efecto-hall.md"
     },
     {
       "original": "2015/Resumen-Fisca-2.pdf",
@@ -8658,8 +8664,9 @@
       ],
       "paginacion": "PDF original; sectores delimitados por encabezados",
       "math_esperada": 5,
-      "math_renderizada_github": null,
-      "estado": "cotejo visual local; pendiente GitHub"
+      "math_renderizada_github": 5,
+      "estado": "2026-10-23: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas y muestra visual cotejada.",
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/70a01b4c22af84c843aec871c6630275c718c82d/notes/2015/teoria/resumen-biot-savart.md"
     },
     {
       "original": "2015/Resumen-Fisca-2.pdf",
@@ -8671,8 +8678,9 @@
       ],
       "paginacion": "PDF original; sectores delimitados por encabezados",
       "math_esperada": 4,
-      "math_renderizada_github": null,
-      "estado": "cotejo visual local; pendiente GitHub"
+      "math_renderizada_github": 4,
+      "estado": "2026-10-23: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas y muestra visual cotejada.",
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/70a01b4c22af84c843aec871c6630275c718c82d/notes/2015/teoria/resumen-conductores-paralelos.md"
     },
     {
       "original": "2015/Resumen-Fisca-2.pdf",
@@ -8684,8 +8692,9 @@
       ],
       "paginacion": "PDF original; sectores delimitados por encabezados",
       "math_esperada": 16,
-      "math_renderizada_github": null,
-      "estado": "cotejo visual local; pendiente GitHub"
+      "math_renderizada_github": 16,
+      "estado": "2026-10-23: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas y muestra visual cotejada.",
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/70a01b4c22af84c843aec871c6630275c718c82d/notes/2015/teoria/resumen-ampere-gauss-magnetismo.md"
     },
     {
       "original": "2015/Resumen-Fisca-2.pdf",
@@ -8696,8 +8705,9 @@
       ],
       "paginacion": "PDF original; sectores delimitados por encabezados",
       "math_esperada": 5,
-      "math_renderizada_github": null,
-      "estado": "cotejo visual local; pendiente GitHub"
+      "math_renderizada_github": 5,
+      "estado": "2026-10-23: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas y muestra visual cotejada.",
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/70a01b4c22af84c843aec871c6630275c718c82d/notes/2015/teoria/resumen-solenoide-toroide.md"
     },
     {
       "original": "2015/Resumen-Fisca-2.pdf",
@@ -8709,8 +8719,9 @@
       ],
       "paginacion": "PDF original; sectores delimitados por encabezados",
       "math_esperada": 4,
-      "math_renderizada_github": null,
-      "estado": "cotejo visual local; pendiente GitHub"
+      "math_renderizada_github": 4,
+      "estado": "2026-10-23: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas y muestra visual cotejada.",
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/70a01b4c22af84c843aec871c6630275c718c82d/notes/2015/teoria/resumen-faraday-lenz.md"
     },
     {
       "original": "2015/Resumen-Fisca-2.pdf",
@@ -8721,8 +8732,9 @@
       ],
       "paginacion": "PDF original; sectores delimitados por encabezados",
       "math_esperada": 5,
-      "math_renderizada_github": null,
-      "estado": "cotejo visual local; pendiente GitHub"
+      "math_renderizada_github": 5,
+      "estado": "2026-10-23: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas y muestra visual cotejada.",
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/70a01b4c22af84c843aec871c6630275c718c82d/notes/2015/teoria/resumen-faraday-generalizacion.md"
     },
     {
       "original": "2015/Resumen-Fisca-2.pdf",
@@ -8734,8 +8746,9 @@
       ],
       "paginacion": "PDF original; sectores delimitados por encabezados",
       "math_esperada": 3,
-      "math_renderizada_github": null,
-      "estado": "cotejo visual local; pendiente GitHub"
+      "math_renderizada_github": 3,
+      "estado": "2026-10-23: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas y muestra visual cotejada.",
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/70a01b4c22af84c843aec871c6630275c718c82d/notes/2015/teoria/resumen-generadores-motores.md"
     },
     {
       "original": "2015/Resumen-Fisca-2.pdf",
@@ -8747,8 +8760,9 @@
       ],
       "paginacion": "PDF original; sectores delimitados por encabezados",
       "math_esperada": 6,
-      "math_renderizada_github": null,
-      "estado": "cotejo visual local; pendiente GitHub"
+      "math_renderizada_github": 6,
+      "estado": "2026-10-23: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas y muestra visual cotejada.",
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/70a01b4c22af84c843aec871c6630275c718c82d/notes/2015/teoria/resumen-autoinduccion.md"
     },
     {
       "original": "2015/Resumen-Fisca-2.pdf",
@@ -8760,8 +8774,9 @@
       ],
       "paginacion": "PDF original; sectores delimitados por encabezados",
       "math_esperada": 11,
-      "math_renderizada_github": null,
-      "estado": "cotejo visual local; pendiente GitHub"
+      "math_renderizada_github": 11,
+      "estado": "2026-10-23: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas y muestra visual cotejada.",
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/70a01b4c22af84c843aec871c6630275c718c82d/notes/2015/teoria/resumen-asociacion-inductancias.md"
     },
     {
       "original": "2015/Resumen-Fisca-2.pdf",
@@ -8773,8 +8788,9 @@
       ],
       "paginacion": "PDF original; sectores delimitados por encabezados",
       "math_esperada": 15,
-      "math_renderizada_github": null,
-      "estado": "cotejo visual local; pendiente GitHub"
+      "math_renderizada_github": 15,
+      "estado": "2026-10-23: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas y muestra visual cotejada.",
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/70a01b4c22af84c843aec871c6630275c718c82d/notes/2015/teoria/resumen-circuito-lr.md"
     },
     {
       "original": "2015/Resumen-Fisca-2.pdf",
@@ -8786,8 +8802,9 @@
       ],
       "paginacion": "PDF original; sectores delimitados por encabezados",
       "math_esperada": 13,
-      "math_renderizada_github": null,
-      "estado": "cotejo visual local; pendiente GitHub"
+      "math_renderizada_github": 13,
+      "estado": "2026-10-23: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas y muestra visual cotejada.",
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/70a01b4c22af84c843aec871c6630275c718c82d/notes/2015/teoria/resumen-energia-inductor.md"
     },
     {
       "original": "2015/Resumen-Fisca-2.pdf",
@@ -8799,8 +8816,9 @@
       ],
       "paginacion": "PDF original; sectores delimitados por encabezados",
       "math_esperada": 16,
-      "math_renderizada_github": null,
-      "estado": "cotejo visual local; pendiente GitHub"
+      "math_renderizada_github": 16,
+      "estado": "2026-10-23: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas y muestra visual cotejada.",
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/70a01b4c22af84c843aec871c6630275c718c82d/notes/2015/teoria/resumen-magnetizacion-materia.md"
     },
     {
       "original": "2015/Resumen-Fisca-2.pdf",
@@ -8811,8 +8829,9 @@
       ],
       "paginacion": "PDF original; sectores delimitados por encabezados",
       "math_esperada": 14,
-      "math_renderizada_github": null,
-      "estado": "cotejo visual local; pendiente GitHub"
+      "math_renderizada_github": 14,
+      "estado": "2026-10-23: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas y muestra visual cotejada.",
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/70a01b4c22af84c843aec871c6630275c718c82d/notes/2015/teoria/resumen-permeabilidad-susceptibilidad.md"
     },
     {
       "original": "2015/Resumen-Fisca-2.pdf",
@@ -8825,8 +8844,9 @@
       ],
       "paginacion": "PDF original; sectores delimitados por encabezados",
       "math_esperada": 1,
-      "math_renderizada_github": null,
-      "estado": "cotejo visual local; pendiente GitHub"
+      "math_renderizada_github": 1,
+      "estado": "2026-10-23: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas y muestra visual cotejada.",
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/70a01b4c22af84c843aec871c6630275c718c82d/notes/2015/teoria/resumen-materiales-magneticos.md"
     },
     {
       "original": "2015/Resumen-Fisca-2.pdf",
@@ -8838,8 +8858,9 @@
       ],
       "paginacion": "PDF original; sectores delimitados por encabezados",
       "math_esperada": 8,
-      "math_renderizada_github": null,
-      "estado": "cotejo visual local; pendiente GitHub"
+      "math_renderizada_github": 8,
+      "estado": "2026-10-23: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas y muestra visual cotejada.",
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/70a01b4c22af84c843aec871c6630275c718c82d/notes/2015/teoria/resumen-ca-resistencia.md"
     },
     {
       "original": "2015/Resumen-Fisca-2.pdf",
@@ -8850,8 +8871,9 @@
       ],
       "paginacion": "PDF original; sectores delimitados por encabezados",
       "math_esperada": 17,
-      "math_renderizada_github": null,
-      "estado": "cotejo visual local; pendiente GitHub"
+      "math_renderizada_github": 17,
+      "estado": "2026-10-23: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas y muestra visual cotejada.",
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/70a01b4c22af84c843aec871c6630275c718c82d/notes/2015/teoria/resumen-ca-inductor.md"
     },
     {
       "original": "2015/Resumen-Fisca-2.pdf",
@@ -8862,8 +8884,9 @@
       ],
       "paginacion": "PDF original; sectores delimitados por encabezados",
       "math_esperada": 13,
-      "math_renderizada_github": null,
-      "estado": "cotejo visual local; pendiente GitHub"
+      "math_renderizada_github": 13,
+      "estado": "2026-10-23: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas y muestra visual cotejada.",
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/70a01b4c22af84c843aec871c6630275c718c82d/notes/2015/teoria/resumen-ca-capacitor.md"
     },
     {
       "original": "2015/Resumen-Fisca-2.pdf",
@@ -8875,8 +8898,9 @@
       ],
       "paginacion": "PDF original; sectores delimitados por encabezados",
       "math_esperada": 5,
-      "math_renderizada_github": null,
-      "estado": "cotejo visual local; pendiente GitHub"
+      "math_renderizada_github": 5,
+      "estado": "2026-10-23: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas y muestra visual cotejada.",
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/70a01b4c22af84c843aec871c6630275c718c82d/notes/2015/teoria/resumen-valor-eficaz.md"
     },
     {
       "original": "2015/Resumen-Fisca-2.pdf",
@@ -8888,8 +8912,9 @@
       ],
       "paginacion": "PDF original; sectores delimitados por encabezados",
       "math_esperada": 14,
-      "math_renderizada_github": null,
-      "estado": "cotejo visual local; pendiente GitHub"
+      "math_renderizada_github": 14,
+      "estado": "2026-10-23: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas y muestra visual cotejada.",
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/70a01b4c22af84c843aec871c6630275c718c82d/notes/2015/teoria/resumen-rlc-serie.md"
     },
     {
       "original": "2015/Resumen-Fisca-2.pdf",
@@ -8901,8 +8926,9 @@
       ],
       "paginacion": "PDF original; sectores delimitados por encabezados",
       "math_esperada": 26,
-      "math_renderizada_github": null,
-      "estado": "cotejo visual local; pendiente GitHub"
+      "math_renderizada_github": 26,
+      "estado": "2026-10-23: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas y muestra visual cotejada.",
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/70a01b4c22af84c843aec871c6630275c718c82d/notes/2015/teoria/resumen-rlc-plano-complejo.md"
     },
     {
       "original": "2015/Resumen-Fisca-2.pdf",
@@ -8914,8 +8940,9 @@
       ],
       "paginacion": "PDF original; sectores delimitados por encabezados",
       "math_esperada": 7,
-      "math_renderizada_github": null,
-      "estado": "cotejo visual local; pendiente GitHub"
+      "math_renderizada_github": 7,
+      "estado": "2026-10-23: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas y muestra visual cotejada.",
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/70a01b4c22af84c843aec871c6630275c718c82d/notes/2015/teoria/resumen-resonancia.md"
     },
     {
       "original": "2015/Resumen-Fisca-2.pdf",
@@ -8926,8 +8953,9 @@
       ],
       "paginacion": "PDF original; sectores delimitados por encabezados",
       "math_esperada": 6,
-      "math_renderizada_github": null,
-      "estado": "cotejo visual local; pendiente GitHub"
+      "math_renderizada_github": 6,
+      "estado": "2026-10-23: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas y muestra visual cotejada.",
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/70a01b4c22af84c843aec871c6630275c718c82d/notes/2015/teoria/resumen-potencia-activa-reactiva.md"
     },
     {
       "original": "2015/Resumen-Fisca-2.pdf",
@@ -8938,8 +8966,9 @@
       ],
       "paginacion": "PDF original; sectores delimitados por encabezados",
       "math_esperada": 13,
-      "math_renderizada_github": null,
-      "estado": "cotejo visual local; pendiente GitHub"
+      "math_renderizada_github": 13,
+      "estado": "2026-10-23: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas y muestra visual cotejada.",
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/70a01b4c22af84c843aec871c6630275c718c82d/notes/2015/teoria/resumen-corriente-desplazamiento.md"
     },
     {
       "original": "2015/Resumen-Fisca-2.pdf",
@@ -8951,8 +8980,9 @@
       ],
       "paginacion": "PDF original; sectores delimitados por encabezados",
       "math_esperada": 4,
-      "math_renderizada_github": null,
-      "estado": "cotejo visual local; pendiente GitHub"
+      "math_renderizada_github": 4,
+      "estado": "2026-10-23: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas y muestra visual cotejada.",
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/70a01b4c22af84c843aec871c6630275c718c82d/notes/2015/teoria/resumen-ecuaciones-maxwell.md"
     },
     {
       "original": "2015/Resumen-Fisca-2.pdf",
@@ -8965,8 +8995,9 @@
       ],
       "paginacion": "PDF original; sectores delimitados por encabezados",
       "math_esperada": 28,
-      "math_renderizada_github": null,
-      "estado": "cotejo visual local; pendiente GitHub"
+      "math_renderizada_github": 28,
+      "estado": "2026-10-23: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas y muestra visual cotejada.",
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/70a01b4c22af84c843aec871c6630275c718c82d/notes/2015/teoria/resumen-onda-electromagnetica.md"
     },
     {
       "original": "2015/Resumen-Fisca-2.pdf",
@@ -8978,8 +9009,9 @@
       ],
       "paginacion": "PDF original; sectores delimitados por encabezados",
       "math_esperada": 14,
-      "math_renderizada_github": null,
-      "estado": "cotejo visual local; pendiente GitHub"
+      "math_renderizada_github": 14,
+      "estado": "2026-10-23: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas y muestra visual cotejada.",
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/70a01b4c22af84c843aec871c6630275c718c82d/notes/2015/teoria/resumen-poynting-energia.md"
     },
     {
       "original": "2015/Resumen-Fisca-2.pdf",
@@ -8991,8 +9023,9 @@
       ],
       "paginacion": "PDF original; sectores delimitados por encabezados",
       "math_esperada": 5,
-      "math_renderizada_github": null,
-      "estado": "cotejo visual local; pendiente GitHub"
+      "math_renderizada_github": 5,
+      "estado": "2026-10-23: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas y muestra visual cotejada.",
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/70a01b4c22af84c843aec871c6630275c718c82d/notes/2015/teoria/resumen-fotometria-magnitudes.md"
     },
     {
       "original": "2015/Resumen-Fisca-2.pdf",
@@ -9004,8 +9037,9 @@
       ],
       "paginacion": "PDF original; sectores delimitados por encabezados",
       "math_esperada": 5,
-      "math_renderizada_github": null,
-      "estado": "cotejo visual local; pendiente GitHub"
+      "math_renderizada_github": 5,
+      "estado": "2026-10-23: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas y muestra visual cotejada.",
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/70a01b4c22af84c843aec871c6630275c718c82d/notes/2015/teoria/resumen-iluminacion-distancia-coseno.md"
     },
     {
       "original": "2015/Resumen-Fisca-2.pdf",
@@ -9016,8 +9050,9 @@
       ],
       "paginacion": "PDF original; sectores delimitados por encabezados",
       "math_esperada": 0,
-      "math_renderizada_github": null,
-      "estado": "cotejo visual local; pendiente GitHub"
+      "math_renderizada_github": 0,
+      "estado": "2026-10-23: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas y muestra visual cotejada.",
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/70a01b4c22af84c843aec871c6630275c718c82d/notes/2015/teoria/resumen-espectrofotometros.md"
     },
     {
       "original": "2015/Resumen-Fisca-2.pdf",
@@ -9029,8 +9064,9 @@
       ],
       "paginacion": "PDF original; sectores delimitados por encabezados",
       "math_esperada": 11,
-      "math_renderizada_github": null,
-      "estado": "cotejo visual local; pendiente GitHub"
+      "math_renderizada_github": 11,
+      "estado": "2026-10-23: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas y muestra visual cotejada.",
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/70a01b4c22af84c843aec871c6630275c718c82d/notes/2015/teoria/resumen-interferencia-young.md"
     },
     {
       "original": "2015/Resumen-Fisca-2.pdf",
@@ -9042,8 +9078,9 @@
       ],
       "paginacion": "PDF original; sectores delimitados por encabezados",
       "math_esperada": 10,
-      "math_renderizada_github": null,
-      "estado": "cotejo visual local; pendiente GitHub"
+      "math_renderizada_github": 10,
+      "estado": "2026-10-23: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas y muestra visual cotejada.",
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/70a01b4c22af84c843aec871c6630275c718c82d/notes/2015/teoria/resumen-interferencia-intensidad.md"
     },
     {
       "original": "2015/Resumen-Fisca-2.pdf",
@@ -9054,8 +9091,9 @@
       ],
       "paginacion": "PDF original; sectores delimitados por encabezados",
       "math_esperada": 0,
-      "math_renderizada_github": null,
-      "estado": "cotejo visual local; pendiente GitHub"
+      "math_renderizada_github": 0,
+      "estado": "2026-10-23: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas y muestra visual cotejada.",
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/70a01b4c22af84c843aec871c6630275c718c82d/notes/2015/teoria/resumen-michelson.md"
     },
     {
       "original": "2015/Resumen-Fisca-2.pdf",
@@ -9066,8 +9104,9 @@
       ],
       "paginacion": "PDF original; sectores delimitados por encabezados",
       "math_esperada": 4,
-      "math_renderizada_github": null,
-      "estado": "cotejo visual local; pendiente GitHub"
+      "math_renderizada_github": 4,
+      "estado": "2026-10-23: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas y muestra visual cotejada.",
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/70a01b4c22af84c843aec871c6630275c718c82d/notes/2015/teoria/resumen-pelicula-delgada.md"
     },
     {
       "original": "2015/Resumen-Fisca-2.pdf",
@@ -9079,8 +9118,9 @@
       ],
       "paginacion": "PDF original; sectores delimitados por encabezados",
       "math_esperada": 12,
-      "math_renderizada_github": null,
-      "estado": "cotejo visual local; pendiente GitHub"
+      "math_renderizada_github": 12,
+      "estado": "2026-10-23: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas y muestra visual cotejada.",
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/70a01b4c22af84c843aec871c6630275c718c82d/notes/2015/teoria/resumen-difraccion-huygens-intensidad.md"
     },
     {
       "original": "2015/Resumen-Fisca-2.pdf",
@@ -9093,8 +9133,9 @@
       ],
       "paginacion": "PDF original; sectores delimitados por encabezados",
       "math_esperada": 11,
-      "math_renderizada_github": null,
-      "estado": "cotejo visual local; pendiente GitHub"
+      "math_renderizada_github": 11,
+      "estado": "2026-10-23: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas y muestra visual cotejada.",
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/70a01b4c22af84c843aec871c6630275c718c82d/notes/2015/teoria/resumen-difraccion-aberturas-ranuras.md"
     },
     {
       "original": "2015/Resumen-Fisca-2.pdf",
@@ -9105,8 +9146,9 @@
       ],
       "paginacion": "PDF original; sectores delimitados por encabezados",
       "math_esperada": 4,
-      "math_renderizada_github": null,
-      "estado": "cotejo visual local; pendiente GitHub"
+      "math_renderizada_github": 4,
+      "estado": "2026-10-23: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas y muestra visual cotejada.",
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/70a01b4c22af84c843aec871c6630275c718c82d/notes/2015/teoria/resumen-red-difraccion-espectroscopia.md"
     },
     {
       "original": "2015/Resumen-Fisca-2.pdf",
@@ -9117,8 +9159,9 @@
       ],
       "paginacion": "PDF original; sectores delimitados por encabezados",
       "math_esperada": 1,
-      "math_renderizada_github": null,
-      "estado": "cotejo visual local; pendiente GitHub"
+      "math_renderizada_github": 1,
+      "estado": "2026-10-23: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas y muestra visual cotejada.",
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/70a01b4c22af84c843aec871c6630275c718c82d/notes/2015/teoria/resumen-polarizacion-tipos.md"
     },
     {
       "original": "2015/Resumen-Fisca-2.pdf",
@@ -9131,8 +9174,9 @@
       ],
       "paginacion": "PDF original; sectores delimitados por encabezados",
       "math_esperada": 5,
-      "math_renderizada_github": null,
-      "estado": "cotejo visual local; pendiente GitHub"
+      "math_renderizada_github": 5,
+      "estado": "2026-10-23: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas y muestra visual cotejada.",
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/70a01b4c22af84c843aec871c6630275c718c82d/notes/2015/teoria/resumen-polarizacion-metodos-malus.md"
     },
     {
       "original": "2015/Resumen-Fisca-2.pdf",
@@ -9144,8 +9188,9 @@
       ],
       "paginacion": "PDF original; sectores delimitados por encabezados",
       "math_esperada": 2,
-      "math_renderizada_github": null,
-      "estado": "cotejo visual local; pendiente GitHub"
+      "math_renderizada_github": 2,
+      "estado": "2026-10-23: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas y muestra visual cotejada.",
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/70a01b4c22af84c843aec871c6630275c718c82d/notes/2015/teoria/resumen-sistemas-termometria.md"
     },
     {
       "original": "2015/Resumen-Fisca-2.pdf",
@@ -9157,8 +9202,9 @@
       ],
       "paginacion": "PDF original; sectores delimitados por encabezados",
       "math_esperada": 3,
-      "math_renderizada_github": null,
-      "estado": "cotejo visual local; pendiente GitHub"
+      "math_renderizada_github": 3,
+      "estado": "2026-10-23: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas y muestra visual cotejada.",
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/70a01b4c22af84c843aec871c6630275c718c82d/notes/2015/teoria/resumen-gas-ideal.md"
     },
     {
       "original": "2015/Resumen-Fisca-2.pdf",
@@ -9169,8 +9215,9 @@
       ],
       "paginacion": "PDF original; sectores delimitados por encabezados",
       "math_esperada": 23,
-      "math_renderizada_github": null,
-      "estado": "cotejo visual local; pendiente GitHub"
+      "math_renderizada_github": 23,
+      "estado": "2026-10-23: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas y muestra visual cotejada.",
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/70a01b4c22af84c843aec871c6630275c718c82d/notes/2015/teoria/resumen-dilatacion-fatiga-termica.md"
     },
     {
       "original": "2015/Resumen-Fisca-2.pdf",
@@ -9182,8 +9229,9 @@
       ],
       "paginacion": "PDF original; sectores delimitados por encabezados",
       "math_esperada": 5,
-      "math_renderizada_github": null,
-      "estado": "cotejo visual local; pendiente GitHub"
+      "math_renderizada_github": 5,
+      "estado": "2026-10-23: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas y muestra visual cotejada.",
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/70a01b4c22af84c843aec871c6630275c718c82d/notes/2015/teoria/resumen-calor-capacidad.md"
     },
     {
       "original": "2015/Resumen-Fisca-2.pdf",
@@ -9194,8 +9242,9 @@
       ],
       "paginacion": "PDF original; sectores delimitados por encabezados",
       "math_esperada": 2,
-      "math_renderizada_github": null,
-      "estado": "cotejo visual local; pendiente GitHub"
+      "math_renderizada_github": 2,
+      "estado": "2026-10-23: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas y muestra visual cotejada.",
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/70a01b4c22af84c843aec871c6630275c718c82d/notes/2015/teoria/resumen-calor-latente.md"
     },
     {
       "original": "2015/Resumen-Fisca-2.pdf",
@@ -9206,8 +9255,9 @@
       ],
       "paginacion": "PDF original; sectores delimitados por encabezados",
       "math_esperada": 4,
-      "math_renderizada_github": null,
-      "estado": "cotejo visual local; pendiente GitHub"
+      "math_renderizada_github": 4,
+      "estado": "2026-10-23: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas y muestra visual cotejada.",
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/70a01b4c22af84c843aec871c6630275c718c82d/notes/2015/teoria/resumen-trabajo-trayectoria.md"
     },
     {
       "original": "2015/Resumen-Fisca-2.pdf",
@@ -9218,8 +9268,9 @@
       ],
       "paginacion": "PDF original; sectores delimitados por encabezados",
       "math_esperada": 10,
-      "math_renderizada_github": null,
-      "estado": "cotejo visual local; pendiente GitHub"
+      "math_renderizada_github": 10,
+      "estado": "2026-10-23: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas y muestra visual cotejada.",
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/70a01b4c22af84c843aec871c6630275c718c82d/notes/2015/teoria/resumen-primer-principio-transformaciones.md"
     },
     {
       "original": "2015/Resumen-Fisca-2.pdf",
@@ -9232,8 +9283,9 @@
       ],
       "paginacion": "PDF original; sectores delimitados por encabezados",
       "math_esperada": 8,
-      "math_renderizada_github": null,
-      "estado": "cotejo visual local; pendiente GitHub"
+      "math_renderizada_github": 8,
+      "estado": "2026-10-23: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas y muestra visual cotejada.",
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/70a01b4c22af84c843aec871c6630275c718c82d/notes/2015/teoria/resumen-segundo-principio-maquinas.md"
     },
     {
       "original": "2015/Resumen-Fisca-2.pdf",
@@ -9244,8 +9296,9 @@
       ],
       "paginacion": "PDF original; sectores delimitados por encabezados",
       "math_esperada": 10,
-      "math_renderizada_github": null,
-      "estado": "cotejo visual local; pendiente GitHub"
+      "math_renderizada_github": 10,
+      "estado": "2026-10-23: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas y muestra visual cotejada.",
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/70a01b4c22af84c843aec871c6630275c718c82d/notes/2015/teoria/resumen-carnot.md"
     },
     {
       "original": "2015/Resumen-Fisca-2.pdf",
@@ -9256,8 +9309,9 @@
       ],
       "paginacion": "PDF original; sectores delimitados por encabezados",
       "math_esperada": 4,
-      "math_renderizada_github": null,
-      "estado": "cotejo visual local; pendiente GitHub"
+      "math_renderizada_github": 4,
+      "estado": "2026-10-23: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas y muestra visual cotejada.",
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/70a01b4c22af84c843aec871c6630275c718c82d/notes/2015/teoria/resumen-entropia.md"
     }
   ]
 }
