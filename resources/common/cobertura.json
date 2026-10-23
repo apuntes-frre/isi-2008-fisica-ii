@@ -7456,11 +7456,22 @@
         8
       ],
       "paginacion": "PDF original,páginas7–8 completas; cargaC1,tabla20filas ydos gráficas",
-      "math_esperada": 15,
+      "math_esperada": 20,
       "math_renderizada_github": null,
       "url_github": null,
       "estado": "cotejado completo este bloque; pendiente render GitHub",
-      "fuentes_adicionales": []
+      "fuentes_adicionales": [
+        {
+          "original": "2015/L3 Capacidad G6 A corregir 2.docx",
+          "sha256": "a8e1063ebff8c151f9a7a2d6d5dcf798a13ef08c9282a61fdc5bd0985ab184ec",
+          "paginas_revisadas": [
+            8,
+            9
+          ],
+          "paginacion": "PDF normalizado LibreOffice de 15 páginas; carga C1 completa",
+          "estado": "tabla, expresiones y gráficas cotejadas; cinco expresiones variantes de unidad; rótulo dinámico identificado como representación de LibreOffice"
+        }
+      ]
     },
     {
       "original": "2015/L3 Capacidad G6 Aprobado.pdf",

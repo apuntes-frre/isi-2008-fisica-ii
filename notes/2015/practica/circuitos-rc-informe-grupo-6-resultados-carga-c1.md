@@ -109,3 +109,53 @@ m=-1/(R.C)\Rightarrow C=-1/(R.M)=-1/(39000*-0{,}1845)=1{,}38*10^{-3}\mathrm F
 
 [Anterior](circuitos-rc-informe-grupo-6-hoja-datos.md).
 [Siguiente](circuitos-rc-informe-grupo-6-resultados-descarga-c1.md).
+
+## Versión DOCX «A corregir 2»
+
+El original `2015/L3 Capacidad G6 A corregir 2.docx`, SHA-256
+`a8e1063ebff8c151f9a7a2d6d5dcf798a13ef08c9282a61fdc5bd0985ab184ec`, se cotejó en
+las páginas 8–9 del PDF normalizado con LibreOffice de 15 páginas. Esta
+paginación pertenece a la copia de revisión, no al DOCX.
+
+Coinciden las 20 filas y cuatro columnas de la tabla, incluidos los redondeos y
+los ceros finales, cotejadas también con la tabla nativa del DOCX. Coinciden
+fuente, capacidad, lectura de 41s, las dos lecturas 5,41 y 5,418, el valor
+teórico de 39s y el error relativo de 10,1%. El título «Proceso de Carga»
+aparece en negrita, cursiva y subrayado.
+
+El DOCX añade un símbolo de unidad en los lugares siguientes. El carácter
+almacenado es **ꭥ (U+AB65)**; se conserva literalmente aunque su apariencia en
+la conversión sea similar a Ω. Estas expresiones pertenecen a esta versión y no
+sustituyen las del PDF aprobado:
+
+```math
+R_t:39000\,\text{ꭥ}
+```
+
+```math
+T_T=R.C=39K\text{ꭥ}*1000\,\mu\mathrm F=39\,\mathrm s
+```
+
+```math
+C=T/R=41\mathrm s/(39000\text{ꭥ})=1{,}05*10^{-3}
+```
+
+```math
+\Delta C=\frac{\Delta T}R+\frac{T\,\Delta R}{R^2}=\frac{2\mathrm s}{39000\text{ꭥ}}+\frac{39\mathrm s\;1950\text{ꭥ}}{(39000\text{ꭥ})^2}=1{,}01.10^{-4}\mathrm F
+```
+
+```math
+m=-1/(R.C)\Rightarrow C=-1/(R.M)=-1/(39000\text{ꭥ}*-0{,}1845)=1{,}38*10^{-3}\mathrm F
+```
+
+Las dos gráficas son objetos nativos del DOCX. Se cotejaron sus datos XML: 20
+tiempos de 0 a 190 y 20 valores de carga en la primera; 20 logaritmos en la
+segunda, con categorías ordinales y ajuste lineal. Sus datos conservan más
+decimales que la tabla impresa. No se redondean ni recalculan las mediciones.
+
+El rótulo del ajuste se genera al representar la gráfica: su XML declara
+`formatCode="General"` y no contiene una ecuación literal fija. LibreOffice
+muestra «f(x) = −0.184476167864644 x − 0.0142393775941705». Este texto describe
+la representación de la copia normalizada; no se atribuye como rótulo fijo al
+DOCX ni reemplaza el rótulo del PDF aprobado. Las gráficas de arriba pertenecen
+al PDF aprobado, tal como indica su procedencia.

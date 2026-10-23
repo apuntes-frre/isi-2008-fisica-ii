@@ -1,10 +1,18 @@
 # Reanudación de Física II
 
-## PAUSA SOLICITADA — checkpoint 22/10/2026
+## REANUDADO — 23/10/2026
+
+El usuario pidió continuar y mantener actualizado el PR. El checkpoint de pausa
+siguiente queda como referencia histórica. Fuente 61: páginas 1–9 cotejadas;
+siguiente lote, páginas normalizadas 10–11 (descarga C1 y comienzo de serie).
+364 notas / 3595 expresiones; pendientes de render GitHub 31 notas / 417
+expresiones. Último CI antes de reanudar: b178ea0, aprobado (39898573956).
+
+## CHECKPOINT HISTÓRICO DE PAUSA — 22/10/2026
 
 El usuario pidió pausar la transcripción y dejar todo publicado para continuar
 cuando lo indique. **No seguir transcribiendo hasta recibir esa indicación.**
-Este bloque prevalece sobre todos los estados activos o históricos inferiores.
+Este bloque histórico quedó revocado por la reanudación del 23/10/2026.
 
 ### Estado guardado
 
