@@ -34,8 +34,10 @@ diferencia de potencial de un extremo a otro de la resistencia de carga es
 $`\Delta V=IR`$ . Al combinar esta expresión con la anterior
 
 ```math
-\mathcal E=IR+Ir\tag{1}
+\mathcal E=IR+Ir
 ```
+
+(1)
 
 Al resolver en función de la corriente,
 
