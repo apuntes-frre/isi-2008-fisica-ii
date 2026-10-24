@@ -1666,7 +1666,7 @@
       "duplicado_sha256_de": null,
       "clasificacion": "versión DOCX del informe RC delgrupo6 con observación de corrección en rojo",
       "evidencia": "Pandocconmedios yLOconperfilaislado. Sin comentarios ni control de cambios XML; observación roja está en runs FF0000 del texto. AÑO2016 enportada yfigura3 verde/roja registrados por versión. WMFdeecuaciones cotejados visualmente. Seis gráficas nativas requieren revisar su XML/caché: LOregenera rótulos de ajustes General yno debe confundirse su precisión conla presentación original.",
-      "estado": "contenido científico completo por cotejo de 15 páginas normalizadas; variantes registradas en siete notas; render GitHub pendiente",
+      "estado": "contenido científico completo por cotejo de 15 páginas normalizadas; variantes registradas en siete notas; revisión GitHub verificada",
       "paginas_revisadas": [
         1,
         2,
@@ -1706,7 +1706,7 @@
       "duplicado_sha256_de": null,
       "clasificacion": "informe de laboratorio3 de circuitosRC, grupo6, versión Aprobado",
       "evidencia": "notes/2015/practica/circuitos-rc-informe-grupo-6-fundamentos-carga.md;20expresiones ycinco figuras originales. Salto9a11, erratas yrotulación de gráfica conservados. PyMuPDF4LLM,Poppler ycotejo visual de todas las páginas del tramo. Segundo lote4–5:16math ycuatro figuras, +0de(17),q/Q ynúmero(19) repetido conservados. Hoja manuscrita6 con fecha19/05/2016; no inferir año2015. Hoja6:21filas/13columnas, 273celdas, vacíos preservados. OCRspa ylectura visual ampliada; se omiten campos nominales yfirmas. Fecha19/05/2016; dos recortes originales sin firmas. P7–8:tabla20filas/4columnas,15math ydos gráficas vectoriales. Se conservan redondeos, diferencias41/39s, pendientes0,184/0,1845, resultado1,38*10^-3F y10,1% sin recalcular. DescargaC1:20filas,13math yuna gráfica; Capcidad,5/3 frente a5,0/3,0 yE%=0,00000757% conservados. Exponente-5 cotejado ampliado. Serie:tabla11filas,15math ydos gráficas; signoigual extraCeq,Ln(Vt),0,54/0.54,pendientes0,459/0,4597 yresultados originales conservados. Cierre paralelo12–13 yconclusión14:15math/tabla20filas/dos gráficas. Informe en siete notas,94math y18medios; cinco tablas con21/20/20/11/20filas. Compartidas10 y12 sin duplicar tramos. Omisiones nominales ycalificación registradas; original preservado.",
-      "estado": "transcrito completo el contenido científico de14páginas; nombres/firmas manuscritos ycalificación final omitidos; pendiente render GitHub",
+      "estado": "transcrito completo el contenido científico de14páginas; nombres/firmas manuscritos ycalificación final omitidos; revisión GitHub verificada",
       "paginas_revisadas": [
         1,
         2,
@@ -1788,7 +1788,7 @@
       "duplicado_sha256_de": null,
       "clasificacion": "informe de brújula de tangentes del grupo6, versión con observaciones en rojo",
       "evidencia": "Pandoc/LO/XML/Poppler, todos los renders y OCR español hoja6. Teoría roja y comentarios finales conservados, sin corrección científica; cifra final x a30° no inferida de tabla7.",
-      "estado": "9/9 páginas normalizadas revisadas; contenido legible transcrito; una cifra retocada pendiente en hoja6, distancia de30°; render GitHub pendiente",
+      "estado": "9/9 páginas normalizadas revisadas; contenido legible transcrito; una cifra retocada pendiente en hoja6, distancia de30°; revisión GitHub verificada",
       "paginas_revisadas": [
         1,
         2,
@@ -1819,7 +1819,7 @@
       "duplicado_sha256_de": null,
       "clasificacion": "informe del grupo6 de fuerza sobre elemento de corriente, portada2016",
       "evidencia": "Poppler/PyMuPDF4LLM y nueve renders, OCR español hoja7, cotejo de todas las celdas y anotaciones. Rótulo de masa inferior parcialmente ilegible; recorte conservado.",
-      "estado": "9/9 páginas revisadas; contenido legible transcrito; rótulo parcial de masa manuscrita7 y símbolo ausente de plantilla señalados; render GitHub pendiente",
+      "estado": "9/9 páginas revisadas; contenido legible transcrito; rótulo parcial de masa manuscrita7 y símbolo ausente de plantilla señalados; revisión GitHub verificada",
       "paginas_revisadas": [
         1,
         2,
@@ -1931,7 +1931,7 @@
       "duplicado_sha256_de": null,
       "clasificacion": "presentación didáctica sobre partes y mediciones con multímetro",
       "evidencia": "notes/2015/practica/multimetro-digital-partes-funciones.md; 19 diapositivas cotejadas completas, 17 figuras originales; PPSX normalizado a PPTX/PDF por LibreOffice y extraído con MarkItDown.",
-      "estado": "transcrito; render GitHub pendiente",
+      "estado": "transcrito; revisión GitHub verificada",
       "paginas_revisadas": [
         1,
         2,
@@ -1964,7 +1964,7 @@
       "duplicado_sha256_de": null,
       "clasificacion": "planificación de cátedra de FísicaII ciclo2016 para IEM/ISI/IQ",
       "evidencia": "PyMuPDF4LLM/Poppler y25renders. Líneas estrictas, combinaciones y vacíos cotejados. Dos marcos exteriores descartados como falsas celdas duplicadas. Ciclo2016 y erratas conservados.",
-      "estado": "completo documentalmente:25/25 páginas cotejadas, nueve notas y16fragmentos de tablas; pendiente GitHub",
+      "estado": "completo documentalmente:25/25 páginas cotejadas, nueve notas y16fragmentos de tablas; revisión GitHub verificada",
       "paginas_revisadas": [
         1,
         2,
@@ -2033,7 +2033,7 @@
       "duplicado_sha256_de": null,
       "clasificacion": "cuadernillo manuscrito de teoría y resueltos: Ley de Biot-Savart; autor de portada Anibal Kasero",
       "evidencia": "62renders cotejados. OCRmyPDF español auxiliar y Poppler. Fórmulas legibles en LaTeX, figuras originales; borrador tachado21 conservado como evidencia. Erratas, espacios vacíos y discrepancias entre respuestas y manuscrito preservados.",
-      "estado": "completo documentalmente:62/62 páginas cotejadas; portada, teoría y16ejercicios; página62 vacía; pendiente GitHub",
+      "estado": "completo documentalmente:62/62 páginas cotejadas; portada, teoría y16ejercicios; página62 vacía; revisión GitHub verificada",
       "paginas_revisadas": [
         1,
         2,
@@ -2129,7 +2129,7 @@
       "duplicado_sha256_de": null,
       "clasificacion": "resumen de teoría de FísicaII; autor y año no identificados en primeras páginas",
       "evidencia": "PyMuPDF4LLM/Poppler y páginas1–11 cotejadas. Fórmulas de imagen en LaTeX, figuras conservadas. UT1 y UT2 completas en resumen; signos de Poisson preservados.",
-      "estado": "transcrito:80/80páginas cotejadas; pendiente revisión GitHub de notas nuevas",
+      "estado": "transcrito:80/80páginas cotejadas; revisión GitHub verificada",
       "paginas_revisadas": [
         1,
         2,
@@ -2472,7 +2472,7 @@
       "duplicado_sha256_de": null,
       "clasificacion": "listado histórico de recursos y simulaciones; fecha interna 31/10/2009",
       "evidencia": "notes/2015/teoria/direcciones-utiles-internet-simulaciones.md; tres páginas normalizadas cotejadas completas; enlaces originales preservados.",
-      "estado": "transcrito; render GitHub pendiente",
+      "estado": "transcrito; revisión GitHub verificada",
       "paginas_revisadas": [
         1,
         2,
@@ -4560,7 +4560,7 @@
       "duplicado_sha256_de": null,
       "clasificacion": "planificación de cátedra 2019: docentes, programa UT1–16, cinco cronogramas, evaluación y propuestas",
       "evidencia": "Nueve notas notes/2019/teoria/planificacion-*-2019.md; 31 páginas completas cotejadas; 24 fragmentos de tablas en HTML con celdas combinadas, dos encabezados originales. PyMuPDF4LLM/Docling y Poppler; texto completo auditado.",
-      "estado": "transcrito; render GitHub pendiente",
+      "estado": "transcrito; revisión GitHub verificada",
       "paginas_revisadas": [
         1,
         2,
@@ -4624,7 +4624,7 @@
       "duplicado_sha256_de": null,
       "clasificacion": "presentación de práctica de calorimetría; versión diferenciada por grupo",
       "evidencia": "notes/2019/practica/calorimetria-primer-entrega-grupo-9.md; 6 diapositivas cotejadas por completo; MarkItDown, XML y PDF de LibreOffice.",
-      "estado": "transcrito; render GitHub pendiente",
+      "estado": "transcrito; revisión GitHub verificada",
       "paginas_revisadas": [
         1,
         2,
@@ -4644,7 +4644,7 @@
       "duplicado_sha256_de": null,
       "clasificacion": "presentación de práctica de calorimetría; versión diferenciada por grupo",
       "evidencia": "notes/2019/practica/calorimetria-primer-entrega-grupo-8.md; 8 diapositivas cotejadas por completo; MarkItDown, XML y PDF de LibreOffice.",
-      "estado": "transcrito; render GitHub pendiente",
+      "estado": "transcrito; revisión GitHub verificada",
       "paginas_revisadas": [
         1,
         2,
@@ -4666,7 +4666,7 @@
       "duplicado_sha256_de": null,
       "clasificacion": "examen final: 20 preguntas con todas sus opciones, sin datos de evaluación del intento",
       "evidencia": "notes/2020/practica/examen-final-diciembre-10.md; 10 páginas cotejadas; 23 expresiones y 13 figuras; tabla original del anillo conservada con grafías Π y ξo.",
-      "estado": "transcrito; render GitHub pendiente",
+      "estado": "transcrito; revisión GitHub verificada",
       "paginas_revisadas": [
         1,
         2,
@@ -4690,7 +4690,7 @@
       "duplicado_sha256_de": null,
       "clasificacion": "examen final: 16 preguntas con todas las opciones, sin datos de evaluación del intento",
       "evidencia": "notes/2020/practica/examen-final-diciembre-17.md; página larga cotejada en 16 regiones; 9 figuras y 19 expresiones.",
-      "estado": "transcrito; render GitHub pendiente",
+      "estado": "transcrito; revisión GitHub verificada",
       "paginas_revisadas": [
         1
       ],
@@ -4705,7 +4705,7 @@
       "duplicado_sha256_de": null,
       "clasificacion": "compilado de cinco versiones del segundo parcial de 2020, 14 preguntas por versión",
       "evidencia": "Cinco variantes completas: B1 páginas1–8, A1 9–16, B2 17–24, A2 25–31, B3 32–39; 70 preguntas, 232 expresiones y20figuras. Las páginas24/39 solo contienen navegación, revisada y omitida. Calificaciones, selecciones e identificadores del intento omitidos. Notas en notes/2020/practica/segundo-parcial-sistemas-*.",
-      "estado": "transcrito completo; pendiente render GitHub",
+      "estado": "transcrito completo; revisión GitHub verificada",
       "paginas_revisadas": [
         1,
         2,

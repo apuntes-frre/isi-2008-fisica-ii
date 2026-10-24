@@ -43,6 +43,22 @@ bloque prevalece sobre todos los estados históricos inferiores.
   examen; revisión visual GitHub y auditoría final. No declarar100% con estas
   lecturas pendientes. No fusionar automáticamente la continuación.
 
+### Estado de cierre al 24/10/2026
+
+- Todos los485apuntes tienen revisión GitHub registrada:4866/4866expresiones,
+  sin merror ni fórmulas sin renderizar; figuras cargadas y muestras visuales.
+- Fuentes117/118 siguen bloqueadas en26/40–42: el daño aparece en la imagen
+  del propio PDF. Inspección de117 hojas7/10/11 confirma cero fuentes y cero
+  texto PDF; no existe una fuente embebida que cambiar para recuperar glifos.
+  Renders de comprobación en caché20261024-cierre. No sustituir por103 sin
+  evidencia específica de equivalencia.
+- Continúan pendientes la unidad manuscrita del examen14 y las lecturas
+  manuscritas63/64/65 ya delimitadas arriba. La falta de certeza se conserva
+  explícitamente; no rellenar por resultados mecanografiados o por cálculo.
+- Próxima labor: buscar una copia canónica mejor de esos fragmentos, revisar
+  el recorte de anotaciones de fuerza y cerrar auditoría documental de fuentes.
+  PR2 sigue borrador; no declarar100% ni fusionar con bloqueos abiertos.
+
 ## CHECKPOINT HISTÓRICO DE PAUSA — 22/10/2026
 
 El usuario pidió pausar la transcripción y dejar todo publicado para continuar
