@@ -6870,9 +6870,9 @@
       ],
       "paginacion": "diapositivas del PPTX original",
       "math_esperada": 0,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "cotejado completo; pendiente render GitHub",
+      "math_renderizada_github": 0,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/b72fa0cc3388d8fb2a63e61ef806d4ff4525f7e7/notes/2019/practica/calorimetria-primer-entrega-grupo-9.md",
+      "estado": "2026-10-24: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas, tablas presentes y muestra visual de cada apunte revisada.",
       "fuentes_adicionales": []
     },
     {
@@ -6891,9 +6891,9 @@
       ],
       "paginacion": "diapositivas del PPTX original",
       "math_esperada": 10,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "cotejado completo; pendiente render GitHub",
+      "math_renderizada_github": 10,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/b72fa0cc3388d8fb2a63e61ef806d4ff4525f7e7/notes/2019/practica/calorimetria-primer-entrega-grupo-8.md",
+      "estado": "2026-10-24: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas, tablas presentes y muestra visual de cada apunte revisada.",
       "fuentes_adicionales": []
     },
     {
@@ -6905,9 +6905,9 @@
       ],
       "paginacion": "PDF original de una página larga; 16 preguntas",
       "math_esperada": 19,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "cotejado completo; pendiente render GitHub",
+      "math_renderizada_github": 19,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/b72fa0cc3388d8fb2a63e61ef806d4ff4525f7e7/notes/2020/practica/examen-final-diciembre-17.md",
+      "estado": "2026-10-24: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas, tablas presentes y muestra visual de cada apunte revisada.",
       "fuentes_adicionales": []
     },
     {
@@ -6928,9 +6928,9 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 23,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "cotejado completo; pendiente render GitHub",
+      "math_renderizada_github": 23,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/b72fa0cc3388d8fb2a63e61ef806d4ff4525f7e7/notes/2020/practica/examen-final-diciembre-10.md",
+      "estado": "2026-10-24: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas, tablas presentes y muestra visual de cada apunte revisada.",
       "fuentes_adicionales": []
     },
     {
@@ -6944,9 +6944,9 @@
       ],
       "paginacion": "PDF normalizado de LibreOffice a partir del DOC original",
       "math_esperada": 0,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "cotejado completo; pendiente render GitHub",
+      "math_renderizada_github": 0,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/b72fa0cc3388d8fb2a63e61ef806d4ff4525f7e7/notes/2015/teoria/direcciones-utiles-internet-simulaciones.md",
+      "estado": "2026-10-24: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas, tablas presentes y muestra visual de cada apunte revisada.",
       "fuentes_adicionales": []
     },
     {
@@ -6976,9 +6976,9 @@
       ],
       "paginacion": "diapositivas del PPSX original; PDF normalizado de LibreOffice",
       "math_esperada": 0,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "cotejado completo; pendiente render GitHub",
+      "math_renderizada_github": 0,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/b72fa0cc3388d8fb2a63e61ef806d4ff4525f7e7/notes/2015/practica/multimetro-digital-partes-funciones.md",
+      "estado": "2026-10-24: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas, tablas presentes y muestra visual de cada apunte revisada.",
       "fuentes_adicionales": []
     },
     {
@@ -6992,9 +6992,9 @@
       ],
       "paginacion": "PDF original; apartados contiguos comparten algunas páginas",
       "math_esperada": 0,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "cotejado completo; pendiente render GitHub",
+      "math_renderizada_github": 0,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/b72fa0cc3388d8fb2a63e61ef806d4ff4525f7e7/notes/2019/teoria/planificacion-docentes-horarios-2019.md",
+      "estado": "2026-10-24: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas, tablas presentes y muestra visual de cada apunte revisada.",
       "fuentes_adicionales": []
     },
     {
@@ -7013,9 +7013,9 @@
       ],
       "paginacion": "PDF original; apartados contiguos comparten algunas páginas",
       "math_esperada": 0,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "cotejado completo; pendiente render GitHub",
+      "math_renderizada_github": 0,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/b72fa0cc3388d8fb2a63e61ef806d4ff4525f7e7/notes/2019/teoria/planificacion-fundamentacion-programa-2019.md",
+      "estado": "2026-10-24: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas, tablas presentes y muestra visual de cada apunte revisada.",
       "fuentes_adicionales": []
     },
     {
@@ -7030,9 +7030,9 @@
       ],
       "paginacion": "PDF original; apartados contiguos comparten algunas páginas",
       "math_esperada": 0,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "cotejado completo; pendiente render GitHub",
+      "math_renderizada_github": 0,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/b72fa0cc3388d8fb2a63e61ef806d4ff4525f7e7/notes/2019/teoria/planificacion-cronograma-electromecanica-2019.md",
+      "estado": "2026-10-24: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas, tablas presentes y muestra visual de cada apunte revisada.",
       "fuentes_adicionales": []
     },
     {
@@ -7046,9 +7046,9 @@
       ],
       "paginacion": "PDF original; apartados contiguos comparten algunas páginas",
       "math_esperada": 0,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "cotejado completo; pendiente render GitHub",
+      "math_renderizada_github": 0,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/b72fa0cc3388d8fb2a63e61ef806d4ff4525f7e7/notes/2019/teoria/planificacion-cronograma-sistemas-2a-2019.md",
+      "estado": "2026-10-24: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas, tablas presentes y muestra visual de cada apunte revisada.",
       "fuentes_adicionales": []
     },
     {
@@ -7062,9 +7062,9 @@
       ],
       "paginacion": "PDF original; apartados contiguos comparten algunas páginas",
       "math_esperada": 0,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "cotejado completo; pendiente render GitHub",
+      "math_renderizada_github": 0,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/b72fa0cc3388d8fb2a63e61ef806d4ff4525f7e7/notes/2019/teoria/planificacion-cronograma-sistemas-2b-2019.md",
+      "estado": "2026-10-24: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas, tablas presentes y muestra visual de cada apunte revisada.",
       "fuentes_adicionales": []
     },
     {
@@ -7079,9 +7079,9 @@
       ],
       "paginacion": "PDF original; apartados contiguos comparten algunas páginas",
       "math_esperada": 0,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "cotejado completo; pendiente render GitHub",
+      "math_renderizada_github": 0,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/b72fa0cc3388d8fb2a63e61ef806d4ff4525f7e7/notes/2019/teoria/planificacion-cronograma-quimica-2019.md",
+      "estado": "2026-10-24: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas, tablas presentes y muestra visual de cada apunte revisada.",
       "fuentes_adicionales": []
     },
     {
@@ -7094,9 +7094,9 @@
       ],
       "paginacion": "PDF original; apartados contiguos comparten algunas páginas",
       "math_esperada": 0,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "cotejado completo; pendiente render GitHub",
+      "math_renderizada_github": 0,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/b72fa0cc3388d8fb2a63e61ef806d4ff4525f7e7/notes/2019/teoria/planificacion-cronograma-intensivo-2019.md",
+      "estado": "2026-10-24: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas, tablas presentes y muestra visual de cada apunte revisada.",
       "fuentes_adicionales": []
     },
     {
@@ -7115,9 +7115,9 @@
       ],
       "paginacion": "PDF original; apartados contiguos comparten algunas páginas",
       "math_esperada": 0,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "cotejado completo; pendiente render GitHub",
+      "math_renderizada_github": 0,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/b72fa0cc3388d8fb2a63e61ef806d4ff4525f7e7/notes/2019/teoria/planificacion-formacion-evaluacion-bibliografia-2019.md",
+      "estado": "2026-10-24: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas, tablas presentes y muestra visual de cada apunte revisada.",
       "fuentes_adicionales": []
     },
     {
@@ -7132,9 +7132,9 @@
       ],
       "paginacion": "PDF original; apartados contiguos comparten algunas páginas",
       "math_esperada": 0,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "cotejado completo; pendiente render GitHub",
+      "math_renderizada_github": 0,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/b72fa0cc3388d8fb2a63e61ef806d4ff4525f7e7/notes/2019/teoria/planificacion-recursantes-presentacion-arduino-2019.md",
+      "estado": "2026-10-24: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas, tablas presentes y muestra visual de cada apunte revisada.",
       "fuentes_adicionales": []
     },
     {
@@ -7153,9 +7153,9 @@
       ],
       "paginacion": "PDF compilado original, páginas 1–8 (primera variante ISI B)",
       "math_esperada": 47,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "cotejado completo este bloque; pendiente render GitHub",
+      "math_renderizada_github": 47,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/b72fa0cc3388d8fb2a63e61ef806d4ff4525f7e7/notes/2020/practica/segundo-parcial-sistemas-b-junio-2020-variante-1.md",
+      "estado": "2026-10-24: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas, tablas presentes y muestra visual de cada apunte revisada.",
       "fuentes_adicionales": []
     },
     {
@@ -7174,9 +7174,9 @@
       ],
       "paginacion": "PDF compilado original, páginas 9–16",
       "math_esperada": 49,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "cotejado completo este bloque; pendiente render GitHub",
+      "math_renderizada_github": 49,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/b72fa0cc3388d8fb2a63e61ef806d4ff4525f7e7/notes/2020/practica/segundo-parcial-sistemas-a-junio-2020-variante-1.md",
+      "estado": "2026-10-24: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas, tablas presentes y muestra visual de cada apunte revisada.",
       "fuentes_adicionales": []
     },
     {
@@ -7195,9 +7195,9 @@
       ],
       "paginacion": "PDF compilado original, páginas 17–24",
       "math_esperada": 53,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "cotejado completo este bloque; pendiente render GitHub",
+      "math_renderizada_github": 53,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/b72fa0cc3388d8fb2a63e61ef806d4ff4525f7e7/notes/2020/practica/segundo-parcial-sistemas-b-junio-2020-variante-2.md",
+      "estado": "2026-10-24: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas, tablas presentes y muestra visual de cada apunte revisada.",
       "fuentes_adicionales": []
     },
     {
@@ -7215,9 +7215,9 @@
       ],
       "paginacion": "PDF compilado original, páginas 25–31",
       "math_esperada": 41,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "cotejado completo este bloque; pendiente render GitHub",
+      "math_renderizada_github": 41,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/b72fa0cc3388d8fb2a63e61ef806d4ff4525f7e7/notes/2020/practica/segundo-parcial-sistemas-a-junio-2020-variante-2.md",
+      "estado": "2026-10-24: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas, tablas presentes y muestra visual de cada apunte revisada.",
       "fuentes_adicionales": []
     },
     {
@@ -7236,9 +7236,9 @@
       ],
       "paginacion": "PDF compilado original, páginas 32–39",
       "math_esperada": 42,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "cotejado completo este bloque; pendiente render GitHub",
+      "math_renderizada_github": 42,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/b72fa0cc3388d8fb2a63e61ef806d4ff4525f7e7/notes/2020/practica/segundo-parcial-sistemas-b-junio-2020-variante-3.md",
+      "estado": "2026-10-24: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas, tablas presentes y muestra visual de cada apunte revisada.",
       "fuentes_adicionales": []
     },
     {
@@ -7250,9 +7250,9 @@
       ],
       "paginacion": "PDF original de once hojas, cuatro diapositivas por hoja; diapositivas 13–16",
       "math_esperada": 6,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "cotejado completo este bloque; pendiente render GitHub",
+      "math_renderizada_github": 6,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/b72fa0cc3388d8fb2a63e61ef806d4ff4525f7e7/notes/2019/teoria/fuerza-magnetica-carga-unidades-variante-impresa-2019.md",
+      "estado": "2026-10-24: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas, tablas presentes y muestra visual de cada apunte revisada.",
       "fuentes_adicionales": [
         {
           "original": "2019/2do Parcial/UT 5 6 pag.pdf",
@@ -7279,9 +7279,9 @@
       ],
       "paginacion": "PDF original de once hojas, cuatro diapositivas por hoja; diapositivas 17–20",
       "math_esperada": 11,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "cotejado completo este bloque; pendiente render GitHub",
+      "math_renderizada_github": 11,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/b72fa0cc3388d8fb2a63e61ef806d4ff4525f7e7/notes/2019/teoria/lorentz-movimiento-circular-helicoidal-variante-impresa-2019.md",
+      "estado": "2026-10-24: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas, tablas presentes y muestra visual de cada apunte revisada.",
       "fuentes_adicionales": [
         {
           "original": "2019/2do Parcial/UT 5 6 pag.pdf",
@@ -7310,9 +7310,9 @@
       ],
       "paginacion": "Diapositivas 27–31 del PDF original de once hojas; los extremos de las hojas contienen otros tramos",
       "math_esperada": 8,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "cotejado completo este bloque; pendiente render GitHub",
+      "math_renderizada_github": 8,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/b72fa0cc3388d8fb2a63e61ef806d4ff4525f7e7/notes/2019/teoria/fuerza-conductor-corriente-variante-impresa-2019.md",
+      "estado": "2026-10-24: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas, tablas presentes y muestra visual de cada apunte revisada.",
       "fuentes_adicionales": [
         {
           "original": "2019/2do Parcial/UT 5 6 pag.pdf",
@@ -7343,9 +7343,9 @@
       ],
       "paginacion": "Diapositivas 32–38 del PDF original de once hojas; los extremos de las hojas contienen otros tramos",
       "math_esperada": 9,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "cotejado completo este bloque; pendiente render GitHub",
+      "math_renderizada_github": 9,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/b72fa0cc3388d8fb2a63e61ef806d4ff4525f7e7/notes/2019/teoria/torque-espira-momento-dipolar-variante-impresa-2019.md",
+      "estado": "2026-10-24: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas, tablas presentes y muestra visual de cada apunte revisada.",
       "fuentes_adicionales": [
         {
           "original": "2019/2do Parcial/UT 5 6 pag.pdf",
@@ -7378,9 +7378,9 @@
       ],
       "paginacion": "PDF original, páginas1–3 completas; portada, fundamentos yproceso de carga hasta(12)",
       "math_esperada": 20,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "cotejado completo este bloque; pendiente render GitHub",
+      "math_renderizada_github": 20,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/b72fa0cc3388d8fb2a63e61ef806d4ff4525f7e7/notes/2015/practica/circuitos-rc-informe-grupo-6-fundamentos-carga.md",
+      "estado": "2026-10-24: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas, tablas presentes y muestra visual de cada apunte revisada.",
       "fuentes_adicionales": [
         {
           "original": "2015/L3 Capacidad G6 A corregir 2.docx",
@@ -7406,9 +7406,9 @@
       ],
       "paginacion": "PDF original, páginas4–5 completas; semilogaritmo,descarga,materiales ytécnica operatoria",
       "math_esperada": 16,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "cotejado completo este bloque; pendiente render GitHub",
+      "math_renderizada_github": 16,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/b72fa0cc3388d8fb2a63e61ef806d4ff4525f7e7/notes/2015/practica/circuitos-rc-informe-grupo-6-descarga-tecnica.md",
+      "estado": "2026-10-24: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas, tablas presentes y muestra visual de cada apunte revisada.",
       "fuentes_adicionales": [
         {
           "original": "2015/L3 Capacidad G6 A corregir 2.docx",
@@ -7432,9 +7432,9 @@
       ],
       "paginacion": "PDF original,página6; hoja de datos manuscrita fechada19/05/2016; datos nominales yfirmas omitidos",
       "math_esperada": 0,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "tabla completa cotejada celda a celda; pendiente render GitHub",
+      "math_renderizada_github": 0,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/b72fa0cc3388d8fb2a63e61ef806d4ff4525f7e7/notes/2015/practica/circuitos-rc-informe-grupo-6-hoja-datos.md",
+      "estado": "2026-10-24: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas, tablas presentes y muestra visual de cada apunte revisada.",
       "fuentes_adicionales": [
         {
           "original": "2015/L3 Capacidad G6 A corregir 2.docx",
@@ -7457,9 +7457,9 @@
       ],
       "paginacion": "PDF original,páginas7–8 completas; cargaC1,tabla20filas ydos gráficas",
       "math_esperada": 20,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "cotejado completo este bloque; pendiente render GitHub",
+      "math_renderizada_github": 20,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/b72fa0cc3388d8fb2a63e61ef806d4ff4525f7e7/notes/2015/practica/circuitos-rc-informe-grupo-6-resultados-carga-c1.md",
+      "estado": "2026-10-24: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas, tablas presentes y muestra visual de cada apunte revisada.",
       "fuentes_adicionales": [
         {
           "original": "2015/L3 Capacidad G6 A corregir 2.docx",
@@ -7483,9 +7483,9 @@
       ],
       "paginacion": "PDF original,página9 completa ycomienzo10 hastaE%; no incluye bloque de carga en serie de10",
       "math_esperada": 22,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "cotejado completo este bloque; pendiente render GitHub",
+      "math_renderizada_github": 22,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/b72fa0cc3388d8fb2a63e61ef806d4ff4525f7e7/notes/2015/practica/circuitos-rc-informe-grupo-6-resultados-descarga-c1.md",
+      "estado": "2026-10-24: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas, tablas presentes y muestra visual de cada apunte revisada.",
       "fuentes_adicionales": [
         {
           "original": "2015/L3 Capacidad G6 A corregir 2.docx",
@@ -7510,9 +7510,9 @@
       ],
       "paginacion": "PDF original,10 desde título de serie,11 completa yprimera fórmula12; excluye paralelo12",
       "math_esperada": 20,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "cotejado completo este bloque; pendiente render GitHub",
+      "math_renderizada_github": 20,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/b72fa0cc3388d8fb2a63e61ef806d4ff4525f7e7/notes/2015/practica/circuitos-rc-informe-grupo-6-resultados-serie.md",
+      "estado": "2026-10-24: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas, tablas presentes y muestra visual de cada apunte revisada.",
       "fuentes_adicionales": [
         {
           "original": "2015/L3 Capacidad G6 A corregir 2.docx",
@@ -7538,9 +7538,9 @@
       ],
       "paginacion": "PDF original,12 desde título de paralelo,13–14; calificación final omitida",
       "math_esperada": 20,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "cotejado completo este bloque; pendiente render GitHub",
+      "math_renderizada_github": 20,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/b72fa0cc3388d8fb2a63e61ef806d4ff4525f7e7/notes/2015/practica/circuitos-rc-informe-grupo-6-resultados-paralelo-conclusion.md",
+      "estado": "2026-10-24: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas, tablas presentes y muestra visual de cada apunte revisada.",
       "fuentes_adicionales": [
         {
           "original": "2015/L3 Capacidad G6 A corregir 2.docx",
@@ -7567,9 +7567,9 @@
       ],
       "paginacion": "PDF original, páginas 1–4 completas; portada, fundamentos y técnica",
       "math_esperada": 6,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "cotejado completo este tramo; pendiente render GitHub",
+      "math_renderizada_github": 6,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/b72fa0cc3388d8fb2a63e61ef806d4ff4525f7e7/notes/2015/practica/kirchhoff-informe-grupo-6-fundamentos-tecnica.md",
+      "estado": "2026-10-24: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas, tablas presentes y muestra visual de cada apunte revisada.",
       "fuentes_adicionales": []
     },
     {
@@ -7582,9 +7582,9 @@
       ],
       "paginacion": "PDF original, páginas 6–7 completas, tablas y circuito I",
       "math_esperada": 12,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "cotejado completo este tramo; pendiente render GitHub",
+      "math_renderizada_github": 12,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/b72fa0cc3388d8fb2a63e61ef806d4ff4525f7e7/notes/2015/practica/kirchhoff-informe-grupo-6-circuito-uno.md",
+      "estado": "2026-10-24: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas, tablas presentes y muestra visual de cada apunte revisada.",
       "fuentes_adicionales": []
     },
     {
@@ -7598,9 +7598,9 @@
       ],
       "paginacion": "PDF original, páginas 8–10 completas; ocho capturas de simulación",
       "math_esperada": 0,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "figuras y títulos cotejados; pendiente render GitHub",
+      "math_renderizada_github": 0,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/b72fa0cc3388d8fb2a63e61ef806d4ff4525f7e7/notes/2015/practica/kirchhoff-informe-grupo-6-circuito-uno-simulacion.md",
+      "estado": "2026-10-24: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas, tablas presentes y muestra visual de cada apunte revisada.",
       "fuentes_adicionales": []
     },
     {
@@ -7613,9 +7613,9 @@
       ],
       "paginacion": "PDF original, páginas 11–12 completas: circuito II y primera captura de corriente",
       "math_esperada": 12,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "cotejado completo este tramo; pendiente render GitHub",
+      "math_renderizada_github": 12,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/b72fa0cc3388d8fb2a63e61ef806d4ff4525f7e7/notes/2015/practica/kirchhoff-informe-grupo-6-circuito-dos.md",
+      "estado": "2026-10-24: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas, tablas presentes y muestra visual de cada apunte revisada.",
       "fuentes_adicionales": []
     },
     {
@@ -7629,9 +7629,9 @@
       ],
       "paginacion": "PDF original 13–14 completas y figura inicial de 15, antes de CIRCUITO III",
       "math_esperada": 0,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "siete capturas cotejadas; pendiente render GitHub",
+      "math_renderizada_github": 0,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/b72fa0cc3388d8fb2a63e61ef806d4ff4525f7e7/notes/2015/practica/kirchhoff-informe-grupo-6-circuito-dos-simulacion.md",
+      "estado": "2026-10-24: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas, tablas presentes y muestra visual de cada apunte revisada.",
       "fuentes_adicionales": []
     },
     {
@@ -7644,9 +7644,9 @@
       ],
       "paginacion": "PDF original, 15 desde CIRCUITO III y 16 completa",
       "math_esperada": 12,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "todas las ecuaciones cotejadas; pendiente render GitHub",
+      "math_renderizada_github": 12,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/b72fa0cc3388d8fb2a63e61ef806d4ff4525f7e7/notes/2015/practica/kirchhoff-informe-grupo-6-circuito-tres.md",
+      "estado": "2026-10-24: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas, tablas presentes y muestra visual de cada apunte revisada.",
       "fuentes_adicionales": []
     },
     {
@@ -7660,9 +7660,9 @@
       ],
       "paginacion": "PDF original páginas 17–19 completas, ocho capturas",
       "math_esperada": 0,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "capturas y títulos cotejados; pendiente render GitHub",
+      "math_renderizada_github": 0,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/b72fa0cc3388d8fb2a63e61ef806d4ff4525f7e7/notes/2015/practica/kirchhoff-informe-grupo-6-circuito-tres-simulacion.md",
+      "estado": "2026-10-24: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas, tablas presentes y muestra visual de cada apunte revisada.",
       "fuentes_adicionales": []
     },
     {
@@ -7674,9 +7674,9 @@
       ],
       "paginacion": "PDF original página 20 completa; marca de calificación omitida explícitamente",
       "math_esperada": 0,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "tabla completa cotejada, conclusión conservada; pendiente render GitHub",
+      "math_renderizada_github": 0,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/b72fa0cc3388d8fb2a63e61ef806d4ff4525f7e7/notes/2015/practica/kirchhoff-informe-grupo-6-errores-conclusion.md",
+      "estado": "2026-10-24: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas, tablas presentes y muestra visual de cada apunte revisada.",
       "fuentes_adicionales": []
     },
     {
@@ -7688,9 +7688,9 @@
       ],
       "paginacion": "PDF original página5 completa; datos nominales y firmas omitidos explícitamente",
       "math_esperada": 0,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "tabla cotejada con cuatro celdas ilegibles marcadas; requiere original más nítido; pendiente render GitHub",
+      "math_renderizada_github": 0,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/b72fa0cc3388d8fb2a63e61ef806d4ff4525f7e7/notes/2015/practica/kirchhoff-informe-grupo-6-hoja-datos.md",
+      "estado": "2026-10-24: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas, tablas presentes y muestra visual de cada apunte revisada.",
       "fuentes_adicionales": []
     },
     {
@@ -7704,9 +7704,9 @@
       ],
       "paginacion": "PDF normalizado LO de9p,1–2 y comienzo3 hasta(8), antes de materiales",
       "math_esperada": 14,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "teoría cotejada; espacios restituidos y ecuaciones fragmentadas recompuestas con XML/render; pendiente GitHub",
+      "math_renderizada_github": 14,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/b72fa0cc3388d8fb2a63e61ef806d4ff4525f7e7/notes/2015/practica/brujula-informe-grupo-6-fundamentos.md",
+      "estado": "2026-10-24: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas, tablas presentes y muestra visual de cada apunte revisada.",
       "fuentes_adicionales": []
     },
     {
@@ -7720,9 +7720,9 @@
       ],
       "paginacion": "PDF normalizado LO nueve páginas:3 desde materiales y4–5 completas",
       "math_esperada": 5,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "texto y figuras cotejados, preguntas conservadas sin resolver; pendiente GitHub",
+      "math_renderizada_github": 5,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/b72fa0cc3388d8fb2a63e61ef806d4ff4525f7e7/notes/2015/practica/brujula-informe-grupo-6-tecnica-cuestionario.md",
+      "estado": "2026-10-24: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas, tablas presentes y muestra visual de cada apunte revisada.",
       "fuentes_adicionales": []
     },
     {
@@ -7735,9 +7735,9 @@
       ],
       "paginacion": "PDF normalizado LO de9p:8–9 completas, respuestas/conclusión/observaciones",
       "math_esperada": 1,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "texto y figura cotejados; observaciones rojas preservadas; pendiente GitHub",
+      "math_renderizada_github": 1,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/b72fa0cc3388d8fb2a63e61ef806d4ff4525f7e7/notes/2015/practica/brujula-informe-grupo-6-respuestas-conclusion.md",
+      "estado": "2026-10-24: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas, tablas presentes y muestra visual de cada apunte revisada.",
       "fuentes_adicionales": []
     },
     {
@@ -7749,9 +7749,9 @@
       ],
       "paginacion": "PDF normalizado LO nueve páginas, página7 completa",
       "math_esperada": 0,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "cabecera y tablas cotejadas celda a celda, gráfica preservada; pendiente GitHub",
+      "math_renderizada_github": 0,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/b72fa0cc3388d8fb2a63e61ef806d4ff4525f7e7/notes/2015/practica/brujula-informe-grupo-6-resultados.md",
+      "estado": "2026-10-24: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas, tablas presentes y muestra visual de cada apunte revisada.",
       "fuentes_adicionales": []
     },
     {
@@ -7763,9 +7763,9 @@
       ],
       "paginacion": "PDF normalizado LO nueve páginas,6 completa; datos nominales y firmas omitidos",
       "math_esperada": 1,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "14 filas cotejadas; cifra final x a30° ilegible marcada; pendiente GitHub",
+      "math_renderizada_github": 1,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/b72fa0cc3388d8fb2a63e61ef806d4ff4525f7e7/notes/2015/practica/brujula-informe-grupo-6-hoja-datos.md",
+      "estado": "2026-10-24: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas, tablas presentes y muestra visual de cada apunte revisada.",
       "fuentes_adicionales": []
     },
     {
@@ -7778,9 +7778,9 @@
       ],
       "paginacion": "PDF original páginas1–2 completas, portada/resumen/equipamiento",
       "math_esperada": 0,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "texto y figuras cotejados; pendiente GitHub",
+      "math_renderizada_github": 0,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/b72fa0cc3388d8fb2a63e61ef806d4ff4525f7e7/notes/2015/practica/fuerza-corriente-informe-grupo-6-objetivo-resumen.md",
+      "estado": "2026-10-24: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas, tablas presentes y muestra visual de cada apunte revisada.",
       "fuentes_adicionales": []
     },
     {
@@ -7795,9 +7795,9 @@
       ],
       "paginacion": "PDF original páginas3–6 completas; teoría y técnica",
       "math_esperada": 16,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "ecuaciones, texto y cinco figuras cotejados; tabla vacía preservada; pendiente GitHub",
+      "math_renderizada_github": 16,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/b72fa0cc3388d8fb2a63e61ef806d4ff4525f7e7/notes/2015/practica/fuerza-corriente-informe-grupo-6-teoria-tecnica.md",
+      "estado": "2026-10-24: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas, tablas presentes y muestra visual de cada apunte revisada.",
       "fuentes_adicionales": []
     },
     {
@@ -7810,9 +7810,9 @@
       ],
       "paginacion": "PDF original páginas8–9 completas; calificación omitida explícitamente",
       "math_esperada": 6,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "texto, ecuaciones, diagramas, tabla y gráfica cotejados; pendiente GitHub",
+      "math_renderizada_github": 6,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/b72fa0cc3388d8fb2a63e61ef806d4ff4525f7e7/notes/2015/practica/fuerza-corriente-informe-grupo-6-experiencias-resultados.md",
+      "estado": "2026-10-24: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas, tablas presentes y muestra visual de cada apunte revisada.",
       "fuentes_adicionales": []
     },
     {
@@ -7824,9 +7824,9 @@
       ],
       "paginacion": "PDF original página7 completa; datos nominales y firmas omitidos explícitamente",
       "math_esperada": 3,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "ocho filas y anotaciones cotejadas; rótulo de masa parcial y símbolo ausente marcados; pendiente GitHub",
+      "math_renderizada_github": 3,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/b72fa0cc3388d8fb2a63e61ef806d4ff4525f7e7/notes/2015/practica/fuerza-corriente-informe-grupo-6-hoja-datos.md",
+      "estado": "2026-10-24: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas, tablas presentes y muestra visual de cada apunte revisada.",
       "fuentes_adicionales": []
     },
     {
@@ -7840,9 +7840,9 @@
       ],
       "paginacion": "PDF original:1–2 completas, tablas de3 hasta Descripción",
       "math_esperada": 0,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "texto y tres fragmentos de tabla cotejados; pendiente GitHub",
+      "math_renderizada_github": 0,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/b72fa0cc3388d8fb2a63e61ef806d4ff4525f7e7/notes/2015/teoria/planificacion-docentes-horarios-2016.md",
+      "estado": "2026-10-24: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas, tablas presentes y muestra visual de cada apunte revisada.",
       "fuentes_adicionales": []
     },
     {
@@ -7859,9 +7859,9 @@
       ],
       "paginacion": "PDF original desde Descripción3,4–7 y comienzo8 hasta proyectos; excluye metodología8",
       "math_esperada": 0,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "fundamentación/objetivos/16UT cotejados; pendiente GitHub",
+      "math_renderizada_github": 0,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/b72fa0cc3388d8fb2a63e61ef806d4ff4525f7e7/notes/2015/teoria/planificacion-fundamentacion-programa-2016.md",
+      "estado": "2026-10-24: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas, tablas presentes y muestra visual de cada apunte revisada.",
       "fuentes_adicionales": []
     },
     {
@@ -7877,9 +7877,9 @@
       ],
       "paginacion": "PDF original8 desde Estrategias,9–11,12 hasta lista de guías antes de carga/CRONOGRAMA",
       "math_esperada": 0,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "listas y14 enlaces cotejados, sin actualizar política histórica; pendiente GitHub",
+      "math_renderizada_github": 0,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/b72fa0cc3388d8fb2a63e61ef806d4ff4525f7e7/notes/2015/teoria/planificacion-metodologia-formacion-practica-2016.md",
+      "estado": "2026-10-24: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas, tablas presentes y muestra visual de cada apunte revisada.",
       "fuentes_adicionales": []
     },
     {
@@ -7893,9 +7893,9 @@
       ],
       "paginacion": "PDF original: solo bloque del cronograma de Electromecánica, cabecera y recuperatorio; fragmentos tabla índices[3, 4, 5]",
       "math_esperada": 0,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "celdas y texto cotejados, variantes de fecha preservadas; pendiente GitHub",
+      "math_renderizada_github": 0,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/b72fa0cc3388d8fb2a63e61ef806d4ff4525f7e7/notes/2015/teoria/planificacion-cronograma-electromecanica-2016.md",
+      "estado": "2026-10-24: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas, tablas presentes y muestra visual de cada apunte revisada.",
       "fuentes_adicionales": []
     },
     {
@@ -7909,9 +7909,9 @@
       ],
       "paginacion": "PDF original: solo bloque del cronograma de Sistemas 2A, cabecera y recuperatorio; fragmentos tabla índices[6, 7, 8]",
       "math_esperada": 0,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "celdas y texto cotejados, variantes de fecha preservadas; pendiente GitHub",
+      "math_renderizada_github": 0,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/b72fa0cc3388d8fb2a63e61ef806d4ff4525f7e7/notes/2015/teoria/planificacion-cronograma-sistemas-2a-2016.md",
+      "estado": "2026-10-24: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas, tablas presentes y muestra visual de cada apunte revisada.",
       "fuentes_adicionales": []
     },
     {
@@ -7924,9 +7924,9 @@
       ],
       "paginacion": "PDF original: solo bloque del cronograma de Sistemas 2B, cabecera y recuperatorio; fragmentos tabla índices[9, 10]",
       "math_esperada": 0,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "celdas y texto cotejados, variantes de fecha preservadas; pendiente GitHub",
+      "math_renderizada_github": 0,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/b72fa0cc3388d8fb2a63e61ef806d4ff4525f7e7/notes/2015/teoria/planificacion-cronograma-sistemas-2b-2016.md",
+      "estado": "2026-10-24: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas, tablas presentes y muestra visual de cada apunte revisada.",
       "fuentes_adicionales": []
     },
     {
@@ -7940,9 +7940,9 @@
       ],
       "paginacion": "PDF original: solo bloque del cronograma de Química 2A, cabecera y recuperatorio; fragmentos tabla índices[11, 12, 13]",
       "math_esperada": 0,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "celdas y texto cotejados, variantes de fecha preservadas; pendiente GitHub",
+      "math_renderizada_github": 0,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/b72fa0cc3388d8fb2a63e61ef806d4ff4525f7e7/notes/2015/teoria/planificacion-cronograma-quimica-2016.md",
+      "estado": "2026-10-24: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas, tablas presentes y muestra visual de cada apunte revisada.",
       "fuentes_adicionales": []
     },
     {
@@ -7955,9 +7955,9 @@
       ],
       "paginacion": "PDF original: solo bloque del cronograma de curso intensivo, cabecera y recuperatorio; fragmentos tabla índices[14, 15]",
       "math_esperada": 0,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "celdas y texto cotejados, variantes de fecha preservadas; pendiente GitHub",
+      "math_renderizada_github": 0,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/b72fa0cc3388d8fb2a63e61ef806d4ff4525f7e7/notes/2015/teoria/planificacion-cronograma-intensivo-2016.md",
+      "estado": "2026-10-24: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas, tablas presentes y muestra visual de cada apunte revisada.",
       "fuentes_adicionales": []
     },
     {
@@ -7973,9 +7973,9 @@
       ],
       "paginacion": "PDF original final21 desde actividades de proyecto y22–25 completas",
       "math_esperada": 0,
-      "math_renderizada_github": null,
-      "url_github": null,
-      "estado": "campos, políticas, bibliografía y tareas cotejados; pendiente GitHub",
+      "math_renderizada_github": 0,
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/b72fa0cc3388d8fb2a63e61ef806d4ff4525f7e7/notes/2015/teoria/planificacion-evaluacion-bibliografia-equipo-2016.md",
+      "estado": "2026-10-24: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas, tablas presentes y muestra visual de cada apunte revisada.",
       "fuentes_adicionales": []
     },
     {

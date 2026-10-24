@@ -1,6 +1,6 @@
 # Reanudación de Física II
 
-## REANUDADO — 23/10/2026
+## REANUDADO — 24/10/2026
 
 El usuario pidió continuar en lotes hasta el 100%, salvo interrupción suya. Este
 bloque prevalece sobre todos los estados históricos inferiores.
@@ -15,7 +15,7 @@ bloque prevalece sobre todos los estados históricos inferiores.
   completos. Caché20261023-planificacion-2016 con25renders,Poppler,PyMuPDF4LLM,
   tablas crudas y cotejadas; dos falsas celdas-marco duplicadas eliminadas.
   Scripts de autoría no idempotentes; no reejecutar. No duplicar notas de2019.
-- Total485notas/4866expresiones; pendientes render GitHub58notas/524math.
+- Total485notas/4866expresiones; GitHub485notas/4866math verificadas; sin apuntes pendientes de render.
   Medios500 (491imágenes/9GIF). PR2 abierto/borrador, avances publicados en
   lotes.
 - Fuente70 completa documentalmente:62/62páginas cotejadas,18notas de teoría y
