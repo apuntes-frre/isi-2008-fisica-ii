@@ -49,7 +49,7 @@ lecturas ilegibles que se detallan a continuación.
 
 | Material | Fragmento pendiente | Límite comprobado |
 | -- | -- | -- |
-| UT5, impresiones de cuatro y seis diapositivas | Glifos de 26/40–42 | Daño incorporado a las imágenes PDF de ambas impresiones; las fórmulas legibles se transcribieron sin reconstruir los símbolos. |
+| UT5, impresiones de cuatro y seis diapositivas | Símbolos y coherencia matemática de 41–42 | 26 corregida y40 normalizada con el usuario; restan delimitadores, referencia(5), coeficientes de(13) y coherencia de(15)–(17). |
 | Modelos de examen, página 14, tema A | Unidad manuscrita del radio | Los tres PDF disponibles tienen el mismo SHA-256 y la misma anotación. |
 | Informe de Kirchhoff, página 5 | Mallas: posición 1 Vcd/Veb/Vgb y posición 3 Vcd | Las fotografías incrustadas de 533 × 350 píxeles no permiten fijar esas cifras con certeza. |
 | Informe de brújula, hoja normalizada 6 | Última cifra retocada de x para 30° | La fotografía original de 720 × 998 píxeles también conserva el retoque; no se sustituye por la tabla mecanografiada. |
@@ -60,7 +60,8 @@ usuario: sustitución de la velocidad en la energía cinética, B² en el numera
 final y notación legible. El apunte incluye una aclaración marcada con * y el
 recorte original; las dos expresiones corregidas se verificaron en GitHub. Esta
 intervención no recupera los glifos originales ni se extiende a las diapositivas
-40–42.
+41–42. La diapositiva40 también quedó normalizada tras el cotejo del usuario,
+sin aclaración al pie, y sus fórmulas modificadas fueron verificadas en GitHub.
 
 ## Pasos restantes
 
@@ -69,8 +70,8 @@ intervención no recupera los glifos originales ni se extiende a las diapositiva
 - [ ] Cotejar únicamente esos fragmentos, actualizar su procedencia y volver a
   validar los apuntes que cambien, incluida su presentación en GitHub.
 - [ ] Cerrar los bloqueos documentales antes de declarar fidelidad al 100% y
-  preparar el PR para revisión. Esta auditoría no autoriza una fusión
-  automática.
+  declarar la materia completa. El usuario autorizó expresamente fusionar los
+  avances actuales el24/10/2026, manteniendo estos pendientes documentados.
 
 El detalle por original, páginas, notas y versiones está en
 [inventario.json](inventario.json), [cobertura.json](cobertura.json) e

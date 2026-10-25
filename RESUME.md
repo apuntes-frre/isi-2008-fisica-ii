@@ -1,5 +1,17 @@
 # Reanudación de Física II
 
+## Autorización de fusión — 24/10/2026
+
+El usuario pidió push y merge de todos los cambios y todos los PR abiertos de
+apuntes-frre. Esta autorización prevalece sobre las restricciones históricas de
+mantener PR2 en borrador. La fusión no declara completa la fidelidad documental.
+
+Estado vigente:487apuntes/4895expresiones verificadas en GitHub. Ciclotrón26
+corregido conservando R; diapositiva40 normalizada tras cotejo con el usuario.
+Restan41–42 (símbolos, referencia5, coeficientes13 y coherencia15–17), unidad
+del radio en examen14, cuatro celdas de Kirchhoff5, cifra retocada de brújula6 y
+rótulo/símbolo de fuerza7. Validar cada corrección nueva localmente y en GitHub.
+
 ## REANUDADO — 24/10/2026
 
 El usuario pidió continuar en lotes hasta el 100%, salvo interrupción suya. Este
