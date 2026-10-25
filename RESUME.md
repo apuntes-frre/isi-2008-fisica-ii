@@ -63,6 +63,14 @@ bloque prevalece sobre todos los estados históricos inferiores.
 - PR2 debe permanecer borrador hasta resolver los límites de fuente. No fusionar
   automáticamente. La solicitud de continuar sigue vigente; no hay pausa nueva.
 
+### Cotejo de la diapositiva 40 con el usuario
+
+- Usuario confirmó fi como vector y cuadrados como errores de renderizado; pidió
+  notación entendible sin aclaración al pie. Diapositiva40 normalizada,
+  ecuaciones(1)–(4) conservadas. Publicado2dc0d06, GitHub27/27math verificado.
+- Restan revisar41–42 con el usuario. Ciclotrón: estado vigente9fbb337, fórmula
+  final conserva R y elimina la sustitución inversa; GitHub2/2math verificado.
+
 ### Corrección editorial del ciclotrón autorizada
 
 - El usuario autorizó corregir las fórmulas de la diapositiva26 y añadir una
