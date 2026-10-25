@@ -1,6 +1,6 @@
 # Auditoría de transcripción de Física II
 
-Revisión: 24/10/2026. La materia conserva límites documentales abiertos; no se
+Revisión: 25/10/2026. La materia conserva límites documentales abiertos; no se
 declara una transcripción íntegra sin pérdidas.
 
 ## Controles completados
@@ -45,11 +45,10 @@ commit `f58d6692f6f41da361fba900db9d45722dc3d9a0`:
 El resultado de CI valida los controles del repositorio; no resuelve las
 lecturas ilegibles que se detallan a continuación.
 
-## Bloqueos que requieren una fuente mejor
+## Bloqueos que requieren una fuente mejor o cotejo del usuario
 
 | Material | Fragmento pendiente | Límite comprobado |
 | -- | -- | -- |
-| UT5, impresiones de cuatro y seis diapositivas | Símbolos y coherencia matemática de 41–42 | 26 corregida y40 normalizada con el usuario; restan delimitadores, referencia(5), coeficientes de(13) y coherencia de(15)–(17). |
 | Modelos de examen, página 14, tema A | Unidad manuscrita del radio | Los tres PDF disponibles tienen el mismo SHA-256 y la misma anotación. |
 | Informe de Kirchhoff, página 5 | Mallas: posición 1 Vcd/Veb/Vgb y posición 3 Vcd | Las fotografías incrustadas de 533 × 350 píxeles no permiten fijar esas cifras con certeza. |
 | Informe de brújula, hoja normalizada 6 | Última cifra retocada de x para 30° | La fotografía original de 720 × 998 píxeles también conserva el retoque; no se sustituye por la tabla mecanografiada. |
@@ -63,10 +62,18 @@ intervención no recupera los glifos originales ni se extiende a las diapositiva
 41–42. La diapositiva40 también quedó normalizada tras el cotejo del usuario,
 sin aclaración al pie, y sus fórmulas modificadas fueron verificadas en GitHub.
 
+El cotejo remoto de las diapositivas 41–42 quedó completado el25/10/2026. Se
+normalizaron vectores y delimitadores, y se corrigieron con autorización del
+usuario los coeficientes intercambiados de (13). Las derivadas y la ecuación de
+circunferencia son coherentes; GitHub27/27expresiones verificado. El bloqueo de
+UT5 queda resuelto mediante esta normalización y corrección, no mediante la
+recuperación de glifos del PDF. Persisten los cuatro grupos manuscritos de la
+tabla anterior.
+
 ## Pasos restantes
 
-- [ ] Obtener una copia legible o una aclaración verificable de los cinco grupos
-  anteriores, manteniendo separada cualquier corrección editorial.
+- [ ] Obtener una copia legible o una aclaración verificable de los cuatro
+  grupos anteriores, manteniendo separada cualquier corrección editorial.
 - [ ] Cotejar únicamente esos fragmentos, actualizar su procedencia y volver a
   validar los apuntes que cambien, incluida su presentación en GitHub.
 - [ ] Cerrar los bloqueos documentales antes de declarar fidelidad al 100% y
