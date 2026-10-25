@@ -1,7 +1,7 @@
 # Demostración de la trayectoria helicoidal — variante impresa
 
-> Diapositiva 40: notación matemática normalizada tras el cotejo con el usuario.
-> En las diapositivas 41–42, `□` señala sectores aún pendientes de revisión.
+> Diapositivas 40–41: notación matemática normalizada tras el cotejo con el
+> usuario. En la diapositiva 42, `□` señala sectores aún pendientes de revisión.
 
 ## Diapositiva 40
 
@@ -70,7 +70,7 @@ v_z=Cte
 ## Diapositiva 41
 
 ```math
-\boxed{\omega=\frac{qB_z}{m}}\quad\square\quad
+\boxed{\omega=\frac{qB_z}{m}}\quad\Longrightarrow\quad
 \frac{d^2v_x}{dt^2}+\omega^2v_x=0\qquad(6)
 ```
 
@@ -80,7 +80,7 @@ La solución general de (6) es:
 v_x(t)=A_1\sin(\omega t)+A_2\cos(\omega t)\qquad(7)
 ```
 
-Utilizando (7) y empleando (5) obtenemos:
+Utilizando (7) y la relación para la componente de la velocidad obtenemos:
 
 ```math
 v_y=\frac{m}{qB_z}\frac{dv_x}{dt}
@@ -94,10 +94,10 @@ Para determinar las constantes necesitamos una condición inicial para v. Si en 
 = 0 la velocidad es:
 
 ```math
-\overset{\mathrm{fi}}v(0)=v_{0x}\breve\imath+v_{0y}\breve\jmath+v_{0z}\breve k
+\vec v(0)=v_{0x}\hat\imath+v_{0y}\hat\jmath+v_{0z}\hat k
 ```
 
-Los delimitadores del siguiente grupo están deteriorados:
+Las condiciones iniciales determinan las constantes:
 
 ```math
 v_x(0)=A_2=v_{0x}
@@ -111,7 +111,7 @@ v_y(0)=A_1=v_{0y}
 v_z(0)=v_{0z}=Cte
 ```
 
-El enlace y los delimitadores del siguiente grupo también están deteriorados:
+Sustituyendo las constantes, las componentes de la velocidad quedan:
 
 ```math
 v_x(t)=v_{0y}\sin(\omega t)+v_{0x}\cos(\omega t)\qquad(9)
@@ -186,4 +186,4 @@ R=\frac{\sqrt{v_{0x}^{2}+v_{0y}^{2}}}{\omega}\qquad(17)
   41–42 se conservan la referencia a (5) sin número visible junto a la
   expresión, los coeficientes de (13) y el centro de (16), pendientes de
   revisión.
-- Pendiente: revisar los símbolos y expresiones de las diapositivas 41–42.
+- Pendiente: revisar los símbolos y expresiones de la diapositiva 42.
