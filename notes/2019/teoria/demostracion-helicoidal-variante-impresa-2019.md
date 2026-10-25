@@ -1,8 +1,5 @@
 # Demostración de la trayectoria helicoidal — variante impresa
 
-> Diapositivas 40–41: notación matemática normalizada tras el cotejo con el
-> usuario. En la diapositiva 42, `□` señala sectores aún pendientes de revisión.
-
 ## Diapositiva 40
 
 La velocidad v de la partícula forma un ángulo θ con el campo magnético B
@@ -132,34 +129,33 @@ v_z(t)=v_{0z}\qquad(11)
 Para determinar las coordenadas en función del tiempo debemos integrar las
 ecuaciones de las velocidades:
 
-Los delimitadores del grupo de coordenadas están deteriorados:
-
 ```math
 x(t)=\frac{v_{0y}}{\omega}(1-\cos(\omega t))+
 \frac{v_{0x}}{\omega}\sin(\omega t)\qquad(12)
 ```
 
 ```math
-y(t)=\frac{v_{0y}}{\omega}[-1+\cos(\omega t)]+
-\frac{v_{0x}}{\omega}\sin(\omega t)\qquad(13)
+y(t)=\frac{v_{0x}}{\omega}[\cos(\omega t)-1]+
+\frac{v_{0y}}{\omega}\sin(\omega t)\qquad(13)
 ```
 
 ```math
 z(t)=v_{0z}t\qquad(14)
 ```
 
-Elevando al cuadrado (12) y (13) y sumando m.a.m y simplificando se obtiene:
+Reordenando (12) y (13), elevando al cuadrado y sumando miembro a miembro se
+obtiene:
 
 ```math
-\square x(t)-\frac{v_{0y}}{\omega}\square^2+
-\square y(t)+\frac{v_{0x}}{\omega}\square^2
+\left(x(t)-\frac{v_{0y}}{\omega}\right)^2+
+\left(y(t)+\frac{v_{0x}}{\omega}\right)^2
 =\frac{v_{0x}^{2}+v_{0y}^{2}}{\omega^2}\qquad(15)
 ```
 
 Circunferencia con centro en:
 
 ```math
-\square\frac{v_{0y}}{\omega},-\frac{v_{0x}}{\omega}\square\qquad(16)
+\left(\frac{v_{0y}}{\omega},-\frac{v_{0x}}{\omega}\right)\qquad(16)
 ```
 
 y radio
@@ -181,9 +177,10 @@ R=\frac{\sqrt{v_{0x}^{2}+v_{0y}^{2}}}{\omega}\qquad(17)
 - Inspección de imágenes PDF con PyMuPDF, comparación con Poppler y los renders
   completos. No hay texto ni fuentes embebidas recuperables en estas hojas de la
   primera impresión; los defectos también aparecen en la segunda.
-- Los recortes preservan los diagramas y permiten localizar cada glifo perdido.
-  La diapositiva 40 usa notación normalizada tras el cotejo con el usuario. En
-  41–42 se conservan la referencia a (5) sin número visible junto a la
-  expresión, los coeficientes de (13) y el centro de (16), pendientes de
-  revisión.
-- Pendiente: revisar los símbolos y expresiones de la diapositiva 42.
+- Los recortes conservan las diapositivas originales. La notación de vectores,
+  determinante y delimitadores se normalizó tras el cotejo del usuario. La
+  referencia a (5), cuyo número no es visible, se expresa mediante la relación
+  correspondiente sin asignarle una etiqueta nueva.
+- El usuario autorizó el 25/10/2026 corregir los coeficientes intercambiados de
+  (13): el término con coseno lleva v₀ₓ y el término con seno lleva v₀ᵧ. La
+  expresión corregida integra (10) y es coherente con la circunferencia (15).
