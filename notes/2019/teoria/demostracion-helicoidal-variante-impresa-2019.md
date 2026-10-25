@@ -1,44 +1,39 @@
 # Demostración de la trayectoria helicoidal — variante impresa
 
-> Transcripción del contenido legible de las diapositivas 40–42. `□` señala
-> sectores con glifos dañados; no es una variable y no establece qué símbolo
-> había allí. No se reproducen uno por uno los fragmentos de los delimitadores:
-> su disposición exacta queda visible en los recortes originales. La marca «fi»
-> impresa sobre algunas letras se conserva literalmente; no se convierte por
-> conjetura en una flecha vectorial.
+> Diapositiva 40: notación matemática normalizada tras el cotejo con el usuario.
+> En las diapositivas 41–42, `□` señala sectores aún pendientes de revisión.
 
 ## Diapositiva 40
 
 La velocidad v de la partícula forma un ángulo θ con el campo magnético B
 
 ```math
-\overset{\mathrm{fi}}F=q(\overset{\mathrm{fi}}v\cdot\overset{\mathrm{fi}}B)=m\overset{\mathrm{fi}}a
+\vec F=q(\vec v\times\vec B)=m\vec a
 ```
 
 ```math
-\overset{\mathrm{fi}}B=B_z\breve k\qquad
-\overset{\mathrm{fi}}v=v_x\breve\imath+v_y\breve\jmath+v_z\breve k
+\vec B=B_z\hat k\qquad
+\vec v=v_x\hat\imath+v_y\hat\jmath+v_z\hat k
 ```
 
 ```math
-\overset{\mathrm{fi}}a=a_x\breve\imath+a_y\breve\jmath+a_z\breve k
-=\frac{dv_x}{dt}\breve\imath+\frac{dv_y}{dt}\breve\jmath+\frac{dv_z}{dt}\breve k
+\vec a=a_x\hat\imath+a_y\hat\jmath+a_z\hat k
+=\frac{dv_x}{dt}\hat\imath+\frac{dv_y}{dt}\hat\jmath+\frac{dv_z}{dt}\hat k
 ```
 
-La disposición matricial tiene delimitadores deteriorados:
+Desarrollando el producto vectorial:
 
 ```math
-\overset{\mathrm{fi}}F=q\;\square\;
-\begin{array}{ccc}
-\breve\imath&\breve\jmath&\breve k\\
+\vec F=q
+\begin{vmatrix}
+\hat\imath&\hat\jmath&\hat k\\
 v_x&v_y&v_z\\
 0&0&B_z
-\end{array}
-\;\square
-=q(v_yB_z\breve\imath-v_xB_z\breve\jmath+0\breve k)
+\end{vmatrix}
+=q(v_yB_z\hat\imath-v_xB_z\hat\jmath+0\hat k)
 ```
 
-El sistema tiene delimitadores deteriorados; sus tres renglones legibles son:
+Igualando las componentes de la fuerza magnética y de la fuerza neta:
 
 ```math
 m\frac{dv_x}{dt}=qv_yB_z\qquad(1)
@@ -52,15 +47,19 @@ m\frac{dv_y}{dt}=-qv_xB_z\qquad(2)
 m\frac{dv_z}{dt}=0\qquad(3)
 ```
 
-El enlace gráfico entre los dos grupos de expresiones está deteriorado.
+De (1) se despeja la componente de la velocidad:
 
 ```math
 v_y=\frac{m}{qB_z}\frac{dv_x}{dt}
 ```
 
+Derivando esta relación respecto del tiempo y sustituyendo en (2):
+
 ```math
-\frac{d^2v_x}{dt^2}+\square\frac{qB_z}{m}\square^{2}v_x=0\qquad(4)
+\frac{d^2v_x}{dt^2}+\left(\frac{qB_z}{m}\right)^2v_x=0\qquad(4)
 ```
+
+De (3), la componente de la velocidad paralela al campo permanece constante:
 
 ```math
 v_z=Cte
@@ -183,11 +182,8 @@ R=\frac{\sqrt{v_{0x}^{2}+v_{0y}^{2}}}{\omega}\qquad(17)
   completos. No hay texto ni fuentes embebidas recuperables en estas hojas de la
   primera impresión; los defectos también aparecen en la segunda.
 - Los recortes preservan los diagramas y permiten localizar cada glifo perdido.
-  Las ecuaciones legibles están transcritas como LaTeX. Se mantienen el punto
-  entre v y B de la primera ecuación, las marcas «fi», los versores con breve,
-  la referencia a (5) sin número visible junto a la expresión, los coeficientes
-  de (13) y el centro de (16), sin corregir ni rehacer la derivación.
-- Pendiente: recuperar los símbolos que ocupan los sectores dañados a partir de
-  una copia legible de esta impresión. No se trasladan silenciosamente flechas,
-  productos vectoriales ni delimitadores de la versión de una diapositiva por
-  página.
+  La diapositiva 40 usa notación normalizada tras el cotejo con el usuario. En
+  41–42 se conservan la referencia a (5) sin número visible junto a la
+  expresión, los coeficientes de (13) y el centro de (16), pendientes de
+  revisión.
+- Pendiente: revisar los símbolos y expresiones de las diapositivas 41–42.

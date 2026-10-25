@@ -9367,8 +9367,8 @@
       ],
       "paginacion": "PDF original; contenido legible de diapositivas 40,41,42; glifos deteriorados señalados, no recuperados",
       "math_esperada": 27,
-      "math_renderizada_github": 27,
-      "estado": "2026-10-24: GitHub verificado,27/27math,0merror,0sin renderizar; figuras cargadas y cotejo visual. Transcripción parcial: glifos deteriorados señalados, no recuperados.",
+      "math_renderizada_github": null,
+      "estado": "2026-10-24: diapositiva40 normalizada con cotejo del usuario: vectores, producto vectorial, determinante y paréntesis; explicación autónoma sin aclaración al pie solicitada.41–42 pendientes. Revisión GitHub pendiente.",
       "fuentes_adicionales": [
         {
           "original": "2019/2do Parcial/UT 5 6 pag.pdf",
@@ -9383,8 +9383,7 @@
           ],
           "estado": "cotejo visual; conserva los mismos daños, sin recuperación por conjetura"
         }
-      ],
-      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/7508aa19ca0ac0db272fb0fb78f95ec2bed04b92/notes/2019/teoria/demostracion-helicoidal-variante-impresa-2019.md"
+      ]
     }
   ]
 }
