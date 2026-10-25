@@ -1,8 +1,8 @@
 # Ciclotrón — variante impresa
 
-> Transcripción del contenido legible de la diapositiva 26. Los glifos dañados
-> ya aparecen así en el PDF. `□` señala un sector ilegible; no representa una
-> magnitud física ni reconstruye el símbolo perdido.
+> Transcripción de la diapositiva 26 con corrección editorial solicitada por el
+> usuario. La aclaración marcada con * al pie distingue la corrección del
+> contenido original.
 
 ## CICLOTRON
 
@@ -14,12 +14,19 @@ periodo T, igual al periodo de ciclotrón T = 2πm/qB. Si R es el radio de giro 
 emerger
 
 ```math
-R=\frac{mv}{qB}\quad\square\quad v=\frac{qBR}{m}
+R=\frac{mv}{qB}\quad\Longrightarrow\quad v=\frac{qBR}{m}
 ```
 
 ```math
-Ec=\frac12mv^2=\frac12\square\frac{q^2v^2}{m}\square R^2
+Ec=\frac12mv^2=\frac12m\left(\frac{qBR}{m}\right)^2=\frac{q^2B^2R^2}{2m}
 ```
+
+\* Fórmulas corregidas editorialmente a pedido del usuario: se despeja la
+velocidad de la expresión del radio y se sustituye en la energía cinética. El
+original muestra v² donde corresponde B² en el numerador final y presenta
+errores de renderizado en el símbolo intermedio y los delimitadores. La flecha y
+los paréntesis de estas fórmulas expresan la interpretación matemática; no son
+glifos recuperados del PDF.
 
 El esquema del ciclotrón y los sectores deteriorados se conservan en este
 recorte del original:
@@ -38,8 +45,7 @@ recorte del original:
   completos; recorte de la diapositiva como evidencia del daño. No hay texto ni
   fuentes embebidas recuperables en estas hojas de la primera impresión. Las dos
   impresiones conservan los defectos.
-- Se conserva v² en el numerador final. No se sustituye por B² ni se calcula una
-  expresión nueva. El símbolo entre R y v, y los delimitadores de la energía, no
-  se reconstruyen a partir de otra versión.
-- Pendiente: identificar los glifos dañados con una copia legible del mismo
-  material. Esta transcripción parcial no declara recuperados esos símbolos.
+- Corrección editorial autorizada por el usuario: sustitución de la velocidad en
+  la energía cinética, cambio de v² a B² en el numerador final y notación
+  matemática legible. El recorte conserva la errata y los defectos originales;
+  la aclaración con * documenta la intervención.
