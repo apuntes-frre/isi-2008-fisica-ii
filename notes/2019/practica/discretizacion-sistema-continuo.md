@@ -13,8 +13,10 @@ Radio R y densidad superficial de carga σ, sobre un eje perpendicular al plano 
 a una distancia “a” del centro del disco (Fig 1), viene dado por la expresión:
 
 ```math
-E=\frac{\sigma\cdot a}{2\cdot\varepsilon_0}\left(\frac1a-\frac1{\sqrt{R^2+a^2}}\right)\tag{1}
+E=\frac{\sigma\cdot a}{2\cdot\varepsilon_0}\left(\frac1a-\frac1{\sqrt{R^2+a^2}}\right)
 ```
+
+(1)
 
 ![Disco de radio R y carga Qt con punto de cálculo a distancia a](../../../resources/2019/discretizacion/disco-continuo.png)
 

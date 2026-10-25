@@ -59,8 +59,10 @@ modulados por el diagrama de difracción, tal como puede verse en la figura. Par
 determinar la longitud de onda se tiene
 
 ```math
-\lambda=\frac{a\mathop{\mathrm{sen}}\nolimits\theta}{n}=\frac an\frac{y_n}{\sqrt{L^2+y_n^2}} \tag{1}
+\lambda=\frac{a\mathop{\mathrm{sen}}\nolimits\theta}{n}=\frac an\frac{y_n}{\sqrt{L^2+y_n^2}}
 ```
+
+(1)
 
 donde a es la separación entre ranuras n el número de orden e $`y_n`$ es la
 distancia del orden cero a l orden n en la pantalla

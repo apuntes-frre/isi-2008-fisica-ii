@@ -36,33 +36,43 @@ a través de una espira es igual a la fuerza electromotriz generada en ella con
 signo contrario, es decir
 
 ```math
-e(t)=-\frac{d\varphi}{dt} \tag{1}
+e(t)=-\frac{d\varphi}{dt}
 ```
+
+(1)
 
 Entonces se puede
 
 ```math
-d\varphi=-e(t)dt \tag{2}
+d\varphi=-e(t)dt
 ```
+
+(2)
 
 Integrando se obtiene el flujo magnético
 
 ```math
-\int d\varphi=-\int e(t)dt \tag{3}
+\int d\varphi=-\int e(t)dt
 ```
+
+(3)
 
 Entonces
 
 ```math
-\varphi(t)=-\int e(t)dt \tag{4}
+\varphi(t)=-\int e(t)dt
 ```
+
+(4)
 
 Si el registro de $`e(t)`$ es discreto y no continuo entonces $`e(t_k)`$ para
 $`t_k`$ con $`k=0,1,2\ldots`$ Entonces se puede reescribir la integral
 
 ```math
-\varphi(t_k)=-e(t_k)\Delta t_k \tag{5}
+\varphi(t_k)=-e(t_k)\Delta t_k
 ```
+
+(5)
 
 ## Esquema del montaje
 

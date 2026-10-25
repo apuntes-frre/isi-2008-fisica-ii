@@ -41,8 +41,10 @@ Cuando se coloca un cuerpo de momento magnético $`\vec m`$ en un campo magnéti
 $`\vec B`$ sobre él se ejerce un momento de fuerza dado por:
 
 ```math
-\vec M=\vec m\wedge\vec B\tag{1}
+\vec M=\vec m\wedge\vec B
 ```
+
+(1)
 
 Como la brújula tiene un momento magnético, estará sometida a dos campos
 magnéticos: el terrestre y el de la bobina, cuando por esta circule una
@@ -50,12 +52,16 @@ corriente I., por lo tanto cada uno ejercerá un momento de fuerza sobre la aguj
 magnética que intentará girarla, en concordancia con (1), en equilibrio será:
 
 ```math
-\overline{M_B}-\overline{M_T}=0\rightarrow|\overline{M_B}|=|\overline{M_T}|\tag{2}
+\overline{M_B}-\overline{M_T}=0\rightarrow|\overline{M_B}|=|\overline{M_T}|
 ```
 
+(2)
+
 ```math
-mB_B\cos\theta=mB_T\sin\theta\tag{3}
+mB_B\cos\theta=mB_T\sin\theta
 ```
+
+(3)
 
 Siendo θ el ángulo que forma la aguja con la dirección perpendicular a los
 rieles (es decir el Norte).
@@ -67,8 +73,10 @@ B_B\cos\theta=B_T\sin\theta
 Haciendo pasaje de términos resulta:
 
 ```math
-B_T=B_B\frac{\cos\theta}{\sin\theta}=\frac{B_B}{\tan\theta}\tag{5}
+B_T=B_B\frac{\cos\theta}{\sin\theta}=\frac{B_B}{\tan\theta}
 ```
+
+(5)
 
 donde BT es la componente horizontal del campo magnético terrestre, BB es el
 campo creado por la bobina en la posición donde está la brújula.
@@ -80,8 +88,10 @@ toda la región ocupada por la aguja magnética, entonces se puede calcular la
 intensidad del campo mediante
 
 ```math
-B_B\frac{\mu_0INR^2}{(R^2+x^2)^{3/2}}\tag{6}
+B_B\frac{\mu_0INR^2}{(R^2+x^2)^{3/2}}
 ```
+
+(6)
 
 Donde $`\mu_0=4\pi10^{-7}mKg\,s^2A^{-2}`$, N es el número de las espiras de la
 bobina, R es el radio medio de la bobina e I es la intensidad de corriente que
@@ -93,8 +103,10 @@ aguja magnética.
 La (5) entonces puede escribirse:
 
 ```math
-B_T=\frac{B_B}{\tan\theta}=K\frac I{r^3}\frac1{\tan\theta}\tag{7}
+B_T=\frac{B_B}{\tan\theta}=K\frac I{r^3}\frac1{\tan\theta}
 ```
+
+(7)
 
 ```math
 B_T\tan\theta=K\frac I{r^3}

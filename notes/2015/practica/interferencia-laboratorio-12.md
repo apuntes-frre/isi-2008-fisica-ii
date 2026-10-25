@@ -64,14 +64,18 @@ oscuro si esa diferencia de camino es un número impar de media longitud de onda
 Por lo tanto, se tiene para franjas brillantes:
 
 ```math
-\Delta=d\mathop{\mathrm{sen}}\nolimits\theta=n\lambda\qquad n=1,2,3;\ldots \tag{1}
+\Delta=d\mathop{\mathrm{sen}}\nolimits\theta=n\lambda\qquad n=1,2,3;\ldots
 ```
+
+(1)
 
 y para franjas oscuras:
 
 ```math
-\Delta=d\mathop{\mathrm{sen}}\nolimits\theta=(2n+1)\frac\lambda2\qquad n=0,1,2,3;\ldots \tag{2}
+\Delta=d\mathop{\mathrm{sen}}\nolimits\theta=(2n+1)\frac\lambda2\qquad n=0,1,2,3;\ldots
 ```
+
+(2)
 
 Si L es la distancia entre las ranuras y la pantalla, d la distancia entre
 ranuras, $`\lambda`$ la longitud de onda empleada, n el número de orden de la
@@ -79,16 +83,20 @@ franja oscura / brillante, y x la distancia entre una franja oscura y el orden
 central, se tiene:
 
 ```math
-\frac\Delta d=\mathop{\mathrm{sen}}\nolimits\theta=\frac xL=(2n+1)\frac\lambda{2d} \tag{3}
+\frac\Delta d=\mathop{\mathrm{sen}}\nolimits\theta=\frac xL=(2n+1)\frac\lambda{2d}
 ```
+
+(3)
 
 Considerando que L es suficientemente grande y las franjas oscuras
 
 La distancia entre franjas oscuras sucesivas está dada por
 
 ```math
-\Delta x=x_{n+1}-x_n=[2(n+1)+1]\frac{\lambda L}{2d}-[2n+1]\frac{\lambda L}{2d}=\frac{\lambda L}{d} \tag{4}
+\Delta x=x_{n+1}-x_n=[2(n+1)+1]\frac{\lambda L}{2d}-[2n+1]\frac{\lambda L}{2d}=\frac{\lambda L}{d}
 ```
+
+(4)
 
 La ecuación anterior permite determinar, conocidas x, L y $`\lambda`$, la
 distancia entre ranuras d. También puede emplearse para determinar longitudes de

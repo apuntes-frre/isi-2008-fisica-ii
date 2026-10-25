@@ -17,16 +17,20 @@ potencial alterna, $`v(t)=V_m\cos(\omega t)`$, la intensidad de la corriente que
 se origina se deduce a partir de la ley de Ohm. Se tiene
 
 ```math
-i(t)=\frac{v(t)}{R}=\frac{V_m}{R}\cos(\omega t) \tag{1}
+i(t)=\frac{v(t)}{R}=\frac{V_m}{R}\cos(\omega t)
 ```
+
+(1)
 
 la intensidad que resulta varía armónicamente con el tiempo, como muestra la
 figura 1, con la misma frecuencia que el potencial aplicado, y su valor máximo
 vale
 
 ```math
-i_m=\frac{V_m}{R} \tag{2}
+i_m=\frac{V_m}{R}
 ```
+
+(2)
 
 ![Figura 1: circuito resistivo y señales de potencial y corriente en fase](../../../resources/2015/corriente-alterna-serie/figura-1.png)
 
@@ -43,8 +47,10 @@ serie se establece, una vez desaparecidos los efectos transitorios de corta
 duración, una corriente permanente, que viene expresada por
 
 ```math
-i(t)=I_o\cos(\omega t+\varphi) \tag{3}
+i(t)=I_o\cos(\omega t+\varphi)
 ```
+
+(3)
 
 ![Figura 2: circuito RLC serie y señales desfasadas](../../../resources/2015/corriente-alterna-serie/figura-2.png)
 
@@ -68,14 +74,18 @@ intensidad de una corriente continua que desarrolla la misma cantidad de calor
 en el mismo tiempo y en la misma resistencia. se demuestra que
 
 ```math
-I_{ef}=\frac{I_m}{\sqrt2} \tag{4}
+I_{ef}=\frac{I_m}{\sqrt2}
 ```
+
+(4)
 
 análogamente
 
 ```math
-V_{ef}=\frac{V_m}{\sqrt2} \tag{5}
+V_{ef}=\frac{V_m}{\sqrt2}
 ```
+
+(5)
 
 De ahora en adelante, se interpretará que las letras I y V sin subíndices hacen
 referencia a los valores eficaces de las magnitudes correspondientes.
@@ -85,41 +95,53 @@ por una expresión que tiene la misma forma que la que expresa la ley de Ohm par
 corriente continua.
 
 ```math
-I_m=\frac{V_m}{Z} \tag{7}
+I_m=\frac{V_m}{Z}
 ```
+
+(7)
 
 Denominándose la magnitud Z **impedancia** del circuito, que corresponde a la
 resistencia R de la ley de Ohm en corriente continua. Para los valores eficaces
 será
 
 ```math
-I=\frac{V}{Z} \tag{8}
+I=\frac{V}{Z}
 ```
+
+(8)
 
 La relaci6n que existo entre la impedancia Z del circuito en serie RLC y las
 características R, L y C de los tres elementos considerados es
 
 ```math
-|Z|=\sqrt{R^2+\left(\omega L-\frac1{\omega C}\right)^2} \tag{9}
+|Z|=\sqrt{R^2+\left(\omega L-\frac1{\omega C}\right)^2}
 ```
+
+(9)
 
 introduciendo las siguientes simplificaciones
 
 ```math
-X_L=\omega L\qquad X_C=\frac1{\omega C}\qquad X=X_L-X_C \tag{10}
+X_L=\omega L\qquad X_C=\frac1{\omega C}\qquad X=X_L-X_C
 ```
+
+(10)
 
 se escribe
 
 ```math
-|Z|=\sqrt{R^2+X^2} \tag{11}
+|Z|=\sqrt{R^2+X^2}
 ```
+
+(11)
 
 El ángulo de desfase $`\varphi`$ viene dado por
 
 ```math
-\varphi=\mathop{\mathrm{arctg}}\nolimits\left(\frac XR\right) \tag{12}
+\varphi=\mathop{\mathrm{arctg}}\nolimits\left(\frac XR\right)
 ```
+
+(12)
 
 La magnitud X recibe el nombre de reactancia, $`X_L`$ y $`X_C`$ son la
 reactancia inductiva y capacitiva respectivamente. La impedancia y todas las
@@ -128,14 +150,18 @@ reactancias se miden en ohm.
 La impedancia se puede escribir en forma de número complejo, esto es
 
 ```math
-Z=R+jX=R+j\left(\omega L-\frac1{\omega C}\right) \tag{13}
+Z=R+jX=R+j\left(\omega L-\frac1{\omega C}\right)
 ```
+
+(13)
 
 o bien
 
 ```math
-Z=|Z|e^{j\varphi}=|Z|(\cos\varphi+j\mathop{\mathrm{sen}}\nolimits\varphi) \tag{14}
+Z=|Z|e^{j\varphi}=|Z|(\cos\varphi+j\mathop{\mathrm{sen}}\nolimits\varphi)
 ```
+
+(14)
 
 En la figura 3 se hace una representación vectorial de (13), sobre el eje
 horizontal se grafica la componente real ( resistencia) y sobre el eje vertical
@@ -148,34 +174,46 @@ Si se analizan las diferencia de potencial sobre el circuito de la figura 2, se
 tiene
 
 ```math
-V=IZ=I(R+jX)=I\left[R+j\left(\omega L-\frac1{\omega C}\right)\right]=IR+jI\omega L-j\left(\frac I{\omega C}\right) \tag{15}
+V=IZ=I(R+jX)=I\left[R+j\left(\omega L-\frac1{\omega C}\right)\right]=IR+jI\omega L-j\left(\frac I{\omega C}\right)
 ```
+
+(15)
 
 llamando
 
 ```math
-V_R=IR \tag{16.1}
+V_R=IR
 ```
 
-```math
-V_L=I\omega L=IX_L \tag{16.2}
-```
+(16.1)
 
 ```math
-V_L=\frac I{\omega C}=IX_C \tag{16.3}
+V_L=I\omega L=IX_L
 ```
+
+(16.2)
+
+```math
+V_L=\frac I{\omega C}=IX_C
+```
+
+(16.3)
 
 Reemplazando en (15) resulta
 
 ```math
-V=V_R+j(V_L-V_C) \tag{17}
+V=V_R+j(V_L-V_C)
 ```
+
+(17)
 
 Gráficamente se visualiza en la figura 4, el valor de V se calcula como
 
 ```math
-V=\sqrt{V_R^2+(V_L-V_C)^2} \tag{18}
+V=\sqrt{V_R^2+(V_L-V_C)^2}
 ```
+
+(18)
 
 ![Figura 4: diagrama vectorial de las diferencias de potencial](../../../resources/2015/corriente-alterna-serie/figura-4-potenciales.png)
 

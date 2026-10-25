@@ -17,8 +17,10 @@ entre los extremos de un conductor es directamente proporcional a la corriente I
 que circula por él, esto es:
 
 ```math
-\Delta V=R\cdot I \tag{1}
+\Delta V=R\cdot I
 ```
+
+(1)
 
 Donde R es la constante de proporcionalidad en la ecuación (1) y representa la
 Resistencia que el conductor ofrece al flujo de cargas eléctricas a través de
@@ -39,8 +41,10 @@ es I entonces:
 ![Resistencia y sentido de corriente](../../../resources/2015/ohm-compilado/potenciales.png)
 
 ```math
-Vb-Va=R\cdot I \tag{2}
+Vb-Va=R\cdot I
 ```
+
+(2)
 
 naturalmente esto debe estar integrado a algo más para par formar un circuito
 cerrado y mantener el flujo de cargas, los extremos de la resistencia a y b se
@@ -50,8 +54,10 @@ fuerza electromotriz (fem) entonces:
 ![Fuente y resistencia](../../../resources/2015/ohm-compilado/fuente.png)
 
 ```math
-E=Vb-Va \tag{3}
+E=Vb-Va
 ```
+
+(3)
 
 de modo que reemplazando en (2) la (3) tenemos: $`E=R\cdot I`$
 

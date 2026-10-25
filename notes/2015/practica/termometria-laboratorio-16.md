@@ -32,8 +32,10 @@ que no son lineales, sino más bien de carácter exponencial. Para termistores
 comerciales comunes, la relación es del tipo
 
 ```math
-R(T)=R(T=T_o)e^{\chi(1/T-1/T_o)} \tag{1}
+R(T)=R(T=T_o)e^{\chi(1/T-1/T_o)}
 ```
+
+(1)
 
 Donde R(T) es la resistencia (en ohm) en T (en Kelvin), la que depende de un
 primer parámetro dado por la resistencia a una temperatura conocida
