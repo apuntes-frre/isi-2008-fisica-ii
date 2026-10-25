@@ -9330,6 +9330,59 @@
       "math_renderizada_github": 4,
       "estado": "2026-10-23: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas y muestra visual cotejada.",
       "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/70a01b4c22af84c843aec871c6630275c718c82d/notes/2015/teoria/resumen-entropia.md"
+    },
+    {
+      "original": "2019/2do Parcial/UT 5 4 pag.pdf",
+      "sha256": "134d9de661dcefd039d315a0e669b89c38bf02859d1d2d0806f15569b5006764",
+      "nota": "notes/2019/teoria/ciclotron-variante-impresa-2019.md",
+      "paginas_revisadas": [
+        7
+      ],
+      "paginacion": "PDF original; contenido legible de diapositivas 26; glifos deteriorados señalados, no recuperados",
+      "math_esperada": 2,
+      "math_renderizada_github": null,
+      "estado": "transcripción parcial de contenido legible con marcadores editoriales de daño; pendiente GitHub; no declara recuperados los glifos",
+      "fuentes_adicionales": [
+        {
+          "original": "2019/2do Parcial/UT 5 6 pag.pdf",
+          "sha256": "d80e499c858b45d8146a3e18152de704cefbb9d0009ea7f3717141f3543e7d9c",
+          "paginas_revisadas": [
+            5
+          ],
+          "diapositivas_referencia": [
+            26
+          ],
+          "estado": "cotejo visual; conserva los mismos daños, sin recuperación por conjetura"
+        }
+      ]
+    },
+    {
+      "original": "2019/2do Parcial/UT 5 4 pag.pdf",
+      "sha256": "134d9de661dcefd039d315a0e669b89c38bf02859d1d2d0806f15569b5006764",
+      "nota": "notes/2019/teoria/demostracion-helicoidal-variante-impresa-2019.md",
+      "paginas_revisadas": [
+        10,
+        11
+      ],
+      "paginacion": "PDF original; contenido legible de diapositivas 40,41,42; glifos deteriorados señalados, no recuperados",
+      "math_esperada": 27,
+      "math_renderizada_github": null,
+      "estado": "transcripción parcial de contenido legible con marcadores editoriales de daño; pendiente GitHub; no declara recuperados los glifos",
+      "fuentes_adicionales": [
+        {
+          "original": "2019/2do Parcial/UT 5 6 pag.pdf",
+          "sha256": "d80e499c858b45d8146a3e18152de704cefbb9d0009ea7f3717141f3543e7d9c",
+          "paginas_revisadas": [
+            7
+          ],
+          "diapositivas_referencia": [
+            40,
+            41,
+            42
+          ],
+          "estado": "cotejo visual; conserva los mismos daños, sin recuperación por conjetura"
+        }
+      ]
     }
   ]
 }

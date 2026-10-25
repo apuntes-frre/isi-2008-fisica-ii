@@ -15,7 +15,7 @@ bloque prevalece sobre todos los estados históricos inferiores.
   completos. Caché20261023-planificacion-2016 con25renders,Poppler,PyMuPDF4LLM,
   tablas crudas y cotejadas; dos falsas celdas-marco duplicadas eliminadas.
   Scripts de autoría no idempotentes; no reejecutar. No duplicar notas de2019.
-- Total485notas/4866expresiones; GitHub485notas/4866math verificadas; sin apuntes pendientes de render.
+- Total487notas/4895expresiones; GitHub485notas/4866math verificadas; pendientes2notas/29math.
   Medios500 (491imágenes/9GIF). PR2 abierto/borrador, avances publicados en
   lotes.
 - Fuente70 completa documentalmente:62/62páginas cotejadas,18notas de teoría y
@@ -43,7 +43,12 @@ bloque prevalece sobre todos los estados históricos inferiores.
   examen; revisión visual GitHub y auditoría final. No declarar100% con estas
   lecturas pendientes. No fusionar automáticamente la continuación.
 
-### Estado de cierre al 24/10/2026
+### Continuación activa al 24/10/2026
+
+- UT5: añadidas dos notas con todo el contenido legible26/40–42 y cuatro
+  recortes originales.42diapositivas documentadas:38completas,4parciales; los
+  glifos siguen sin recuperar. No confundir registro de daño con recuperación.
+
 
 - Todos los485apuntes tienen revisión GitHub registrada:4866/4866expresiones,
   sin merror ni fórmulas sin renderizar; figuras cargadas y muestras visuales.

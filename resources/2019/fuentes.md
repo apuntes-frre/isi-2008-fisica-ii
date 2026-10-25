@@ -115,13 +115,18 @@ originales de las normalizadas y registra conteos matemáticos.
   Diapositivas13–20 y27–38 transcritas en cuatro notas de variante,
   34expresiones; q/p/w/t/m/f del original preservadas. Figuras reutilizadas tras
   cotejo. Correspondencias de1–12,21–25,39 registradas sin duplicar notas:38
-  de42 diapositivas documentadas. Faltan tratar glifos dañados de26/40–42;
-  render GitHub pendiente. SHA-256:
+  de42 diapositivas documentadas completas. Las cuatro restantes26/40–42 tienen
+  ahora todo el contenido legible transcrito en dos notas de variante,
+  con29expresiones y cuatro recortes originales; los glifos dañados se señalan
+  sin reconstruir.42diapositivas documentadas, cuatro de forma parcial;
+  pendiente GitHub de las dos notas nuevas. SHA-256:
   `134d9de661dcefd039d315a0e669b89c38bf02859d1d2d0806f15569b5006764`.
 - `2019/2do Parcial/UT 5 6 pag.pdf`: siete páginas cotejadas, 42diapositivas.
   Correspondencias registradas para38 sin duplicar notas; conserva variantes
   q/p/w/t/m/f ylos mismos glifos dañados26/40–42 de la impresión de cuatro. Esos
-  cuatro tramos siguen pendientes. SHA-256:
+  cuatro tramos tienen ahora contenido legible transcrito parcialmente y
+  sectores dañados señalados en dos notas; no se declara recuperada su
+  tipografía. SHA-256:
   `d80e499c858b45d8146a3e18152de704cefbb9d0009ea7f3717141f3543e7d9c`.
 - `2019/2do Parcial/UT 6 4 pag.pdf`: cuatro hojas completas cotejadas,
   fecha08/05/2019;31diapositivas cubiertas por seis apuntes de la versión de16

@@ -246,8 +246,8 @@
       "sha256": "134d9de661dcefd039d315a0e669b89c38bf02859d1d2d0806f15569b5006764",
       "referencia": "2019/2do Parcial/2019 UT V - Fuerzas Magnéticas sobre cargas y elementos de corriente.pdf",
       "sha256_referencia": "383fdb6f46e1627fbe65cf259b89a480bd4b4cc61821cbfc466fa3e4a63ceb29",
-      "metodo": "Cotejo visual de las once hojas. Dieciocho diapositivas con contenido equivalente; veinte con variantes transcritas en cuatro notas. Cuatro pendientes por glifos dañados; dos casilleros finales vacíos. No hay identidad binaria ni de render. La numeración de diapositivas se asigna por orden de casillero.",
-      "estado": "parcial:38 de42diapositivas documentadas",
+      "metodo": "Cotejo visual de las once hojas. Dieciocho diapositivas con contenido equivalente; veinte con variantes transcritas en cuatro notas. Cuatro pendientes por glifos dañados; dos casilleros finales vacíos. No hay identidad binaria ni de render. La numeración de diapositivas se asigna por orden de casillero. Revisión24/10: legible26/40–42 transcrito; glifos dañados conservados como bloqueo, con recortes de evidencia.",
+      "estado": "42/42 diapositivas documentadas;38 completas y4 parcialmente legibles con daños explícitos",
       "paginas": [
         {
           "pagina_pdf": 1,
@@ -435,7 +435,8 @@
             {
               "casillero": 2,
               "diapositiva_referencia": 26,
-              "estado": "pendiente: glifos dañados; no reconstruir por conjetura"
+              "estado": "contenido legible transcrito parcialmente; sectores deteriorados explícitos, símbolos no recuperados",
+              "nota": "notes/2019/teoria/ciclotron-variante-impresa-2019.md"
             },
             {
               "casillero": 3,
@@ -533,7 +534,8 @@
             {
               "casillero": 4,
               "diapositiva_referencia": 40,
-              "estado": "pendiente: glifos dañados; no reconstruir por conjetura"
+              "estado": "contenido legible transcrito parcialmente; sectores deteriorados explícitos, símbolos no recuperados",
+              "nota": "notes/2019/teoria/demostracion-helicoidal-variante-impresa-2019.md"
             }
           ]
         },
@@ -543,12 +545,14 @@
             {
               "casillero": 1,
               "diapositiva_referencia": 41,
-              "estado": "pendiente: glifos dañados; no reconstruir por conjetura"
+              "estado": "contenido legible transcrito parcialmente; sectores deteriorados explícitos, símbolos no recuperados",
+              "nota": "notes/2019/teoria/demostracion-helicoidal-variante-impresa-2019.md"
             },
             {
               "casillero": 2,
               "diapositiva_referencia": 42,
-              "estado": "pendiente: glifos dañados; no reconstruir por conjetura"
+              "estado": "contenido legible transcrito parcialmente; sectores deteriorados explícitos, símbolos no recuperados",
+              "nota": "notes/2019/teoria/demostracion-helicoidal-variante-impresa-2019.md"
             },
             {
               "casillero": 3,
@@ -567,8 +571,8 @@
       "sha256": "d80e499c858b45d8146a3e18152de704cefbb9d0009ea7f3717141f3543e7d9c",
       "referencia": "2019/2do Parcial/UT 5 4 pag.pdf",
       "sha256_referencia": "134d9de661dcefd039d315a0e669b89c38bf02859d1d2d0806f15569b5006764",
-      "metodo": "Siete hojas completas cotejadas visualmente tras rotación antihoraria90grados. Orden de42diapositivas igual a117, incluidas variantes q/p/w/t/m/f ydaños26/40–42. No se declara identidad binaria ni de píxeles. No hay casilleros vacíos.",
-      "estado": "parcial:38 de42diapositivas documentadas; mismos cuatro tramos dañados que117",
+      "metodo": "Siete hojas completas cotejadas visualmente tras rotación antihoraria90grados. Orden de42diapositivas igual a117, incluidas variantes q/p/w/t/m/f ydaños26/40–42. No se declara identidad binaria ni de píxeles. No hay casilleros vacíos. Revisión24/10: legible26/40–42 transcrito; glifos dañados conservados como bloqueo, con recortes de evidencia.",
+      "estado": "42/42 diapositivas documentadas;38 completas y4 parcialmente legibles con daños explícitos",
       "paginas": [
         {
           "pagina_pdf": 1,
@@ -746,7 +750,8 @@
             {
               "casillero": 2,
               "diapositiva_referencia": 26,
-              "estado": "pendiente: glifos dañados; no reconstruir por conjetura"
+              "estado": "contenido legible transcrito parcialmente; sectores deteriorados explícitos, símbolos no recuperados",
+              "nota": "notes/2019/teoria/ciclotron-variante-impresa-2019.md"
             },
             {
               "casillero": 3,
@@ -839,17 +844,20 @@
             {
               "casillero": 4,
               "diapositiva_referencia": 40,
-              "estado": "pendiente: glifos dañados; no reconstruir por conjetura"
+              "estado": "contenido legible transcrito parcialmente; sectores deteriorados explícitos, símbolos no recuperados",
+              "nota": "notes/2019/teoria/demostracion-helicoidal-variante-impresa-2019.md"
             },
             {
               "casillero": 5,
               "diapositiva_referencia": 41,
-              "estado": "pendiente: glifos dañados; no reconstruir por conjetura"
+              "estado": "contenido legible transcrito parcialmente; sectores deteriorados explícitos, símbolos no recuperados",
+              "nota": "notes/2019/teoria/demostracion-helicoidal-variante-impresa-2019.md"
             },
             {
               "casillero": 6,
               "diapositiva_referencia": 42,
-              "estado": "pendiente: glifos dañados; no reconstruir por conjetura"
+              "estado": "contenido legible transcrito parcialmente; sectores deteriorados explícitos, símbolos no recuperados",
+              "nota": "notes/2019/teoria/demostracion-helicoidal-variante-impresa-2019.md"
             }
           ]
         }
