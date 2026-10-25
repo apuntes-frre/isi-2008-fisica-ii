@@ -27,6 +27,24 @@ declara una transcripción íntegra sin pérdidas.
   complementarios. No se declara transcrito el libro de Sampallo ni el curso
   externo incluido en el CD.
 
+## Búsqueda ampliada de fuentes
+
+Se buscaron nombres y rutas de Física, Kirchhoff, brújula, fuerzas magnéticas,
+elementos de corriente y modelos de parcial en todo `Facultad` del OneDrive
+canónico. De 626 coincidencias de rutas, 143 pertenecen al inventario de Física
+II. Fuera de esa carpeta, las coincidencias específicas de Física corresponden a
+Física I, dos libros de Sears y los programas analíticos de Física I y II; las
+restantes coincidencias de modelos de parcial pertenecen a otras materias. No se
+identificó por nombre o ruta una copia alternativa de los cinco grupos
+pendientes. Esta búsqueda no constituye una inspección del contenido de todos
+los archivos de otras materias ni de archivos comprimidos ajenos al inventario.
+
+El PR #2 tiene aprobado el control `Validate Transcription / content` para el
+commit `f58d6692f6f41da361fba900db9d45722dc3d9a0`:
+[ejecución verificada](https://github.com/apuntes-frre/isi-2008-fisica-ii/actions/runs/40152750381).
+El resultado de CI valida los controles del repositorio; no resuelve las
+lecturas ilegibles que se detallan a continuación.
+
 ## Bloqueos que requieren una fuente mejor
 
 | Material | Fragmento pendiente | Límite comprobado |

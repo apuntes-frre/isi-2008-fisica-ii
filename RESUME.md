@@ -63,6 +63,20 @@ bloque prevalece sobre todos los estados históricos inferiores.
 - PR2 debe permanecer borrador hasta resolver los límites de fuente. No fusionar
   automáticamente. La solicitud de continuar sigue vigente; no hay pausa nueva.
 
+### Última búsqueda ampliada y CI
+
+- CI de `f58d669` aprobado: ejecución40152750381, control content. Todo el
+  contenido legible sigue publicado;487notas/4895math, sin cambios de apuntes.
+- Búsqueda de nombres/rutas ampliada a todo Facultad en OneDrive:626resultados,
+  143del inventario canónico. No se identificaron copias alternativas de los
+  cinco grupos bloqueados; fuera de Física II aparecen Física I, libros,
+  programas y modelos de otras materias. No se inspeccionó el contenido de todos
+  esos archivos ni archivos comprimidos ajenos al inventario.
+- Evidencia local: caché20261024-cierre/busqueda-alternativas.txt. Para avanzar
+  hacen falta copias legibles o aclaraciones verificables de los fragmentos
+  enumerados en auditoria-transcripcion.md; no repetir OCR o ampliar la misma
+  imagen como si eso aportara datos originales nuevos. PR2 permanece borrador.
+
 ## CHECKPOINT HISTÓRICO DE PAUSA — 22/10/2026
 
 El usuario pidió pausar la transcripción y dejar todo publicado para continuar
