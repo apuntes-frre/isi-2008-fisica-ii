@@ -18,20 +18,16 @@ R=\frac{mv}{qB}\quad\Longrightarrow\quad v=\frac{qBR}{m}
 ```
 
 ```math
-\begin{aligned}
-Ec&=\frac12mv^2=\frac12m\left(\frac{qBR}{m}\right)^2=\frac{q^2B^2R^2}{2m}\\
-Ec&=\frac{q^2B^2R^2}{2m}=\frac{q^2B^2}{2m}\left(\frac{mv}{qB}\right)^2=\frac12mv^2
-\end{aligned}
+Ec=\frac12mv^2=\frac12m\left(\frac{qBR}{m}\right)^2=\frac{q^2B^2R^2}{2m}
 ```
 
-\* Fórmulas corregidas editorialmente a pedido del usuario: se despeja la
-velocidad de la expresión del radio y se sustituye en la energía cinética; en la
-segunda línea se sustituye el radio para recuperar la expresión inicial. Son
-sustituciones alternativas de la misma relación, no dos sustituciones
-independientes simultáneas. El original muestra v² donde corresponde B² en el
-numerador final y presenta errores de renderizado en el símbolo intermedio y los
-delimitadores. La flecha y los paréntesis de estas fórmulas expresan la
-interpretación matemática; no son glifos recuperados del PDF.
+\* Fórmulas corregidas editorialmente a pedido del usuario: se sustituye la
+velocidad para expresar la energía cinética de salida en función del campo
+magnético B y del radio de salida R, conservando R en el resultado final. El
+original muestra v² donde corresponde B² en el numerador final y presenta
+errores de renderizado en el símbolo intermedio y los delimitadores. La flecha y
+los paréntesis expresan la interpretación matemática; no son glifos recuperados
+del PDF.
 
 El esquema del ciclotrón y los sectores deteriorados se conservan en este
 recorte del original:

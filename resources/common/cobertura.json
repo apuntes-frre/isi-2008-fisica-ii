@@ -9340,8 +9340,8 @@
       ],
       "paginacion": "PDF original; contenido legible de diapositivas 26; glifos deteriorados señalados, no recuperados",
       "math_esperada": 2,
-      "math_renderizada_github": 2,
-      "estado": "2026-10-24: ampliación editorial autorizada: ambas sustituciones equivalentes, v y R, con aclaración *. GitHub verificado:2/2math,0merror,0sin renderizar,imagen cargada; ambas líneas cotejadas visualmente.",
+      "math_renderizada_github": null,
+      "estado": "2026-10-24: corrección editorial autorizada: deducción de Ec en función de B y R; se conserva R y se elimina la sustitución inversa. Aclaración con *. Revisión GitHub pendiente.",
       "fuentes_adicionales": [
         {
           "original": "2019/2do Parcial/UT 5 6 pag.pdf",
@@ -9354,8 +9354,7 @@
           ],
           "estado": "cotejo visual; conserva los mismos daños, sin recuperación por conjetura"
         }
-      ],
-      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/712ac1234af763557a26654f2bb9f91abd8194fd/notes/2019/teoria/ciclotron-variante-impresa-2019.md"
+      ]
     },
     {
       "original": "2019/2do Parcial/UT 5 4 pag.pdf",
