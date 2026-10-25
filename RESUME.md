@@ -1,5 +1,17 @@
 # Reanudación de Física II
 
+PR2 fusionado en main3ec7667. Continuación en
+codex/validar-pendientes-fisica-ii. El usuario está lejos de la laptop: enviar
+recortes originales en el chat y esperar su cotejo, uno por vez.41 validada y
+normalizada en c72bae9, con revisión GitHub27/27math. Próxima42: captura en
+caché20261024-cierre/ut5-diapositiva-42.png; coeficientes de y(13) del original
+no coinciden con la integral de velocidad(10). No corregirlos sin distinguir la
+errata y sin cotejo del usuario. Siguen los cuatro grupos manuscritos de
+examen/Kirchhoff/brújula/fuerza. Los bloques históricos inferiores no prevalecen
+sobre este checkpoint.
+
+## Historial de reanudación
+
 ## Autorización de fusión — 24/10/2026
 
 El usuario pidió push y merge de todos los cambios y todos los PR abiertos de
