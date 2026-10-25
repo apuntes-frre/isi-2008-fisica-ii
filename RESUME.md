@@ -63,6 +63,16 @@ bloque prevalece sobre todos los estados históricos inferiores.
 - PR2 debe permanecer borrador hasta resolver los límites de fuente. No fusionar
   automáticamente. La solicitud de continuar sigue vigente; no hay pausa nueva.
 
+### Corrección editorial del ciclotrón autorizada
+
+- El usuario autorizó corregir las fórmulas de la diapositiva26 y añadir una
+  aclaración con \*. Apunte publicado en f3a1e83: velocidad sustituida en
+  energía, B² en el numerador final, flecha y paréntesis interpretativos.
+  Recorte original conservado. GitHub2/2math verificado, sin errores; cobertura
+  actualizada.
+- El daño del original no se declara recuperado; esta autorización corresponde
+  solo al ciclotrón, no a las diapositivas40–42 ni a manuscritos pendientes.
+
 ### Última búsqueda ampliada y CI
 
 - CI de `f58d669` aprobado: ejecución40152750381, control content. Todo el

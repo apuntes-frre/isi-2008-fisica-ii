@@ -55,6 +55,13 @@ lecturas ilegibles que se detallan a continuación.
 | Informe de brújula, hoja normalizada 6 | Última cifra retocada de x para 30° | La fotografía original de 720 × 998 píxeles también conserva el retoque; no se sustituye por la tabla mecanografiada. |
 | Informe de fuerza sobre corriente, página 7 | Rótulo de masa inferior y símbolo ausente de la plantilla | Fotografía original de 720 × 1280 píxeles; valor 7,5 g y cuentas legibles ya conservados, rótulo sin certeza y símbolo no representado. |
 
+La diapositiva 26 cuenta ahora con una corrección editorial autorizada por el
+usuario: sustitución de la velocidad en la energía cinética, B² en el numerador
+final y notación legible. El apunte incluye una aclaración marcada con * y el
+recorte original; las dos expresiones corregidas se verificaron en GitHub. Esta
+intervención no recupera los glifos originales ni se extiende a las diapositivas
+40–42.
+
 ## Pasos restantes
 
 - [ ] Obtener una copia legible o una aclaración verificable de los cinco grupos
