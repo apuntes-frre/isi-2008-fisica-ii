@@ -15,9 +15,9 @@ bloque prevalece sobre todos los estados históricos inferiores.
   completos. Caché20261023-planificacion-2016 con25renders,Poppler,PyMuPDF4LLM,
   tablas crudas y cotejadas; dos falsas celdas-marco duplicadas eliminadas.
   Scripts de autoría no idempotentes; no reejecutar. No duplicar notas de2019.
-- Total487notas/4895expresiones; GitHub485notas/4866math verificadas; pendientes2notas/29math.
-  Medios500 (491imágenes/9GIF). PR2 abierto/borrador, avances publicados en
-  lotes.
+- Total487notas/4895expresiones; GitHub487notas/4895math verificadas; sin
+  apuntes pendientes de render. Medios504 (495imágenes/9GIF). PR2
+  abierto/borrador, avances publicados en lotes.
 - Fuente70 completa documentalmente:62/62páginas cotejadas,18notas de teoría y
   ejercicios. Portada autor Anibal Kasero y título Biot-Savart, distintos del
   nombre de archivo. Página62 vacía, borrador tachado21 conservado como recorte.
@@ -28,8 +28,8 @@ bloque prevalece sobre todos los estados históricos inferiores.
   Taylor y fem separadas tras detectar apilamiento en MathML. Mismo defecto
   confirmado en apuntes previos:222etiquetas de31notas movidas a texto, fórmulas
   cotejadas idénticas salvo tag; evidencia GitHub invalidada únicamente en
-  esos31archivos para revisión nueva; los31archivos ya revisados737/737math. Evidencia en
-  cobertura; no contar solo mjx-container (da0 en esta vista).
+  esos31archivos para revisión nueva; los31archivos ya revisados737/737math.
+  Evidencia en cobertura; no contar solo mjx-container (da0 en esta vista).
 - Fuente71 completa documentalmente:80/80páginas,76notas; revisión GitHub
   completa,773/773math. Caché20261023-resumen-fisica con extracción completa y
   renders1–80; fórmulas imagen deben transcribirse en LaTeX, no publicarlas como
@@ -43,26 +43,25 @@ bloque prevalece sobre todos los estados históricos inferiores.
   examen; revisión visual GitHub y auditoría final. No declarar100% con estas
   lecturas pendientes. No fusionar automáticamente la continuación.
 
-### Continuación activa al 24/10/2026
+### Auditoría y bloqueos al 24/10/2026
 
-- UT5: añadidas dos notas con todo el contenido legible26/40–42 y cuatro
-  recortes originales.42diapositivas documentadas:38completas,4parciales; los
-  glifos siguen sin recuperar. No confundir registro de daño con recuperación.
-
-
-- Todos los485apuntes tienen revisión GitHub registrada:4866/4866expresiones,
-  sin merror ni fórmulas sin renderizar; figuras cargadas y muestras visuales.
-- Fuentes117/118 siguen bloqueadas en26/40–42: el daño aparece en la imagen
-  del propio PDF. Inspección de117 hojas7/10/11 confirma cero fuentes y cero
-  texto PDF; no existe una fuente embebida que cambiar para recuperar glifos.
-  Renders de comprobación en caché20261024-cierre. No sustituir por103 sin
-  evidencia específica de equivalencia.
-- Continúan pendientes la unidad manuscrita del examen14 y las lecturas
-  manuscritas63/64/65 ya delimitadas arriba. La falta de certeza se conserva
-  explícitamente; no rellenar por resultados mecanografiados o por cálculo.
-- Próxima labor: buscar una copia canónica mejor de esos fragmentos, revisar
-  el recorte de anotaciones de fuerza y cerrar auditoría documental de fuentes.
-  PR2 sigue borrador; no declarar100% ni fusionar con bloqueos abiertos.
+- Publicado el contenido legible de26/40–42 en dos variantes con29expresiones y
+  cuatro recortes.42diapositivas documentadas:38completas,4parciales; los glifos
+  siguen sin recuperar. GitHub2/2notas y29/29expresiones verificado.
+- Auditoría:143/143originales cotejados por SHA-256; ningún original nuevo,
+  ausente o alterado.487notas con487filas de cobertura, sin omisiones ni
+  duplicaciones;4895/4895math verificadas en GitHub.
+- Revisadas las imágenes nativas de63/64/65 y el examen14. Los tres archivos de
+  modelos de examen son idénticos por SHA-256: no son copias mejores. La
+  impresión118 conserva los mismos defectos de117. No existen fuentes o texto
+  PDF recuperables en117 hojas7/10/11. No reconstruir desde103.
+- No hay más lotes de texto legible identificados como pendientes en el corpus
+  inventariado. Los cinco grupos que requieren una fuente mejor figuran en
+  resources/common/auditoria-transcripcion.md. No declarar100% de fidelidad.
+- Recorte de anotaciones de fuerza revisado: conserva las cuentas de masa,
+  longitud y densidad sin nombres o firma docente reconocible. Sin cambios.
+- PR2 debe permanecer borrador hasta resolver los límites de fuente. No fusionar
+  automáticamente. La solicitud de continuar sigue vigente; no hay pausa nueva.
 
 ## CHECKPOINT HISTÓRICO DE PAUSA — 22/10/2026
 
