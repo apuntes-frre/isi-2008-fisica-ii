@@ -21,6 +21,15 @@ Usar un subagente independiente por página, una página por vez; comparar
 original/principal/subagente y esperar elección. Los bloques históricos
 inferiores no prevalecen sobre este checkpoint.
 
+## Cotejo de brújula cerrado — 25/10/2026
+
+Usuario confirmó x30°=0,0945m y radio medio0,0275m tras ver original y ambas
+lecturas. Apunte actualizado en4cbcb53; GitHub1/1math e imagen verificados.
+Tabla mecanografiada posterior conserva0,094m: no homogeneizar las versiones.
+Resta únicamente fuerza7 para el cotejo activo original/principal/subagente.
+Kirchhoff5 permanece como imagen y cuatro[ilegible] por decisión del usuario,
+con copia nativa preservada para futuro OCR. No declarar recuperación de cifras.
+
 ## Historial de reanudación
 
 ## Autorización de fusión — 24/10/2026

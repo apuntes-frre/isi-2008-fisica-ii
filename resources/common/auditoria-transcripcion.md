@@ -50,7 +50,6 @@ lecturas ilegibles que se detallan a continuación.
 | Material | Fragmento pendiente | Límite comprobado |
 | -- | -- | -- |
 | Informe de Kirchhoff, página 5 | Mallas: posición 1 Vcd/Veb/Vgb y posición 3 Vcd | Las fotografías incrustadas de 533 × 350 píxeles no permiten fijar esas cifras con certeza. |
-| Informe de brújula, hoja normalizada 6 | Última cifra retocada de x para 30° | La fotografía original de 720 × 998 píxeles también conserva el retoque; no se sustituye por la tabla mecanografiada. |
 | Informe de fuerza sobre corriente, página 7 | Rótulo de masa inferior y símbolo ausente de la plantilla | Fotografía original de 720 × 1280 píxeles; valor 7,5 g y cuentas legibles ya conservados, rótulo sin certeza y símbolo no representado. |
 
 La diapositiva 26 cuenta ahora con una corrección editorial autorizada por el
@@ -81,6 +80,12 @@ localmente ambas fotos JPEG incrustadas533×350 sin modificar sus bytes. Esta
 decisión conserva el límite documental para futuro OCR o una fuente mejor; no
 declara recuperadas las cuatro cifras. El cotejo continúa con brújula6 y
 fuerza7.
+
+Brújula6: el usuario confirmó x30°=0,0945m y radio medio0,0275m después de
+comparar el original con las versiones del principal y del subagente. Se aplicó
+la lectura y se verificó en GitHub1/1expresión, imagen cargada y tabla cotejada.
+Se mantiene la diferencia con0,094m de la tabla mecanografiada posterior. Resta
+fuerza7 para el cotejo activo; Kirchhoff5 se conserva sin recuperar sus cifras.
 
 ## Pasos restantes
 

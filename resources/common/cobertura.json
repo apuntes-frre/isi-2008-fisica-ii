@@ -7763,9 +7763,10 @@
       ],
       "paginacion": "PDF normalizado LO nueve páginas,6 completa; datos nominales y firmas omitidos",
       "math_esperada": 1,
-      "math_renderizada_github": null,
-      "estado": "2026-10-25: usuario confirmó x30°=0,0945m y radio medio0,0275m tras cotejo original/principal/subagente. Se mantiene0,094m de tabla mecanografiada posterior por separado. Revisión GitHub pendiente.",
-      "fuentes_adicionales": []
+      "math_renderizada_github": 1,
+      "estado": "2026-10-25: usuario confirma x30°=0,0945m y radio medio0,0275m tras cotejo original/principal/subagente. Se conserva diferencia con0,094m de tabla posterior. GitHub1/1math,0merror,0sin renderizar,imagen cargada; tabla y radio cotejados visualmente.",
+      "fuentes_adicionales": [],
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/4cbcb53f69d74087ec8262cbc9416c41bb933f35/notes/2015/practica/brujula-informe-grupo-6-hoja-datos.md"
     },
     {
       "original": "2015/L8 Fza sobre elemento de cte G6 Aprobado.pdf",
