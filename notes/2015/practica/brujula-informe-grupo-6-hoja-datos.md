@@ -37,7 +37,7 @@ Imax = 0,15 A.
 <tr><td>45°</td><td></td><td>0,077</td><td></td><td></td><td></td></tr>
 <tr><td>40°</td><td></td><td>0,084</td><td></td><td></td><td></td></tr>
 <tr><td>35°</td><td></td><td>0,087</td><td></td><td></td><td></td></tr>
-<tr><td>30°</td><td></td><td>0,09[ilegible]</td><td></td><td></td><td></td></tr>
+<tr><td>30°</td><td></td><td>0,0945</td><td></td><td></td><td></td></tr>
 <tr><td>25°</td><td></td><td>0,103</td><td></td><td></td><td></td></tr>
 <tr><td>20°</td><td></td><td>0,110</td><td></td><td></td><td></td></tr>
 <tr><td>15°</td><td></td><td>0,120</td><td></td><td></td><td></td></tr>
@@ -73,10 +73,12 @@ r=\sqrt{R^2+x^2}
   vacías; las columnas Tang, r, BB y BT están vacías en todas las filas. Una
   línea gruesa separa las nueve primeras de las cinco restantes. La celda vacía
   encima de Ángulo es un espacio de formulario, no otra medición.
-- La distancia de 30° tiene una cifra final retocada, sin lectura inequívoca: se
-  conserva «0,09[ilegible]» y el recorte. No se sustituye por 0,094 de la tabla
-  mecanografiada de página 7. Hace falta una copia más nítida para cerrar esta
-  cifra. Los ceros finales de 0,110, 0,120 y 0,130 se preservan.
+- Tras comparar el original y las lecturas del agente principal y del subagente,
+  el usuario confirmó el 25/10/2026 la distancia de 30° como 0,0945 m y el radio
+  medio como 0,0275 m. Se conserva la fotografía original. La tabla
+  mecanografiada posterior indica 0,094 m para 30°; se mantiene esa diferencia
+  entre versiones, sin alterar la tabla posterior. Los ceros finales de 0,110,
+  0,120 y 0,130 se preservan.
 - Se mantiene «N = 200 V» tal como se lee en la hoja, sin interpretarlo como una
   tensión ni cambiarlo a «espiras». La fecha del campo es 16/06/16 y junto a la
   firma docente consta 16/06/2016; la carpeta 2015 no acredita su año.
