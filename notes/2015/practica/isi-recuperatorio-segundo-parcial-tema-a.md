@@ -24,6 +24,8 @@ en el alambre es de 16 amp
 Hallar la distancia d a la que debe estar el conductor recto de la figura para
 que el campo magnético en el centro de la espira sea cero.-
 
+Dato manuscrito: $`R=5\ \mathrm{m}`$ \*.
+
 ![Anotación manuscrita que sigue al problema 4 en el original](../../../resources/2015/modelos-examenes/isi-recuperatorio-segundo-parcial-tema-a-anotacion.png)
 
 ![Los cuatro diagramas originales con datos y rótulos P.1–P.4](../../../resources/2015/modelos-examenes/isi-recuperatorio-segundo-parcial-tema-a-figuras.png)
@@ -40,7 +42,9 @@ que el campo magnético en el centro de la espira sea cero.-
   Poppler y cotejo visual de enunciados, datos y diagramas, con ampliación del
   exponente−6 de la carga. Figuras y anotación manuscrita conservadas por render
   PyMuPDF.
-- La anotación manuscrita del problema 4 se conserva como imagen del original;
-  sus unidades no se leen inequívocamente y quedan pendientes de lectura. No se
-  convierten por conjetura en un dato numérico nuevo. El resto de los datos de
-  los cuatro diagramas queda conservado sin resolver ejercicios.
+- La anotación manuscrita del problema 4 se conserva como imagen del original.
+  El 25/10/2026 el usuario indicó transcribir el radio en metros, manteniendo
+  explícita la posible lectura en centímetros. No se resuelve el ejercicio.
+
+\* La unidad manuscrita no se distingue con certeza: se transcribe el radio como
+5 metros, pero el original podría indicar 5 centímetros (cm).

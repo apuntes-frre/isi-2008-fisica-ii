@@ -2720,10 +2720,9 @@
         14
       ],
       "paginacion": "PDF original",
-      "math_esperada": 1,
-      "math_renderizada_github": 1,
-      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/isi-recuperatorio-segundo-parcial-tema-a.md",
-      "estado": "fuente cotejada; validación local y math GitHub verificadas",
+      "math_esperada": 2,
+      "math_renderizada_github": null,
+      "estado": "2026-10-25: usuario autoriza R=5m con aclaración * sobre posible lectura5cm; recorte original conservado. Revisión GitHub pendiente.",
       "pendientes_lectura": [
         "Unidad de anotación manuscrita de R; imagen original conservada"
       ],
