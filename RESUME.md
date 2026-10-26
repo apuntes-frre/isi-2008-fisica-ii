@@ -30,6 +30,16 @@ Resta únicamente fuerza7 para el cotejo activo original/principal/subagente.
 Kirchhoff5 permanece como imagen y cuatro[ilegible] por decisión del usuario,
 con copia nativa preservada para futuro OCR. No declarar recuperación de cifras.
 
+## Cotejo activo finalizado — 25/10/2026
+
+Fuerza7: usuario eligió versión principal y omitir rótulo ilegible de masa y
+símbolo no identificado. Apunte126182f: masa7,5g y densidadμ=0,0326; valores
+restantes sin cambios, cuentas sin completar y originales conservados.
+GitHub3/3math y2imágenes verificado. No quedan páginas esperando elección del
+usuario en el cotejo actual. Límite conservado: cuatro[ilegible] en Kirchhoff5;
+reserva explícita del radio del examen5m/posible5cm; omisiones autorizadas de
+fuerza7. PR3 conserva la continuación y no se fusiona sin nueva autorización.
+
 ## Historial de reanudación
 
 ## Autorización de fusión — 24/10/2026

@@ -50,7 +50,6 @@ lecturas ilegibles que se detallan a continuación.
 | Material | Fragmento pendiente | Límite comprobado |
 | -- | -- | -- |
 | Informe de Kirchhoff, página 5 | Mallas: posición 1 Vcd/Veb/Vgb y posición 3 Vcd | Las fotografías incrustadas de 533 × 350 píxeles no permiten fijar esas cifras con certeza. |
-| Informe de fuerza sobre corriente, página 7 | Rótulo de masa inferior y símbolo ausente de la plantilla | Fotografía original de 720 × 1280 píxeles; valor 7,5 g y cuentas legibles ya conservados, rótulo sin certeza y símbolo no representado. |
 
 La diapositiva 26 cuenta ahora con una corrección editorial autorizada por el
 usuario: sustitución de la velocidad en la energía cinética, B² en el numerador
@@ -86,6 +85,14 @@ comparar el original con las versiones del principal y del subagente. Se aplicó
 la lectura y se verificó en GitHub1/1expresión, imagen cargada y tabla cotejada.
 Se mantiene la diferencia con0,094m de la tabla mecanografiada posterior. Resta
 fuerza7 para el cotejo activo; Kirchhoff5 se conserva sin recuperar sus cifras.
+
+Fuerza7: el usuario eligió la versión principal y autorizó omitir el rótulo
+ilegible de la masa y el símbolo no identificado de la plantilla. Se mantienen
+masa7,5g, densidadμ=0,0326, tabla y cuentas sin completar; originales
+conservados. GitHub3/3expresiones y2imágenes verificado. No quedan páginas
+esperando elección en el cotejo activo. Subsisten las limitaciones documentadas
+de Kirchhoff5, la reserva de unidad del examen14 y estas omisiones autorizadas;
+no se declara una transcripción literal sin pérdidas.
 
 ## Pasos restantes
 
