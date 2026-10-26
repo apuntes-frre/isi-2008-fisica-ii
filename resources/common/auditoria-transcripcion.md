@@ -1,6 +1,6 @@
 # Auditoría de transcripción de Física II
 
-Revisión: 24/10/2026. La materia conserva límites documentales abiertos; no se
+Revisión: 25/10/2026. La materia conserva límites documentales abiertos; no se
 declara una transcripción íntegra sin pérdidas.
 
 ## Controles completados
@@ -9,12 +9,12 @@ declara una transcripción íntegra sin pérdidas.
   ningún archivo nuevo, ausente o alterado respecto del inventario.
 - [x] 487 apuntes y 487 filas de cobertura, sin apuntes fuera del registro ni
   filas duplicadas. Las versiones se conservan por separado.
-- [x] GitHub: 4895 expresiones esperadas y renderizadas; las dos notas nuevas
+- [x] GitHub: 4896 expresiones esperadas y renderizadas; las dos notas nuevas
   tienen 29 expresiones verificadas, sin errores ni nodos sin renderizar.
 - [x] Contenido legible de las diapositivas 26/40–42 de UT5 incorporado en dos
   notas, con los sectores dañados identificados y cuatro recortes como
-  evidencia. Son 38 diapositivas completas y cuatro parciales, no 42
-  recuperadas.
+  evidencia. Las cuatro diapositivas con defectos quedaron posteriormente
+  cotejadas y normalizadas con el usuario; no se recuperaron los glifos del PDF.
 - [x] Imágenes nativas de las hojas manuscritas revisadas; no aportan una
   lectura inequívoca de los fragmentos señalados.
 - [x] Duplicados de laboratorio 7, polarización, unidad 1, guía 01.1 y modelos
@@ -45,15 +45,11 @@ commit `f58d6692f6f41da361fba900db9d45722dc3d9a0`:
 El resultado de CI valida los controles del repositorio; no resuelve las
 lecturas ilegibles que se detallan a continuación.
 
-## Bloqueos que requieren una fuente mejor
+## Bloqueos que requieren una fuente mejor o cotejo del usuario
 
 | Material | Fragmento pendiente | Límite comprobado |
 | -- | -- | -- |
-| UT5, impresiones de cuatro y seis diapositivas | Símbolos y coherencia matemática de 41–42 | 26 corregida y40 normalizada con el usuario; restan delimitadores, referencia(5), coeficientes de(13) y coherencia de(15)–(17). |
-| Modelos de examen, página 14, tema A | Unidad manuscrita del radio | Los tres PDF disponibles tienen el mismo SHA-256 y la misma anotación. |
 | Informe de Kirchhoff, página 5 | Mallas: posición 1 Vcd/Veb/Vgb y posición 3 Vcd | Las fotografías incrustadas de 533 × 350 píxeles no permiten fijar esas cifras con certeza. |
-| Informe de brújula, hoja normalizada 6 | Última cifra retocada de x para 30° | La fotografía original de 720 × 998 píxeles también conserva el retoque; no se sustituye por la tabla mecanografiada. |
-| Informe de fuerza sobre corriente, página 7 | Rótulo de masa inferior y símbolo ausente de la plantilla | Fotografía original de 720 × 1280 píxeles; valor 7,5 g y cuentas legibles ya conservados, rótulo sin certeza y símbolo no representado. |
 
 La diapositiva 26 cuenta ahora con una corrección editorial autorizada por el
 usuario: sustitución de la velocidad en la energía cinética, B² en el numerador
@@ -63,15 +59,55 @@ intervención no recupera los glifos originales ni se extiende a las diapositiva
 41–42. La diapositiva40 también quedó normalizada tras el cotejo del usuario,
 sin aclaración al pie, y sus fórmulas modificadas fueron verificadas en GitHub.
 
-## Pasos restantes
+El cotejo remoto de las diapositivas 41–42 quedó completado el25/10/2026. Se
+normalizaron vectores y delimitadores, y se corrigieron con autorización del
+usuario los coeficientes intercambiados de (13). Las derivadas y la ecuación de
+circunferencia son coherentes; GitHub27/27expresiones verificado. El bloqueo de
+UT5 queda resuelto mediante esta normalización y corrección, no mediante la
+recuperación de glifos del PDF. La limitación manuscrita conservada está en la
+tabla anterior.
 
-- [ ] Obtener una copia legible o una aclaración verificable de los cinco grupos
-  anteriores, manteniendo separada cualquier corrección editorial.
-- [ ] Cotejar únicamente esos fragmentos, actualizar su procedencia y volver a
-  validar los apuntes que cambien, incluida su presentación en GitHub.
-- [ ] Cerrar los bloqueos documentales antes de declarar fidelidad al 100% y
-  declarar la materia completa. El usuario autorizó expresamente fusionar los
-  avances actuales el24/10/2026, manteniendo estos pendientes documentados.
+El radio manuscrito del examen14 se transcribió como5m por indicación del
+usuario, con una aclaración marcada con * que conserva la posible lectura5cm. El
+original no permite confirmar la unidad: esta reserva sigue explícita en el
+apunte. GitHub2/2expresiones, dato, aclaración e imágenes verificados.
+
+Kirchhoff5: el usuario decidió conservar la imagen original y las cuatro celdas
+`[ilegible]`, sin adoptar las aproximaciones de los agentes. Se agregó un PNG
+con sus497×85píxeles nativos, sin pérdida ni reescalado, y se preservaron
+localmente ambas fotos JPEG incrustadas533×350 sin modificar sus bytes. Esta
+decisión conserva el límite documental para futuro OCR o una fuente mejor; no
+declara recuperadas las cuatro cifras. Los cotejos posteriores de brújula6 y
+fuerza7 quedaron cerrados con las decisiones descritas abajo.
+
+Brújula6: el usuario confirmó x30°=0,0945m y radio medio0,0275m después de
+comparar el original con las versiones del principal y del subagente. Se aplicó
+la lectura y se verificó en GitHub1/1expresión, imagen cargada y tabla cotejada.
+Se mantiene la diferencia con0,094m de la tabla mecanografiada posterior.
+Fuerza7 fue cotejada posteriormente; Kirchhoff5 se conserva sin recuperar sus
+cifras.
+
+Fuerza7: el usuario eligió la versión principal y autorizó omitir el rótulo
+ilegible de la masa y el símbolo no identificado de la plantilla. Se mantienen
+masa7,5g, densidadμ=0,0326, tabla y cuentas sin completar; originales
+conservados. GitHub3/3expresiones y2imágenes verificado. No quedan páginas
+esperando elección en el cotejo activo. Subsisten las limitaciones documentadas
+de Kirchhoff5, la reserva de unidad del examen14 y estas omisiones autorizadas;
+no se declara una transcripción literal sin pérdidas.
+
+## Estado de cierre y pasos restantes
+
+- [x] Cotejo activo terminado: no quedan páginas esperando elección del usuario.
+- [x] Decisiones aplicadas, publicadas y verificadas localmente y en GitHub.
+- [x] Cierre autorizado por el usuario el25/10/2026: fusionar PR #3 y finalizar
+  la transcripción dentro del alcance docente inventariado. Una eventual
+  revisión de las cuatro cifras de Kirchhoff o de la unidad del examen requiere
+  una fuente mejor o una nueva indicación del usuario; no queda como tarea
+  activa ni se completará por inferencia.
+
+No se declara transcripción literal sin pérdidas: se conservan cuatro celdas
+ilegibles de Kirchhoff, la reserva5m/posible5cm del examen y las omisiones
+expresamente autorizadas en fuerza7.
 
 El detalle por original, páginas, notas y versiones está en
 [inventario.json](inventario.json), [cobertura.json](cobertura.json) e

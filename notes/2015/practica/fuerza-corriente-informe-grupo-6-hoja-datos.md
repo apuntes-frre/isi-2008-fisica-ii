@@ -25,7 +25,7 @@ Lados de la espira:
 a=0{,}065\mathrm m\qquad b=0{,}1\mathrm{cm}
 ```
 
-Densidad μ [símbolo no representado] = 0,0326
+Densidad μ = 0,0326
 
 Tabla 1
 
@@ -55,7 +55,7 @@ Anotaciones al margen derecho, en su orden original:
 
 ![Tabla y anotaciones manuscritas originales, sin campos nominales ni firmas](../../../resources/2015/fuerza-corriente-informe-grupo-6/hoja-tabla-mediciones.png)
 
-Anotación inferior de masa \[rótulo parcialmente ilegible\]: 7,5 g
+Masa: 7,5 g
 
 ```math
 L=a+b+a
@@ -80,14 +80,14 @@ L=a+b+a
   signos de grado: se conserva la discrepancia y no se convierten a radianes.
 - En los lados de la espira se conserva la unidad «cm» que aparece junto a b,
   distinta de «m» de los resultados mecanografiados. Densidad no tiene unidad
-  manuscrita al final; no se agrega kg/m. El pequeño recuadro junto a μ en la
-  plantilla no permite identificar otro símbolo: queda señalado.
+  manuscrita al final; no se agrega kg/m.
 - Se preserva el orden de lecturas, el «A» de la primera corriente y las
   anotaciones marginales, sin ordenarlas según la tabla posterior. La cuenta de
   densidad termina en igual, sin resultado: no se completa.
-- El rótulo de la anotación de masa inferior no se distingue completamente; se
-  registra su valor legible y el recorte sin adivinar el resto del rótulo. Esta
-  lectura parcial permanece pendiente de una imagen más nítida.
+- Tras comparar original y ambas propuestas, el usuario eligió el 25/10/2026 la
+  versión del agente principal y pidió omitir el rótulo ilegible de la masa y el
+  símbolo no identificado de la plantilla. Se conservan los datos legibles, las
+  cuentas sin completar y los recortes originales.
 - Fecha del campo 16/06/16; al pie consta 16/6/2016. Se omiten explícitamente
   nombres y firmas manuscritos de integrantes y la firma docente. Los recortes
   publicados solo contienen mediciones y cálculos. El original se conserva.

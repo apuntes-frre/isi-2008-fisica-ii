@@ -1,4 +1,38 @@
-# Reanudación de Física II
+# Física II — cierre de transcripción
+
+## Estado vigente — 25/10/2026
+
+PR2 fusionado en main3ec7667. Las correcciones posteriores están publicadas en
+PR3, rama codex/validar-pendientes-fisica-ii. Total487apuntes y4896expresiones
+verificadas en GitHub. No hay páginas esperando elección en el cotejo activo.
+
+- UT5: ciclotrón26 corregido conservando R y diapositivas40–42 normalizadas;
+  coeficientes de y(t) corregidos con autorización. GitHub2/2 y27/27math.
+- Examen14: R=5m por indicación del usuario, con * sobre posible5cm. Se conserva
+  esa incertidumbre documental. GitHub2/2math.
+- Kirchhoff5: usuario decidió conservar original y cuatro[ilegible], sin adoptar
+  aproximaciones. PNG nativo497x85 sin reescalado en el repo; fotos JPEG exactas
+  xref33/34 de533x350 en caché20261025-kirchhoff-originales, con hashes. No
+  rellenar cifras sin nueva fuente o indicación. GitHub0/0math y2imágenes.
+- Brújula6: usuario confirmó x30°=0,0945m y radio medio0,0275m. La tabla
+  posterior mantiene0,094m; no homogeneizar versiones. GitHub1/1math e imagen.
+- Fuerza7: usuario eligió versión principal y omitir rótulo ilegible de masa y
+  símbolo no identificado. Masa7,5g, densidadμ=0,0326; demás valores y cuentas
+  incompletas conservados. Originales preservados. GitHub3/3math y2imágenes.
+
+El usuario autorizó el25/10/2026 fusionar PR3 y finalizar. La transcripción
+queda terminada para el alcance docente inventariado, con las reservas y
+omisiones aceptadas arriba. Bibliografía de referencia, curso externo del CD,
+software y documentos clasificados fuera de alcance no se declaran transcritos.
+No quedan tareas activas de transcripción ni cotejos pendientes. Una eventual
+fuente más legible permitirá revisar los límites conservados sin inferir datos.
+
+Para futuros cotejos solicitados: un subagente independiente por página,
+original/principal/subagente en el chat y esperar elección. El usuario valida
+mediante capturas; preservar la resolución nativa y omitir nombres y firmas. Los
+estados históricos inferiores no prevalecen sobre este bloque.
+
+## Historial de reanudación
 
 ## Autorización de fusión — 24/10/2026
 

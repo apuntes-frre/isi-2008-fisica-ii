@@ -2720,10 +2720,9 @@
         14
       ],
       "paginacion": "PDF original",
-      "math_esperada": 1,
-      "math_renderizada_github": 1,
-      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/codex/transcribir-fisica-ii/notes/2015/practica/isi-recuperatorio-segundo-parcial-tema-a.md",
-      "estado": "fuente cotejada; validación local y math GitHub verificadas",
+      "math_esperada": 2,
+      "math_renderizada_github": 2,
+      "estado": "2026-10-25: usuario autoriza R=5m con aclaración * sobre posible lectura5cm; original conservado. GitHub2/2math,0merror,0sin renderizar,2imágenes cargadas; dato y nota al pie cotejados visualmente.",
       "pendientes_lectura": [
         "Unidad de anotación manuscrita de R; imagen original conservada"
       ],
@@ -2736,7 +2735,8 @@
           ],
           "estado": "píxeles idénticos a páginas de referencia ya cotejadas; evidencia en duplicados-render.json"
         }
-      ]
+      ],
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/c4eb1058f21e44a0e2e0e7758639db0f65531bb0/notes/2015/practica/isi-recuperatorio-segundo-parcial-tema-a.md"
     },
     {
       "original": "2015/480938-Modelos de parcial FISICA II actualizado 060813(0).pdf",
@@ -7689,8 +7689,8 @@
       "paginacion": "PDF original página5 completa; datos nominales y firmas omitidos explícitamente",
       "math_esperada": 0,
       "math_renderizada_github": 0,
-      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/b72fa0cc3388d8fb2a63e61ef806d4ff4525f7e7/notes/2015/practica/kirchhoff-informe-grupo-6-hoja-datos.md",
-      "estado": "2026-10-24: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas, tablas presentes y muestra visual de cada apunte revisada.",
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/7a926bba003c998c1362c413f72cb350d5d13682/notes/2015/practica/kirchhoff-informe-grupo-6-hoja-datos.md",
+      "estado": "2026-10-25: usuario conserva original y cuatro[ilegible], descarta aproximaciones. PNG nativo497x85 con píxeles idénticos al JPEG533x350 xref34; fotos exactas en caché local. GitHub0/0math,0merror,2imágenes cargadas; decisión, procedencia y enlace de descarga cotejados.",
       "fuentes_adicionales": []
     },
     {
@@ -7764,9 +7764,9 @@
       "paginacion": "PDF normalizado LO nueve páginas,6 completa; datos nominales y firmas omitidos",
       "math_esperada": 1,
       "math_renderizada_github": 1,
-      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/b72fa0cc3388d8fb2a63e61ef806d4ff4525f7e7/notes/2015/practica/brujula-informe-grupo-6-hoja-datos.md",
-      "estado": "2026-10-24: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas, tablas presentes y muestra visual de cada apunte revisada.",
-      "fuentes_adicionales": []
+      "estado": "2026-10-25: usuario confirma x30°=0,0945m y radio medio0,0275m tras cotejo original/principal/subagente. Se conserva diferencia con0,094m de tabla posterior. GitHub1/1math,0merror,0sin renderizar,imagen cargada; tabla y radio cotejados visualmente.",
+      "fuentes_adicionales": [],
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/4cbcb53f69d74087ec8262cbc9416c41bb933f35/notes/2015/practica/brujula-informe-grupo-6-hoja-datos.md"
     },
     {
       "original": "2015/L8 Fza sobre elemento de cte G6 Aprobado.pdf",
@@ -7825,9 +7825,9 @@
       "paginacion": "PDF original página7 completa; datos nominales y firmas omitidos explícitamente",
       "math_esperada": 3,
       "math_renderizada_github": 3,
-      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/b72fa0cc3388d8fb2a63e61ef806d4ff4525f7e7/notes/2015/practica/fuerza-corriente-informe-grupo-6-hoja-datos.md",
-      "estado": "2026-10-24: revisión GitHub; math-renderer y math coinciden con expresiones esperadas, 0 merror, sin fórmulas sin renderizar; figuras cargadas, tablas presentes y muestra visual de cada apunte revisada.",
-      "fuentes_adicionales": []
+      "estado": "2026-10-25: usuario elige versión principal y omisión del rótulo ilegible de masa y símbolo no identificado. Datos y originales conservados. GitHub3/3math,0merror,0sin renderizar,2imágenes cargadas; tabla, masa y densidad cotejadas visualmente.",
+      "fuentes_adicionales": [],
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/126182f4546b610fc659ba5837c40ac74faebefd/notes/2015/practica/fuerza-corriente-informe-grupo-6-hoja-datos.md"
     },
     {
       "original": "2015/Planificacion 2016 de Física II.pdf",
@@ -9368,7 +9368,7 @@
       "paginacion": "PDF original; contenido legible de diapositivas 40,41,42; glifos deteriorados señalados, no recuperados",
       "math_esperada": 27,
       "math_renderizada_github": 27,
-      "estado": "2026-10-24: diapositiva40 normalizada con cotejo del usuario: vectores, producto vectorial, determinante y paréntesis; sin aclaración al pie.41–42 pendientes. GitHub27/27math,0merror,0sin renderizar,3imágenes cargadas; fórmulas modificadas cotejadas visualmente.",
+      "estado": "2026-10-25:40–42 cotejadas con usuario;42 normalizada y coeficientes13 corregidos con autorización. Derivadas y circunferencia verificadas numéricamente. GitHub27/27math,0merror,0sin renderizar,3imágenes cargadas y fórmulas modificadas cotejadas visualmente.",
       "fuentes_adicionales": [
         {
           "original": "2019/2do Parcial/UT 5 6 pag.pdf",
@@ -9384,7 +9384,7 @@
           "estado": "cotejo visual; conserva los mismos daños, sin recuperación por conjetura"
         }
       ],
-      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/2dc0d067c93604b8d6e91f169c43e40cf7fdf9f4/notes/2019/teoria/demostracion-helicoidal-variante-impresa-2019.md"
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/9500cbc02e38ced885ba9fd55dd6b3aa981bc1ac/notes/2019/teoria/demostracion-helicoidal-variante-impresa-2019.md"
     }
   ]
 }
