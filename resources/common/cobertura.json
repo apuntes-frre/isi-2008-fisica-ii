@@ -2721,8 +2721,8 @@
       ],
       "paginacion": "PDF original",
       "math_esperada": 2,
-      "math_renderizada_github": null,
-      "estado": "2026-10-25: usuario autoriza R=5m con aclaración * sobre posible lectura5cm; recorte original conservado. Revisión GitHub pendiente.",
+      "math_renderizada_github": 2,
+      "estado": "2026-10-25: usuario autoriza R=5m con aclaración * sobre posible lectura5cm; original conservado. GitHub2/2math,0merror,0sin renderizar,2imágenes cargadas; dato y nota al pie cotejados visualmente.",
       "pendientes_lectura": [
         "Unidad de anotación manuscrita de R; imagen original conservada"
       ],
@@ -2735,7 +2735,8 @@
           ],
           "estado": "píxeles idénticos a páginas de referencia ya cotejadas; evidencia en duplicados-render.json"
         }
-      ]
+      ],
+      "url_github": "https://github.com/apuntes-frre/isi-2008-fisica-ii/blob/c4eb1058f21e44a0e2e0e7758639db0f65531bb0/notes/2015/practica/isi-recuperatorio-segundo-parcial-tema-a.md"
     },
     {
       "original": "2015/480938-Modelos de parcial FISICA II actualizado 060813(0).pdf",

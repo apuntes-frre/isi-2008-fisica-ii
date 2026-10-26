@@ -9,7 +9,7 @@ declara una transcripción íntegra sin pérdidas.
   ningún archivo nuevo, ausente o alterado respecto del inventario.
 - [x] 487 apuntes y 487 filas de cobertura, sin apuntes fuera del registro ni
   filas duplicadas. Las versiones se conservan por separado.
-- [x] GitHub: 4895 expresiones esperadas y renderizadas; las dos notas nuevas
+- [x] GitHub: 4896 expresiones esperadas y renderizadas; las dos notas nuevas
   tienen 29 expresiones verificadas, sin errores ni nodos sin renderizar.
 - [x] Contenido legible de las diapositivas 26/40–42 de UT5 incorporado en dos
   notas, con los sectores dañados identificados y cuatro recortes como
@@ -49,7 +49,6 @@ lecturas ilegibles que se detallan a continuación.
 
 | Material | Fragmento pendiente | Límite comprobado |
 | -- | -- | -- |
-| Modelos de examen, página 14, tema A | Unidad manuscrita del radio | Los tres PDF disponibles tienen el mismo SHA-256 y la misma anotación. |
 | Informe de Kirchhoff, página 5 | Mallas: posición 1 Vcd/Veb/Vgb y posición 3 Vcd | Las fotografías incrustadas de 533 × 350 píxeles no permiten fijar esas cifras con certeza. |
 | Informe de brújula, hoja normalizada 6 | Última cifra retocada de x para 30° | La fotografía original de 720 × 998 píxeles también conserva el retoque; no se sustituye por la tabla mecanografiada. |
 | Informe de fuerza sobre corriente, página 7 | Rótulo de masa inferior y símbolo ausente de la plantilla | Fotografía original de 720 × 1280 píxeles; valor 7,5 g y cuentas legibles ya conservados, rótulo sin certeza y símbolo no representado. |
@@ -67,8 +66,13 @@ normalizaron vectores y delimitadores, y se corrigieron con autorización del
 usuario los coeficientes intercambiados de (13). Las derivadas y la ecuación de
 circunferencia son coherentes; GitHub27/27expresiones verificado. El bloqueo de
 UT5 queda resuelto mediante esta normalización y corrección, no mediante la
-recuperación de glifos del PDF. Persisten los cuatro grupos manuscritos de la
+recuperación de glifos del PDF. Persisten los tres grupos manuscritos de la
 tabla anterior.
+
+El radio manuscrito del examen14 se transcribió como5m por indicación del
+usuario, con una aclaración marcada con * que conserva la posible lectura5cm. El
+original no permite confirmar la unidad: esta reserva sigue explícita en el
+apunte. GitHub2/2expresiones, dato, aclaración e imágenes verificados.
 
 ## Pasos restantes
 

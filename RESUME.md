@@ -6,9 +6,13 @@ recortes originales en el chat y esperar su cotejo, uno por vez.41 validada y
 normalizada;42 autorizada el25/10/2026, delimitadores reparados y coeficientes13
 corregidos. Publicado9500cbc; GitHub27/27math verificado. UT5 ya no requiere
 cotejo de26/40–42; se conserva evidencia original y procedencia de correcciones.
-Siguen cuatro grupos: unidad del radio del examen14, cuatro celdas Kirchhoff5,
-cifra retocada de brújula6 y rótulo/símbolo de fuerza7. Próximo: enviar recorte
-del examen14, sin inferir su unidad. Los bloques históricos inferiores no
+Examen14 transcrito como R=5m por indicación del usuario, con * al pie que
+conserva la alternativa5cm. No se confirma la unidad original: decisión
+editorial documentada. Publicado c4eb105, GitHub2/2math verificado. Total
+vigente487notas y 4896expresiones, todas verificadas en GitHub. Restan tres
+grupos por cotejar: cuatro celdas Kirchhoff5, cifra retocada de brújula6 y
+rótulo/símbolo de fuerza7. Próximo: mostrar recorte completo de la tabla de
+Kirchhoff, sin nombres ni firmas. Los bloques históricos inferiores no
 prevalecen sobre este checkpoint.
 
 ## Historial de reanudación
