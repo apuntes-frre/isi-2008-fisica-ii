@@ -74,6 +74,14 @@ usuario, con una aclaración marcada con * que conserva la posible lectura5cm. E
 original no permite confirmar la unidad: esta reserva sigue explícita en el
 apunte. GitHub2/2expresiones, dato, aclaración e imágenes verificados.
 
+Kirchhoff5: el usuario decidió conservar la imagen original y las cuatro celdas
+`[ilegible]`, sin adoptar las aproximaciones de los agentes. Se agregó un PNG
+con sus497×85píxeles nativos, sin pérdida ni reescalado, y se preservaron
+localmente ambas fotos JPEG incrustadas533×350 sin modificar sus bytes. Esta
+decisión conserva el límite documental para futuro OCR o una fuente mejor; no
+declara recuperadas las cuatro cifras. El cotejo continúa con brújula6 y
+fuerza7.
+
 ## Pasos restantes
 
 - [ ] Obtener una copia legible o una aclaración verificable de los cuatro

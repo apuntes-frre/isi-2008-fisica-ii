@@ -9,11 +9,17 @@ cotejo de26/40–42; se conserva evidencia original y procedencia de correccione
 Examen14 transcrito como R=5m por indicación del usuario, con * al pie que
 conserva la alternativa5cm. No se confirma la unidad original: decisión
 editorial documentada. Publicado c4eb105, GitHub2/2math verificado. Total
-vigente487notas y 4896expresiones, todas verificadas en GitHub. Restan tres
-grupos por cotejar: cuatro celdas Kirchhoff5, cifra retocada de brújula6 y
-rótulo/símbolo de fuerza7. Próximo: mostrar recorte completo de la tabla de
-Kirchhoff, sin nombres ni firmas. Los bloques históricos inferiores no
-prevalecen sobre este checkpoint.
+vigente487notas y 4896expresiones, todas verificadas en GitHub.
+
+Kirchhoff5: el usuario decidió conservar original y cuatro[ilegible], sin
+adoptar aproximaciones de los agentes. PNG nativo497x85 sin reescalado publicado
+en 7a926bb, píxeles cotejados con el JPEG incrustado533x350. GitHub0/0math
+y2imágenes verificado. Fotos JPEG exactas xref33/34 en
+caché20261025-kirchhoff-originales, con SHA-256 y procedencia. No rellenar
+cifras sin nueva fuente o indicación. Restan por cotejar brújula6 y fuerza7.
+Usar un subagente independiente por página, una página por vez; comparar
+original/principal/subagente y esperar elección. Los bloques históricos
+inferiores no prevalecen sobre este checkpoint.
 
 ## Historial de reanudación
 
