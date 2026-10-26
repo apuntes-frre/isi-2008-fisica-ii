@@ -1,4 +1,4 @@
-# Reanudación de Física II
+# Física II — cierre de transcripción
 
 ## Estado vigente — 25/10/2026
 
@@ -20,11 +20,12 @@ verificadas en GitHub. No hay páginas esperando elección en el cotejo activo.
   símbolo no identificado. Masa7,5g, densidadμ=0,0326; demás valores y cuentas
   incompletas conservados. Originales preservados. GitHub3/3math y2imágenes.
 
-Resta integrar PR3 a main. No se interpreta la autorización de fusión de PR2
-como autorización nueva para PR3. Si aparece material más legible, se puede
-revisar Kirchhoff o la unidad del examen; esto no bloquea las decisiones ya
-aceptadas. No declarar recuperación literal sin pérdidas de los fragmentos
-conservados u omitidos por decisión del usuario.
+El usuario autorizó el25/10/2026 fusionar PR3 y finalizar. La transcripción
+queda terminada para el alcance docente inventariado, con las reservas y
+omisiones aceptadas arriba. Bibliografía de referencia, curso externo del CD,
+software y documentos clasificados fuera de alcance no se declaran transcritos.
+No quedan tareas activas de transcripción ni cotejos pendientes. Una eventual
+fuente más legible permitirá revisar los límites conservados sin inferir datos.
 
 Para futuros cotejos solicitados: un subagente independiente por página,
 original/principal/subagente en el chat y esperar elección. El usuario valida

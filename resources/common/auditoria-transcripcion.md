@@ -99,10 +99,11 @@ no se declara una transcripción literal sin pérdidas.
 
 - [x] Cotejo activo terminado: no quedan páginas esperando elección del usuario.
 - [x] Decisiones aplicadas, publicadas y verificadas localmente y en GitHub.
-- [ ] Integrar PR #3 a main. El PR reúne las correcciones posteriores al PR #2.
-- [ ] Solo si aparece una fuente mejor o el usuario lo solicita: intentar leer
-  las cuatro cifras de Kirchhoff o confirmar la unidad manuscrita del examen.
-  Son límites conservados, no datos que deban completarse por inferencia.
+- [x] Cierre autorizado por el usuario el25/10/2026: fusionar PR #3 y finalizar
+  la transcripción dentro del alcance docente inventariado. Una eventual
+  revisión de las cuatro cifras de Kirchhoff o de la unidad del examen requiere
+  una fuente mejor o una nueva indicación del usuario; no queda como tarea
+  activa ni se completará por inferencia.
 
 No se declara transcripción literal sin pérdidas: se conservan cuatro celdas
 ilegibles de Kirchhoff, la reserva5m/posible5cm del examen y las omisiones
