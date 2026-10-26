@@ -171,7 +171,10 @@ f) Otras actividades vinculadas con la función docencia.
   La página 25 contiene únicamente los apartados e)/f) y espacios vacíos; se
   conserva su texto sin agregar una firma o presentación ausente.
 - Ciclo lectivo 2016 impreso en portada; carpeta 2015. Las 25 páginas están
-  revisadas y cubiertas entre nueve apuntes; la revisión visual GitHub sigue
-  pendiente y no se sustituye por lint ni extracción.
+  revisadas y cubiertas entre nueve apuntes. El
+  [registro de cobertura](../../../resources/common/cobertura.json) documenta
+  una revisión visual de muestra en GitHub del 24/10/2026 para la revisión
+  `b72fa0cc3388d8fb2a63e61ef806d4ff4525f7e7`; ese registro no sustituye un nuevo
+  cotejo visual completo.
 
 [Metodología y formación práctica](planificacion-metodologia-formacion-practica-2016.md).

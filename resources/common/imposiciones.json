@@ -568,10 +568,10 @@
     },
     {
       "original": "2019/2do Parcial/UT 5 6 pag.pdf",
-      "sha256": "d80e499c858b45d8146a3e18152de704cefbb9d0009ea7f3717141f3543e7d9c",
+      "sha256": "c45aa79791cd6f055c74c6598e6a5e277a144bf55f8e14cd23bdb65c997881b2",
       "referencia": "2019/2do Parcial/UT 5 4 pag.pdf",
       "sha256_referencia": "134d9de661dcefd039d315a0e669b89c38bf02859d1d2d0806f15569b5006764",
-      "metodo": "Siete hojas completas cotejadas visualmente tras rotación antihoraria90grados. Orden de42diapositivas igual a117, incluidas variantes q/p/w/t/m/f ydaños26/40–42. No se declara identidad binaria ni de píxeles. No hay casilleros vacíos. Revisión24/10: legible26/40–42 transcrito; glifos dañados conservados como bloqueo, con recortes de evidencia.",
+      "metodo": "Siete hojas completas cotejadas visualmente tras rotación antihoraria90grados. Orden de42diapositivas igual a117, incluidas variantes q/p/w/t/m/f ydaños26/40–42. No se declara identidad binaria ni de píxeles. No hay casilleros vacíos. Revisión24/10: legible26/40–42 transcrito; glifos dañados conservados como bloqueo, con recortes de evidencia. Revisión de identidad del 26/10/2026: el original canónico tiene SHA-256 c45aa79791cd6f055c74c6598e6a5e277a144bf55f8e14cd23bdb65c997881b2, 2869101 bytes y rotación 270° en sus siete páginas. La copia de trabajo conservada tiene SHA-256 d80e499c858b45d8146a3e18152de704cefbb9d0009ea7f3717141f3543e7d9c, 2869303 bytes y rotación 0°. Las siete páginas tienen píxeles idénticos al igualar la rotación. No consta cuándo divergieron las identidades binarias.",
       "estado": "42/42 diapositivas documentadas;38 completas y4 parcialmente legibles con daños explícitos",
       "paginas": [
         {

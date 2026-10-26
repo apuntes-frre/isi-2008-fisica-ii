@@ -32,8 +32,8 @@ siendo $`\vec r`$ el vector que va desde el elemento $`d\vec l`$ hasta el punto
 P, son perpendiculares.
 
 El elemento de campo $`d\vec B`$ está en el plano XY, recordemos de la guía
-anterior que el campo $`d\vec B`$ tendería a enrollarse en torno al $`d\vec l`$.
-Veamos esto dibujando un elemento de conductor $`d\vec l`$:
+anterior que el campo $`d\vec B`$ tendería a enrrollarse en torno al
+$`d\vec l`$. Veamos esto dibujando un elemento de conductor $`d\vec l`$:
 
 ![Dirección de B en torno al elemento dl](../../../resources/2015/biot-savart-kasero/espira-elemento-direccion.png)
 

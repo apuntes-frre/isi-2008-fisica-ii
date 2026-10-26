@@ -195,8 +195,8 @@ deducir que:
   similares, esto demuestra que se puede determinar los potenciales de una
   región con la ecuación de Laplace.
 - Si bien son muy parecidas las gráficas (teórica y práctica) presentan ciertas
-  diferencias, esto son a errores mínimos que se les observan en la gráfica de
-  errores, los cuales son despreciables porque teman valores muy pequeños, el
+  diferencias, esto son a errores mínimos que se los observan en la gráfica de
+  errores, los cuales con despreciables porque teman valores muy pequeños, el
   error máximo es de 2,16
 
 Las posibles fuentes de error son principalmente de carácter operativo:
