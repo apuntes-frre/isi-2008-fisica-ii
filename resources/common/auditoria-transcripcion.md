@@ -13,8 +13,8 @@ declara una transcripción íntegra sin pérdidas.
   tienen 29 expresiones verificadas, sin errores ni nodos sin renderizar.
 - [x] Contenido legible de las diapositivas 26/40–42 de UT5 incorporado en dos
   notas, con los sectores dañados identificados y cuatro recortes como
-  evidencia. Son 38 diapositivas completas y cuatro parciales, no 42
-  recuperadas.
+  evidencia. Las cuatro diapositivas con defectos quedaron posteriormente
+  cotejadas y normalizadas con el usuario; no se recuperaron los glifos del PDF.
 - [x] Imágenes nativas de las hojas manuscritas revisadas; no aportan una
   lectura inequívoca de los fragmentos señalados.
 - [x] Duplicados de laboratorio 7, polarización, unidad 1, guía 01.1 y modelos
@@ -64,7 +64,7 @@ normalizaron vectores y delimitadores, y se corrigieron con autorización del
 usuario los coeficientes intercambiados de (13). Las derivadas y la ecuación de
 circunferencia son coherentes; GitHub27/27expresiones verificado. El bloqueo de
 UT5 queda resuelto mediante esta normalización y corrección, no mediante la
-recuperación de glifos del PDF. Persisten los tres grupos manuscritos de la
+recuperación de glifos del PDF. La limitación manuscrita conservada está en la
 tabla anterior.
 
 El radio manuscrito del examen14 se transcribió como5m por indicación del
@@ -77,14 +77,15 @@ Kirchhoff5: el usuario decidió conservar la imagen original y las cuatro celdas
 con sus497×85píxeles nativos, sin pérdida ni reescalado, y se preservaron
 localmente ambas fotos JPEG incrustadas533×350 sin modificar sus bytes. Esta
 decisión conserva el límite documental para futuro OCR o una fuente mejor; no
-declara recuperadas las cuatro cifras. El cotejo continúa con brújula6 y
-fuerza7.
+declara recuperadas las cuatro cifras. Los cotejos posteriores de brújula6 y
+fuerza7 quedaron cerrados con las decisiones descritas abajo.
 
 Brújula6: el usuario confirmó x30°=0,0945m y radio medio0,0275m después de
 comparar el original con las versiones del principal y del subagente. Se aplicó
 la lectura y se verificó en GitHub1/1expresión, imagen cargada y tabla cotejada.
-Se mantiene la diferencia con0,094m de la tabla mecanografiada posterior. Resta
-fuerza7 para el cotejo activo; Kirchhoff5 se conserva sin recuperar sus cifras.
+Se mantiene la diferencia con0,094m de la tabla mecanografiada posterior.
+Fuerza7 fue cotejada posteriormente; Kirchhoff5 se conserva sin recuperar sus
+cifras.
 
 Fuerza7: el usuario eligió la versión principal y autorizó omitir el rótulo
 ilegible de la masa y el símbolo no identificado de la plantilla. Se mantienen
@@ -94,15 +95,18 @@ esperando elección en el cotejo activo. Subsisten las limitaciones documentadas
 de Kirchhoff5, la reserva de unidad del examen14 y estas omisiones autorizadas;
 no se declara una transcripción literal sin pérdidas.
 
-## Pasos restantes
+## Estado de cierre y pasos restantes
 
-- [ ] Obtener una copia legible o una aclaración verificable de los cuatro
-  grupos anteriores, manteniendo separada cualquier corrección editorial.
-- [ ] Cotejar únicamente esos fragmentos, actualizar su procedencia y volver a
-  validar los apuntes que cambien, incluida su presentación en GitHub.
-- [ ] Cerrar los bloqueos documentales antes de declarar fidelidad al 100% y
-  declarar la materia completa. El usuario autorizó expresamente fusionar los
-  avances actuales el24/10/2026, manteniendo estos pendientes documentados.
+- [x] Cotejo activo terminado: no quedan páginas esperando elección del usuario.
+- [x] Decisiones aplicadas, publicadas y verificadas localmente y en GitHub.
+- [ ] Integrar PR #3 a main. El PR reúne las correcciones posteriores al PR #2.
+- [ ] Solo si aparece una fuente mejor o el usuario lo solicita: intentar leer
+  las cuatro cifras de Kirchhoff o confirmar la unidad manuscrita del examen.
+  Son límites conservados, no datos que deban completarse por inferencia.
+
+No se declara transcripción literal sin pérdidas: se conservan cuatro celdas
+ilegibles de Kirchhoff, la reserva5m/posible5cm del examen y las omisiones
+expresamente autorizadas en fuerza7.
 
 El detalle por original, páginas, notas y versiones está en
 [inventario.json](inventario.json), [cobertura.json](cobertura.json) e

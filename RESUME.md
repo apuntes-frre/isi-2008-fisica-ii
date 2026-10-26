@@ -1,44 +1,35 @@
 # Reanudación de Física II
 
-PR2 fusionado en main3ec7667. Continuación en PR3,
-codex/validar-pendientes-fisica-ii. El usuario está lejos de la laptop: enviar
-recortes originales en el chat y esperar su cotejo, uno por vez.41 validada y
-normalizada;42 autorizada el25/10/2026, delimitadores reparados y coeficientes13
-corregidos. Publicado9500cbc; GitHub27/27math verificado. UT5 ya no requiere
-cotejo de26/40–42; se conserva evidencia original y procedencia de correcciones.
-Examen14 transcrito como R=5m por indicación del usuario, con * al pie que
-conserva la alternativa5cm. No se confirma la unidad original: decisión
-editorial documentada. Publicado c4eb105, GitHub2/2math verificado. Total
-vigente487notas y 4896expresiones, todas verificadas en GitHub.
+## Estado vigente — 25/10/2026
 
-Kirchhoff5: el usuario decidió conservar original y cuatro[ilegible], sin
-adoptar aproximaciones de los agentes. PNG nativo497x85 sin reescalado publicado
-en 7a926bb, píxeles cotejados con el JPEG incrustado533x350. GitHub0/0math
-y2imágenes verificado. Fotos JPEG exactas xref33/34 en
-caché20261025-kirchhoff-originales, con SHA-256 y procedencia. No rellenar
-cifras sin nueva fuente o indicación. Restan por cotejar brújula6 y fuerza7.
-Usar un subagente independiente por página, una página por vez; comparar
-original/principal/subagente y esperar elección. Los bloques históricos
-inferiores no prevalecen sobre este checkpoint.
+PR2 fusionado en main3ec7667. Las correcciones posteriores están publicadas en
+PR3, rama codex/validar-pendientes-fisica-ii. Total487apuntes y4896expresiones
+verificadas en GitHub. No hay páginas esperando elección en el cotejo activo.
 
-## Cotejo de brújula cerrado — 25/10/2026
+- UT5: ciclotrón26 corregido conservando R y diapositivas40–42 normalizadas;
+  coeficientes de y(t) corregidos con autorización. GitHub2/2 y27/27math.
+- Examen14: R=5m por indicación del usuario, con * sobre posible5cm. Se conserva
+  esa incertidumbre documental. GitHub2/2math.
+- Kirchhoff5: usuario decidió conservar original y cuatro[ilegible], sin adoptar
+  aproximaciones. PNG nativo497x85 sin reescalado en el repo; fotos JPEG exactas
+  xref33/34 de533x350 en caché20261025-kirchhoff-originales, con hashes. No
+  rellenar cifras sin nueva fuente o indicación. GitHub0/0math y2imágenes.
+- Brújula6: usuario confirmó x30°=0,0945m y radio medio0,0275m. La tabla
+  posterior mantiene0,094m; no homogeneizar versiones. GitHub1/1math e imagen.
+- Fuerza7: usuario eligió versión principal y omitir rótulo ilegible de masa y
+  símbolo no identificado. Masa7,5g, densidadμ=0,0326; demás valores y cuentas
+  incompletas conservados. Originales preservados. GitHub3/3math y2imágenes.
 
-Usuario confirmó x30°=0,0945m y radio medio0,0275m tras ver original y ambas
-lecturas. Apunte actualizado en4cbcb53; GitHub1/1math e imagen verificados.
-Tabla mecanografiada posterior conserva0,094m: no homogeneizar las versiones.
-Resta únicamente fuerza7 para el cotejo activo original/principal/subagente.
-Kirchhoff5 permanece como imagen y cuatro[ilegible] por decisión del usuario,
-con copia nativa preservada para futuro OCR. No declarar recuperación de cifras.
+Resta integrar PR3 a main. No se interpreta la autorización de fusión de PR2
+como autorización nueva para PR3. Si aparece material más legible, se puede
+revisar Kirchhoff o la unidad del examen; esto no bloquea las decisiones ya
+aceptadas. No declarar recuperación literal sin pérdidas de los fragmentos
+conservados u omitidos por decisión del usuario.
 
-## Cotejo activo finalizado — 25/10/2026
-
-Fuerza7: usuario eligió versión principal y omitir rótulo ilegible de masa y
-símbolo no identificado. Apunte126182f: masa7,5g y densidadμ=0,0326; valores
-restantes sin cambios, cuentas sin completar y originales conservados.
-GitHub3/3math y2imágenes verificado. No quedan páginas esperando elección del
-usuario en el cotejo actual. Límite conservado: cuatro[ilegible] en Kirchhoff5;
-reserva explícita del radio del examen5m/posible5cm; omisiones autorizadas de
-fuerza7. PR3 conserva la continuación y no se fusiona sin nueva autorización.
+Para futuros cotejos solicitados: un subagente independiente por página,
+original/principal/subagente en el chat y esperar elección. El usuario valida
+mediante capturas; preservar la resolución nativa y omitir nombres y firmas. Los
+estados históricos inferiores no prevalecen sobre este bloque.
 
 ## Historial de reanudación
 
