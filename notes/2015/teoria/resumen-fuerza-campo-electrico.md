@@ -249,4 +249,6 @@ aceleración será en dirección opuesta al campo eléctrico.
 - Se conservan las erratas «carba», «Por lo tato», «Electrizacion» y «rescrita»,
   y las frases «se define como donde» de densidad con las ecuaciones debajo. La
   unidad de ε0 conserva la disposición literal C²/N·m², sin añadir paréntesis.
-- Las páginas4–80 permanecen pendientes; este apunte no completa el resumen.
+- Este apunte cubre las páginas 1–3; las páginas 4–80 están distribuidas entre
+  los restantes apuntes del mismo resumen, según el
+  [registro de cobertura](../../../resources/common/cobertura.json).

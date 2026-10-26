@@ -119,8 +119,8 @@ Donde:
 - c: calor especifico del material utilizado.
 - m2: masa del material
 - m1: masa de agua en el calorimetro.
-- T1: temperatura del agua en el calorimetro
-- T2: temperatura del material.
+- T1: temperatira del agua en el calorimetro
+- T2: temperatira del material.
 
 ### Tabla de calores
 

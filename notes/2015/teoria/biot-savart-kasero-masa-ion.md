@@ -3,7 +3,7 @@
 ## Enunciado174
 
 Un ión que parte del reposo en el vacío es acelerado por dos placas paralelas
-entre los que existe una d.d.p. de1000V como indica la figura. Al salir de la
+entre las que existe una d.d.p. de1000V como indica la figura. Al salir de la
 segunda placa el ión se mueve bajo la acción de un B =0,1Wb/m² normal al plano
 de la trayectoria. Si el radio de curvatura de la trayectoria es de0,3m. Cuál
 será la masa del ión si su carga es la del electrón. (−1,6·10⁻¹⁹C)
