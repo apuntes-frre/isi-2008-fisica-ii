@@ -40,6 +40,8 @@ FECHA: 02/06/16
 
 ![Recorte original de la tabla manuscrita de malla, incluidas cifras retocadas y columna R agregada](../../../resources/2015/kirchhoff-informe-grupo-6/hoja-datos-mallas.png)
 
+[Descargar tabla de mallas con sus píxeles nativos, sin pérdida ni reescalado](../../../resources/2015/kirchhoff-informe-grupo-6/hoja-datos-mallas-nativa.png).
+
 ## Procedencia y límites de lectura
 
 - Original: `2015/L6 Kirchoff G6 Aprobado.pdf`, página 5 de 20. SHA-256:
@@ -51,10 +53,19 @@ FECHA: 02/06/16
 - Se conservan las unidades manuscritas en las celdas y la columna R añadida a
   la derecha de la segunda tabla. No se copia la tabla mecanografiada de página
   6 para completar la fotografía: no acredita cada trazo de esta hoja.
-- Quedan cuatro lecturas sin resolver por resolución insuficiente o cifras
-  retocadas: Vcd, Veb y Vgb de posición 1, y Vcd de posición 3. Se marcan
-  `[ilegible]` y se conservan los recortes. Se necesita una copia más nítida
-  para transcribir esas cifras con certeza; no se infieren de sumas o cálculos.
+- El 25/10/2026 el usuario decidió conservar la hoja original y las cuatro
+  celdas como `[ilegible]`: Vcd, Veb y Vgb de posición 1, y Vcd de posición 3.
+  No se adoptan las aproximaciones del agente principal ni del subagente.
+- La tabla nativa descargable tiene 497 × 85 píxeles. Es un recorte de la foto
+  JPEG incrustada (xref 34), de 533 × 350 píxeles: origen (25, 100), sin
+  reescalado, filtros ni nueva compresión JPEG. Se guardó como PNG sin pérdida y
+  se comprobó fila a fila que conserva los mismos píxeles decodificados. SHA-256
+  del PNG: `b4cb93c70933e3276d357209a44c07668d7f6cb774b05fed53f01ab1d941cb5a`.
+- Las dos fotos JPEG incrustadas, xrefs 33 y 34, se conservan también sin
+  modificar sus bytes en la caché local `20261025-kirchhoff-originales`, junto
+  con sus SHA-256 y dimensiones en `procedencia.json`. El PDF original sigue
+  intacto en OneDrive. Los recortes ampliados facilitan la lectura, pero no
+  agregan detalle al original; para futuros OCR se conserva la copia nativa.
 - La fecha del campo es 02/06/16. Se omiten explícitamente nombres y firmas
   manuscritos de los campos nominales, firma docente y anotación junto a ella.
   Los autores declarados en portada están en el apunte de fundamentos. Los
